@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/style.css') }}">
+	</head>
+	<body>
+
+		{% if object %}
+			<h1>Timetable for {{ object.__str__() }}</h1>
+		{% else %}
+			<h1>Empty timetable</h1>
+		{% endif %}
+		<br>
+
+		<div id=timetable>
+
+		</div>
+
+
+
+	</body>
+
+	<script type="text/javascript" src="{{ url_for('static', filename='js/jquery-1.11.0.min.js') }}"></script>
+	<script type="text/javascript" src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+</html>

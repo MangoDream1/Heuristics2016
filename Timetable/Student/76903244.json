@@ -1,0 +1,61 @@
+{
+   "0": {
+      "0": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "group": 0,
+            "lecture_number": 0,
+            "classRoom": null,
+            "name": "Lecture"
+         },
+         {
+            "subject": "Webprogrammeren en databases",
+            "group": 0,
+            "lecture_number": 1,
+            "classRoom": null,
+            "name": "Lecture"
+         },
+         {
+            "subject": "Webprogrammeren en databases",
+            "group": 0,
+            "lecture_number": 0,
+            "classRoom": null,
+            "name": "WorkLecture"
+         },
+         {
+            "subject": "Webprogrammeren en databases",
+            "group": 0,
+            "lecture_number": 0,
+            "classRoom": null,
+            "name": "Practica"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   }
+}

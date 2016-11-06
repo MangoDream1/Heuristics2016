@@ -2,32 +2,32 @@
    "0": {
       "0": [
          {
+            "subject": "Webprogrammeren en databases",
             "group": 0,
             "lecture_number": 0,
-            "name": "Lecture",
-            "subject": "Advanced Heuristics",
-            "classRoom": null
+            "classRoom": null,
+            "name": "Lecture"
          },
          {
+            "subject": "Webprogrammeren en databases",
             "group": 0,
-            "lecture_number": 0,
-            "name": "Practica",
-            "subject": "Advanced Heuristics",
-            "classRoom": null
+            "lecture_number": 1,
+            "classRoom": null,
+            "name": "Lecture"
          },
          {
+            "subject": "Webprogrammeren en databases",
             "group": 0,
             "lecture_number": 0,
-            "name": "Lecture",
-            "subject": "Heuristieken 2",
-            "classRoom": null
+            "classRoom": null,
+            "name": "WorkLecture"
          },
          {
+            "subject": "Webprogrammeren en databases",
             "group": 0,
             "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Heuristieken 2",
-            "classRoom": null
+            "classRoom": null,
+            "name": "Practica"
          }
       ],
       "1": [],
@@ -53,18 +53,6 @@
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "5": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "6": {
       "0": [],
       "1": [],
       "2": [],

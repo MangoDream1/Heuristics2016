@@ -1,34 +1,56 @@
-# import all the data from process_data
 from process_data import *
+from flask import *
+import requests
+import json
 
-i=0
-
-print(subjects[i])
-print("\n".join([x.__str__() for x in subjects[i].getPractica()]))
-print([(x.group, len([y.__str__() for y in x.students]), [y.__str__() for y in x.students]) for x in subjects[i].getPractica()])
-
-
-# In[103]:
-
-# Laat alle werkgroepen zien van vak i
-
-print(subjects[i])
-print("\n".join([x.__str__() for x in subjects[i].getWorkLectures()]))
-print([(x.group, len([y.__str__() for y in x.students]), [y.__str__() for y in x.students]) for x in subjects[i].getWorkLectures()])
+app = Flask(__name__)
+app.config['DEBUG'] = True
 
 
-# In[104]:
+@app.route("/")
+def main():
+    app.logger.debug('Loading %s' % (url_for('main')))
 
-# Laat alle studenten zien van vak i
-print(subjects[i])
-print([x.__str__() for x in subjects[i].students])
+    _id = request.args.get("id", None)
+    _object = findObject(_id)
+
+    return render_template("index.html", object=_object)
+
+@app.route("/json", methods=["GET"])
+def json():
+    app.logger.debug("You have arrived at " + url_for("json"))
+    _id = request.args.get("id", None)
+
+    _object = findObject(_id)
+
+    if _object:
+        path = "Timetable/%s/%s.json" % (_object.__class__.__name__, _object.getId())
+
+        with open(path) as f:
+            data = f.read()
+
+        return data
+    else:
+        return jsonify({'result': 'Error'})
 
 
-# Laat van de eerste 10 studenten de lecuters zien
-print('\n\n'.join(str(y) for y in [(x.__str__(), [t.__str__() for t in x.lectures]) for x in students if subjects[i] in x.subjects][:10]))
+def findObject(_id):
+    _object = None
+    if _id:
+        try:
+            _object = classRoom_dct[_id]
+        except:
+            pass
+        try:
+            _object = subject_dct[_id]
+        except:
+            pass
+        try:
+            _object = student_dct[_id]
+        except:
+            pass
 
-for x in students[:10]:
-    x.exportRoster()
+    return _object
 
-for x in classRooms:
-    x.exportRoster()
+if __name__ == "__main__":
+    app.run()

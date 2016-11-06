@@ -3,7 +3,11 @@ import math
 import json
 import os
 
+# Global variables
 NUMBER_OF_SLOTS = 4
+TIMESLOTS = {0: "9-11", 1: "11-13", 2: "13-15", 3: "15-17", 4: "17-19"}
+DAYS = {0: "Monday", 1: "Tuesday", 2: "Wednesday", 3: "Thursday",
+        4: "Friday", 5: "Saturday", 6: "Sunday"}
 
 
 print("Creating classes...")
@@ -26,7 +30,7 @@ class Lecture:
 
         self.students = []
 
-        # Default roster settings
+        # Default timetable settings
         self.day = 0
         self.timeslot = 0
 
@@ -34,8 +38,6 @@ class Lecture:
         return "Name: %s | Lecture number: %s | Group: %s | maxStud: %s" % (self.name, self.lecture_number, self.group, self.maxStud)
 
     def assignLectureToStudents(self):
-        print(self.name)
-
         for student in self.students:
             student.lectures.append(self)
 
@@ -44,10 +46,10 @@ class Lecture:
                 "lecture_number": self.lecture_number, "group": self.group,
                 "classRoom": self.classRoom}
 
-class Roster:
+class Timetable:
     def __init__(self):
-        # Empty roster with 7 days and the number of slots
-        self.roster = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(5)}
+        # Empty timetable with 7 days and the number of slots
+        self.timetable = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(5)}
 
     def getLectures(self):
         return [x for x in self.lectures if x.name == "Lecture"]
@@ -58,20 +60,20 @@ class Roster:
     def getPractica(self):
         return [x for x in self.lectures if x.name == "Practica"]
 
-    def exportRoster(self):
-        self.fillInRoster()
+    def exportTimetable(self):
+        self.fillInTimetable()
 
-        if not os.path.exists(self.__class__.__name__):
-            os.makedirs(self.__class__.__name__)
+        if not os.path.exists("Timetable/%s" % self.__class__.__name__):
+            os.makedirs("Timetable/%s" % self.__class__.__name__)
 
-        with open("%s/%s.json" % (self.__class__.__name__, self.getId()), 'w') as f:
-            json.dump(self.roster, f, indent=3)
+        with open("Timetable/%s/%s.json" % (self.__class__.__name__, self.getId()), 'w') as f:
+            json.dump(self.timetable, f, indent=3)
 
-    def fillInRoster(self):
+    def fillInTimetable(self):
         for lecture in self.lectures:
-            self.roster[lecture.day][lecture.timeslot].append(lecture.toDict())
+            self.timetable[lecture.day][lecture.timeslot].append(lecture.toDict())
 
-class ClassRoom(Roster):
+class ClassRoom(Timetable):
     def __init__(self, room_number, capacity):
         super().__init__()
 
@@ -85,7 +87,7 @@ class ClassRoom(Roster):
     def __str__(self):
         return self.room_number
 
-class Subject(Roster):
+class Subject(Timetable):
     def __init__(self, name, n_lectures, n_workLectures, w_maxStud,
                  n_practicas, p_maxStud):
 
@@ -139,7 +141,7 @@ class Subject(Roster):
 
             self.lectures = newLectures
 
-class Student(Roster):
+class Student(Timetable):
     def __init__(self, surname, name, studentId, subject1, subject2,
                  subject3, subject4, subject5, subject_dct):
 

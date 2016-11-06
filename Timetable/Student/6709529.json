@@ -2,18 +2,18 @@
    "0": {
       "0": [
          {
+            "subject": "Calculus 2",
             "group": 0,
             "lecture_number": 0,
-            "name": "Practica",
-            "subject": "Compilerbouw (practicum)",
-            "classRoom": null
+            "classRoom": null,
+            "name": "Lecture"
          },
          {
+            "subject": "Calculus 2",
             "group": 0,
             "lecture_number": 0,
-            "name": "Practica",
-            "subject": "Project Genetic Algorithms",
-            "classRoom": null
+            "classRoom": null,
+            "name": "WorkLecture"
          }
       ],
       "1": [],
@@ -39,18 +39,6 @@
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "5": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "6": {
       "0": [],
       "1": [],
       "2": [],
