@@ -4,8 +4,8 @@ from process_data import *
 i=1
 
 print(subjects[i])
-print("\n".join([x.__str__() for x in subjects[i].practicas]))
-print([(x.group, len([y.__str__() for y in x.students]), [y.__str__() for y in x.students]) for x in subjects[i].practicas])
+print("\n".join([x.__str__() for x in subjects[i].getPractica()]))
+print([(x.group, len([y.__str__() for y in x.students]), [y.__str__() for y in x.students]) for x in subjects[i].getPractica()])
 
 
 # In[103]:
@@ -13,8 +13,8 @@ print([(x.group, len([y.__str__() for y in x.students]), [y.__str__() for y in x
 # Laat alle werkgroepen zien van vak i
 
 print(subjects[i])
-print("\n".join([x.__str__() for x in subjects[i].workLectures]))
-print([(x.group, len([y.__str__() for y in x.students]), [y.__str__() for y in x.students]) for x in subjects[i].workLectures])
+print("\n".join([x.__str__() for x in subjects[i].getWorkLectures()]))
+print([(x.group, len([y.__str__() for y in x.students]), [y.__str__() for y in x.students]) for x in subjects[i].getWorkLectures()])
 
 
 # In[104]:

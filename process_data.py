@@ -72,12 +72,14 @@ print("Transforming data...")
 # Transform data:
 
 classRooms = [ClassRoom(x[0], x[1]) for x in classRooms]
+classRoom_dct = {x.room_number: x for x in classRooms}
 
 subjects = [Subject(x[0], x[1], x[2], x[3], x[4], x[5]) for x in subjects]
 subject_dct = {x.__str__(): x for x in subjects}
 
 students = [Student(x[0], x[1], x[2], x[3], x[4], x[5], x[6], x[7], subject_dct)
             for x in students]
+student_dct = {x.studentId: x for x in students}
 
 # Assign students to lectures
 for x in subjects:
