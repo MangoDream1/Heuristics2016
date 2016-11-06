@@ -1,44 +1,115 @@
 {
    "0": {
-      "0": null,
-      "1": null,
-      "2": null,
-      "3": null
+      "0": [
+         {
+            "group": 0,
+            "lecture_number": 0,
+            "name": "Lecture",
+            "subject": "Analysemethoden en -technieken",
+            "classRoom": null
+         },
+         {
+            "group": 0,
+            "lecture_number": 0,
+            "name": "Lecture",
+            "subject": "Data Mining",
+            "classRoom": null
+         },
+         {
+            "group": 0,
+            "lecture_number": 1,
+            "name": "Lecture",
+            "subject": "Data Mining",
+            "classRoom": null
+         },
+         {
+            "group": 0,
+            "lecture_number": 0,
+            "name": "WorkLecture",
+            "subject": "Data Mining",
+            "classRoom": null
+         },
+         {
+            "group": 0,
+            "lecture_number": 0,
+            "name": "Practica",
+            "subject": "Data Mining",
+            "classRoom": null
+         },
+         {
+            "group": 0,
+            "lecture_number": 0,
+            "name": "Lecture",
+            "subject": "Lineaire Algebra",
+            "classRoom": null
+         },
+         {
+            "group": 0,
+            "lecture_number": 1,
+            "name": "Lecture",
+            "subject": "Lineaire Algebra",
+            "classRoom": null
+         },
+         {
+            "group": 0,
+            "lecture_number": 0,
+            "name": "Lecture",
+            "subject": "Software engineering",
+            "classRoom": null
+         },
+         {
+            "group": 0,
+            "lecture_number": 0,
+            "name": "WorkLecture",
+            "subject": "Software engineering",
+            "classRoom": null
+         },
+         {
+            "group": 0,
+            "lecture_number": 0,
+            "name": "Practica",
+            "subject": "Software engineering",
+            "classRoom": null
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "1": {
-      "0": null,
-      "1": null,
-      "2": null,
-      "3": null
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "2": {
-      "0": null,
-      "1": null,
-      "2": null,
-      "3": null
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "3": {
-      "0": null,
-      "1": null,
-      "2": null,
-      "3": null
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "4": {
-      "0": null,
-      "1": null,
-      "2": null,
-      "3": null
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "5": {
-      "0": null,
-      "1": null,
-      "2": null,
-      "3": null
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "6": {
-      "0": null,
-      "1": null,
-      "2": null,
-      "3": null
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

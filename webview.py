@@ -1,7 +1,7 @@
 # import all the data from process_data
 from process_data import *
 
-i=1
+i=0
 
 print(subjects[i])
 print("\n".join([x.__str__() for x in subjects[i].getPractica()]))
@@ -25,7 +25,7 @@ print([x.__str__() for x in subjects[i].students])
 
 
 # Laat van de eerste 10 studenten de lecuters zien
-print('\n\n'.join(str(y) for y in [(x.__str__(), [t.__str__() for t in x.lectures]) for x in students[:10]]))
+print('\n\n'.join(str(y) for y in [(x.__str__(), [t.__str__() for t in x.lectures]) for x in students if subjects[i] in x.subjects][:10]))
 
 for x in students[:10]:
     x.exportRoster()
