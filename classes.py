@@ -47,7 +47,7 @@ class Lecture:
 class Roster:
     def __init__(self):
         # Empty roster with 7 days and the number of slots
-        self.roster = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(7)}
+        self.roster = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(5)}
 
     def getLectures(self):
         return [x for x in self.lectures if x.name == "Lecture"]
