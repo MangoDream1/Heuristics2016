@@ -36,6 +36,7 @@ class Subject:
             for lecture in self.lectures:
                 if not lecture.maxStud:
                     # Has no maxStud thus no groups needed
+                    lecture.students = self.students
                     continue
 
                 # Calculate number of groups and the number of students per lecture then round up
