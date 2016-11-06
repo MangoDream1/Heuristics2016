@@ -34,39 +34,31 @@ class Subject:
             newLectures = []
 
             for lecture in self.lectures:
-                if not lecture.maxStud:
+                if lecture.maxStud:
+                    # Calculate number of groups and the number of students per lecture then round up
+                    nGroups = math.ceil(len(self.students) / lecture.maxStud)
+                    lectureSize = math.ceil(len(self.students) / nGroups)
+
+                    if nGroups > 1:
+                        # For every work lecture, there are the same groups that need to be filled
+                        # But these groups also need to be created
+                        for groupNumber in range(nGroups):
+                            lecture.group = groupNumber
+
+                            lecture.students = self.students[groupNumber*lectureSize:(groupNumber+1)*lectureSize]
+
+                    else:
+                        # Only one group, thus every student in the same group
+                        lecture.students = self.students
+                else:
                     # Has no maxStud thus no groups needed
                     lecture.students = self.students
-                    continue
 
-                # Calculate number of groups and the number of students per lecture then round up
-                nGroups = math.ceil(len(self.students) / lecture.maxStud)
-                lectureSize = math.ceil(len(self.students) / nGroups)
-
-                if nGroups > 1:
-                    # For every work lecture, there are the same groups that need to be filled
-                    # But these groups also need to be created
-                    for groupNumber in range(nGroups):
-                        lecture.group = groupNumber
-
-                        lecture.students = self.students[groupNumber*lectureSize:(groupNumber+1)*lectureSize]
-
-                        newLectures.append(lecture)
-
-                else:
-                    # Only one group, thus every student in the same group
-                    lecture.students = self.students
+                lecture.assignLecturesToStudents()
+                newLectures.append(lecture)
 
             self.lectures = newLectures
 
-    def getLectures(self):
-        return [x for x in self.lectures if x.name == "Lecture"]
-
-    def getWorkLectures(self):
-        return [x for x in self.lectures if x.name == "WorkLecture"]
-
-    def getPractica(self):
-        return [x for x in self.lectures if x.name == "Practica"]
 
 
 class Lecture:
@@ -83,12 +75,11 @@ class Lecture:
         self.group = 0
 
     def __str__(self):
-        return "Name: %s Lecture number: %s Group: %s maxStud: %s" % (self.name, self.lecture_number, self.group, self.maxStud)
+        return "Name: %s | Lecture number: %s | Group: %s | maxStud: %s" % (self.name, self.lecture_number, self.group, self.maxStud)
 
     def assignLecturesToStudents(self):
-        for student in students:
+        for student in self.students:
             student.lectures.append(self)
-
 
 class Student:
     def __init__(self, surname, name, studentId, subject1, subject2,
@@ -139,3 +130,14 @@ class Student:
     def __fillInSubject(self, subject_dct):
         for subjectName in self.subjectNames:
             self.subjects.append(subject_dct[subjectName])
+
+# Functions
+
+def getLectures(lecture_lst):
+    return [x for x in lecture_lst if x.name == "Lecture"]
+
+def getWorkLectures(lecture_lst):
+    return [x for x in lecture_lst if x.name == "WorkLecture"]
+
+def getPractica(lecture_lst):
+    return [x for x in lecture_lst if x.name == "Practica"]
