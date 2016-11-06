@@ -1,30 +1,93 @@
 import copy
 import math
+import json
+import os
+
+NUMBER_OF_SLOTS = 4
+
 
 print("Creating classes...")
 
 # --------------
 # Classes:
 
-class ClassRoom:
+class Lecture:
+    def __init__(self, name, lecture_number, subject, maxStud):
+        self.lecture_number = lecture_number
+        self.name = name
+
+        if maxStud == "nvt":
+            self.maxStud = 0
+        else:
+            self.maxStud = int(maxStud)
+
+        self.subject = subject
+        self.students = []
+        self.group = 0
+
+        # Default roster settings
+        self.day = 0
+        self.timeslot = 0
+        self.classRoom = None
+
+    def __str__(self):
+        return "Name: %s | Lecture number: %s | Group: %s | maxStud: %s" % (self.name, self.lecture_number, self.group, self.maxStud)
+
+    def assignLecturesToStudents(self):
+        for student in self.students:
+            student.lectures.append(self)
+
+class Roster:
+    def __init__(self):
+        # Empty roster with 7 days and the number of slots
+        self.roster = {x: {y: None for y in range(NUMBER_OF_SLOTS)} for x in range(7)}
+
+    def getLectures(self):
+        return [x for x in self.lectures if x.name == "Lecture"]
+
+    def getWorkLectures(self):
+        return [x for x in self.lectures if x.name == "WorkLecture"]
+
+    def getPractica(self):
+        return [x for x in self.lectures if x.name == "Practica"]
+
+    def exportRoster(self):
+        if not os.path.exists(self.__class__.__name__):
+            os.makedirs(self.__class__.__name__)
+
+        with open("%s/%s.json" % (self.__class__.__name__, self.getId()), 'w') as f:
+            json.dump(self.roster, f, indent=3)
+
+
+class ClassRoom(Roster):
     def __init__(self, room_number, capacity):
+        super().__init__()
+
         self.room_number = room_number
         self.capacity = capacity
+        self.lectures = []
+
+    def getId(self):
+        return self.room_number
 
     def __str__(self):
         return self.room_number
 
-class Subject:
+class Subject(Roster):
     def __init__(self, name, n_lectures, n_workLectures, w_maxStud,
                  n_practicas, p_maxStud):
 
+        super().__init__()
         self.name = name
 
-        self.lectures = [Lecture("Lecture", i, "nvt") for i in range(int(n_lectures))] + \
-                        [Lecture("WorkLecture", i, w_maxStud) for i in range(int(n_workLectures))] + \
-                        [Lecture("Practica", i, p_maxStud) for i in range(int(n_practicas))]
+        self.lectures = [Lecture("Lecture", i, self, "nvt") for i in range(int(n_lectures))] + \
+                        [Lecture("WorkLecture", i, self, w_maxStud) for i in range(int(n_workLectures))] + \
+                        [Lecture("Practica", i, self, p_maxStud) for i in range(int(n_practicas))]
 
         self.students = []
+
+    def getId(self):
+        return self.name
 
     def __str__(self):
         return self.name
@@ -59,31 +122,11 @@ class Subject:
 
             self.lectures = newLectures
 
-
-
-class Lecture:
-    def __init__(self, name, lecture_number, maxStud):
-        self.lecture_number = lecture_number
-        self.name = name
-
-        if maxStud == "nvt":
-            self.maxStud = 0
-        else:
-            self.maxStud = int(maxStud)
-
-        self.students = []
-        self.group = 0
-
-    def __str__(self):
-        return "Name: %s | Lecture number: %s | Group: %s | maxStud: %s" % (self.name, self.lecture_number, self.group, self.maxStud)
-
-    def assignLecturesToStudents(self):
-        for student in self.students:
-            student.lectures.append(self)
-
-class Student:
+class Student(Roster):
     def __init__(self, surname, name, studentId, subject1, subject2,
                  subject3, subject4, subject5, subject_dct):
+
+        super().__init__()
 
         self.surname = surname
         self.name = name
@@ -102,6 +145,9 @@ class Student:
         self.__cleanUp()
         self.__fillInSubject(subject_dct)
         self.__addStudentToSubject()
+
+    def getId(self):
+        return self.studentId
 
     def __str__(self):
         return "%s %s %s" % (self.name, self.surname, self.studentId)
@@ -130,14 +176,3 @@ class Student:
     def __fillInSubject(self, subject_dct):
         for subjectName in self.subjectNames:
             self.subjects.append(subject_dct[subjectName])
-
-# Functions
-
-def getLectures(lecture_lst):
-    return [x for x in lecture_lst if x.name == "Lecture"]
-
-def getWorkLectures(lecture_lst):
-    return [x for x in lecture_lst if x.name == "WorkLecture"]
-
-def getPractica(lecture_lst):
-    return [x for x in lecture_lst if x.name == "Practica"]
