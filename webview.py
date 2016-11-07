@@ -12,6 +12,7 @@ def main():
     app.logger.debug('Loading %s' % (url_for('main')))
 
     _id = request.args.get("id", None)
+
     _object = findObject(_id)
 
     return render_template("index.html", object=_object)
@@ -35,6 +36,11 @@ def json():
 
 
 def findObject(_id):
+    if _id:
+        _id = _id.replace('+', ' ')
+
+    print(_id)
+
     _object = None
     if _id:
         try:

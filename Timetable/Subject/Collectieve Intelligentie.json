@@ -6,70 +6,77 @@
             "group": 0,
             "lecture_number": 0,
             "name": "Lecture",
-            "subject": "Analysemethoden en -technieken"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Lecture",
-            "subject": "Data Mining"
+            "subject": "Collectieve Intelligentie"
          },
          {
             "classRoom": null,
             "group": 0,
             "lecture_number": 1,
             "name": "Lecture",
-            "subject": "Data Mining"
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "classRoom": null,
+            "group": 0,
+            "lecture_number": 2,
+            "name": "Lecture",
+            "subject": "Collectieve Intelligentie"
          },
          {
             "classRoom": null,
             "group": 0,
             "lecture_number": 0,
             "name": "WorkLecture",
-            "subject": "Data Mining"
+            "subject": "Collectieve Intelligentie"
          },
          {
             "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Practica",
-            "subject": "Data Mining"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Lecture",
-            "subject": "Lineaire Algebra"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 1,
-            "name": "Lecture",
-            "subject": "Lineaire Algebra"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Lecture",
-            "subject": "Software engineering"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
+            "group": 1,
             "lecture_number": 0,
             "name": "WorkLecture",
-            "subject": "Software engineering"
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "classRoom": null,
+            "group": 2,
+            "lecture_number": 0,
+            "name": "WorkLecture",
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "classRoom": null,
+            "group": 3,
+            "lecture_number": 0,
+            "name": "WorkLecture",
+            "subject": "Collectieve Intelligentie"
          },
          {
             "classRoom": null,
             "group": 0,
             "lecture_number": 0,
             "name": "Practica",
-            "subject": "Software engineering"
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "classRoom": null,
+            "group": 1,
+            "lecture_number": 0,
+            "name": "Practica",
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "classRoom": null,
+            "group": 2,
+            "lecture_number": 0,
+            "name": "Practica",
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "classRoom": null,
+            "group": 3,
+            "lecture_number": 0,
+            "name": "Practica",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "1": [],

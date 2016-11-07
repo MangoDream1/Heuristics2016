@@ -1,6 +1,14 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "classRoom": null,
+            "group": 0,
+            "lecture_number": 0,
+            "name": "Lecture",
+            "subject": "Analysemethoden en -technieken"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

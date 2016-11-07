@@ -2,18 +2,18 @@
    "0": {
       "0": [
          {
-            "subject": "Calculus 2",
+            "classRoom": null,
             "group": 0,
             "lecture_number": 0,
-            "classRoom": null,
-            "name": "Lecture"
+            "name": "Lecture",
+            "subject": "Calculus 2"
          },
          {
-            "subject": "Calculus 2",
+            "classRoom": null,
             "group": 0,
             "lecture_number": 0,
-            "classRoom": null,
-            "name": "WorkLecture"
+            "name": "WorkLecture",
+            "subject": "Calculus 2"
          }
       ],
       "1": [],

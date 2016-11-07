@@ -5,36 +5,29 @@
             "classRoom": null,
             "group": 0,
             "lecture_number": 0,
-            "name": "Lecture",
-            "subject": "Architectuur en computerorganisatie"
+            "name": "Practica",
+            "subject": "Netwerken en systeembeveiliging"
          },
          {
             "classRoom": null,
-            "group": 0,
-            "lecture_number": 1,
-            "name": "Lecture",
-            "subject": "Architectuur en computerorganisatie"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Lecture",
-            "subject": "Software engineering"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Software engineering"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
+            "group": 1,
             "lecture_number": 0,
             "name": "Practica",
-            "subject": "Software engineering"
+            "subject": "Netwerken en systeembeveiliging"
+         },
+         {
+            "classRoom": null,
+            "group": 2,
+            "lecture_number": 0,
+            "name": "Practica",
+            "subject": "Netwerken en systeembeveiliging"
+         },
+         {
+            "classRoom": null,
+            "group": 3,
+            "lecture_number": 0,
+            "name": "Practica",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ],
       "1": [],

@@ -6,28 +6,14 @@
             "group": 0,
             "lecture_number": 0,
             "name": "Lecture",
-            "subject": "Webprogrammeren en databases"
+            "subject": "Lineaire Algebra"
          },
          {
             "classRoom": null,
             "group": 0,
             "lecture_number": 1,
             "name": "Lecture",
-            "subject": "Webprogrammeren en databases"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Webprogrammeren en databases"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Practica",
-            "subject": "Webprogrammeren en databases"
+            "subject": "Lineaire Algebra"
          }
       ],
       "1": [],

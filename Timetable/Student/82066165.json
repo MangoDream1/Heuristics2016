@@ -2,18 +2,18 @@
    "0": {
       "0": [
          {
-            "subject": "Compilerbouw (practicum)",
+            "classRoom": null,
             "group": 0,
             "lecture_number": 0,
-            "classRoom": null,
-            "name": "Practica"
+            "name": "Practica",
+            "subject": "Compilerbouw (practicum)"
          },
          {
-            "subject": "Project Genetic Algorithms",
+            "classRoom": null,
             "group": 0,
             "lecture_number": 0,
-            "classRoom": null,
-            "name": "Practica"
+            "name": "Practica",
+            "subject": "Project Genetic Algorithms"
          }
       ],
       "1": [],

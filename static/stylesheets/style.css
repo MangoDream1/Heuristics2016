@@ -37,8 +37,12 @@ body>*:last-child {
 /* BLOCKS
 =============================================================================*/
 
-p, blockquote, ul, ol, dl, table, pre {
+blockquote, ul, ol, dl, table, pre {
   margin: 15px 0;
+}
+
+p {
+   text-indent: 2em;
 }
 
 /* HEADERS
@@ -80,9 +84,8 @@ h5 {
 }
 
 h6 {
-  color: #777;
   border-bottom: 1px solid #ccc;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   font-size: 14px;
 }
 

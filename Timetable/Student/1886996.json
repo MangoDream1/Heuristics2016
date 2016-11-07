@@ -2,32 +2,32 @@
    "0": {
       "0": [
          {
-            "subject": "Advanced Heuristics",
+            "classRoom": null,
             "group": 0,
             "lecture_number": 0,
-            "classRoom": null,
-            "name": "Lecture"
+            "name": "Lecture",
+            "subject": "Advanced Heuristics"
          },
          {
-            "subject": "Advanced Heuristics",
+            "classRoom": null,
             "group": 0,
             "lecture_number": 0,
-            "classRoom": null,
-            "name": "Practica"
+            "name": "Practica",
+            "subject": "Advanced Heuristics"
          },
          {
-            "subject": "Heuristieken 2",
+            "classRoom": null,
             "group": 0,
             "lecture_number": 0,
-            "classRoom": null,
-            "name": "Lecture"
+            "name": "Lecture",
+            "subject": "Heuristieken 2"
          },
          {
-            "subject": "Heuristieken 2",
+            "classRoom": null,
             "group": 0,
             "lecture_number": 0,
-            "classRoom": null,
-            "name": "WorkLecture"
+            "name": "WorkLecture",
+            "subject": "Heuristieken 2"
          }
       ],
       "1": [],

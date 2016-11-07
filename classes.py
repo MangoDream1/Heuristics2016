@@ -34,8 +34,11 @@ class Lecture:
         self.day = 0
         self.timeslot = 0
 
-    def __str__(self):
+    def long_str(self):
         return "Name: %s | Lecture number: %s | Group: %s | maxStud: %s" % (self.name, self.lecture_number, self.group, self.maxStud)
+
+    def __str__(self):
+        return self.name[0] + str(self.lecture_number) + chr(ord('A') + self.group) + str(self.maxStud)
 
     def assignLectureToStudents(self):
         for student in self.students:
@@ -48,7 +51,7 @@ class Lecture:
 
 class Timetable:
     def __init__(self):
-        # Empty timetable with 7 days and the number of slots
+        # Empty timetable with 5 days and the number of slots
         self.timetable = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(5)}
 
     def getLectures(self):
@@ -57,7 +60,7 @@ class Timetable:
     def getWorkLectures(self):
         return [x for x in self.lectures if x.name == "WorkLecture"]
 
-    def getPractica(self):
+    def getPracticas(self):
         return [x for x in self.lectures if x.name == "Practica"]
 
     def exportTimetable(self):

@@ -2,39 +2,39 @@
    "0": {
       "0": [
          {
-            "subject": "Collectieve Intelligentie",
+            "classRoom": null,
             "group": 0,
             "lecture_number": 0,
-            "classRoom": null,
-            "name": "Lecture"
+            "name": "Lecture",
+            "subject": "Collectieve Intelligentie"
          },
          {
-            "subject": "Collectieve Intelligentie",
+            "classRoom": null,
             "group": 0,
             "lecture_number": 1,
-            "classRoom": null,
-            "name": "Lecture"
+            "name": "Lecture",
+            "subject": "Collectieve Intelligentie"
          },
          {
-            "subject": "Collectieve Intelligentie",
+            "classRoom": null,
             "group": 0,
             "lecture_number": 2,
-            "classRoom": null,
-            "name": "Lecture"
+            "name": "Lecture",
+            "subject": "Collectieve Intelligentie"
          },
          {
-            "subject": "Collectieve Intelligentie",
+            "classRoom": null,
             "group": 0,
             "lecture_number": 0,
-            "classRoom": null,
-            "name": "WorkLecture"
+            "name": "WorkLecture",
+            "subject": "Collectieve Intelligentie"
          },
          {
-            "subject": "Collectieve Intelligentie",
+            "classRoom": null,
             "group": 0,
             "lecture_number": 0,
-            "classRoom": null,
-            "name": "Practica"
+            "name": "Practica",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "1": [],

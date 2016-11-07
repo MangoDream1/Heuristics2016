@@ -22,8 +22,11 @@ print([x.__str__() for x in subjects[i].students])
 # Laat van de eerste 10 studenten de lecuters zien
 print('\n\n'.join(str(y) for y in [(x.__str__(), [t.__str__() for t in x.lectures]) for x in students if subjects[i] in x.subjects][:10]))
 
-for x in students[:10]:
+for x in students[:20]:
     x.exportTimetable()
 
 for x in classRooms:
+    x.exportTimetable()
+
+for x in subjects:
     x.exportTimetable()

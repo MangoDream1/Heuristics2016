@@ -18,6 +18,54 @@
 
 		</div>
 
+		<div id=object_information>
+		{% if object %}
+			<h6>{{ object.__str__() }} info:</h6>
+			{% if object.__class__.__name__ == "Student" %}
+
+				Subjects: [<br>
+				{% for x in object.subjects %}
+					<p>{{ x.name }}</p>
+				{% endfor %}
+				]
+
+				<br>
+
+				Lectures: [ <br>
+				{% for x in object.lectures %}
+					<p>{{ x.subject.name }}: {{ x.__str__() }}</p>
+				{% endfor %}
+				]
+
+			{% elif object.__class__.__name__ == "ClassRoom" %}
+				Room number: {{ object.room_number }} <br>
+			  	Capacity:  {{ object.capacity }} <br><br>
+
+				Lectures: [ <br>
+				{% for x in object.lectures %}
+					<p>{{ x.subject.name }}: {{ x.__str__() }}</p>
+				{% endfor %}
+				]
+
+			{% elif object.__class__.__name__ == "Subject" %}
+				Lectures: [{{ object.getLectures()|join(", ") }}] <br>
+
+				WorkLectures: [{{ object.getWorkLectures()|join(", ") }}] <br>
+
+				Practicas: [{{ object.getPracticas()|join(", ") }}] <br>
+
+				Students ({{ object.students|length }}): [
+				{% for x in object.students %}
+					<p>{{ x.__str__() }}</p>
+				{% endfor %}
+				]
+
+			{% endif %}
+
+		{% endif %}
+
+		</div>
+
 
 
 	</body>

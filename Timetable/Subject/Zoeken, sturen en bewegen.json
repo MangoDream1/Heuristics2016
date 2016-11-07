@@ -5,36 +5,22 @@
             "classRoom": null,
             "group": 0,
             "lecture_number": 0,
-            "name": "Lecture",
-            "subject": "Architectuur en computerorganisatie"
+            "name": "Practica",
+            "subject": "Zoeken, sturen en bewegen"
          },
          {
             "classRoom": null,
-            "group": 0,
-            "lecture_number": 1,
-            "name": "Lecture",
-            "subject": "Architectuur en computerorganisatie"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Lecture",
-            "subject": "Software engineering"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Software engineering"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
+            "group": 1,
             "lecture_number": 0,
             "name": "Practica",
-            "subject": "Software engineering"
+            "subject": "Zoeken, sturen en bewegen"
+         },
+         {
+            "classRoom": null,
+            "group": 2,
+            "lecture_number": 0,
+            "name": "Practica",
+            "subject": "Zoeken, sturen en bewegen"
          }
       ],
       "1": [],
