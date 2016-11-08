@@ -77,9 +77,8 @@ class Score:
 		else:
 			nWorkLectureGroups = 0
 
-		# STRAKS S ACHTER getPratica -> getPraticas
-		if len(subject_object.getPractica()) > 0:
-			nPraticaGroups = max([lecture.group for lecture in subject_object.getPractica()])
+		if len(subject_object.getPracticas()) > 0:
+			nPraticaGroups = max([lecture.group for lecture in subject_object.getPracticas()])
 		else:
 			nPraticaGroups = 0
 
