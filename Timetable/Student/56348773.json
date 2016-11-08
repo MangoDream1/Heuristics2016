@@ -3,16 +3,28 @@
       "0": [
          {
             "classRoom": null,
+<<<<<<< HEAD
             "group": 0,
             "lecture_number": 0,
             "name": "Lecture",
+=======
+            "lecture_number": 0,
+            "name": "Lecture",
+            "group": 0,
+>>>>>>> origin/master
             "subject": "Calculus 2"
          },
          {
             "classRoom": null,
+<<<<<<< HEAD
             "group": 0,
             "lecture_number": 0,
             "name": "WorkLecture",
+=======
+            "lecture_number": 0,
+            "name": "WorkLecture",
+            "group": 0,
+>>>>>>> origin/master
             "subject": "Calculus 2"
          }
       ],

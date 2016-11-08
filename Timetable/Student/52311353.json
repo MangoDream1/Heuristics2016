@@ -3,72 +3,132 @@
       "0": [
          {
             "classRoom": null,
+<<<<<<< HEAD
             "group": 0,
             "lecture_number": 0,
             "name": "Lecture",
+=======
+            "lecture_number": 0,
+            "name": "Lecture",
+            "group": 0,
+>>>>>>> origin/master
             "subject": "Analysemethoden en -technieken"
          },
          {
             "classRoom": null,
+<<<<<<< HEAD
             "group": 0,
             "lecture_number": 0,
             "name": "Lecture",
+=======
+            "lecture_number": 0,
+            "name": "Lecture",
+            "group": 0,
+>>>>>>> origin/master
             "subject": "Data Mining"
          },
          {
             "classRoom": null,
+<<<<<<< HEAD
             "group": 0,
             "lecture_number": 1,
             "name": "Lecture",
+=======
+            "lecture_number": 1,
+            "name": "Lecture",
+            "group": 0,
+>>>>>>> origin/master
             "subject": "Data Mining"
          },
          {
             "classRoom": null,
+<<<<<<< HEAD
             "group": 0,
             "lecture_number": 0,
             "name": "WorkLecture",
+=======
+            "lecture_number": 0,
+            "name": "WorkLecture",
+            "group": 0,
+>>>>>>> origin/master
             "subject": "Data Mining"
          },
          {
             "classRoom": null,
+<<<<<<< HEAD
             "group": 0,
             "lecture_number": 0,
             "name": "Practica",
+=======
+            "lecture_number": 0,
+            "name": "Practica",
+            "group": 0,
+>>>>>>> origin/master
             "subject": "Data Mining"
          },
          {
             "classRoom": null,
+<<<<<<< HEAD
             "group": 0,
             "lecture_number": 0,
             "name": "Lecture",
+=======
+            "lecture_number": 0,
+            "name": "Lecture",
+            "group": 0,
+>>>>>>> origin/master
             "subject": "Lineaire Algebra"
          },
          {
             "classRoom": null,
+<<<<<<< HEAD
             "group": 0,
             "lecture_number": 1,
             "name": "Lecture",
+=======
+            "lecture_number": 1,
+            "name": "Lecture",
+            "group": 0,
+>>>>>>> origin/master
             "subject": "Lineaire Algebra"
          },
          {
             "classRoom": null,
+<<<<<<< HEAD
             "group": 0,
             "lecture_number": 0,
             "name": "Lecture",
+=======
+            "lecture_number": 0,
+            "name": "Lecture",
+            "group": 0,
+>>>>>>> origin/master
             "subject": "Software engineering"
          },
          {
             "classRoom": null,
+<<<<<<< HEAD
             "group": 0,
             "lecture_number": 0,
             "name": "WorkLecture",
+=======
+            "lecture_number": 0,
+            "name": "WorkLecture",
+            "group": 0,
+>>>>>>> origin/master
             "subject": "Software engineering"
          },
          {
             "classRoom": null,
+<<<<<<< HEAD
             "group": 0,
             "lecture_number": 0,
             "name": "Practica",
+=======
+            "lecture_number": 0,
+            "name": "Practica",
+            "group": 0,
+>>>>>>> origin/master
             "subject": "Software engineering"
          }
       ],
