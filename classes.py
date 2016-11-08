@@ -4,6 +4,8 @@ import json
 import os
 
 # Global variables
+
+# Moet hier ook nog zaterdag en zondag bij?
 NUMBER_OF_SLOTS = 4
 TIMESLOTS = {0: "9-11", 1: "11-13", 2: "13-15", 3: "15-17", 4: "17-19"}
 DAYS = {0: "Monday", 1: "Tuesday", 2: "Wednesday", 3: "Thursday",
@@ -63,6 +65,13 @@ class Timetable:
     def exportTimetable(self):
         self.fillInTimetable()
 
+        for day, timeslot in self.timetable.items():
+            for key, lectures in timeslot.items():
+                nLectures = [lecture.toDict() for lecture in lectures]
+
+                self.timetable[day][key] = nLectures
+
+
         if not os.path.exists("Timetable/%s" % self.__class__.__name__):
             os.makedirs("Timetable/%s" % self.__class__.__name__)
 
@@ -71,14 +80,14 @@ class Timetable:
 
     def fillInTimetable(self):
         for lecture in self.lectures:
-            self.timetable[lecture.day][lecture.timeslot].append(lecture.toDict())
+            self.timetable[lecture.day][lecture.timeslot].append(lecture)
 
 class ClassRoom(Timetable):
     def __init__(self, room_number, capacity):
         super().__init__()
 
         self.room_number = room_number
-        self.capacity = capacity
+        self.capacity = int(capacity)
         self.lectures = []
 
     def getId(self):

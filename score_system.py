@@ -1,92 +1,142 @@
-# Wat moet er gebeuren?
+from process_data import *
 
-SCORE = 0
+class Score:
+	def __init__(self, subject_lst, student_lst, classroom_lst):
+		self.subject_lst = subject_lst
+		self.student_lst = student_lst
+		self.classroom_lst = classroom_lst
 
-# pseudeocode lokalen (aparte class?)
+		self.score = 0
 
-# lokaal_score = 0
+		self.total_score()
 
-# voor elk lokaal --> read jsonfile
-# 	voor elke dictionary in file (dag)
-# 		voor elke dictionary in dag-dictionary (timeslot)
-# 			als timeslot-dictionary > 1 (als er dus meerdere vakken zijn)
-# 				if "name" == "Lecture" || "WorkLecture"
-# 					lokaal_score = lokaal_score - 20 (punten aftrek voor dingen in hetzelfde lokaal)
-# 				totaal_stud = totaal vak2 + totaal vak2
-# 				aanwezig_stud = totaal_stud - capiciteit_lokaal
-# 				if aanwezig_stud > 0
-# 					lokaal_score = lokaal_score - aanwezig_stud
-# 		als dag-dictionary == 5 (als het van 17-19 is)
-# 			lokaal_score = lokaal_score - 50
+	def __str__():
+		return "Score: %s" % score
 
-# return lokaal_score
+	def total_score(self):
+		total_subject_score = sum([self.subject_score(subject) for subject in self.subject_lst])
+		total_student_score = sum([self.student_score(student) for student in self.student_lst])
+		total_classroom_score = sum([self.classroom_score(classroom) for classroom in self.classroom_lst])
 
+		self.score = total_subject_score + total_student_score + total_classroom_score + self.total_valid_score()
 
+	def total_valid_score(self):
+		valid = True
 
-# pseudeocode studenten
+		for subject in self.subject_lst:
+			
+			for lecture in subject.lectures:
+				if lecture.classRoom == None or lecture.day == None or lecture.timeslot == None:
+					valid = False
+					break
 
-# student_score = 0
+			if not valid:
+				break
 
-# voor elke student --> read jsonfile
-# 	voor elke dictionary in file (dag)
-# 		voor elke dictionary in dag-dictionary (timeslot)
-# 			als time-slot dictionary > 1 (conflict)
-# 				malus = dictionary-size - 1
-# 				student_score = student_score - malus
-
-# return student_score
-
-
-
-# pseudocode zaalslot
-
-# geldig_score = 0
-
-# maak een lijst/dictionary met alle vakken en hoeveelheid activiteiten??
-
-# voor elk lokaal --> read jsonfile van lokaal
-# 	voor elke dictionary (dag)
-# 		voor elke dictionary (timeslot)
-# 			vak = "name"
-# 			vergelijk met lijst (FUNCTIE)
-# geldig_score = (kijk of geldigfunctie)
-# return geldig_score
-
-# vergelijk met lijst functie (krijgt naam mee)
-# voor elk vak
-# 	als vak == naam
-# 		vak activiteiten = vak activiteiten - 1
-
-# kijk of geldigfunctie
-# voor elk vak
-# 	als vak activiteiten != 0
-# 	ongeldig --> return 0
-# geldig --> return 1000
+		if valid:
+			return 1000
+		else:
+			return 0
 
 
+	def classroom_score(self, classroom_object):
+		classroom_score = 0
 
-# pseudeocode vakkenverdeling
+		for day, timeslot in classroom_object.timetable.items():
+			for key, lectures in timeslot.items():
 
-# vakken_score = 0
+				if len(lectures) > 1:
 
-# maak lijst met vak + aantal activiteiten + dagen?
-# v.b.
-# {"heuristieken" : {"activiteiten" : 2, "ma" : 1, "di" : 0, "wo" : 0, "do" : 1, "vr" : 0}}
+					nToManyStudents = sum([len(lecture.students) for lecture in lectures]) - classroom_object.capacity
 
-# voor elk vak
-# 	als activiteiten = 2
-# 		als ("ma" == 1 && "do" == 1)
-# 			vakken_score + 20
-# 		else if ("di" == 1 && "vr" == 1)
-# 			vakken_score + 20
-# 	als activiteiten = 3
-# 		als ("ma" == 1 && "wo" == 1 && "vr" == 1)
-# 			vakken_score + 20
-# 	als activiteiten = 4
-# 		als ("ma" == 1 && "di" == 1 && "do" == 1 && "vr" == 1)
-# 			vakkenscore + 20
+					if nToManyStudents > 0:
+						classroom_score -= nToManyStudents
 
-# return vakkenscore
+				# For every lecture after 17 minus points
+				if key >= 4 and len(lecture) > 0:
+					classroom_score -= 50
+
+		return classroom_score
+
+	def student_score(self, student_object):
+		student_score = 0
+
+		for day, timeslot in student_object.timetable.items():
+			for key, lectures in timeslot.items():
+
+				if len(lectures) > 1:
+					student_score -= (len(lectures) - 1)
+
+		return student_score
+
+	def subject_score(self, subject_object):
+		subject_score = 0
+
+		if len(subject_object.getWorkLectures()) > 0:
+			nWorkLectureGroups = max([lecture.group for lecture in subject_object.getWorkLectures()])
+		else:
+			nWorkLectureGroups = 0
+
+		# STRAKS S ACHTER getPratica -> getPraticas
+		if len(subject_object.getPractica()) > 0:
+			nPraticaGroups = max([lecture.group for lecture in subject_object.getPractica()])
+		else:
+			nPraticaGroups = 0
+
+		nUniqueLectures = len(subject_object.lectures) - nWorkLectureGroups - nPraticaGroups
+
+		empty_day = {y: [] for y in range(NUMBER_OF_SLOTS)}
+
+		if nUniqueLectures == 2:
+			if subject_object.timetable[0] != empty_day and subject_object.timetable[3] != empty_day:
+				subject_score += 20
+			elif subject_object.timetable[1] != empty_day and subject_object.timetable[4] != empty_day:
+				subject_score += 20
+
+		elif nUniqueLectures == 3:
+			if subject_object.timetable[0] != empty_day and subject_object.timetable[2] != empty_day and \
+			   subject_object.timetable[4] != empty_day:
+				subject_score += 20
+
+		elif nUniqueLectures == 4:
+			if subject_object.timetable[0] != empty_day and subject_object.timetable[1] != empty_day and \
+			   subject_object.timetable[3] != empty_day and subject_object.timetable[4] != empty_day:
+				subject_score += 20
+
+		nFullDays = 0
+
+		for day, timeslot in subject_object.timetable.items():
+			if timeslot != empty_day:
+				nFullDays += 1
+
+		# Voor ieder vak van x activiteiten geldt dat ze 10 maluspunten opleveren als ze op x-1 dagen geroosterd zijn, 20 voor x-2 en 30 voor x-3.
+
+		if nUniqueLectures - 1 == nFullDays:
+			subject_score -= 10
+		elif nUniqueLectures - 2 == nFullDays:
+			subject_score -= 20
+		elif nUniqueLectures - 3 == nFullDays:
+			subject_score -= 30
+
+		return subject_score
+	
+
+for x in subjects:
+	for y in x.lectures:
+		y.classRoom = classRooms[0]
+		classRooms[0].lectures.append(y)
+
+	x.fillInTimetable()
+
+for x in students:
+	x.fillInTimetable()
+
+for x in classRooms:
+	x.fillInTimetable()
+
+
+print(Score(subjects, students, classRooms).score)
+
 
 
 
