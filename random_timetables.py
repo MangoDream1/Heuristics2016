@@ -4,12 +4,14 @@ from random import randint, choice
 
 for x in subjects:
     for y in x.lectures:
-        y.classroom = classrooms[0]
-        classrooms[0].lectures.append(y)
-
         y.day = randint(0, 4)
         y.timeslot = randint(0, 3)
         y.classroom = choice(classrooms)
+
+        # Minimum score
+        # y.day = 0
+        # y.timeslot = 0
+        # y.classroom = classrooms[2]
 
         y.assignLecturetoClassroom()
 

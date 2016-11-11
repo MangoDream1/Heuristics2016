@@ -1,0 +1,56 @@
+{
+   "0": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "A1.04",
+            "subject": "Databases 2",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "A1.04",
+            "subject": "Project Genetic Algorithms",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Databases 2",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ]
+   }
+}

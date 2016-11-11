@@ -1,0 +1,103 @@
+{
+   "0": {
+      "0": [
+         {
+            "group": 0,
+            "classroom": "A1.04",
+            "subject": "Bioinformatica",
+            "name": "Lecture",
+            "lecture_number": 2
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [
+         {
+            "group": 0,
+            "classroom": "A1.08",
+            "subject": "Bioinformatica",
+            "name": "Lecture",
+            "lecture_number": 1
+         }
+      ],
+      "1": [
+         {
+            "group": 1,
+            "classroom": "C0.110",
+            "subject": "Software engineering",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         },
+         {
+            "group": 1,
+            "classroom": "A1.10",
+            "subject": "Software engineering",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "group": 1,
+            "classroom": "A1.06",
+            "subject": "Bioinformatica",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ]
+   },
+   "2": {
+      "0": [
+         {
+            "group": 0,
+            "classroom": "C1.112",
+            "subject": "Bioinformatica",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [
+         {
+            "group": 1,
+            "classroom": "A1.08",
+            "subject": "Bioinformatica",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Software engineering",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ],
+      "2": [
+         {
+            "group": 2,
+            "classroom": "A1.06",
+            "subject": "Compilerbouw (practicum)",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   }
+}

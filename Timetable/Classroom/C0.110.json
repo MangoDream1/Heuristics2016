@@ -1,0 +1,190 @@
+{
+   "0": {
+      "0": [],
+      "1": [
+         {
+            "group": 2,
+            "classroom": "C0.110",
+            "subject": "Data Mining",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         },
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ],
+      "2": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Autonomous Agents 2",
+            "name": "Lecture",
+            "lecture_number": 0
+         },
+         {
+            "group": 1,
+            "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ],
+      "3": [
+         {
+            "group": 3,
+            "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
+            "name": "Lecture",
+            "lecture_number": 1
+         },
+         {
+            "group": 1,
+            "classroom": "C0.110",
+            "subject": "Software engineering",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ],
+      "2": [
+         {
+            "group": 1,
+            "classroom": "C0.110",
+            "subject": "Advanced Heuristics",
+            "name": "Practica",
+            "lecture_number": 0
+         },
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Algoritmen en complexiteit",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Interactie-ontwerp",
+            "name": "Lecture",
+            "lecture_number": 1
+         },
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Reflectie op de digitale cultuur",
+            "name": "Lecture",
+            "lecture_number": 1
+         }
+      ]
+   },
+   "2": {
+      "0": [
+         {
+            "group": 2,
+            "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Autonomous Agents 2",
+            "name": "Lecture",
+            "lecture_number": 1
+         },
+         {
+            "group": 1,
+            "classroom": "C0.110",
+            "subject": "Data Mining",
+            "name": "Practica",
+            "lecture_number": 0
+         },
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Software engineering",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ],
+      "2": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Heuristieken 1",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         },
+         {
+            "group": 2,
+            "classroom": "C0.110",
+            "subject": "Project Numerical Recipes",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "group": 3,
+            "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         },
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Data Mining",
+            "name": "Lecture",
+            "lecture_number": 1
+         },
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Databases 2",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ]
+   }
+}

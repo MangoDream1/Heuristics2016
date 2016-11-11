@@ -1,0 +1,86 @@
+{
+   "0": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Compilerbouw",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         },
+         {
+            "group": 0,
+            "classroom": "A1.08",
+            "subject": "Software engineering",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "group": 0,
+            "classroom": "A1.08",
+            "subject": "Compilerbouw",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "A1.10",
+            "subject": "Software engineering",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Software engineering",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Compilerbouw",
+            "name": "Lecture",
+            "lecture_number": 1
+         },
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Compilerbouw",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   }
+}

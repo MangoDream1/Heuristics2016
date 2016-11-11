@@ -1,0 +1,80 @@
+{
+   "0": {
+      "0": [],
+      "1": [
+         {
+            "group": 2,
+            "classroom": "C0.110",
+            "subject": "Data Mining",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "C1.112",
+            "subject": "Data Mining",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ],
+      "2": [
+         {
+            "group": 4,
+            "classroom": "C1.112",
+            "subject": "Programmeren in Java 2",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ],
+      "3": [
+         {
+            "group": 2,
+            "classroom": "A1.04",
+            "subject": "Data Mining",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "group": 2,
+            "classroom": "C0.110",
+            "subject": "Project Numerical Recipes",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Data Mining",
+            "name": "Lecture",
+            "lecture_number": 1
+         }
+      ]
+   }
+}

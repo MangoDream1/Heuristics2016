@@ -1,0 +1,72 @@
+{
+   "0": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "group": 2,
+            "classroom": "A1.10",
+            "subject": "Project Genetic Algorithms",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ],
+      "2": [
+         {
+            "group": 1,
+            "classroom": "A1.08",
+            "subject": "Heuristieken 2",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "group": 0,
+            "classroom": "A1.10",
+            "subject": "Analysemethoden en -technieken",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [
+         {
+            "group": 3,
+            "classroom": "A1.08",
+            "subject": "Netwerken en systeembeveiliging",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "B0.201",
+            "subject": "Heuristieken 2",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   }
+}

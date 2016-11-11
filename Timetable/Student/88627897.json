@@ -1,0 +1,72 @@
+{
+   "0": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Autonomous Agents 2",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "group": 2,
+            "classroom": "A1.10",
+            "subject": "Autonomous Agents 2",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Autonomous Agents 2",
+            "name": "Lecture",
+            "lecture_number": 1
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "group": 2,
+            "classroom": "A1.04",
+            "subject": "Zoeken, sturen en bewegen",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ],
+      "3": [
+         {
+            "group": 2,
+            "classroom": "A1.08",
+            "subject": "Autonomous Agents 2",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ]
+   }
+}

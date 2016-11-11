@@ -1,0 +1,102 @@
+{
+   "0": {
+      "0": [],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "C1.112",
+            "subject": "Technology for games",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "group": 0,
+            "classroom": "A1.04",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "Lecture",
+            "lecture_number": 0
+         },
+         {
+            "group": 0,
+            "classroom": "A1.10",
+            "subject": "Technology for games",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "group": 0,
+            "classroom": "A1.04",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "Lecture",
+            "lecture_number": 1
+         }
+      ],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "A1.08",
+            "subject": "Kansrekenen 2",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Kansrekenen 2",
+            "name": "Lecture",
+            "lecture_number": 1
+         },
+         {
+            "group": 0,
+            "classroom": "A1.10",
+            "subject": "Technology for games",
+            "name": "Lecture",
+            "lecture_number": 1
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   }
+}

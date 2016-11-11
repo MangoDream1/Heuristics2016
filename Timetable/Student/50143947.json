@@ -1,0 +1,156 @@
+{
+   "0": {
+      "0": [
+         {
+            "group": 0,
+            "classroom": "A1.08",
+            "subject": "Algoritmen en complexiteit",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Algoritmen en complexiteit",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         },
+         {
+            "group": 0,
+            "classroom": "B0.201",
+            "subject": "Collectieve Intelligentie",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
+            "name": "Lecture",
+            "lecture_number": 1
+         }
+      ],
+      "2": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Algoritmen en complexiteit",
+            "name": "Lecture",
+            "lecture_number": 0
+         },
+         {
+            "group": 0,
+            "classroom": "A1.08",
+            "subject": "Software engineering",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "C1.112",
+            "subject": "Data Mining",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "C1.112",
+            "subject": "Data Mining",
+            "name": "Lecture",
+            "lecture_number": 0
+         },
+         {
+            "group": 0,
+            "classroom": "A1.10",
+            "subject": "Software engineering",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ],
+      "2": [
+         {
+            "group": 0,
+            "classroom": "A1.08",
+            "subject": "Compilerbouw (practicum)",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie",
+            "name": "Practica",
+            "lecture_number": 0
+         },
+         {
+            "group": 0,
+            "classroom": "A1.04",
+            "subject": "Data Mining",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Software engineering",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "A1.10",
+            "subject": "Collectieve Intelligentie",
+            "name": "Lecture",
+            "lecture_number": 2
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "A1.04",
+            "subject": "Collectieve Intelligentie",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Data Mining",
+            "name": "Lecture",
+            "lecture_number": 1
+         }
+      ]
+   }
+}

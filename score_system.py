@@ -10,11 +10,12 @@ class Score:
 
 		self.total_score()
 
-	def __str__():
-		return "Score: %s" % score
+	def __str__(self):
+		return "Score: %s" % self.score
 
 	def total_score(self):
 
+		# Map creates iterable, thats why list is used sinds it loops over the iter thus using the function
 		list(map(self.subject_score, self.subject_lst))
 		list(map(self.student_score, self.student_lst))
 		list(map(self.classroom_score, self.classroom_lst))

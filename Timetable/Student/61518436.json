@@ -1,0 +1,86 @@
+{
+   "0": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Machine Learning",
+            "name": "Lecture",
+            "lecture_number": 1
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "C0.110",
+            "subject": "Reflectie op de digitale cultuur",
+            "name": "Lecture",
+            "lecture_number": 1
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "A1.08",
+            "subject": "Kansrekenen 2",
+            "name": "Lecture",
+            "lecture_number": 0
+         },
+         {
+            "group": 2,
+            "classroom": "C1.112",
+            "subject": "Reflectie op de digitale cultuur",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "group": 0,
+            "classroom": "A1.10",
+            "subject": "Reflectie op de digitale cultuur",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Kansrekenen 2",
+            "name": "Lecture",
+            "lecture_number": 1
+         },
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Machine Learning",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   }
+}

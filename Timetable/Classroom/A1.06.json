@@ -1,0 +1,162 @@
+{
+   "0": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Algoritmen en complexiteit",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Machine Learning",
+            "name": "Lecture",
+            "lecture_number": 1
+         }
+      ],
+      "2": [
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Compilerbouw",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         },
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Webprogrammeren en databases",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ],
+      "3": [
+         {
+            "group": 1,
+            "classroom": "A1.06",
+            "subject": "Bioinformatica",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "group": 1,
+            "classroom": "A1.06",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Webprogrammeren en databases",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ],
+      "1": [
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Webprogrammeren en databases",
+            "name": "Lecture",
+            "lecture_number": 1
+         }
+      ],
+      "2": [
+         {
+            "group": 2,
+            "classroom": "A1.06",
+            "subject": "Compilerbouw (practicum)",
+            "name": "Practica",
+            "lecture_number": 0
+         },
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Moderne Databases",
+            "name": "WorkLecture",
+            "lecture_number": 0
+         }
+      ],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Bioinformatica",
+            "name": "Practica",
+            "lecture_number": 0
+         },
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Compilerbouw",
+            "name": "Lecture",
+            "lecture_number": 1
+         },
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Compilerbouw",
+            "name": "Practica",
+            "lecture_number": 0
+         },
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Kansrekenen 2",
+            "name": "Lecture",
+            "lecture_number": 1
+         },
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Machine Learning",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Architectuur en computerorganisatie",
+            "name": "Lecture",
+            "lecture_number": 0
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "group": 0,
+            "classroom": "A1.06",
+            "subject": "Project Numerical Recipes",
+            "name": "Practica",
+            "lecture_number": 0
+         }
+      ]
+   }
+}
