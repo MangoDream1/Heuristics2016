@@ -14,9 +14,14 @@ class Score:
 		return "Score: %s" % score
 
 	def total_score(self):
-		total_subject_score = sum([self.subject_score(subject) for subject in self.subject_lst])
-		total_student_score = sum([self.student_score(student) for student in self.student_lst])
-		total_classroom_score = sum([self.classroom_score(classroom) for classroom in self.classroom_lst])
+
+		list(map(self.subject_score, self.subject_lst))
+		list(map(self.student_score, self.student_lst))
+		list(map(self.classroom_score, self.classroom_lst))
+
+		total_subject_score = sum([subject.score for subject in self.subject_lst])
+		total_student_score = sum([student.score for student in self.student_lst])
+		total_classroom_score = sum([classroom.score for classroom in self.classroom_lst])
 
 		self.score = total_subject_score + total_student_score + total_classroom_score + self.total_valid_score()
 
@@ -26,7 +31,7 @@ class Score:
 		for subject in self.subject_lst:
 
 			for lecture in subject.lectures:
-				if lecture.classRoom == None or lecture.day == None or lecture.timeslot == None:
+				if lecture.classroom == None or lecture.day == None or lecture.timeslot == None:
 					valid = False
 					break
 
@@ -52,11 +57,11 @@ class Score:
 					if nToManyStudents > 0:
 						classroom_score -= nToManyStudents
 
-				# For every lecture after 17 minus points
+				# For every lecture after 17 hours minus points
 				if key >= 4 and len(lecture) > 0:
 					classroom_score -= 50
 
-		return classroom_score
+		classroom_object.score = classroom_score
 
 	def student_score(self, student_object):
 		student_score = 0
@@ -67,7 +72,7 @@ class Score:
 				if len(lectures) > 1:
 					student_score -= (len(lectures) - 1)
 
-		return student_score
+		student_object.score = student_score
 
 	def subject_score(self, subject_object):
 		subject_score = 0
@@ -117,4 +122,4 @@ class Score:
 		elif nUniqueLectures - 3 == nFullDays:
 			subject_score -= 30
 
-		return subject_score
+		subject_object.score = subject_score

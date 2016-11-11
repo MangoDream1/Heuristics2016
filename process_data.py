@@ -10,7 +10,7 @@ print("Getting data...")
 
 g = lambda x: [y.strip() for y in x]
 
-classRooms = [
+classrooms = [
     "A1.04 	41",
     "A1.06 	22",
     "A1.08 	20",
@@ -19,7 +19,7 @@ classRooms = [
     "C0.110 	117",
     "C1.112 	60",]
 
-classRooms = [g(x.split("\t")) for x in classRooms]
+classrooms = [g(x.split("\t")) for x in classrooms]
 
 subjects = """Advanced Heuristics 	1 	0 	nvt 	1 	10
 Algoritmen en complexiteit 	1 	1 	25 	1 	25
@@ -71,8 +71,8 @@ print("Transforming data...")
 # --------------
 # Transform data:
 
-classRooms = [ClassRoom(x[0], x[1]) for x in classRooms]
-classRoom_dct = {x.room_number: x for x in classRooms}
+classrooms = [Classroom(x[0], x[1]) for x in classrooms]
+classroom_dct = {x.room_number: x for x in classrooms}
 
 subjects = [Subject(x[0], x[1], x[2], x[3], x[4], x[5]) for x in subjects]
 subject_dct = {x.__str__(): x for x in subjects}

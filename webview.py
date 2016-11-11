@@ -44,7 +44,7 @@ def findObject(_id):
     _object = None
     if _id:
         try:
-            _object = classRoom_dct[_id]
+            _object = classroom_dct[_id]
         except:
             pass
         try:

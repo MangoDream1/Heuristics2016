@@ -23,7 +23,7 @@ class Lecture:
         self.lecture_number = lecture_number
         self.name = name
         self.group = 0
-        self.classRoom = None
+        self.classroom = None
 
         if maxStud == "nvt":
             self.maxStud = 0
@@ -47,18 +47,20 @@ class Lecture:
             student.lectures.append(self)
 
     def assignLecturetoClassroom(self):
-        self.classRoom.lectures.append(self)
+        self.classroom.lectures.append(self)
 
     def toDict(self):
         return {"name": self.name, "subject": self.subject.name,
                 "lecture_number": self.lecture_number, "group": self.group,
-                "classRoom": self.classRoom.__str__()}
+                "classroom": self.classroom.__str__()}
 
 class Timetable:
     def __init__(self):
         # Empty timetable with 5 days and the number of slots
         self.timetable = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(5)}
         self.jsonDict = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(5)}
+
+        self.score = 0
 
     def getLectures(self):
         return [x for x in self.lectures if x.name == "Lecture"]
@@ -89,7 +91,7 @@ class Timetable:
             self.timetable[lecture.day][lecture.timeslot].append(lecture)
             self.jsonDict[lecture.day][lecture.timeslot].append(lecture)
 
-class ClassRoom(Timetable):
+class Classroom(Timetable):
     def __init__(self, room_number, capacity):
         super().__init__()
 
