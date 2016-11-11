@@ -10,34 +10,26 @@
       "1": [],
       "2": [
          {
+            "classRoom": "C0.110",
             "subject": "Machine Learning",
-            "group": 0,
             "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "B0.201"
+            "lecture_number": 0,
+            "group": 0
          }
       ],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "subject": "Programmeren in Java 2",
-            "group": 2,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Machine Learning",
-            "group": 0,
-            "name": "Lecture",
+            "classRoom": "A1.10",
+            "subject": "Programmeren in Java 2",
+            "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "A1.04"
+            "group": 2
          }
       ]
    },
@@ -51,6 +43,14 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "C1.112",
+            "subject": "Machine Learning",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ]
    }
 }

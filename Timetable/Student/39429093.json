@@ -1,16 +1,16 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
+            "classRoom": "A1.06",
             "subject": "Advanced Heuristics",
-            "group": 1,
             "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "A1.04"
+            "group": 1
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "1": {
@@ -20,18 +20,18 @@
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "subject": "Advanced Heuristics",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Advanced Heuristics",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ]
    },
    "3": {
       "0": [],

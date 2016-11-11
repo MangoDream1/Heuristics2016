@@ -7,34 +7,26 @@
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "subject": "Calculus 2",
-            "group": 2,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.06"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classRoom": "A1.10",
+            "subject": "Calculus 2",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "subject": "Calculus 2",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "C0.110"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -43,6 +35,14 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "A1.10",
+            "subject": "Calculus 2",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ]
    }
 }

@@ -1,96 +1,94 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
+            "classRoom": "A1.10",
             "subject": "Algoritmen en complexiteit",
-            "group": 0,
             "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "A1.06"
+            "group": 0
+         },
+         {
+            "classRoom": "A1.08",
+            "subject": "Kansrekenen 2",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ],
+      "2": [
+         {
+            "classRoom": "A1.10",
+            "subject": "Kansrekenen 2",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
          }
       ],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
+            "classRoom": "A1.08",
             "subject": "Software engineering",
-            "group": 0,
             "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "A1.10"
+            "group": 0
          }
       ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Software engineering",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "A1.08"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
       "1": [],
       "2": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "group": 0,
-            "name": "WorkLecture",
+            "classRoom": "C1.112",
+            "subject": "Software engineering",
+            "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "A1.06"
+            "group": 0
          }
       ],
-      "3": [
-         {
-            "subject": "Kansrekenen 2",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "B0.201"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Kansrekenen 2",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "C1.112"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Software engineering",
-            "group": 0,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": [
          {
+            "classRoom": "A1.04",
             "subject": "Algoritmen en complexiteit",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "B0.201"
+            "group": 0
+         },
+         {
+            "classRoom": "B0.201",
+            "subject": "Software engineering",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
          }
       ]
+   },
+   "4": {
+      "0": [
+         {
+            "classRoom": "A1.08",
+            "subject": "Algoritmen en complexiteit",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

@@ -1,32 +1,200 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Bioinformatica",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ],
+      "2": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Bioinformatica",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
+      "0": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Zoeken, sturen en bewegen",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ],
+      "1": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Netwerken en systeembeveiliging",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ],
+      "2": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "3": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Netwerken en systeembeveiliging",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         },
+         {
+            "classRoom": "B0.201",
+            "subject": "Reflectie op de digitale cultuur",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ]
    },
    "2": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Collectieve Intelligentie",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 1
+         },
+         {
+            "classRoom": "B0.201",
+            "subject": "Collectieve Intelligentie",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 2
+         },
+         {
+            "classRoom": "B0.201",
+            "subject": "Lineaire Algebra",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "1": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Autonomous Agents 2",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 2
+         },
+         {
+            "classRoom": "B0.201",
+            "subject": "Project Numerical Recipes",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Collectieve Intelligentie",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "1": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Data Mining",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         },
+         {
+            "classRoom": "B0.201",
+            "subject": "Netwerken en systeembeveiliging",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 3
+         },
+         {
+            "classRoom": "B0.201",
+            "subject": "Software engineering",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ]
    },
    "4": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Moderne Databases",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ],
+      "1": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Autonomous Agents 2",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         },
+         {
+            "classRoom": "B0.201",
+            "subject": "Bioinformatica",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Data Mining",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 2
+         },
+         {
+            "classRoom": "B0.201",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ]
    }
 }

@@ -3,78 +3,78 @@
       "0": [],
       "1": [
          {
+            "classRoom": "C0.110",
             "subject": "Architectuur en computerorganisatie",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 1,
-            "classRoom": "A1.08"
+            "group": 0
          }
       ],
+      "2": [],
       "3": []
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "B0.201"
-         }
-      ],
-      "1": [
-         {
+            "classRoom": "B0.201",
             "subject": "Informatie- en organisatieontwerp",
-            "group": 0,
-            "name": "Practica",
+            "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "C0.110"
+            "group": 0
          }
       ],
-      "2": [],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "classRoom": "C0.110",
+            "subject": "Architectuur en computerorganisatie",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classRoom": "C0.110",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "C0.110"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "A1.08"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ]
    }
 }

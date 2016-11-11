@@ -1,55 +1,47 @@
 {
    "0": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
       "0": [
          {
+            "classRoom": "A1.08",
             "subject": "Informatie- en organisatieontwerp",
-            "group": 1,
             "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "C0.110"
+            "group": 1
          }
       ],
       "1": [],
       "2": [
          {
+            "classRoom": "B0.201",
             "subject": "Informatie- en organisatieontwerp",
-            "group": 0,
             "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.08"
+            "lecture_number": 0,
+            "group": 0
          }
       ],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "group": 1,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.10"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],
       "1": [
          {
+            "classRoom": "B0.201",
             "subject": "Informatie- en organisatieontwerp",
-            "group": 0,
-            "name": "Lecture",
+            "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "A1.08"
+            "group": 1
          }
       ],
       "2": [],
@@ -57,7 +49,15 @@
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ],
       "2": [],
       "3": []
    }

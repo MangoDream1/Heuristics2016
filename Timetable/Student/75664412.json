@@ -1,36 +1,58 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
+            "classRoom": "A1.08",
             "subject": "Compilerbouw",
-            "group": 0,
-            "name": "Lecture",
+            "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "A1.08"
+            "group": 0
+         },
+         {
+            "classRoom": "C1.112",
+            "subject": "Netwerken en systeembeveiliging",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 1
          }
       ],
+      "1": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Technology for games",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Technology for games",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ],
+      "2": [],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
+            "classRoom": "A1.08",
             "subject": "Compilerbouw",
-            "group": 0,
             "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.04"
+            "lecture_number": 0,
+            "group": 0
          }
       ],
+      "1": [],
       "2": [
          {
+            "classRoom": "C0.110",
             "subject": "Compilerbouw",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "B0.201"
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
          }
       ],
       "3": []
@@ -39,23 +61,15 @@
       "0": [],
       "1": [
          {
-            "subject": "Netwerken en systeembeveiliging",
-            "group": 1,
-            "name": "Practica",
+            "classRoom": "A1.06",
+            "subject": "Technology for games",
+            "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "A1.06"
+            "group": 0
          }
       ],
       "2": [],
-      "3": [
-         {
-            "subject": "Technology for games",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "C0.110"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],
@@ -64,32 +78,17 @@
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Technology for games",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.06"
-         },
-         {
-            "subject": "Technology for games",
-            "group": 1,
+            "classRoom": "A1.10",
+            "subject": "Compilerbouw",
             "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "C0.110"
+            "group": 0
          }
       ],
-      "1": [],
-      "2": [
-         {
-            "subject": "Compilerbouw",
-            "group": 0,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": []
    }
 }

@@ -2,101 +2,102 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
+            "classRoom": "C0.110",
             "subject": "Algoritmen en complexiteit",
-            "group": 1,
-            "name": "Practica",
+            "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "A1.04"
+            "group": 1
          },
          {
+            "classRoom": "A1.10",
             "subject": "Webprogrammeren en databases",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.08"
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
          }
-      ],
-      "3": []
+      ]
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Lineaire Algebra",
-            "group": 0,
+            "classRoom": "A1.06",
+            "subject": "Webprogrammeren en databases",
             "name": "Lecture",
             "lecture_number": 1,
-            "classRoom": "A1.08"
+            "group": 0
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Lineaire Algebra",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "1": [
          {
-            "subject": "Webprogrammeren en databases",
-            "group": 0,
+            "classRoom": "A1.04",
+            "subject": "Algoritmen en complexiteit",
             "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "A1.08"
+            "group": 1
          }
       ],
-      "2": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Lineaire Algebra",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "A1.08"
-         }
-      ],
-      "3": []
-   },
-   "4": {
       "0": [],
       "1": [],
       "2": [],
       "3": [
          {
+            "classRoom": "A1.04",
             "subject": "Algoritmen en complexiteit",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "B0.201"
-         },
-         {
-            "subject": "Algoritmen en complexiteit",
-            "group": 1,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.06"
+            "group": 0
          }
       ]
+   },
+   "4": {
+      "0": [
+         {
+            "classRoom": "A1.10",
+            "subject": "Webprogrammeren en databases",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "1": [
+         {
+            "classRoom": "A1.10",
+            "subject": "Lineaire Algebra",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ],
+      "2": [
+         {
+            "classRoom": "A1.08",
+            "subject": "Webprogrammeren en databases",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "3": []
    }
 }

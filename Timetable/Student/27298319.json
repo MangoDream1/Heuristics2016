@@ -2,108 +2,109 @@
    "0": {
       "0": [
          {
+            "classRoom": "A1.06",
             "subject": "Autonomous Agents 2",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.10"
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
          }
       ],
-      "1": [],
-      "2": [
+      "1": [
          {
+            "classRoom": "A1.10",
             "subject": "Algoritmen en complexiteit",
-            "group": 0,
             "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "A1.06"
+            "group": 0
          }
       ],
+      "2": [],
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Calculus 2",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "subject": "Autonomous Agents 2",
-            "group": 0,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.10"
-         },
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "group": 0,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.06"
-         },
-         {
+            "classRoom": "A1.10",
             "subject": "Calculus 2",
-            "group": 0,
-            "name": "WorkLecture",
+            "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "C0.110"
+            "group": 0
          }
       ],
       "3": []
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "subject": "Calculus 2",
-            "group": 0,
+            "classRoom": "C1.112",
+            "subject": "Autonomous Agents 2",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         },
+         {
+            "classRoom": "C0.110",
+            "subject": "Autonomous Agents 2",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         },
+         {
+            "classRoom": "C1.112",
+            "subject": "Zoeken, sturen en bewegen",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "3": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Algoritmen en complexiteit",
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "C0.110"
+            "group": 0
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "classRoom": "A1.08",
+            "subject": "Algoritmen en complexiteit",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
          }
       ],
       "1": [
          {
+            "classRoom": "B0.201",
             "subject": "Autonomous Agents 2",
-            "group": 0,
-            "name": "WorkLecture",
+            "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "A1.08"
+            "group": 0
          }
       ],
       "2": [],
       "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Algoritmen en complexiteit",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "B0.201"
-         },
-         {
-            "subject": "Autonomous Agents 2",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
-         }
-      ]
    }
 }

@@ -8,57 +8,57 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classRoom": "A1.08",
+            "subject": "Advanced Heuristics",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "subject": "Advanced Heuristics",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
+            "classRoom": "A1.06",
             "subject": "Advanced Heuristics",
-            "group": 0,
-            "name": "Practica",
+            "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "A1.06"
+            "group": 0
          }
       ]
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Heuristieken 2",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.10"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Heuristieken 2",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
       "1": [],
       "2": [],
       "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "classRoom": "C0.110",
+            "subject": "Heuristieken 2",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "classRoom": "A1.10",
+            "subject": "Heuristieken 2",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ]
    }
 }

@@ -10,11 +10,11 @@
       "1": [],
       "2": [
          {
+            "classRoom": "C0.110",
             "subject": "Machine Learning",
-            "group": 0,
             "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "B0.201"
+            "lecture_number": 0,
+            "group": 0
          }
       ],
       "3": []
@@ -23,15 +23,7 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Machine Learning",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],
@@ -43,6 +35,14 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "C1.112",
+            "subject": "Machine Learning",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ]
    }
 }

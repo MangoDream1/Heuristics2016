@@ -1,6 +1,14 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Project Numerical Recipes",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -9,15 +17,7 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Project Numerical Recipes",
-            "group": 1,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "B0.201"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],

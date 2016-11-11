@@ -2,11 +2,11 @@
    "0": {
       "0": [
          {
+            "classRoom": "C1.112",
             "subject": "Reflectie op de digitale cultuur",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "C0.110"
+            "group": 0
          }
       ],
       "1": [],
@@ -15,15 +15,23 @@
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Reflectie op de digitale cultuur",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ],
       "2": [],
       "3": [
          {
+            "classRoom": "B0.201",
             "subject": "Reflectie op de digitale cultuur",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "B0.201"
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 2
          }
       ]
    },
@@ -31,11 +39,11 @@
       "0": [],
       "1": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "group": 2,
-            "name": "WorkLecture",
+            "classRoom": "B0.201",
+            "subject": "Project Numerical Recipes",
+            "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "A1.08"
+            "group": 2
          }
       ],
       "2": [],
@@ -49,15 +57,7 @@
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "subject": "Project Numerical Recipes",
-            "group": 2,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.08"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    }

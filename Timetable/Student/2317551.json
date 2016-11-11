@@ -1,43 +1,44 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "classRoom": "A1.08",
+            "subject": "Compilerbouw",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Programmeren in Java 2",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "classRoom": "A1.08",
+            "subject": "Compilerbouw",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "1": [],
       "2": [
          {
+            "classRoom": "C0.110",
             "subject": "Compilerbouw",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "A1.08"
-         },
-         {
-            "subject": "Programmeren in Java 2",
-            "group": 1,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.06"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Compilerbouw",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 1,
-            "classRoom": "A1.04"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Compilerbouw",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "B0.201"
+            "group": 0
          }
       ],
       "3": []
@@ -56,16 +57,16 @@
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
+            "classRoom": "A1.10",
             "subject": "Compilerbouw",
-            "group": 0,
-            "name": "Practica",
+            "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "B0.201"
+            "group": 0
          }
       ],
+      "2": [],
       "3": []
    }
 }

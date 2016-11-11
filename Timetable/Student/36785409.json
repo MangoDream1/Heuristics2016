@@ -2,52 +2,67 @@
    "0": {
       "0": [
          {
+            "classRoom": "C1.112",
             "subject": "Reflectie op de digitale cultuur",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "C0.110"
+            "group": 0
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Reflectie op de digitale cultuur",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Technology for games",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
+            "classRoom": "C1.112",
             "subject": "Analysemethoden en -technieken",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "B0.201"
+            "group": 0
+         }
+      ],
+      "1": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Reflectie op de digitale cultuur",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
          }
       ],
       "2": [],
-      "3": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "B0.201"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
+            "classRoom": "A1.06",
             "subject": "Technology for games",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "C0.110"
+            "group": 0
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "3": {
       "0": [],
@@ -56,31 +71,15 @@
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "subject": "Technology for games",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.06"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Technology for games",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.06"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "group": 0,
+            "classRoom": "C1.112",
+            "subject": "Technology for games",
             "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "C0.110"
+            "group": 0
          }
       ],
       "3": []

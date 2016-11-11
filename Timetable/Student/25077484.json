@@ -6,26 +6,26 @@
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Project Genetic Algorithms",
-            "group": 2,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.10"
-         }
-      ],
-      "2": [
-         {
+            "classRoom": "A1.06",
             "subject": "Databases 2",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "C1.112"
+            "group": 0
          }
       ],
-      "3": []
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Project Genetic Algorithms",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ]
    },
    "2": {
       "0": [],
@@ -34,21 +34,21 @@
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "subject": "Databases 2",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.08"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "classRoom": "A1.10",
+            "subject": "Databases 2",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

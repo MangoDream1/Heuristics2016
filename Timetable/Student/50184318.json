@@ -1,90 +1,90 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Collectieve Intelligentie",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.08"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 2,
-            "classRoom": "A1.10"
+            "classRoom": "C0.110",
+            "subject": "Moderne Databases",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
          }
       ],
+      "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Moderne Databases",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "subject": "Moderne Databases",
-            "group": 0,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
+            "classRoom": "C1.112",
+            "subject": "Collectieve Intelligentie",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
          }
       ],
-      "3": [
+      "1": [
          {
-            "subject": "Collectieve Intelligentie",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
-         },
-         {
+            "classRoom": "A1.06",
             "subject": "Moderne Databases",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "B0.201"
-         }
-      ]
-   },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+            "group": 0
+         },
          {
+            "classRoom": "A1.10",
+            "subject": "Moderne Databases",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "2": [
+         {
+            "classRoom": "A1.04",
             "subject": "Collectieve Intelligentie",
-            "group": 0,
             "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "A1.08"
+            "group": 0
          }
-      ]
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [
+         {
+            "classRoom": "A1.08",
+            "subject": "Collectieve Intelligentie",
+            "name": "Lecture",
+            "lecture_number": 2,
+            "group": 0
+         },
+         {
+            "classRoom": "B0.201",
+            "subject": "Collectieve Intelligentie",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "4": {
       "0": [
          {
+            "classRoom": "C1.112",
             "subject": "Collectieve Intelligentie",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "B0.201"
+            "group": 0
          }
       ],
       "1": [],

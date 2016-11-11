@@ -1,42 +1,51 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "group": 1,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
+            "classRoom": "C0.110",
             "subject": "Databases 2",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
-         },
-         {
-            "subject": "Databases 2",
-            "group": 1,
             "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "C1.112"
+            "group": 1
          }
       ],
+      "2": [],
+      "3": [
+         {
+            "classRoom": "C0.110",
+            "subject": "Algoritmen en complexiteit",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Databases 2",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Algoritmen en complexiteit",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -44,27 +53,20 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Algoritmen en complexiteit",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ]
    },
    "4": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Algoritmen en complexiteit",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "B0.201"
-         },
-         {
-            "subject": "Algoritmen en complexiteit",
-            "group": 1,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.06"
-         }
-      ]
+      "3": []
    }
 }

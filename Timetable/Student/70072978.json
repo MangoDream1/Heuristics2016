@@ -1,73 +1,73 @@
 {
    "0": {
-      "0": [
-         {
-            "subject": "Programmeren in Java 2",
-            "group": 5,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "subject": "Moderne Databases",
-            "group": 2,
-            "name": "Practica",
+            "classRoom": "C0.110",
+            "subject": "Databases 2",
+            "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "C1.112"
+            "group": 1
+         },
+         {
+            "classRoom": "A1.08",
+            "subject": "Moderne Databases",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 2
          }
       ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Databases 2",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "1": [],
       "2": [
          {
-            "subject": "Databases 2",
-            "group": 0,
-            "name": "Lecture",
+            "classRoom": "A1.08",
+            "subject": "Moderne Databases",
+            "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "C1.112"
-         },
-         {
-            "subject": "Databases 2",
-            "group": 1,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
+            "group": 2
          }
       ],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
+            "classRoom": "A1.06",
             "subject": "Moderne Databases",
-            "group": 2,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "B0.201"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Moderne Databases",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "B0.201"
+            "group": 0
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Programmeren in Java 2",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 5
+         }
+      ],
       "3": []
    },
    "4": {

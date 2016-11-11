@@ -2,160 +2,161 @@
    "0": {
       "0": [
          {
-            "subject": "Informatie- en organisatieontwerp",
-            "group": 1,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "C0.110"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Moderne Databases",
-            "group": 2,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.08"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 2,
-            "classRoom": "A1.10"
-         },
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.08"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "group": 3,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.10"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "group": 3,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.10"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Moderne Databases",
-            "group": 2,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "B0.201"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "group": 1,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.10"
-         },
-         {
-            "subject": "Moderne Databases",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "B0.201"
-         },
-         {
-            "subject": "Technology for games",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "C0.110"
-         }
-      ]
-   },
-   "3": {
-      "0": [
-         {
+            "classRoom": "C1.112",
             "subject": "Heuristieken 1",
-            "group": 0,
-            "name": "Lecture",
+            "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "A1.10"
+            "group": 1
          }
       ],
       "1": [
          {
-            "subject": "Informatie- en organisatieontwerp",
-            "group": 0,
-            "name": "Lecture",
+            "classRoom": "A1.08",
+            "subject": "Moderne Databases",
+            "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "A1.08"
+            "group": 2
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Technology for games",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Technology for games",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 1
          }
       ],
       "2": [],
       "3": [
          {
-            "subject": "Heuristieken 1",
-            "group": 1,
+            "classRoom": "A1.08",
+            "subject": "Collectieve Intelligentie",
             "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "A1.06"
+            "group": 3
          }
       ]
+   },
+   "1": {
+      "0": [
+         {
+            "classRoom": "A1.08",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ],
+      "1": [
+         {
+            "classRoom": "A1.10",
+            "subject": "Heuristieken 1",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "2": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         },
+         {
+            "classRoom": "A1.08",
+            "subject": "Moderne Databases",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "classRoom": "C1.112",
+            "subject": "Collectieve Intelligentie",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ],
+      "1": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Moderne Databases",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Technology for games",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [
+         {
+            "classRoom": "A1.08",
+            "subject": "Collectieve Intelligentie",
+            "name": "Lecture",
+            "lecture_number": 2,
+            "group": 0
+         }
+      ],
+      "1": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ],
+      "2": [],
+      "3": []
    },
    "4": {
       "0": [
          {
+            "classRoom": "C1.112",
             "subject": "Collectieve Intelligentie",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "B0.201"
+            "group": 0
          },
          {
-            "subject": "Technology for games",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.06"
-         },
-         {
-            "subject": "Technology for games",
-            "group": 1,
-            "name": "WorkLecture",
+            "classRoom": "A1.06",
+            "subject": "Collectieve Intelligentie",
+            "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "C0.110"
+            "group": 3
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Informatie- en organisatieontwerp",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ],
       "2": [],
       "3": []
    }

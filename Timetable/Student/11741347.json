@@ -3,75 +3,65 @@
       "0": [],
       "1": [
          {
+            "classRoom": "A1.08",
             "subject": "Moderne Databases",
-            "group": 2,
-            "name": "Practica",
+            "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "C1.112"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Compilerbouw",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "A1.08"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Compilerbouw",
-            "group": 1,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
-         }
-      ]
-   },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Compilerbouw",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.04"
+            "group": 2
          }
       ],
       "2": [],
       "3": []
    },
-   "2": {
+   "1": {
       "0": [
          {
+            "classRoom": "A1.08",
             "subject": "Compilerbouw",
-            "group": 1,
-            "name": "WorkLecture",
+            "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "C1.112"
+            "group": 0
          }
       ],
       "1": [],
       "2": [
          {
-            "subject": "Moderne Databases",
-            "group": 2,
-            "name": "WorkLecture",
+            "classRoom": "C0.110",
+            "subject": "Compilerbouw",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         },
+         {
+            "classRoom": "A1.10",
+            "subject": "Compilerbouw",
+            "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "B0.201"
+            "group": 1
+         },
+         {
+            "classRoom": "A1.08",
+            "subject": "Moderne Databases",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 2
          }
       ],
-      "3": [
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
          {
+            "classRoom": "A1.06",
             "subject": "Moderne Databases",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "B0.201"
+            "group": 0
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "3": {
       "0": [],
@@ -81,7 +71,15 @@
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Compilerbouw",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ],
       "2": [],
       "3": []
    }

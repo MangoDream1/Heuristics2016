@@ -1,7 +1,15 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classRoom": "C0.110",
+            "subject": "Programmeren in Java 2",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 3
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -13,15 +21,7 @@
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "subject": "Programmeren in Java 2",
-            "group": 3,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.10"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },

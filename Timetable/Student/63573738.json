@@ -1,31 +1,23 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "group": 0,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Project Numerical Recipes",
-            "group": 0,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Netwerken en systeembeveiliging",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ]
    },
    "2": {
       "0": [],
@@ -34,7 +26,15 @@
       "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Project Numerical Recipes",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

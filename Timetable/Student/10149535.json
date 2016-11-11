@@ -3,11 +3,18 @@
       "0": [],
       "1": [
          {
+            "classRoom": "C0.110",
             "subject": "Architectuur en computerorganisatie",
-            "group": 0,
             "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
+            "lecture_number": 1,
+            "group": 0
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Technology for games",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
          }
       ],
       "2": [],
@@ -16,18 +23,11 @@
    "1": {
       "0": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "B0.201"
-         },
-         {
-            "subject": "Lineaire Algebra",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.08"
+            "classRoom": "A1.04",
+            "subject": "Calculus 2",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
          }
       ],
       "1": [],
@@ -35,69 +35,68 @@
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "subject": "Calculus 2",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "C0.110"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Technology for games",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "C0.110"
-         }
-      ]
-   },
-   "3": {
       "0": [
          {
-            "subject": "Calculus 2",
-            "group": 0,
+            "classRoom": "C0.110",
+            "subject": "Architectuur en computerorganisatie",
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "C0.110"
+            "group": 0
+         },
+         {
+            "classRoom": "B0.201",
+            "subject": "Lineaire Algebra",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
          }
       ],
       "1": [
          {
-            "subject": "Lineaire Algebra",
-            "group": 0,
+            "classRoom": "A1.06",
+            "subject": "Technology for games",
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "C1.112"
+            "group": 0
          }
       ],
+      "2": [
+         {
+            "classRoom": "A1.10",
+            "subject": "Calculus 2",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "subject": "Technology for games",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "subject": "Technology for games",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.06"
+            "classRoom": "A1.10",
+            "subject": "Lineaire Algebra",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "classRoom": "C1.112",
+            "subject": "Technology for games",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "3": []
    }
 }

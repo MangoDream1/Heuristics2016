@@ -3,62 +3,62 @@
       "0": [],
       "1": [
          {
+            "classRoom": "B0.201",
             "subject": "Bioinformatica",
-            "group": 0,
-            "name": "Lecture",
+            "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "A1.08"
+            "group": 2
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Bioinformatica",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Bioinformatica",
-            "group": 2,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
-         },
-         {
-            "subject": "Calculus 2",
-            "group": 2,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.06"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "2": {
       "0": [],
       "1": [],
       "2": [],
       "3": []
    },
-   "3": {
+   "2": {
       "0": [
          {
-            "subject": "Calculus 2",
-            "group": 0,
+            "classRoom": "A1.06",
+            "subject": "Bioinformatica",
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "C0.110"
-         }
-      ],
-      "1": [
+            "group": 0
+         },
          {
+            "classRoom": "A1.10",
             "subject": "Bioinformatica",
-            "group": 2,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "C0.110"
+            "name": "Lecture",
+            "lecture_number": 2,
+            "group": 0
          }
       ],
+      "1": [],
+      "2": [
+         {
+            "classRoom": "A1.10",
+            "subject": "Calculus 2",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -66,22 +66,22 @@
       "0": [],
       "1": [
          {
+            "classRoom": "B0.201",
             "subject": "Bioinformatica",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 2,
-            "classRoom": "A1.08"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Bioinformatica",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 1,
-            "classRoom": "A1.06"
+            "group": 0
          }
       ],
-      "3": []
+      "2": [],
+      "3": [
+         {
+            "classRoom": "A1.10",
+            "subject": "Calculus 2",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ]
    }
 }

@@ -1,50 +1,50 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classRoom": "C0.110",
+            "subject": "Programmeren in Java 2",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 3
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Calculus 2",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "subject": "Programmeren in Java 2",
-            "group": 3,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.10"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [
-         {
-            "subject": "Calculus 2",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "C0.110"
-         }
-      ],
       "1": [],
       "2": [
          {
+            "classRoom": "A1.10",
             "subject": "Calculus 2",
-            "group": 1,
-            "name": "WorkLecture",
+            "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "A1.06"
+            "group": 0
          }
       ],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
       "3": []
    },
    "4": {

@@ -1,67 +1,67 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "classRoom": "C1.112",
+            "subject": "Heuristieken 1",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ],
       "1": [
          {
+            "classRoom": "C0.110",
             "subject": "Architectuur en computerorganisatie",
-            "group": 0,
             "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
+            "lecture_number": 1,
+            "group": 0
          }
       ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "group": 0,
+            "classRoom": "A1.10",
+            "subject": "Heuristieken 1",
             "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "B0.201"
+            "lecture_number": 0,
+            "group": 0
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
    "2": {
+      "0": [
+         {
+            "classRoom": "C0.110",
+            "subject": "Architectuur en computerorganisatie",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Compilerbouw (practicum)",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ],
+      "3": []
+   },
+   "3": {
       "0": [],
       "1": [],
       "2": [],
       "3": []
-   },
-   "3": {
-      "0": [
-         {
-            "subject": "Heuristieken 1",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "A1.10"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Compilerbouw (practicum)",
-            "group": 2,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "C0.110"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Heuristieken 1",
-            "group": 1,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.06"
-         }
-      ]
    },
    "4": {
       "0": [],

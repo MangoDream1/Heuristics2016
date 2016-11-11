@@ -1,36 +1,59 @@
 {
    "0": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "classRoom": "A1.08",
+            "subject": "Compilerbouw",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "1": [
+         {
+            "classRoom": "A1.08",
+            "subject": "Kansrekenen 2",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ],
       "2": [
          {
-            "subject": "Compilerbouw",
-            "group": 0,
+            "classRoom": "A1.10",
+            "subject": "Kansrekenen 2",
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "A1.08"
+            "group": 0
          }
       ],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Compilerbouw",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.04"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Compilerbouw",
-            "group": 0,
+            "classRoom": "A1.04",
+            "subject": "Calculus 2",
             "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "B0.201"
+            "group": 0
+         },
+         {
+            "classRoom": "A1.08",
+            "subject": "Compilerbouw",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "classRoom": "C0.110",
+            "subject": "Compilerbouw",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
          }
       ],
       "3": []
@@ -40,57 +63,33 @@
       "1": [],
       "2": [
          {
+            "classRoom": "A1.10",
             "subject": "Calculus 2",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "C0.110"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Kansrekenen 2",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "B0.201"
+            "group": 0
          }
-      ]
+      ],
+      "3": []
    },
    "3": {
-      "0": [
-         {
-            "subject": "Calculus 2",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "C0.110"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Kansrekenen 2",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "C1.112"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
+            "classRoom": "A1.10",
             "subject": "Compilerbouw",
-            "group": 0,
-            "name": "Practica",
+            "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "B0.201"
+            "group": 0
          }
       ],
+      "2": [],
       "3": []
    }
 }

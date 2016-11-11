@@ -3,29 +3,14 @@
       "0": [],
       "1": [
          {
+            "classRoom": "C0.110",
             "subject": "Data Mining",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "A1.06"
-         },
-         {
-            "subject": "Data Mining",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.06"
+            "group": 0
          }
       ],
-      "2": [
-         {
-            "subject": "Data Mining",
-            "group": 2,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
@@ -38,34 +23,50 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Data Mining",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ]
    },
    "3": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
+            "classRoom": "C0.110",
             "subject": "Data Mining",
-            "group": 2,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
          }
       ],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [
+      "3": [
          {
+            "classRoom": "B0.201",
             "subject": "Netwerken en systeembeveiliging",
-            "group": 3,
             "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "A1.04"
+            "group": 3
          }
-      ],
+      ]
+   },
+   "4": {
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Data Mining",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ]
    }
 }

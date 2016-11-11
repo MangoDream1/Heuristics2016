@@ -11,6 +11,8 @@ for x in subjects:
         y.timeslot = randint(0, 3)
         y.classRoom = choice(classRooms)
 
+        y.assignLecturetoClassroom()
+
 
     x.exportTimetable()
 

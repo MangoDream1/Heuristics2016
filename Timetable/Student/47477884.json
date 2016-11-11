@@ -6,79 +6,79 @@
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Calculus 2",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 1
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Databases 2",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "1": [],
       "2": [
          {
-            "subject": "Databases 2",
-            "group": 0,
-            "name": "Lecture",
+            "classRoom": "A1.08",
+            "subject": "Advanced Heuristics",
+            "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "C1.112"
+            "group": 0
          }
       ],
       "3": []
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "subject": "Advanced Heuristics",
-            "group": 0,
+            "classRoom": "A1.10",
+            "subject": "Calculus 2",
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "C1.112"
-         },
-         {
-            "subject": "Programmeren in Java 2",
-            "group": 2,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
+            "group": 0
          }
       ],
-      "1": [],
-      "2": [],
       "3": [
          {
+            "classRoom": "A1.06",
             "subject": "Advanced Heuristics",
-            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         },
+         {
+            "classRoom": "A1.10",
+            "subject": "Programmeren in Java 2",
             "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "A1.06"
+            "group": 2
          }
       ]
    },
    "3": {
-      "0": [
-         {
-            "subject": "Calculus 2",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "C0.110"
-         },
-         {
-            "subject": "Databases 2",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.08"
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Calculus 2",
-            "group": 1,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.06"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "classRoom": "A1.10",
+            "subject": "Databases 2",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

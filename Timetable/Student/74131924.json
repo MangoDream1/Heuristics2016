@@ -2,41 +2,35 @@
    "0": {
       "0": [
          {
+            "classRoom": "A1.06",
             "subject": "Autonomous Agents 2",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.10"
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
          }
       ],
       "1": [
          {
-            "subject": "Bioinformatica",
-            "group": 0,
+            "classRoom": "C0.110",
+            "subject": "Data Mining",
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "A1.08"
-         },
-         {
-            "subject": "Data Mining",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "A1.06"
-         },
-         {
-            "subject": "Data Mining",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.06"
+            "group": 0
          }
       ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Bioinformatica",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -44,89 +38,94 @@
    "2": {
       "0": [
          {
-            "subject": "Autonomous Agents 2",
-            "group": 0,
-            "name": "Practica",
+            "classRoom": "A1.06",
+            "subject": "Bioinformatica",
+            "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "A1.10"
+            "group": 0
          },
          {
-            "subject": "Data Mining",
-            "group": 0,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.06"
+            "classRoom": "A1.10",
+            "subject": "Bioinformatica",
+            "name": "Lecture",
+            "lecture_number": 2,
+            "group": 0
          }
       ],
       "1": [],
-      "2": [
-         {
-            "subject": "Bioinformatica",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "C0.110"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
       "0": [
          {
+            "classRoom": "A1.10",
             "subject": "Bioinformatica",
-            "group": 0,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.06"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Autonomous Agents 2",
-            "group": 0,
             "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "A1.08"
+            "group": 0
          }
       ],
-      "2": [],
-      "3": []
+      "1": [],
+      "2": [
+         {
+            "classRoom": "C1.112",
+            "subject": "Autonomous Agents 2",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         },
+         {
+            "classRoom": "C0.110",
+            "subject": "Autonomous Agents 2",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         },
+         {
+            "classRoom": "C0.110",
+            "subject": "Data Mining",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ],
+      "3": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Data Mining",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ]
    },
    "4": {
       "0": [],
       "1": [
          {
-            "subject": "Bioinformatica",
-            "group": 0,
+            "classRoom": "B0.201",
+            "subject": "Autonomous Agents 2",
             "name": "Lecture",
-            "lecture_number": 2,
-            "classRoom": "A1.08"
+            "lecture_number": 0,
+            "group": 0
          },
          {
-            "subject": "Data Mining",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
-         }
-      ],
-      "2": [
-         {
+            "classRoom": "B0.201",
             "subject": "Bioinformatica",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 1,
-            "classRoom": "A1.06"
+            "group": 0
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Data Mining",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
          }
       ],
-      "3": [
-         {
-            "subject": "Autonomous Agents 2",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
-         }
-      ]
+      "2": [],
+      "3": []
    }
 }

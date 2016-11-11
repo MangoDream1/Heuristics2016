@@ -1,36 +1,28 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
-         }
-      ],
-      "2": [
-         {
+            "classRoom": "A1.06",
             "subject": "Advanced Heuristics",
-            "group": 1,
             "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "A1.04"
+            "group": 1
          }
       ],
+      "1": [
+         {
+            "classRoom": "C0.110",
+            "subject": "Architectuur en computerorganisatie",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ],
+      "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Architectuur en computerorganisatie",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "B0.201"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -38,42 +30,50 @@
    "2": {
       "0": [
          {
-            "subject": "Advanced Heuristics",
-            "group": 0,
+            "classRoom": "C0.110",
+            "subject": "Architectuur en computerorganisatie",
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "C1.112"
+            "group": 0
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Project Numerical Recipes",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Advanced Heuristics",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ]
    },
    "3": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Netwerken en systeembeveiliging",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 3
+         }
+      ]
    },
    "4": {
-      "0": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "group": 3,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Project Numerical Recipes",
-            "group": 2,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.08"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    }

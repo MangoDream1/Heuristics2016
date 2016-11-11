@@ -1,45 +1,44 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classRoom": "C0.110",
+            "subject": "Moderne Databases",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Moderne Databases",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
+            "classRoom": "A1.06",
             "subject": "Moderne Databases",
-            "group": 0,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Moderne Databases",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "B0.201"
+            "group": 0
+         },
+         {
+            "classRoom": "A1.10",
+            "subject": "Moderne Databases",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "3": {
       "0": [],

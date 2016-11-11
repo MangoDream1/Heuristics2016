@@ -1,29 +1,30 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classRoom": "C0.110",
+            "subject": "Databases 2",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
+            "classRoom": "A1.06",
             "subject": "Databases 2",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "C1.112"
-         },
-         {
-            "subject": "Databases 2",
-            "group": 1,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
+            "group": 0
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "2": {
@@ -33,21 +34,21 @@
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "subject": "Databases 2",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.08"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "classRoom": "A1.10",
+            "subject": "Databases 2",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

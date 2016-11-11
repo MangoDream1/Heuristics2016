@@ -1,14 +1,6 @@
 {
    "0": {
-      "0": [
-         {
-            "subject": "Autonomous Agents 2",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.10"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -21,44 +13,52 @@
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
+            "classRoom": "B0.201",
             "subject": "Autonomous Agents 2",
-            "group": 2,
             "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "A1.10"
+            "group": 2
          }
-      ]
+      ],
+      "2": [
+         {
+            "classRoom": "A1.08",
+            "subject": "Autonomous Agents 2",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ],
+      "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classRoom": "C1.112",
+            "subject": "Autonomous Agents 2",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
+            "classRoom": "B0.201",
             "subject": "Autonomous Agents 2",
-            "group": 2,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "B0.201"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Autonomous Agents 2",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "A1.04"
+            "group": 0
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    }
 }

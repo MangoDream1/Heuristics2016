@@ -1,79 +1,85 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Bioinformatica",
-            "group": 0,
+            "classRoom": "A1.08",
+            "subject": "Compilerbouw",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         },
+         {
+            "classRoom": "A1.08",
+            "subject": "Project Genetic Algorithms",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [
+         {
+            "classRoom": "A1.08",
+            "subject": "Compilerbouw",
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "A1.08"
+            "group": 0
+         }
+      ],
+      "1": [
+         {
+            "classRoom": "C0.110",
+            "subject": "Bioinformatica",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 1
          }
       ],
       "2": [
          {
-            "subject": "Compilerbouw",
-            "group": 0,
-            "name": "Lecture",
+            "classRoom": "A1.04",
+            "subject": "Bioinformatica",
+            "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "A1.08"
+            "group": 1
+         },
+         {
+            "classRoom": "C0.110",
+            "subject": "Compilerbouw",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
          }
       ],
       "3": []
    },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Compilerbouw",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.04"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Compilerbouw",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "B0.201"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Bioinformatica",
-            "group": 1,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
-         }
-      ]
-   },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Bioinformatica",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         },
+         {
+            "classRoom": "A1.10",
+            "subject": "Bioinformatica",
+            "name": "Lecture",
+            "lecture_number": 2,
+            "group": 0
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "subject": "Bioinformatica",
-            "group": 1,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.10"
-         },
-         {
-            "subject": "Project Genetic Algorithms",
-            "group": 1,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "C0.110"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -82,29 +88,21 @@
       "0": [],
       "1": [
          {
+            "classRoom": "B0.201",
             "subject": "Bioinformatica",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 2,
-            "classRoom": "A1.08"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Bioinformatica",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 1,
-            "classRoom": "A1.06"
+            "group": 0
          },
          {
+            "classRoom": "A1.10",
             "subject": "Compilerbouw",
-            "group": 0,
-            "name": "Practica",
+            "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "B0.201"
+            "group": 0
          }
       ],
+      "2": [],
       "3": []
    }
 }

@@ -2,11 +2,11 @@
    "0": {
       "0": [
          {
+            "classRoom": "A1.06",
             "subject": "Autonomous Agents 2",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.10"
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
          }
       ],
       "1": [],
@@ -14,15 +14,7 @@
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Lineaire Algebra",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 1,
-            "classRoom": "A1.08"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -30,11 +22,11 @@
    "2": {
       "0": [
          {
-            "subject": "Autonomous Agents 2",
-            "group": 0,
-            "name": "Practica",
+            "classRoom": "B0.201",
+            "subject": "Lineaire Algebra",
+            "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "A1.10"
+            "group": 0
          }
       ],
       "1": [],
@@ -43,37 +35,44 @@
    },
    "3": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
+            "classRoom": "C1.112",
             "subject": "Autonomous Agents 2",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "A1.08"
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
          },
          {
-            "subject": "Lineaire Algebra",
-            "group": 0,
-            "name": "Lecture",
+            "classRoom": "C0.110",
+            "subject": "Autonomous Agents 2",
+            "name": "Practica",
             "lecture_number": 0,
-            "classRoom": "C1.112"
+            "group": 0
          }
       ],
-      "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
+            "classRoom": "B0.201",
             "subject": "Autonomous Agents 2",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "A1.04"
+            "group": 0
+         },
+         {
+            "classRoom": "A1.10",
+            "subject": "Lineaire Algebra",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    }
 }

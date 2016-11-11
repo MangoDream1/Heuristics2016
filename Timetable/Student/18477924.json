@@ -6,16 +6,16 @@
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
+            "classRoom": "C1.112",
             "subject": "Analysemethoden en -technieken",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "B0.201"
+            "group": 0
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },

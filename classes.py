@@ -46,6 +46,9 @@ class Lecture:
         for student in self.students:
             student.lectures.append(self)
 
+    def assignLecturetoClassroom(self):
+        self.classRoom.lectures.append(self)
+
     def toDict(self):
         return {"name": self.name, "subject": self.subject.name,
                 "lecture_number": self.lecture_number, "group": self.group,

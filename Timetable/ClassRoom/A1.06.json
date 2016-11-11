@@ -1,31 +1,190 @@
 {
    "0": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Advanced Heuristics",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 1
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Autonomous Agents 2",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Project Numerical Recipes",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ],
+      "1": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Reflectie op de digitale cultuur",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Technology for games",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Technology for games",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Bioinformatica",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Databases 2",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "1": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Software engineering",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 1
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Webprogrammeren en databases",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Project Genetic Algorithms",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ]
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
+      "0": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Bioinformatica",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "1": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Moderne Databases",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Technology for games",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "2": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Autonomous Agents 2",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ],
+      "3": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Advanced Heuristics",
+            "name": "Lecture",
+            "lecture_number": 0,
+            "group": 0
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Data Mining",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ]
    },
    "3": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Project Genetic Algorithms",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ]
    },
    "4": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Collectieve Intelligentie",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 3
+         },
+         {
+            "classRoom": "A1.06",
+            "subject": "Interactie-ontwerp",
+            "name": "Lecture",
+            "lecture_number": 1,
+            "group": 0
+         }
+      ],
+      "1": [
+         {
+            "classRoom": "A1.06",
+            "subject": "Data Mining",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
       "2": [],
       "3": []
    }

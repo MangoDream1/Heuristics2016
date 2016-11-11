@@ -1,58 +1,41 @@
 {
    "0": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
       "0": [
          {
-            "subject": "Zoeken, sturen en bewegen",
-            "group": 1,
-            "name": "Practica",
+            "classRoom": "A1.08",
+            "subject": "Compilerbouw",
+            "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "A1.04"
+            "group": 0
          }
       ],
       "1": [],
       "2": [
          {
+            "classRoom": "C0.110",
             "subject": "Compilerbouw",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "A1.08"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Compilerbouw",
-            "group": 1,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
-         }
-      ]
-   },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Compilerbouw",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 1,
-            "classRoom": "A1.04"
+            "group": 0
+         },
+         {
+            "classRoom": "A1.10",
+            "subject": "Compilerbouw",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 1
          }
       ],
-      "2": [],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "subject": "Compilerbouw",
-            "group": 1,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -65,8 +48,24 @@
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classRoom": "A1.04",
+            "subject": "Compilerbouw",
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "C1.112",
+            "subject": "Zoeken, sturen en bewegen",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 1
+         }
+      ]
    }
 }

@@ -12,18 +12,18 @@
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "subject": "Programmeren in Java 2",
-            "group": 2,
-            "name": "Practica",
-            "lecture_number": 0,
-            "classRoom": "A1.04"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classRoom": "A1.10",
+            "subject": "Programmeren in Java 2",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 2
+         }
+      ]
    },
    "3": {
       "0": [],

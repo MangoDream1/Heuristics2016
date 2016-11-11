@@ -2,20 +2,20 @@
    "0": {
       "0": [
          {
+            "classRoom": "C1.112",
             "subject": "Reflectie op de digitale cultuur",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "C0.110"
+            "group": 0
          }
       ],
       "1": [
          {
-            "subject": "Netwerken en systeembeveiliging",
-            "group": 0,
-            "name": "Practica",
+            "classRoom": "A1.06",
+            "subject": "Reflectie op de digitale cultuur",
+            "name": "WorkLecture",
             "lecture_number": 0,
-            "classRoom": "A1.04"
+            "group": 0
          }
       ],
       "2": [],
@@ -23,37 +23,45 @@
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
+            "classRoom": "A1.04",
             "subject": "Reflectie op de digitale cultuur",
-            "group": 0,
             "name": "Lecture",
             "lecture_number": 1,
-            "classRoom": "B0.201"
+            "group": 0
+         }
+      ],
+      "2": [
+         {
+            "classRoom": "A1.08",
+            "subject": "Advanced Heuristics",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
+         }
+      ],
+      "3": [
+         {
+            "classRoom": "B0.201",
+            "subject": "Netwerken en systeembeveiliging",
+            "name": "Practica",
+            "lecture_number": 0,
+            "group": 0
          }
       ]
    },
    "2": {
-      "0": [
-         {
-            "subject": "Advanced Heuristics",
-            "group": 0,
-            "name": "Lecture",
-            "lecture_number": 0,
-            "classRoom": "C1.112"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
+            "classRoom": "A1.06",
             "subject": "Advanced Heuristics",
-            "group": 0,
-            "name": "Practica",
+            "name": "Lecture",
             "lecture_number": 0,
-            "classRoom": "A1.06"
+            "group": 0
          }
       ]
    },
@@ -66,15 +74,7 @@
    "4": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "group": 0,
-            "name": "WorkLecture",
-            "lecture_number": 0,
-            "classRoom": "C0.110"
-         }
-      ],
+      "2": [],
       "3": []
    }
 }
