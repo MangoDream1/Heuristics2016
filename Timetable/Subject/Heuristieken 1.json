@@ -1,28 +1,6 @@
 {
    "0": {
-      "0": [
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Lecture",
-            "subject": "Heuristieken 1"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Heuristieken 1"
-         },
-         {
-            "classRoom": null,
-            "group": 1,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Heuristieken 1"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -36,14 +14,38 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Heuristieken 1",
+            "group": 0,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ],
       "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Heuristieken 1",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.10"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Heuristieken 1",
+            "group": 1,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         }
+      ]
    },
    "4": {
       "0": [],

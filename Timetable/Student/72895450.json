@@ -1,0 +1,125 @@
+{
+   "0": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "group": 0,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         },
+         {
+            "subject": "Compilerbouw",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         },
+         {
+            "subject": "Webprogrammeren en databases",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "A1.08"
+         }
+      ],
+      "3": []
+   },
+   "1": {
+      "0": [
+         {
+            "subject": "Project Numerical Recipes",
+            "group": 0,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Compilerbouw",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "A1.04"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Compilerbouw",
+            "group": 0,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "group": 0,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "group": 0,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         },
+         {
+            "subject": "Webprogrammeren en databases",
+            "group": 0,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "C1.112"
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Compilerbouw",
+            "group": 0,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ]
+   }
+}

@@ -1,0 +1,71 @@
+{
+   "0": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Data Mining",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         },
+         {
+            "subject": "Data Mining",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "A1.06"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Data Mining",
+            "group": 2,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.04"
+         }
+      ],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Data Mining",
+            "group": 2,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.04"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "group": 3,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.04"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   }
+}

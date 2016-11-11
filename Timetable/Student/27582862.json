@@ -1,0 +1,64 @@
+{
+   "0": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Software engineering",
+            "group": 0,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.10"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Software engineering",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Programmeren in Java 2",
+            "group": 0,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "C1.112"
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Software engineering",
+            "group": 0,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ],
+      "3": []
+   }
+}

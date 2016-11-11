@@ -1,0 +1,93 @@
+{
+   "0": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Data Mining",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         },
+         {
+            "subject": "Data Mining",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "A1.06"
+         },
+         {
+            "subject": "Data Mining",
+            "group": 1,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [
+         {
+            "subject": "Data Mining",
+            "group": 1,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         },
+         {
+            "subject": "Heuristieken 2",
+            "group": 1,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Heuristieken 2",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.04"
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "group": 3,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.04"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Project Numerical Recipes",
+            "group": 2,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ],
+      "2": [],
+      "3": []
+   }
+}

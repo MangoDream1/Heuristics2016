@@ -1,0 +1,64 @@
+{
+   "0": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Architectuur en computerorganisatie",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.04"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Advanced Heuristics",
+            "group": 1,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.04"
+         }
+      ],
+      "3": []
+   },
+   "1": {
+      "0": [
+         {
+            "subject": "Architectuur en computerorganisatie",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "B0.201"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "subject": "Advanced Heuristics",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "C1.112"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   }
+}

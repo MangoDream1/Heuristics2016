@@ -1,0 +1,80 @@
+{
+   "0": {
+      "0": [
+         {
+            "subject": "Programmeren in Java 2",
+            "group": 5,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "C1.112"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Calculus 2",
+            "group": 2,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Kansrekenen 2",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "subject": "Calculus 2",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "C0.110"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Kansrekenen 2",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "C1.112"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "group": 3,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.04"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   }
+}

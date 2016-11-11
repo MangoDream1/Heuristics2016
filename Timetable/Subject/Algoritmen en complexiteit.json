@@ -1,44 +1,23 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "classRoom": null,
+            "subject": "Algoritmen en complexiteit",
             "group": 0,
-            "lecture_number": 0,
-            "name": "Lecture",
-            "subject": "Algoritmen en complexiteit"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Algoritmen en complexiteit"
-         },
-         {
-            "classRoom": null,
-            "group": 1,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Algoritmen en complexiteit"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
             "name": "Practica",
-            "subject": "Algoritmen en complexiteit"
+            "lecture_number": 0,
+            "classRoom": "A1.06"
          },
          {
-            "classRoom": null,
+            "subject": "Algoritmen en complexiteit",
             "group": 1,
-            "lecture_number": 0,
             "name": "Practica",
-            "subject": "Algoritmen en complexiteit"
+            "lecture_number": 0,
+            "classRoom": "A1.04"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    },
    "1": {
@@ -50,7 +29,15 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "group": 0,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         }
+      ],
       "3": []
    },
    "3": {
@@ -63,6 +50,21 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         },
+         {
+            "subject": "Algoritmen en complexiteit",
+            "group": 1,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         }
+      ]
    }
 }

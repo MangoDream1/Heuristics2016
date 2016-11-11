@@ -1,0 +1,125 @@
+{
+   "0": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Data Mining",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         },
+         {
+            "subject": "Data Mining",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "A1.06"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Data Mining",
+            "group": 2,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.04"
+         }
+      ],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Software engineering",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Technology for games",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "C0.110"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "subject": "Heuristieken 1",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.10"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Data Mining",
+            "group": 2,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.04"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Software engineering",
+            "group": 1,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Heuristieken 1",
+            "group": 1,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         },
+         {
+            "subject": "Software engineering",
+            "group": 1,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Technology for games",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "A1.06"
+         },
+         {
+            "subject": "Technology for games",
+            "group": 1,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "C0.110"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   }
+}

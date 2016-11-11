@@ -1,0 +1,79 @@
+{
+   "0": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Moderne Databases",
+            "group": 2,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "C1.112"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Machine Learning",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "B0.201"
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Moderne Databases",
+            "group": 2,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Machine Learning",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.04"
+         },
+         {
+            "subject": "Moderne Databases",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "subject": "Programmeren in Java 2",
+            "group": 4,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   }
+}

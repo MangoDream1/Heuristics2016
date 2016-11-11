@@ -1,163 +1,110 @@
 {
    "0": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Data Mining",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         },
+         {
+            "subject": "Data Mining",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "A1.06"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "1": {
       "0": [
          {
-            "classRoom": null,
-<<<<<<< HEAD
+            "subject": "Lineaire Algebra",
             "group": 0,
-            "lecture_number": 0,
             "name": "Lecture",
-=======
-            "lecture_number": 0,
-            "name": "Lecture",
-            "group": 0,
->>>>>>> origin/master
-            "subject": "Analysemethoden en -technieken"
-         },
-         {
-            "classRoom": null,
-<<<<<<< HEAD
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Lecture",
-=======
-            "lecture_number": 0,
-            "name": "Lecture",
-            "group": 0,
->>>>>>> origin/master
-            "subject": "Data Mining"
-         },
-         {
-            "classRoom": null,
-<<<<<<< HEAD
-            "group": 0,
             "lecture_number": 1,
-            "name": "Lecture",
-=======
-            "lecture_number": 1,
-            "name": "Lecture",
+            "classRoom": "A1.08"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Analysemethoden en -technieken",
             "group": 0,
->>>>>>> origin/master
-            "subject": "Data Mining"
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
          },
          {
-            "classRoom": null,
-<<<<<<< HEAD
+            "subject": "Software engineering",
             "group": 0,
-            "lecture_number": 0,
             "name": "WorkLecture",
-=======
             "lecture_number": 0,
-            "name": "WorkLecture",
-            "group": 0,
->>>>>>> origin/master
-            "subject": "Data Mining"
-         },
+            "classRoom": "A1.10"
+         }
+      ],
+      "2": [],
+      "3": [
          {
-            "classRoom": null,
-<<<<<<< HEAD
+            "subject": "Software engineering",
             "group": 0,
+            "name": "Lecture",
             "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ]
+   },
+   "2": {
+      "0": [
+         {
+            "subject": "Data Mining",
+            "group": 0,
             "name": "Practica",
-=======
             "lecture_number": 0,
-            "name": "Practica",
-            "group": 0,
->>>>>>> origin/master
-            "subject": "Data Mining"
-         },
-         {
-            "classRoom": null,
-<<<<<<< HEAD
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Lecture",
-=======
-            "lecture_number": 0,
-            "name": "Lecture",
-            "group": 0,
->>>>>>> origin/master
-            "subject": "Lineaire Algebra"
-         },
-         {
-            "classRoom": null,
-<<<<<<< HEAD
-            "group": 0,
-            "lecture_number": 1,
-            "name": "Lecture",
-=======
-            "lecture_number": 1,
-            "name": "Lecture",
-            "group": 0,
->>>>>>> origin/master
-            "subject": "Lineaire Algebra"
-         },
-         {
-            "classRoom": null,
-<<<<<<< HEAD
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Lecture",
-=======
-            "lecture_number": 0,
-            "name": "Lecture",
-            "group": 0,
->>>>>>> origin/master
-            "subject": "Software engineering"
-         },
-         {
-            "classRoom": null,
-<<<<<<< HEAD
-            "group": 0,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-=======
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "group": 0,
->>>>>>> origin/master
-            "subject": "Software engineering"
-         },
-         {
-            "classRoom": null,
-<<<<<<< HEAD
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Practica",
-=======
-            "lecture_number": 0,
-            "name": "Practica",
-            "group": 0,
->>>>>>> origin/master
-            "subject": "Software engineering"
+            "classRoom": "A1.06"
          }
       ],
       "1": [],
       "2": [],
       "3": []
    },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
    "3": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Lineaire Algebra",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "C1.112"
+         }
+      ],
       "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "subject": "Data Mining",
+            "group": 0,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "C1.112"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Software engineering",
+            "group": 0,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ],
       "3": []
    }
 }

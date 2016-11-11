@@ -2,25 +2,11 @@
    "0": {
       "0": [
          {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Practica",
-            "subject": "Zoeken, sturen en bewegen"
-         },
-         {
-            "classRoom": null,
+            "subject": "Zoeken, sturen en bewegen",
             "group": 1,
-            "lecture_number": 0,
             "name": "Practica",
-            "subject": "Zoeken, sturen en bewegen"
-         },
-         {
-            "classRoom": null,
-            "group": 2,
             "lecture_number": 0,
-            "name": "Practica",
-            "subject": "Zoeken, sturen en bewegen"
+            "classRoom": "A1.04"
          }
       ],
       "1": [],
@@ -34,7 +20,22 @@
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "group": 0,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.04"
+         },
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "group": 2,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "C1.112"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

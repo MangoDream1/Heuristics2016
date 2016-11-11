@@ -1,117 +1,125 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "classRoom": null,
+            "subject": "Interactie-ontwerp",
             "group": 0,
-            "lecture_number": 0,
             "name": "Lecture",
-            "subject": "Algoritmen en complexiteit"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Algoritmen en complexiteit"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Practica",
-            "subject": "Algoritmen en complexiteit"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Lecture",
-            "subject": "Compilerbouw"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
             "lecture_number": 1,
-            "name": "Lecture",
-            "subject": "Compilerbouw"
+            "classRoom": "C1.112"
          },
          {
-            "classRoom": null,
+            "subject": "Netwerken en systeembeveiliging",
             "group": 0,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Compilerbouw"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
             "name": "Practica",
-            "subject": "Compilerbouw"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
             "lecture_number": 0,
-            "name": "Lecture",
-            "subject": "Interactie-ontwerp"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 1,
-            "name": "Lecture",
-            "subject": "Interactie-ontwerp"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Lecture",
-            "subject": "Lineaire Algebra"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 1,
-            "name": "Lecture",
-            "subject": "Lineaire Algebra"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Practica",
-            "subject": "Netwerken en systeembeveiliging"
+            "classRoom": "A1.04"
          }
       ],
-      "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "group": 0,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         },
+         {
+            "subject": "Compilerbouw",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [],
+      "0": [
+         {
+            "subject": "Lineaire Algebra",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "A1.08"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Compilerbouw",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "A1.04"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Compilerbouw",
+            "group": 0,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "group": 0,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Lineaire Algebra",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "C1.112"
+         }
+      ],
       "2": [],
       "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "subject": "Compilerbouw",
+            "group": 0,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         },
+         {
+            "subject": "Interactie-ontwerp",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ]
    }
 }

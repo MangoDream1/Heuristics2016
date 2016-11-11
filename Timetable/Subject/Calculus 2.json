@@ -1,55 +1,58 @@
 {
    "0": {
-      "0": [
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Lecture",
-            "subject": "Calculus 2"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Calculus 2"
-         },
-         {
-            "classRoom": null,
-            "group": 1,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Calculus 2"
-         },
-         {
-            "classRoom": null,
-            "group": 2,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Calculus 2"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Calculus 2",
+            "group": 2,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         }
+      ],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Calculus 2",
+            "group": 0,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "C0.110"
+         }
+      ],
       "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Calculus 2",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "C0.110"
+         }
+      ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Calculus 2",
+            "group": 1,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         }
+      ],
       "3": []
    },
    "4": {

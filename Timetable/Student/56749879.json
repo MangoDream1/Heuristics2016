@@ -1,0 +1,126 @@
+{
+   "0": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Bioinformatica",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Databases 2",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "C1.112"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Bioinformatica",
+            "group": 1,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.04"
+         }
+      ]
+   },
+   "2": {
+      "0": [
+         {
+            "subject": "Programmeren in Java 2",
+            "group": 2,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.04"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Heuristieken 1",
+            "group": 0,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Kansrekenen 2",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "subject": "Bioinformatica",
+            "group": 1,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.10"
+         },
+         {
+            "subject": "Databases 2",
+            "group": 0,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         },
+         {
+            "subject": "Heuristieken 1",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.10"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Kansrekenen 2",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "C1.112"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Bioinformatica",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 2,
+            "classRoom": "A1.08"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Bioinformatica",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "A1.06"
+         }
+      ],
+      "3": []
+   }
+}

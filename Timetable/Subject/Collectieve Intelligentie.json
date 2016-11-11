@@ -1,108 +1,115 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "classRoom": null,
+            "subject": "Collectieve Intelligentie",
             "group": 0,
-            "lecture_number": 0,
             "name": "Lecture",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
             "lecture_number": 1,
-            "name": "Lecture",
-            "subject": "Collectieve Intelligentie"
+            "classRoom": "A1.08"
          },
          {
-            "classRoom": null,
+            "subject": "Collectieve Intelligentie",
             "group": 0,
+            "name": "Lecture",
             "lecture_number": 2,
-            "name": "Lecture",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "classRoom": null,
-            "group": 1,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "classRoom": null,
-            "group": 2,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "classRoom": null,
-            "group": 3,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 0,
-            "name": "Practica",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "classRoom": null,
-            "group": 1,
-            "lecture_number": 0,
-            "name": "Practica",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "classRoom": null,
-            "group": 2,
-            "lecture_number": 0,
-            "name": "Practica",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "classRoom": null,
-            "group": 3,
-            "lecture_number": 0,
-            "name": "Practica",
-            "subject": "Collectieve Intelligentie"
+            "classRoom": "A1.10"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "group": 2,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.10"
+         }
+      ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "group": 2,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.04"
+         },
+         {
+            "subject": "Collectieve Intelligentie",
+            "group": 3,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.10"
+         }
+      ],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "group": 3,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.10"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "group": 0,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "C1.112"
+         }
+      ]
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "group": 1,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "C0.110"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "group": 0,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         },
+         {
+            "subject": "Collectieve Intelligentie",
+            "group": 1,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.10"
+         }
+      ]
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

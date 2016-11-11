@@ -1,0 +1,87 @@
+{
+   "0": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Architectuur en computerorganisatie",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.04"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "A1.08"
+         },
+         {
+            "subject": "Collectieve Intelligentie",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 2,
+            "classRoom": "A1.10"
+         }
+      ],
+      "3": []
+   },
+   "1": {
+      "0": [
+         {
+            "subject": "Architectuur en computerorganisatie",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "B0.201"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "group": 0,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "C1.112"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "group": 0,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   }
+}

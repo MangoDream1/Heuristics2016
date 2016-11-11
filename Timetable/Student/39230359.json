@@ -1,0 +1,80 @@
+{
+   "0": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "A1.08"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "group": 1,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.10"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Kansrekenen 2",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Kansrekenen 2",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "C1.112"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "group": 1,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.10"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   }
+}

@@ -1,29 +1,15 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "classRoom": null,
+            "subject": "Compilerbouw (practicum)",
             "group": 0,
-            "lecture_number": 0,
             "name": "Practica",
-            "subject": "Compilerbouw (practicum)"
-         },
-         {
-            "classRoom": null,
-            "group": 1,
             "lecture_number": 0,
-            "name": "Practica",
-            "subject": "Compilerbouw (practicum)"
-         },
-         {
-            "classRoom": null,
-            "group": 2,
-            "lecture_number": 0,
-            "name": "Practica",
-            "subject": "Compilerbouw (practicum)"
+            "classRoom": "C1.112"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
@@ -36,12 +22,28 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Compilerbouw (practicum)",
+            "group": 1,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "C0.110"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Compilerbouw (practicum)",
+            "group": 2,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "C0.110"
+         }
+      ],
       "2": [],
       "3": []
    },

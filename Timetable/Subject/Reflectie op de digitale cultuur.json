@@ -2,39 +2,11 @@
    "0": {
       "0": [
          {
-            "classRoom": null,
+            "subject": "Reflectie op de digitale cultuur",
             "group": 0,
-            "lecture_number": 0,
             "name": "Lecture",
-            "subject": "Reflectie op de digitale cultuur"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
-            "lecture_number": 1,
-            "name": "Lecture",
-            "subject": "Reflectie op de digitale cultuur"
-         },
-         {
-            "classRoom": null,
-            "group": 0,
             "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Reflectie op de digitale cultuur"
-         },
-         {
-            "classRoom": null,
-            "group": 1,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Reflectie op de digitale cultuur"
-         },
-         {
-            "classRoom": null,
-            "group": 2,
-            "lecture_number": 0,
-            "name": "WorkLecture",
-            "subject": "Reflectie op de digitale cultuur"
+            "classRoom": "C0.110"
          }
       ],
       "1": [],
@@ -45,24 +17,56 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "B0.201"
+         }
+      ]
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "group": 2,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "group": 1,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "C1.112"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "group": 0,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "C0.110"
+         }
+      ],
       "3": []
    }
 }

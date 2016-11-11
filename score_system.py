@@ -1,4 +1,4 @@
-from process_data import *
+from classes import *
 
 class Score:
 	def __init__(self, subject_lst, student_lst, classroom_lst):
@@ -24,7 +24,7 @@ class Score:
 		valid = True
 
 		for subject in self.subject_lst:
-			
+
 			for lecture in subject.lectures:
 				if lecture.classRoom == None or lecture.day == None or lecture.timeslot == None:
 					valid = False
@@ -118,25 +118,3 @@ class Score:
 			subject_score -= 30
 
 		return subject_score
-	
-
-for x in subjects:
-	for y in x.lectures:
-		y.classRoom = classRooms[0]
-		classRooms[0].lectures.append(y)
-
-	x.fillInTimetable()
-
-for x in students:
-	x.fillInTimetable()
-
-for x in classRooms:
-	x.fillInTimetable()
-
-
-print(Score(subjects, students, classRooms).score)
-
-
-
-
-# SCORE = vakkenscore + student_score + lokaal_score + geldig_score

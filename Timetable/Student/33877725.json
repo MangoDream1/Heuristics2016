@@ -1,0 +1,127 @@
+{
+   "0": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Bioinformatica",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "A1.08"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "group": 1,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "A1.10"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Bioinformatica",
+            "group": 2,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "C1.112"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Software engineering",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Bioinformatica",
+            "group": 2,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "C0.110"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Software engineering",
+            "group": 1,
+            "name": "Practica",
+            "lecture_number": 0,
+            "classRoom": "B0.201"
+         },
+         {
+            "subject": "Webprogrammeren en databases",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 0,
+            "classRoom": "A1.08"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Software engineering",
+            "group": 1,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.06"
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "group": 1,
+            "name": "WorkLecture",
+            "lecture_number": 0,
+            "classRoom": "A1.10"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Bioinformatica",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 2,
+            "classRoom": "A1.08"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Bioinformatica",
+            "group": 0,
+            "name": "Lecture",
+            "lecture_number": 1,
+            "classRoom": "A1.06"
+         }
+      ],
+      "3": []
+   }
+}

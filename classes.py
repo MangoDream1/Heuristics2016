@@ -1,4 +1,4 @@
-import copy
+from copy import copy
 import math
 import json
 import os
@@ -49,12 +49,13 @@ class Lecture:
     def toDict(self):
         return {"name": self.name, "subject": self.subject.name,
                 "lecture_number": self.lecture_number, "group": self.group,
-                "classRoom": self.classRoom}
+                "classRoom": self.classRoom.__str__()}
 
 class Timetable:
     def __init__(self):
         # Empty timetable with 5 days and the number of slots
         self.timetable = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(5)}
+        self.jsonDict = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(5)}
 
     def getLectures(self):
         return [x for x in self.lectures if x.name == "Lecture"]
@@ -68,22 +69,22 @@ class Timetable:
     def exportTimetable(self):
         self.fillInTimetable()
 
-        for day, timeslot in self.timetable.items():
+        for day, timeslot in self.jsonDict.items():
             for key, lectures in timeslot.items():
                 nLectures = [lecture.toDict() for lecture in lectures]
 
-                self.timetable[day][key] = nLectures
-
+                self.jsonDict[day][key] = nLectures
 
         if not os.path.exists("Timetable/%s" % self.__class__.__name__):
             os.makedirs("Timetable/%s" % self.__class__.__name__)
 
         with open("Timetable/%s/%s.json" % (self.__class__.__name__, self.getId()), 'w') as f:
-            json.dump(self.timetable, f, indent=3)
+            json.dump(self.jsonDict, f, indent=3)
 
     def fillInTimetable(self):
         for lecture in self.lectures:
             self.timetable[lecture.day][lecture.timeslot].append(lecture)
+            self.jsonDict[lecture.day][lecture.timeslot].append(lecture)
 
 class ClassRoom(Timetable):
     def __init__(self, room_number, capacity):
@@ -132,7 +133,7 @@ class Subject(Timetable):
                         # For every work lecture, there are the same groups that need to be filled
                         # But these groups also need to be created
                         for groupNumber in range(nGroups):
-                            lecture = copy.copy(lecture)
+                            lecture = copy(lecture)
                             lecture.group = groupNumber
 
                             lecture.students = self.students[groupNumber*lectureSize:(groupNumber+1)*lectureSize]
