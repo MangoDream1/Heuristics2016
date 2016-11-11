@@ -2,79 +2,67 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A0",
+            "classroom": "B0.201"
+         }
+      ],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "group": 2,
-            "classroom": "A1.10",
             "subject": "Project Genetic Algorithms",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Reflectie op de digitale cultuur",
-            "name": "Lecture",
-            "lecture_number": 1
-         }
-      ]
-   },
-   "2": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Analysemethoden en -technieken",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
-      "1": [
-         {
-            "group": 2,
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [
-         {
-            "group": 3,
-            "classroom": "A1.08",
-            "subject": "Netwerken en systeembeveiliging",
-            "name": "Practica",
-            "lecture_number": 0
+            "string": "P0C15",
+            "classroom": "C1.112"
          }
       ],
       "1": [],
       "2": [
          {
-            "group": 0,
-            "classroom": "A1.10",
             "subject": "Reflectie op de digitale cultuur",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "L1A0",
+            "classroom": "A1.04"
          }
       ],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0D20",
+            "classroom": "A1.06"
+         }
+      ],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A0",
+            "classroom": "A1.06"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0C20",
+            "classroom": "C0.110"
+         }
+      ]
    }
 }

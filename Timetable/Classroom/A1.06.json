@@ -1,162 +1,152 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "1": {
       "0": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Algoritmen en complexiteit",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Interactie-ontwerp",
+            "string": "L0A0",
+            "classroom": "A1.06"
          }
       ],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Machine Learning",
-            "name": "Lecture",
-            "lecture_number": 1
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Compilerbouw",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Webprogrammeren en databases",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Autonomous Agents 2",
+            "string": "P0B10",
+            "classroom": "A1.06"
          }
       ],
       "3": [
          {
-            "group": 1,
-            "classroom": "A1.06",
-            "subject": "Bioinformatica",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Lineaire Algebra",
+            "string": "L1A0",
+            "classroom": "A1.06"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0A15",
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Programmeren in Java 2",
+            "string": "P0F20",
+            "classroom": "A1.06"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Compilerbouw",
+            "string": "P0B40",
+            "classroom": "A1.06"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Advanced Heuristics",
+            "string": "P0B10",
+            "classroom": "A1.06"
+         },
+         {
+            "subject": "Programmeren in Java 2",
+            "string": "P0D20",
+            "classroom": "A1.06"
+         },
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0B15",
+            "classroom": "A1.06"
          }
       ]
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "group": 1,
-            "classroom": "A1.06",
-            "subject": "Informatie- en organisatieontwerp",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Data Mining",
+            "string": "W0A10",
+            "classroom": "A1.06"
          }
       ],
-      "3": []
+      "2": [],
+      "3": [
+         {
+            "subject": "Project Numerical Recipes",
+            "string": "P0C15",
+            "classroom": "A1.06"
+         }
+      ]
    },
    "3": {
       "0": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Webprogrammeren en databases",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Programmeren in Java 2",
+            "string": "P0A20",
+            "classroom": "A1.06"
          }
       ],
       "1": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Webprogrammeren en databases",
-            "name": "Lecture",
-            "lecture_number": 1
-         }
-      ],
-      "2": [
-         {
-            "group": 2,
-            "classroom": "A1.06",
-            "subject": "Compilerbouw (practicum)",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "P0B15",
+            "classroom": "A1.06"
          },
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Moderne Databases",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0D20",
+            "classroom": "A1.06"
          }
       ],
+      "2": [],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Bioinformatica",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0A25",
+            "classroom": "A1.06"
          },
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Compilerbouw",
-            "name": "Lecture",
-            "lecture_number": 1
-         },
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Compilerbouw",
-            "name": "Practica",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Kansrekenen 2",
-            "name": "Lecture",
-            "lecture_number": 1
-         },
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Machine Learning",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Webprogrammeren en databases",
+            "string": "L0A0",
+            "classroom": "A1.06"
          }
       ]
    },
    "4": {
       "0": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Architectuur en computerorganisatie",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Kansrekenen 2",
+            "string": "L0A0",
+            "classroom": "A1.06"
+         },
+         {
+            "subject": "Software engineering",
+            "string": "P0B40",
+            "classroom": "A1.06"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Project Numerical Recipes",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Autonomous Agents 2",
+            "string": "L1A0",
+            "classroom": "A1.06"
+         },
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "P0C20",
+            "classroom": "A1.06"
          }
-      ]
+      ],
+      "2": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A0",
+            "classroom": "A1.06"
+         }
+      ],
+      "3": []
    }
 }

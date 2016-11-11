@@ -1,88 +1,60 @@
 {
    "0": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Technology for games",
+            "string": "L1A0",
+            "classroom": "A1.10"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Heuristieken 1",
+            "string": "L0A0",
+            "classroom": "A1.08"
+         }
+      ]
+   },
+   "1": {
       "0": [
          {
-            "group": 0,
-            "classroom": "C1.112",
-            "subject": "Heuristieken 1",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Moderne Databases",
+            "string": "P0C20",
+            "classroom": "A1.10"
          }
       ],
       "1": [],
       "2": [],
       "3": []
    },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Moderne Databases",
-            "name": "Lecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 1,
-            "classroom": "C1.112",
-            "subject": "Technology for games",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
-      "2": [
-         {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Technology for games",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
-      "3": [
-         {
-            "group": 1,
-            "classroom": "C1.112",
-            "subject": "Databases 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ]
-   },
    "2": {
       "0": [],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Databases 2",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 2,
-            "classroom": "B0.201",
-            "subject": "Moderne Databases",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ]
+      "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Moderne Databases",
+            "string": "W0C20",
+            "classroom": "C1.112"
+         }
+      ],
       "1": [],
       "2": [],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.10",
+            "subject": "Databases 2",
+            "string": "W0B40",
+            "classroom": "A1.08"
+         },
+         {
             "subject": "Technology for games",
-            "name": "Lecture",
-            "lecture_number": 1
+            "string": "L0A0",
+            "classroom": "C1.112"
          }
       ]
    },
@@ -90,22 +62,28 @@
       "0": [],
       "1": [
          {
-            "group": 1,
-            "classroom": "B0.201",
-            "subject": "Heuristieken 1",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
-      "2": [
+            "subject": "Databases 2",
+            "string": "L0A0",
+            "classroom": "A1.08"
+         },
          {
-            "group": 2,
-            "classroom": "B0.201",
             "subject": "Moderne Databases",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "string": "L0A0",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Technology for games",
+            "string": "W0B20",
+            "classroom": "C0.110"
          }
       ],
-      "3": []
+      "2": [],
+      "3": [
+         {
+            "subject": "Heuristieken 1",
+            "string": "W0B25",
+            "classroom": "A1.08"
+         }
+      ]
    }
 }

@@ -4,25 +4,15 @@
       "1": [],
       "2": [
          {
-            "group": 0,
-            "classroom": "C0.110",
             "subject": "Autonomous Agents 2",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "P0B10",
+            "classroom": "A1.06"
          }
       ],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "group": 1,
-            "classroom": "A1.04",
-            "subject": "Autonomous Agents 2",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -34,30 +24,32 @@
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "group": 0,
-            "classroom": "C0.110",
             "subject": "Autonomous Agents 2",
-            "name": "Lecture",
-            "lecture_number": 1
+            "string": "L0A0",
+            "classroom": "A1.08"
          }
       ],
-      "2": [
+      "1": [],
+      "2": [],
+      "3": [
          {
-            "group": 1,
-            "classroom": "B0.201",
             "subject": "Autonomous Agents 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "string": "W0B10",
+            "classroom": "B0.201"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "L1A0",
+            "classroom": "A1.06"
+         }
+      ],
       "2": [],
       "3": []
    }

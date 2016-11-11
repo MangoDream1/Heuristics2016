@@ -8,36 +8,18 @@
    "1": {
       "0": [
          {
-            "group": 0,
-            "classroom": "A1.08",
             "subject": "Calculus 2",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "W0B40",
+            "classroom": "C0.110"
          }
       ],
-      "1": [
-         {
-            "group": 1,
-            "classroom": "A1.08",
-            "subject": "Calculus 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Databases 2",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -49,15 +31,25 @@
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "subject": "Databases 2",
+            "string": "L0A0",
+            "classroom": "A1.08"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Databases 2",
+            "string": "W0A40",
+            "classroom": "A1.08"
+         }
+      ],
       "3": [
          {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Databases 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Calculus 2",
+            "string": "L0A0",
+            "classroom": "A1.08"
          }
       ]
    }

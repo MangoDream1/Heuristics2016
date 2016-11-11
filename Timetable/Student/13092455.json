@@ -1,117 +1,94 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "group": 1,
-            "classroom": "A1.08",
-            "subject": "Project Numerical Recipes",
-            "name": "Practica",
-            "lecture_number": 0
-         },
-         {
-            "group": 1,
-            "classroom": "B0.201",
-            "subject": "Reflectie op de digitale cultuur",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
-      "2": [
-         {
-            "group": 1,
-            "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "name": "Lecture",
-            "lecture_number": 1
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "group": 0,
-            "classroom": "C0.110",
             "subject": "Reflectie op de digitale cultuur",
-            "name": "Lecture",
-            "lecture_number": 1
+            "string": "W0B20",
+            "classroom": "C0.110"
          }
       ]
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Project Numerical Recipes",
+            "string": "P0B15",
+            "classroom": "A1.04"
+         },
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A0",
+            "classroom": "A1.04"
+         }
+      ],
+      "3": []
    },
    "2": {
       "0": [],
       "1": [
          {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Databases 2",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Collectieve Intelligentie",
+            "string": "L1A0",
+            "classroom": "A1.04"
+         },
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "W0B20",
+            "classroom": "A1.08"
          }
       ],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "P0B20",
+            "classroom": "B0.201"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "group": 1,
-            "classroom": "A1.08",
             "subject": "Collectieve Intelligentie",
-            "name": "Practica",
-            "lecture_number": 0
+            "string": "L2A0",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Databases 2",
+            "string": "L0A0",
+            "classroom": "A1.08"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Databases 2",
+            "string": "W0A40",
+            "classroom": "A1.08"
          },
          {
-            "group": 0,
-            "classroom": "A1.10",
             "subject": "Reflectie op de digitale cultuur",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "L0A0",
+            "classroom": "A1.06"
          }
       ],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.10",
             "subject": "Collectieve Intelligentie",
-            "name": "Lecture",
-            "lecture_number": 2
-         }
-      ]
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Databases 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "string": "L0A0",
+            "classroom": "A1.10"
          }
       ]
    }

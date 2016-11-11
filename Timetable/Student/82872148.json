@@ -1,64 +1,56 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Software engineering",
+            "string": "L0A0",
+            "classroom": "A1.04"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Software engineering",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0A20",
+            "classroom": "B0.201"
          }
       ],
+      "1": [
+         {
+            "subject": "Software engineering",
+            "string": "P0A40",
+            "classroom": "C0.110"
+         }
+      ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Software engineering",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Software engineering",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Software engineering",
+            "string": "W0A40",
+            "classroom": "B0.201"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 0,
-            "classroom": "B0.201",
-            "subject": "Netwerken en systeembeveiliging",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ]
+      "3": []
    }
 }

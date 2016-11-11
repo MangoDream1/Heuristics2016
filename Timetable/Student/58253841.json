@@ -3,49 +3,34 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 1,
-            "classroom": "A1.08",
-            "subject": "Zoeken, sturen en bewegen",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [
          {
-            "group": 0,
-            "classroom": "A1.08",
             "subject": "Calculus 2",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
-      "1": [
+            "string": "W0B40",
+            "classroom": "C0.110"
+         },
          {
-            "group": 1,
-            "classroom": "A1.08",
-            "subject": "Calculus 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Project Genetic Algorithms",
+            "string": "P0B15",
+            "classroom": "C0.110"
          }
       ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0B15",
+            "classroom": "A1.06"
+         }
+      ]
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "group": 1,
-            "classroom": "A1.04",
-            "subject": "Project Genetic Algorithms",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -59,6 +44,12 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Calculus 2",
+            "string": "L0A0",
+            "classroom": "A1.08"
+         }
+      ]
    }
 }

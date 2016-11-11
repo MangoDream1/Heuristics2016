@@ -1,134 +1,105 @@
 {
    "0": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Bioinformatica",
-            "name": "Lecture",
-            "lecture_number": 2
-         },
-         {
-            "group": 0,
-            "classroom": "C1.112",
-            "subject": "Heuristieken 1",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
-         {
-            "group": 0,
-            "classroom": "B0.201",
-            "subject": "Lineaire Algebra",
-            "name": "Lecture",
-            "lecture_number": 1
-         }
-      ],
+      "2": [],
       "3": [
          {
-            "group": 2,
-            "classroom": "C1.112",
-            "subject": "Calculus 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Bioinformatica",
+            "string": "W0C20",
+            "classroom": "A1.08"
+         },
+         {
+            "subject": "Heuristieken 1",
+            "string": "L0A0",
+            "classroom": "A1.08"
+         },
+         {
+            "subject": "Lineaire Algebra",
+            "string": "L1A0",
+            "classroom": "A1.06"
          }
       ]
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Bioinformatica",
-            "name": "Lecture",
-            "lecture_number": 1
+            "subject": "Calculus 2",
+            "string": "W0C40",
+            "classroom": "A1.10"
          },
          {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Calculus 2",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
-      "1": [
-         {
-            "group": 2,
-            "classroom": "A1.04",
-            "subject": "Bioinformatica",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "C1.112",
-            "subject": "Bioinformatica",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "A1.08",
             "subject": "Kansrekenen 2",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "L1A0",
+            "classroom": "A1.10"
          }
       ],
       "2": [],
       "3": [
          {
-            "group": 0,
-            "classroom": "C1.112",
-            "subject": "Lineaire Algebra",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Bioinformatica",
+            "string": "P0C20",
+            "classroom": "A1.10"
          }
       ]
    },
-   "3": {
+   "2": {
       "0": [],
       "1": [],
       "2": [
          {
-            "group": 2,
-            "classroom": "A1.10",
             "subject": "Bioinformatica",
-            "name": "Practica",
-            "lecture_number": 0
+            "string": "L0A0",
+            "classroom": "B0.201"
          }
       ],
-      "3": [
+      "3": []
+   },
+   "3": {
+      "0": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Kansrekenen 2",
-            "name": "Lecture",
-            "lecture_number": 1
+            "subject": "Bioinformatica",
+            "string": "L2A0",
+            "classroom": "C0.110"
          }
-      ]
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Lineaire Algebra",
+            "string": "L0A0",
+            "classroom": "A1.10"
+         }
+      ],
+      "3": []
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "group": 1,
-            "classroom": "B0.201",
-            "subject": "Heuristieken 1",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Bioinformatica",
+            "string": "L1A0",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L0A0",
+            "classroom": "A1.06"
          }
       ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Calculus 2",
+            "string": "L0A0",
+            "classroom": "A1.08"
+         },
+         {
+            "subject": "Heuristieken 1",
+            "string": "W0B25",
+            "classroom": "A1.08"
+         }
+      ]
    }
 }

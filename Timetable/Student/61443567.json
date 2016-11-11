@@ -1,101 +1,83 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "W0D20",
+            "classroom": "C1.112"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 3,
-            "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [
          {
-            "group": 0,
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie",
-            "name": "Lecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Webprogrammeren en databases",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "name": "Lecture",
-            "lecture_number": 1
-         },
-         {
-            "group": 1,
-            "classroom": "C1.112",
-            "subject": "Webprogrammeren en databases",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
-      "2": [
-         {
-            "group": 1,
-            "classroom": "A1.08",
             "subject": "Heuristieken 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "string": "L0A0",
+            "classroom": "A1.10"
          }
       ],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [],
       "1": [
          {
-            "group": 5,
-            "classroom": "A1.08",
             "subject": "Programmeren in Java 2",
-            "name": "Practica",
-            "lecture_number": 0
+            "string": "P0F20",
+            "classroom": "A1.06"
          },
          {
-            "group": 0,
-            "classroom": "A1.06",
             "subject": "Webprogrammeren en databases",
-            "name": "Lecture",
-            "lecture_number": 1
+            "string": "P0B20",
+            "classroom": "A1.04"
          }
       ],
       "2": [],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.10",
+            "subject": "Webprogrammeren en databases",
+            "string": "W0B20",
+            "classroom": "A1.04"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
             "subject": "Collectieve Intelligentie",
-            "name": "Lecture",
-            "lecture_number": 2
+            "string": "L1A0",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "L1A0",
+            "classroom": "A1.08"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L2A0",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Heuristieken 2",
+            "string": "W0B20",
+            "classroom": "A1.10"
          },
          {
-            "group": 0,
-            "classroom": "B0.201",
-            "subject": "Heuristieken 2",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Webprogrammeren en databases",
+            "string": "L0A0",
+            "classroom": "A1.06"
          }
       ]
    },
@@ -104,20 +86,16 @@
       "1": [],
       "2": [
          {
-            "group": 1,
-            "classroom": "A1.10",
-            "subject": "Webprogrammeren en databases",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Collectieve Intelligentie",
+            "string": "P0D20",
+            "classroom": "C0.110"
          }
       ],
       "3": [
          {
-            "group": 3,
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "string": "L0A0",
+            "classroom": "A1.10"
          }
       ]
    }

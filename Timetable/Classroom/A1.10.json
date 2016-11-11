@@ -2,191 +2,148 @@
    "0": {
       "0": [
          {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Interactie-ontwerp",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Collectieve Intelligentie",
+            "string": "P0A20",
+            "classroom": "A1.10"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "group": 2,
-            "classroom": "A1.10",
-            "subject": "Netwerken en systeembeveiliging",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Technology for games",
+            "string": "L1A0",
+            "classroom": "A1.10"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "1": {
       "0": [
          {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Bioinformatica",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0B25",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Heuristieken 2",
+            "string": "L0A0",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Moderne Databases",
+            "string": "P0C20",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0B20",
+            "classroom": "A1.10"
          }
       ],
       "1": [
          {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Moderne Databases",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Calculus 2",
+            "string": "W0C40",
+            "classroom": "A1.10"
          },
          {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Programmeren in Java 2",
-            "name": "Practica",
-            "lecture_number": 0
-         },
-         {
-            "group": 2,
-            "classroom": "A1.10",
-            "subject": "Project Genetic Algorithms",
-            "name": "Practica",
-            "lecture_number": 0
-         },
-         {
-            "group": 1,
-            "classroom": "A1.10",
-            "subject": "Software engineering",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Kansrekenen 2",
+            "string": "L1A0",
+            "classroom": "A1.10"
          }
       ],
       "2": [
          {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Technology for games",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Project Genetic Algorithms",
+            "string": "P0A15",
+            "classroom": "A1.10"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "subject": "Bioinformatica",
+            "string": "P0C20",
+            "classroom": "A1.10"
+         }
+      ]
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
          {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Analysemethoden en -technieken",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Programmeren in Java 2",
+            "string": "P0B20",
+            "classroom": "A1.10"
          }
-      ],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Software engineering",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
-      "2": [
-         {
-            "group": 2,
-            "classroom": "A1.10",
-            "subject": "Autonomous Agents 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 1,
-            "classroom": "A1.10",
-            "subject": "Moderne Databases",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
-      "3": []
+      ]
    },
    "3": {
       "0": [],
       "1": [
          {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Moderne Databases",
-            "name": "Practica",
-            "lecture_number": 0
-         },
-         {
-            "group": 1,
-            "classroom": "A1.10",
-            "subject": "Netwerken en systeembeveiliging",
-            "name": "Practica",
-            "lecture_number": 0
-         },
-         {
-            "group": 2,
-            "classroom": "A1.10",
-            "subject": "Programmeren in Java 2",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Autonomous Agents 2",
+            "string": "P0C10",
+            "classroom": "A1.10"
          }
       ],
       "2": [
          {
-            "group": 2,
-            "classroom": "A1.10",
-            "subject": "Bioinformatica",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Data Mining",
+            "string": "W0C10",
+            "classroom": "A1.10"
          },
          {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Reflectie op de digitale cultuur",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "L0A0",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Lineaire Algebra",
+            "string": "L0A0",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Machine Learning",
+            "string": "L1A0",
+            "classroom": "A1.10"
          }
       ],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Collectieve Intelligentie",
-            "name": "Lecture",
-            "lecture_number": 2
+            "subject": "Advanced Heuristics",
+            "string": "P0A10",
+            "classroom": "A1.10"
          },
          {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Technology for games",
-            "name": "Lecture",
-            "lecture_number": 1
+            "subject": "Heuristieken 2",
+            "string": "W0B20",
+            "classroom": "A1.10"
          }
       ]
    },
    "4": {
       "0": [
          {
-            "group": 3,
-            "classroom": "A1.10",
-            "subject": "Programmeren in Java 2",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Bioinformatica",
+            "string": "L1A0",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Compilerbouw",
+            "string": "L0A0",
+            "classroom": "A1.10"
          }
       ],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "group": 1,
-            "classroom": "A1.10",
-            "subject": "Webprogrammeren en databases",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Collectieve Intelligentie",
+            "string": "L0A0",
+            "classroom": "A1.10"
          }
-      ],
-      "3": []
+      ]
    }
 }

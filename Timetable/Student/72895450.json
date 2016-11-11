@@ -1,123 +1,100 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Algoritmen en complexiteit",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Compilerbouw",
+            "string": "L1A0",
+            "classroom": "A1.08"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Algoritmen en complexiteit",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Webprogrammeren en databases",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Algoritmen en complexiteit",
-            "name": "Lecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.06",
             "subject": "Compilerbouw",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Webprogrammeren en databases",
-            "name": "Practica",
-            "lecture_number": 0
+            "string": "P0A40",
+            "classroom": "C0.110"
          }
       ],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Compilerbouw",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [
+      "2": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Webprogrammeren en databases",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Compilerbouw",
+            "string": "W0A40",
+            "classroom": "A1.04"
          }
       ],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Webprogrammeren en databases",
-            "name": "Lecture",
-            "lecture_number": 1
-         }
-      ],
-      "2": [],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Compilerbouw",
-            "name": "Lecture",
-            "lecture_number": 1
+            "subject": "Webprogrammeren en databases",
+            "string": "L1A0",
+            "classroom": "A1.08"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A0",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "W0A20",
+            "classroom": "C0.110"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0A25",
+            "classroom": "A1.06"
          },
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Compilerbouw",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Project Numerical Recipes",
+            "string": "P0A15",
+            "classroom": "A1.08"
+         },
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "L0A0",
+            "classroom": "A1.06"
          }
       ]
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Compilerbouw",
+            "string": "L0A0",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "P0A20",
+            "classroom": "B0.201"
+         }
+      ],
       "1": [],
       "2": [],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Project Numerical Recipes",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A25",
+            "classroom": "C1.112"
          }
       ]
    }

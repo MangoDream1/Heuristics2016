@@ -3,18 +3,21 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 2,
-            "classroom": "A1.10",
-            "subject": "Netwerken en systeembeveiliging",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ]
+      "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0A20",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0B20",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -26,39 +29,27 @@
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "group": 3,
-            "classroom": "A1.08",
-            "subject": "Netwerken en systeembeveiliging",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "group": 1,
-            "classroom": "A1.10",
             "subject": "Netwerken en systeembeveiliging",
-            "name": "Practica",
-            "lecture_number": 0
+            "string": "P0D20",
+            "classroom": "A1.06"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0C20",
+            "classroom": "A1.08"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 0,
-            "classroom": "B0.201",
-            "subject": "Netwerken en systeembeveiliging",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ]
+      "3": []
    }
 }

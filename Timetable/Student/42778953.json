@@ -1,124 +1,101 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "group": 0,
-            "classroom": "B0.201",
-            "subject": "Lineaire Algebra",
-            "name": "Lecture",
-            "lecture_number": 1
-         }
-      ],
-      "3": []
-   },
-   "1": {
       "0": [
          {
-            "group": 0,
-            "classroom": "B0.201",
             "subject": "Collectieve Intelligentie",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "P0A20",
+            "classroom": "A1.10"
          }
       ],
       "1": [
          {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "name": "Lecture",
-            "lecture_number": 1
+            "subject": "Compilerbouw",
+            "string": "L1A0",
+            "classroom": "A1.08"
          }
       ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Lineaire Algebra",
+            "string": "L1A0",
+            "classroom": "A1.06"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [],
       "2": [
          {
-            "group": 0,
-            "classroom": "A1.06",
             "subject": "Compilerbouw",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "string": "P0A40",
+            "classroom": "C0.110"
          }
       ],
       "3": []
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Compilerbouw",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Collectieve Intelligentie",
+            "string": "L1A0",
+            "classroom": "A1.04"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie",
-            "name": "Practica",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "C1.112",
-            "subject": "Lineaire Algebra",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Compilerbouw",
+            "string": "W0A40",
+            "classroom": "A1.04"
          }
-      ]
+      ],
+      "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L2A0",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "W0A20",
+            "classroom": "C1.112"
+         },
+         {
+            "subject": "Lineaire Algebra",
+            "string": "L0A0",
+            "classroom": "A1.10"
+         }
+      ],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Collectieve Intelligentie",
-            "name": "Lecture",
-            "lecture_number": 2
-         },
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Compilerbouw",
-            "name": "Lecture",
-            "lecture_number": 1
-         },
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Compilerbouw",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Project Numerical Recipes",
+            "string": "P0A15",
+            "classroom": "A1.08"
          }
       ]
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Collectieve Intelligentie",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Compilerbouw",
+            "string": "L0A0",
+            "classroom": "A1.10"
          }
       ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Project Numerical Recipes",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Collectieve Intelligentie",
+            "string": "L0A0",
+            "classroom": "A1.10"
          }
       ]
    }

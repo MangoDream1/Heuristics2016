@@ -15,21 +15,19 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Project Numerical Recipes",
+            "string": "P0C15",
+            "classroom": "A1.06"
+         }
+      ]
    },
    "3": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 2,
-            "classroom": "C0.110",
-            "subject": "Project Numerical Recipes",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],

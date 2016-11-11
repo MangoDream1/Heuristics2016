@@ -50,9 +50,8 @@ class Lecture:
         self.classroom.lectures.append(self)
 
     def toDict(self):
-        return {"name": self.name, "subject": self.subject.name,
-                "lecture_number": self.lecture_number, "group": self.group,
-                "classroom": self.classroom.__str__()}
+        return {"subject": self.subject.name, "classroom": self.classroom.__str__(),
+                "string": self.__str__()}
 
 class Timetable:
     def __init__(self):

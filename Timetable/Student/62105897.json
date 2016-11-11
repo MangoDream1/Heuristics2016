@@ -1,45 +1,33 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Software engineering",
+            "string": "L0A0",
+            "classroom": "A1.04"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
       "0": [
          {
-            "group": 0,
-            "classroom": "A1.08",
             "subject": "Calculus 2",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "W0B40",
+            "classroom": "C0.110"
          }
       ],
-      "1": [
-         {
-            "group": 1,
-            "classroom": "A1.08",
-            "subject": "Calculus 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 1,
-            "classroom": "C0.110",
-            "subject": "Software engineering",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 1,
-            "classroom": "A1.10",
-            "subject": "Software engineering",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Programmeren in Java 2",
+            "string": "P0D20",
+            "classroom": "A1.06"
+         }
+      ]
    },
    "2": {
       "0": [],
@@ -49,30 +37,31 @@
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Software engineering",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [
          {
-            "group": 3,
-            "classroom": "A1.10",
-            "subject": "Programmeren in Java 2",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Software engineering",
+            "string": "W0B40",
+            "classroom": "A1.04"
+         },
+         {
+            "subject": "Software engineering",
+            "string": "P0B40",
+            "classroom": "A1.06"
          }
       ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Calculus 2",
+            "string": "L0A0",
+            "classroom": "A1.08"
+         }
+      ]
    }
 }

@@ -7,7 +7,13 @@
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Programmeren in Java 2",
+            "string": "P0F20",
+            "classroom": "A1.06"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -19,15 +25,7 @@
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "group": 5,
-            "classroom": "A1.08",
-            "subject": "Programmeren in Java 2",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },

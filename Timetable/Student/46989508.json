@@ -1,79 +1,67 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Compilerbouw",
+            "string": "L1A0",
+            "classroom": "A1.08"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Compilerbouw",
+            "string": "W0B40",
+            "classroom": "A1.04"
+         }
+      ]
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "group": 1,
-            "classroom": "C1.112",
-            "subject": "Databases 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Compilerbouw",
+            "string": "P0B40",
+            "classroom": "A1.06"
          }
-      ]
+      ],
+      "3": []
    },
    "2": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Compilerbouw",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Databases 2",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 1,
-            "classroom": "A1.08",
-            "subject": "Compilerbouw",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "group": 1,
-            "classroom": "A1.08",
-            "subject": "Compilerbouw",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Compilerbouw",
-            "name": "Lecture",
-            "lecture_number": 1
+            "subject": "Databases 2",
+            "string": "W0B40",
+            "classroom": "A1.08"
          }
       ]
    },
    "4": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "subject": "Compilerbouw",
+            "string": "L0A0",
+            "classroom": "A1.10"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Databases 2",
+            "string": "L0A0",
+            "classroom": "A1.08"
+         }
+      ],
       "2": [],
       "3": []
    }

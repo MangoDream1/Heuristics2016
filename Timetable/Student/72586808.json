@@ -2,40 +2,36 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A0",
+            "classroom": "B0.201"
+         }
+      ],
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0B20",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Analysemethoden en -technieken",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "group": 1,
-            "classroom": "A1.10",
-            "subject": "Netwerken en systeembeveiliging",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },

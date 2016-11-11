@@ -3,77 +3,65 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 0,
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ]
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Reflectie op de digitale cultuur",
-            "name": "Lecture",
-            "lecture_number": 1
-         }
-      ]
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [],
       "3": []
    },
-   "3": {
+   "1": {
       "0": [
          {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Advanced Heuristics",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0A20",
+            "classroom": "B0.201"
          }
       ],
       "1": [],
       "2": [
          {
-            "group": 0,
-            "classroom": "A1.10",
             "subject": "Reflectie op de digitale cultuur",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "L1A0",
+            "classroom": "A1.04"
          }
       ],
       "3": []
    },
-   "4": {
+   "2": {
       "0": [],
       "1": [
          {
-            "group": 0,
-            "classroom": "C1.112",
             "subject": "Advanced Heuristics",
-            "name": "Practica",
-            "lecture_number": 0
+            "string": "L0A0",
+            "classroom": "C0.110"
          }
       ],
       "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
       "3": [
          {
-            "group": 0,
-            "classroom": "B0.201",
-            "subject": "Netwerken en systeembeveiliging",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Advanced Heuristics",
+            "string": "P0A10",
+            "classroom": "A1.10"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A0",
+            "classroom": "A1.06"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0A20",
+            "classroom": "A1.08"
          }
       ]
    }

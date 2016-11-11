@@ -1,134 +1,109 @@
 {
    "0": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "C1.112",
-            "subject": "Heuristieken 1",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Autonomous Agents 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Software engineering",
+            "string": "L0A0",
+            "classroom": "A1.04"
          }
       ],
       "2": [
          {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Autonomous Agents 2",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A0",
+            "classroom": "B0.201"
          }
       ],
       "3": [
          {
-            "group": 0,
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Heuristieken 1",
+            "string": "L0A0",
+            "classroom": "A1.08"
          }
       ]
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [
-         {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Software engineering",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
-      "3": [
-         {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Reflectie op de digitale cultuur",
-            "name": "Lecture",
-            "lecture_number": 1
-         }
-      ]
-   },
-   "2": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Analysemethoden en -technieken",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
       "1": [
          {
-            "group": 0,
-            "classroom": "C1.112",
-            "subject": "Autonomous Agents 2",
-            "name": "Practica",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.10",
             "subject": "Software engineering",
-            "name": "Practica",
-            "lecture_number": 0
+            "string": "P0A40",
+            "classroom": "C0.110"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A0",
+            "classroom": "A1.04"
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "P0A10",
+            "classroom": "A1.08"
          }
       ],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "group": 0,
-            "classroom": "C0.110",
             "subject": "Autonomous Agents 2",
-            "name": "Lecture",
-            "lecture_number": 1
+            "string": "L0A0",
+            "classroom": "A1.08"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "W0A10",
+            "classroom": "A1.08"
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Heuristieken 1",
+            "string": "W0A25",
+            "classroom": "B0.201"
          },
          {
-            "group": 0,
-            "classroom": "C0.110",
             "subject": "Software engineering",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "W0A40",
+            "classroom": "B0.201"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "L1A0",
+            "classroom": "A1.06"
          }
       ],
       "2": [
          {
-            "group": 0,
-            "classroom": "A1.10",
             "subject": "Reflectie op de digitale cultuur",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "L0A0",
+            "classroom": "A1.06"
          }
       ],
       "3": [
          {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Heuristieken 1",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0A20",
+            "classroom": "A1.08"
          }
       ]
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
    }
 }

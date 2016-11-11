@@ -26,3 +26,5 @@ for x in classrooms:
 
 
 print(Score(subjects, students, classrooms).score)
+
+# lecture_dct = {index: lecture for index, lecture in enumerate([lecture for subject in subjects for lecture in subject.lectures])}

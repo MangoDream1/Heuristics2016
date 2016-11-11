@@ -2,11 +2,9 @@
    "0": {
       "0": [
          {
-            "group": 0,
-            "classroom": "A1.10",
             "subject": "Interactie-ontwerp",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "L0A0",
+            "classroom": "A1.06"
          }
       ],
       "1": [],
@@ -17,34 +15,11 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 1,
-            "classroom": "C1.112",
-            "subject": "Databases 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Interactie-ontwerp",
-            "name": "Lecture",
-            "lecture_number": 1
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Databases 2",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -52,12 +27,30 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Databases 2",
+            "string": "W0B40",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Databases 2",
+            "string": "L0A0",
+            "classroom": "A1.08"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Interactie-ontwerp",
+            "string": "L1A0",
+            "classroom": "A1.04"
+         }
+      ]
    }
 }

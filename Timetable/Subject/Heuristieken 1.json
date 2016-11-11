@@ -1,17 +1,15 @@
 {
    "0": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "C1.112",
-            "subject": "Heuristieken 1",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Heuristieken 1",
+            "string": "L0A0",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "1": {
       "0": [],
@@ -29,28 +27,24 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Heuristieken 1",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ]
+      "3": []
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "group": 1,
-            "classroom": "B0.201",
             "subject": "Heuristieken 1",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "string": "W0A25",
+            "classroom": "B0.201"
          }
       ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Heuristieken 1",
+            "string": "W0B25",
+            "classroom": "A1.08"
+         }
+      ]
    }
 }

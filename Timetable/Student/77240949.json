@@ -6,95 +6,79 @@
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie",
-            "name": "Lecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 2,
-            "classroom": "A1.04",
-            "subject": "Collectieve Intelligentie",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "name": "Lecture",
-            "lecture_number": 1
-         },
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Machine Learning",
-            "name": "Lecture",
-            "lecture_number": 1
+            "subject": "Kansrekenen 2",
+            "string": "L1A0",
+            "classroom": "A1.10"
          }
       ],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "group": 2,
-            "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Kansrekenen 2",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Collectieve Intelligentie",
+            "string": "L1A0",
+            "classroom": "A1.04"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "subject": "Machine Learning",
+            "string": "L0A0",
+            "classroom": "C0.110"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
       "1": [],
+      "2": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L2A0",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Machine Learning",
+            "string": "L1A0",
+            "classroom": "A1.10"
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L0A0",
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "P0C20",
+            "classroom": "A1.06"
+         }
+      ],
       "2": [],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.10",
             "subject": "Collectieve Intelligentie",
-            "name": "Lecture",
-            "lecture_number": 2
+            "string": "L0A0",
+            "classroom": "A1.10"
          },
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Kansrekenen 2",
-            "name": "Lecture",
-            "lecture_number": 1
-         },
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Machine Learning",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Collectieve Intelligentie",
+            "string": "W0C20",
+            "classroom": "A1.04"
          }
       ]
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
    }
 }

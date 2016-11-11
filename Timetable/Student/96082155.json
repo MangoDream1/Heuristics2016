@@ -6,14 +6,18 @@
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Moderne Databases",
+            "string": "P0A20",
+            "classroom": "C0.110"
+         }
+      ],
       "1": [
          {
-            "group": 0,
-            "classroom": "A1.10",
             "subject": "Moderne Databases",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "W0A20",
+            "classroom": "C1.112"
          }
       ],
       "2": [],
@@ -27,29 +31,19 @@
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Moderne Databases",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
-      "2": [
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Moderne Databases",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Moderne Databases",
+            "string": "L0A0",
+            "classroom": "C0.110"
+         }
+      ],
       "2": [],
       "3": []
    }

@@ -1,108 +1,90 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Algoritmen en complexiteit",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Compilerbouw",
+            "string": "L1A0",
+            "classroom": "A1.08"
+         },
+         {
+            "subject": "Technology for games",
+            "string": "L1A0",
+            "classroom": "A1.10"
          }
       ],
-      "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 0,
-            "classroom": "C1.112",
-            "subject": "Technology for games",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ]
+      "3": []
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Algoritmen en complexiteit",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Technology for games",
+            "string": "W0A20",
+            "classroom": "A1.04"
          }
       ],
-      "1": [],
       "2": [
          {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Algoritmen en complexiteit",
-            "name": "Lecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.06",
             "subject": "Compilerbouw",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Technology for games",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "P0A40",
+            "classroom": "C0.110"
          }
       ],
       "3": []
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "group": 0,
-            "classroom": "A1.08",
             "subject": "Compilerbouw",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "W0A40",
+            "classroom": "A1.04"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A0",
+            "classroom": "A1.04"
+         }
+      ],
       "2": [],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Compilerbouw",
-            "name": "Lecture",
-            "lecture_number": 1
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0A25",
+            "classroom": "A1.06"
          },
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Compilerbouw",
-            "name": "Practica",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.10",
             "subject": "Technology for games",
-            "name": "Lecture",
-            "lecture_number": 1
+            "string": "L0A0",
+            "classroom": "C1.112"
          }
       ]
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Compilerbouw",
+            "string": "L0A0",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A25",
+            "classroom": "C1.112"
+         }
+      ]
    }
 }

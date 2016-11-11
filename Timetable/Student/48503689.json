@@ -1,76 +1,66 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Compilerbouw",
+            "string": "L1A0",
+            "classroom": "A1.08"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Compilerbouw",
+            "string": "W0B40",
+            "classroom": "A1.04"
+         }
+      ]
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "subject": "Programmeren in Java 2",
+            "string": "P0F20",
+            "classroom": "A1.06"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Compilerbouw",
+            "string": "P0B40",
+            "classroom": "A1.06"
+         }
+      ],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Compilerbouw",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "group": 1,
-            "classroom": "A1.08",
-            "subject": "Compilerbouw",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Project Numerical Recipes",
+            "string": "P0C15",
+            "classroom": "A1.06"
          }
       ]
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "group": 1,
-            "classroom": "A1.08",
-            "subject": "Compilerbouw",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 5,
-            "classroom": "A1.08",
-            "subject": "Programmeren in Java 2",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Compilerbouw",
-            "name": "Lecture",
-            "lecture_number": 1
-         },
-         {
-            "group": 2,
-            "classroom": "C0.110",
-            "subject": "Project Numerical Recipes",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ]
+      "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Compilerbouw",
+            "string": "L0A0",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

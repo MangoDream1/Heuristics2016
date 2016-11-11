@@ -6,7 +6,13 @@
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0A20",
+            "classroom": "B0.201"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -27,14 +33,6 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 0,
-            "classroom": "B0.201",
-            "subject": "Netwerken en systeembeveiliging",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ]
+      "3": []
    }
 }

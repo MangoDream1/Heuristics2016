@@ -3,27 +3,17 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 2,
-            "classroom": "C1.112",
-            "subject": "Calculus 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ]
+      "3": []
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "group": 0,
-            "classroom": "A1.08",
             "subject": "Calculus 2",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "W0C40",
+            "classroom": "A1.10"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
@@ -34,16 +24,14 @@
       "3": []
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "group": 3,
-            "classroom": "A1.08",
             "subject": "Netwerken en systeembeveiliging",
-            "name": "Practica",
-            "lecture_number": 0
+            "string": "P0D20",
+            "classroom": "A1.06"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
@@ -51,6 +39,12 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Calculus 2",
+            "string": "L0A0",
+            "classroom": "A1.08"
+         }
+      ]
    }
 }

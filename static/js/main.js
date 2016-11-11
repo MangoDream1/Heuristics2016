@@ -20,8 +20,6 @@ function getJson() {
 				});
 			});
 
-			console.log(timetable);
-
 			var table = $("<table></table>")
 
 			DAYS = {0: "Monday", 1: "Tuesday", 2: "Wednesday", 3: "Thursday",
@@ -45,8 +43,13 @@ function getJson() {
 				$.each(timeslot, function(i, day){
 					var column = $("<th></th>").text("");
 					$.each(day, function(i, lecture){
-						column = $("<th></th>").text(lecture.subject);
+						column = $("<th></th>").append(lecture.subject + "<br>" + lecture.classroom + "<br>" + lecture.string);
 					})
+
+					if ($(day).length > 1) {
+						column.css("background-color", "red");
+					}
+
 
 					row.append(column)
 				})

@@ -1,14 +1,6 @@
 {
    "0": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Bioinformatica",
-            "name": "Lecture",
-            "lecture_number": 2
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -16,62 +8,57 @@
    "1": {
       "0": [
          {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Bioinformatica",
-            "name": "Lecture",
-            "lecture_number": 1
-         },
-         {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Bioinformatica",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0A15",
+            "classroom": "A1.06"
          }
       ],
       "1": [],
-      "2": [
-         {
-            "group": 0,
-            "classroom": "B0.201",
-            "subject": "Zoeken, sturen en bewegen",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Bioinformatica",
+            "string": "L0A0",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": []
+   },
+   "3": {
       "0": [
          {
-            "group": 0,
-            "classroom": "C1.112",
             "subject": "Bioinformatica",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "L2A0",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Bioinformatica",
+            "string": "P0A20",
+            "classroom": "C1.112"
          }
       ],
       "1": [],
       "2": [],
       "3": []
    },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Bioinformatica",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ]
-   },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Bioinformatica",
+            "string": "L1A0",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Bioinformatica",
+            "string": "W0A20",
+            "classroom": "A1.08"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

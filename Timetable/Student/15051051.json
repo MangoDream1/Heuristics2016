@@ -1,117 +1,95 @@
 {
    "0": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Bioinformatica",
-            "name": "Lecture",
-            "lecture_number": 2
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Bioinformatica",
+            "string": "W0C20",
+            "classroom": "A1.08"
+         },
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0C15",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "1": {
       "0": [
          {
-            "group": 0,
-            "classroom": "A1.08",
+            "subject": "Moderne Databases",
+            "string": "P0C20",
+            "classroom": "A1.10"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
             "subject": "Bioinformatica",
-            "name": "Lecture",
-            "lecture_number": 1
+            "string": "P0C20",
+            "classroom": "A1.10"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Bioinformatica",
+            "string": "L0A0",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Machine Learning",
+            "string": "L0A0",
+            "classroom": "C0.110"
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [
+         {
+            "subject": "Bioinformatica",
+            "string": "L2A0",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Moderne Databases",
+            "string": "W0C20",
+            "classroom": "C1.112"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Machine Learning",
+            "string": "L1A0",
+            "classroom": "A1.10"
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Bioinformatica",
+            "string": "L1A0",
+            "classroom": "A1.10"
          }
       ],
       "1": [
          {
-            "group": 2,
-            "classroom": "A1.04",
-            "subject": "Bioinformatica",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Machine Learning",
-            "name": "Lecture",
-            "lecture_number": 1
-         },
-         {
-            "group": 0,
-            "classroom": "A1.10",
             "subject": "Moderne Databases",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "L0A0",
+            "classroom": "C0.110"
          }
       ],
       "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "C1.112",
-            "subject": "Bioinformatica",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "group": 2,
-            "classroom": "B0.201",
-            "subject": "Moderne Databases",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ]
-   },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "group": 2,
-            "classroom": "A1.10",
-            "subject": "Bioinformatica",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
-      "3": [
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Machine Learning",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ]
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "group": 2,
-            "classroom": "B0.201",
-            "subject": "Moderne Databases",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 2,
-            "classroom": "A1.04",
-            "subject": "Zoeken, sturen en bewegen",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
       "3": []
    }
 }

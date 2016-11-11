@@ -1,65 +1,23 @@
 {
    "0": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Algoritmen en complexiteit",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Algoritmen en complexiteit",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Calculus 2",
-            "name": "Lecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Calculus 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Machine Learning",
-            "name": "Lecture",
-            "lecture_number": 1
-         },
-         {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Programmeren in Java 2",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [
          {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Algoritmen en complexiteit",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Calculus 2",
+            "string": "W0A40",
+            "classroom": "A1.04"
+         },
+         {
+            "subject": "Project Genetic Algorithms",
+            "string": "P0A15",
+            "classroom": "A1.10"
          }
       ],
       "3": []
@@ -67,27 +25,42 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Machine Learning",
+            "string": "L0A0",
+            "classroom": "C0.110"
+         }
+      ],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [],
-      "2": [],
+      "0": [
+         {
+            "subject": "Programmeren in Java 2",
+            "string": "P0A20",
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A0",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Machine Learning",
+            "string": "L1A0",
+            "classroom": "A1.10"
+         }
+      ],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Machine Learning",
-            "name": "Lecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Project Genetic Algorithms",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0A25",
+            "classroom": "A1.06"
          }
       ]
    },
@@ -95,6 +68,17 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A25",
+            "classroom": "C1.112"
+         },
+         {
+            "subject": "Calculus 2",
+            "string": "L0A0",
+            "classroom": "A1.08"
+         }
+      ]
    }
 }

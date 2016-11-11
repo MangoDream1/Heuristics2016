@@ -7,37 +7,33 @@
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Machine Learning",
-            "name": "Lecture",
-            "lecture_number": 1
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Machine Learning",
+            "string": "L0A0",
+            "classroom": "C0.110"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "group": 0,
-            "classroom": "A1.06",
             "subject": "Machine Learning",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "L1A0",
+            "classroom": "A1.10"
          }
-      ]
+      ],
+      "3": []
    },
    "4": {
       "0": [],

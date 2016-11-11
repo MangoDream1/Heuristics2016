@@ -6,17 +6,15 @@
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "group": 1,
-            "classroom": "A1.08",
             "subject": "Heuristieken 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "string": "L0A0",
+            "classroom": "A1.10"
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "2": {
@@ -31,11 +29,9 @@
       "2": [],
       "3": [
          {
-            "group": 0,
-            "classroom": "B0.201",
             "subject": "Heuristieken 2",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "W0B20",
+            "classroom": "A1.10"
          }
       ]
    },

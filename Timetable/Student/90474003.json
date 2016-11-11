@@ -3,76 +3,66 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0C15",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "group": 1,
-            "classroom": "C1.112",
-            "subject": "Databases 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "C0.110",
             "subject": "Reflectie op de digitale cultuur",
-            "name": "Lecture",
-            "lecture_number": 1
+            "string": "L1A0",
+            "classroom": "A1.04"
          }
-      ]
+      ],
+      "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Databases 2",
-            "name": "Lecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 2,
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Reflectie op de digitale cultuur",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Databases 2",
+            "string": "W0B40",
+            "classroom": "A1.08"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "group": 2,
-            "classroom": "A1.04",
-            "subject": "Zoeken, sturen en bewegen",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Databases 2",
+            "string": "L0A0",
+            "classroom": "A1.08"
          }
       ],
-      "3": []
+      "2": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A0",
+            "classroom": "A1.06"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0C20",
+            "classroom": "C0.110"
+         }
+      ]
    }
 }

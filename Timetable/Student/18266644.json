@@ -3,56 +3,41 @@
       "0": [],
       "1": [
          {
-            "group": 0,
-            "classroom": "C0.110",
             "subject": "Informatie- en organisatieontwerp",
-            "name": "Practica",
-            "lecture_number": 0
+            "string": "W0A15",
+            "classroom": "C1.112"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A0",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": []
+   },
+   "1": {
+      "0": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0A20",
+            "classroom": "B0.201"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L1A0",
+            "classroom": "A1.10"
          }
       ],
       "2": [],
       "3": []
    },
-   "1": {
+   "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Informatie- en organisatieontwerp",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Analysemethoden en -technieken",
-            "name": "Lecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Informatie- en organisatieontwerp",
-            "name": "Lecture",
-            "lecture_number": 1
-         }
-      ],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Kansrekenen 2",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ],
       "2": [],
       "3": []
    },
@@ -61,35 +46,34 @@
       "1": [],
       "2": [
          {
-            "group": 0,
-            "classroom": "C0.110",
             "subject": "Informatie- en organisatieontwerp",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "string": "L0A0",
+            "classroom": "A1.10"
          }
       ],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Kansrekenen 2",
-            "name": "Lecture",
-            "lecture_number": 1
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "P0A15",
+            "classroom": "B0.201"
          }
       ]
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "L1A0",
+            "classroom": "C1.112"
+         },
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L0A0",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 0,
-            "classroom": "B0.201",
-            "subject": "Netwerken en systeembeveiliging",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ]
+      "3": []
    }
 }

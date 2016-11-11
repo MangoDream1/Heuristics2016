@@ -1,109 +1,89 @@
 {
    "0": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Bioinformatica",
-            "name": "Lecture",
-            "lecture_number": 2
-         }
-      ],
-      "1": [
-         {
-            "group": 1,
-            "classroom": "A1.08",
-            "subject": "Project Numerical Recipes",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Bioinformatica",
-            "name": "Lecture",
-            "lecture_number": 1
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
-            "group": 1,
-            "classroom": "A1.08",
-            "subject": "Heuristieken 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Bioinformatica",
+            "string": "W0B20",
+            "classroom": "B0.201"
          }
       ],
       "3": [
          {
-            "group": 1,
-            "classroom": "A1.06",
             "subject": "Bioinformatica",
-            "name": "Practica",
-            "lecture_number": 0
+            "string": "P0B20",
+            "classroom": "C1.112"
          }
       ]
    },
-   "2": {
+   "1": {
       "0": [
          {
-            "group": 0,
-            "classroom": "C1.112",
-            "subject": "Bioinformatica",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Heuristieken 2",
+            "string": "L0A0",
+            "classroom": "A1.10"
          }
       ],
       "1": [
          {
-            "group": 0,
-            "classroom": "A1.08",
             "subject": "Kansrekenen 2",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "L1A0",
+            "classroom": "A1.10"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "subject": "Project Numerical Recipes",
+            "string": "P0B15",
+            "classroom": "A1.04"
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Bioinformatica",
+            "string": "L0A0",
+            "classroom": "B0.201"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [
          {
-            "group": 1,
-            "classroom": "A1.08",
             "subject": "Bioinformatica",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "string": "L2A0",
+            "classroom": "C0.110"
          }
       ],
       "1": [],
       "2": [],
       "3": [
          {
-            "group": 0,
-            "classroom": "B0.201",
             "subject": "Heuristieken 2",
-            "name": "Lecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Kansrekenen 2",
-            "name": "Lecture",
-            "lecture_number": 1
+            "string": "W0B20",
+            "classroom": "A1.10"
          }
       ]
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Bioinformatica",
+            "string": "L1A0",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L0A0",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

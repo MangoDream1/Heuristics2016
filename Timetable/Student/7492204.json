@@ -3,52 +3,46 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "group": 1,
-            "classroom": "A1.08",
-            "subject": "Programmeren in Java 2",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [],
       "1": [
          {
-            "group": 0,
-            "classroom": "A1.08",
             "subject": "Kansrekenen 2",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "L1A0",
+            "classroom": "A1.10"
          }
       ],
       "2": [],
       "3": []
    },
-   "3": {
+   "2": {
       "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Kansrekenen 2",
-            "name": "Lecture",
-            "lecture_number": 1
+            "subject": "Programmeren in Java 2",
+            "string": "P0B20",
+            "classroom": "A1.10"
          }
       ]
    },
-   "4": {
+   "3": {
       "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L0A0",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

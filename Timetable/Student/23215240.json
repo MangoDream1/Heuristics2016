@@ -2,22 +2,26 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Compilerbouw (practicum)",
+            "string": "P0B15",
+            "classroom": "B0.201"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "group": 1,
-            "classroom": "A1.04",
-            "subject": "Compilerbouw (practicum)",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Programmeren in Java 2",
+            "string": "P0D20",
+            "classroom": "A1.06"
+         }
+      ]
    },
    "2": {
       "0": [],
@@ -32,15 +36,7 @@
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "group": 3,
-            "classroom": "A1.10",
-            "subject": "Programmeren in Java 2",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []

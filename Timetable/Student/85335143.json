@@ -1,139 +1,113 @@
 {
    "0": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Bioinformatica",
-            "name": "Lecture",
-            "lecture_number": 2
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "group": 0,
-            "classroom": "C1.112",
-            "subject": "Technology for games",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ]
-   },
-   "1": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Bioinformatica",
-            "name": "Lecture",
-            "lecture_number": 1
-         },
-         {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Bioinformatica",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.08",
-            "subject": "Calculus 2",
-            "name": "Lecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Calculus 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Moderne Databases",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Technology for games",
+            "string": "L1A0",
+            "classroom": "A1.10"
          }
       ],
       "2": [
          {
-            "group": 0,
-            "classroom": "A1.10",
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A0",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": []
+   },
+   "1": {
+      "0": [
+         {
+            "subject": "Moderne Databases",
+            "string": "P0A20",
+            "classroom": "C0.110"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Moderne Databases",
+            "string": "W0A20",
+            "classroom": "C1.112"
+         },
+         {
             "subject": "Technology for games",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "W0A20",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Calculus 2",
+            "string": "W0A40",
+            "classroom": "A1.04"
          }
       ],
       "3": []
    },
    "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Bioinformatica",
+            "string": "L0A0",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": []
+   },
+   "3": {
       "0": [
          {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Analysemethoden en -technieken",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Bioinformatica",
+            "string": "L2A0",
+            "classroom": "C0.110"
          },
          {
-            "group": 0,
-            "classroom": "C1.112",
             "subject": "Bioinformatica",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "P0A20",
+            "classroom": "C1.112"
          }
       ],
       "1": [],
       "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Moderne Databases",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
-      "2": [
-         {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Moderne Databases",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.06",
-            "subject": "Bioinformatica",
-            "name": "Practica",
-            "lecture_number": 0
-         },
-         {
-            "group": 0,
-            "classroom": "A1.10",
             "subject": "Technology for games",
-            "name": "Lecture",
-            "lecture_number": 1
+            "string": "L0A0",
+            "classroom": "C1.112"
          }
       ]
    },
    "4": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "subject": "Bioinformatica",
+            "string": "L1A0",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Bioinformatica",
+            "string": "W0A20",
+            "classroom": "A1.08"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Moderne Databases",
+            "string": "L0A0",
+            "classroom": "C0.110"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Calculus 2",
+            "string": "L0A0",
+            "classroom": "A1.08"
+         }
+      ]
    }
 }

@@ -2,78 +2,34 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A0",
+            "classroom": "B0.201"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [
          {
-            "group": 0,
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie",
-            "name": "Lecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 2,
-            "classroom": "A1.04",
-            "subject": "Collectieve Intelligentie",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
-      "1": [
-         {
-            "group": 0,
-            "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "name": "Lecture",
-            "lecture_number": 1
-         }
-      ],
-      "2": [
-         {
-            "group": 1,
-            "classroom": "A1.08",
             "subject": "Heuristieken 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "string": "L0A0",
+            "classroom": "A1.10"
          }
       ],
-      "3": [
-         {
-            "group": 1,
-            "classroom": "C1.112",
-            "subject": "Databases 2",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ]
+      "1": [],
+      "2": [],
+      "3": []
    },
    "2": {
-      "0": [
-         {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Analysemethoden en -technieken",
-            "name": "Lecture",
-            "lecture_number": 0
-         },
-         {
-            "group": 2,
-            "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "name": "WorkLecture",
-            "lecture_number": 0
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "group": 0,
-            "classroom": "A1.04",
-            "subject": "Databases 2",
-            "name": "Lecture",
-            "lecture_number": 0
+            "subject": "Collectieve Intelligentie",
+            "string": "L1A0",
+            "classroom": "A1.04"
          }
       ],
       "2": [],
@@ -82,28 +38,52 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L2A0",
+            "classroom": "B0.201"
+         }
+      ],
       "3": [
          {
-            "group": 0,
-            "classroom": "A1.10",
-            "subject": "Collectieve Intelligentie",
-            "name": "Lecture",
-            "lecture_number": 2
+            "subject": "Databases 2",
+            "string": "W0B40",
+            "classroom": "A1.08"
          },
          {
-            "group": 0,
-            "classroom": "B0.201",
             "subject": "Heuristieken 2",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "W0B20",
+            "classroom": "A1.10"
          }
       ]
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "P0C20",
+            "classroom": "A1.06"
+         },
+         {
+            "subject": "Databases 2",
+            "string": "L0A0",
+            "classroom": "A1.08"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L0A0",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "W0C20",
+            "classroom": "A1.04"
+         }
+      ]
    }
 }

@@ -2,78 +2,66 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "group": 0,
-            "classroom": "B0.201",
-            "subject": "Lineaire Algebra",
-            "name": "Lecture",
-            "lecture_number": 1
-         }
-      ],
+      "2": [],
       "3": [
          {
-            "group": 1,
-            "classroom": "A1.08",
-            "subject": "Zoeken, sturen en bewegen",
-            "name": "Practica",
-            "lecture_number": 0
+            "subject": "Lineaire Algebra",
+            "string": "L1A0",
+            "classroom": "A1.06"
          }
       ]
    },
    "1": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "group": 0,
-            "classroom": "A1.10",
             "subject": "Moderne Databases",
-            "name": "Lecture",
-            "lecture_number": 0
+            "string": "P0B20",
+            "classroom": "A1.08"
          }
       ],
-      "2": [],
       "3": [
          {
-            "group": 1,
-            "classroom": "A1.04",
-            "subject": "Moderne Databases",
-            "name": "WorkLecture",
-            "lecture_number": 0
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0B15",
+            "classroom": "A1.06"
          }
       ]
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "group": 1,
-            "classroom": "A1.10",
-            "subject": "Moderne Databases",
-            "name": "Practica",
-            "lecture_number": 0
-         }
-      ],
-      "3": [
-         {
-            "group": 0,
-            "classroom": "C1.112",
-            "subject": "Lineaire Algebra",
-            "name": "Lecture",
-            "lecture_number": 0
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "subject": "Lineaire Algebra",
+            "string": "L0A0",
+            "classroom": "A1.10"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Moderne Databases",
+            "string": "W0B20",
+            "classroom": "C0.110"
+         }
+      ]
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Moderne Databases",
+            "string": "L0A0",
+            "classroom": "C0.110"
+         }
+      ],
       "2": [],
       "3": []
    }
