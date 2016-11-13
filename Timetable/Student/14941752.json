@@ -5,14 +5,20 @@
       "2": [],
       "3": [
          {
-            "subject": "Heuristieken 1",
             "string": "L0A0",
-            "classroom": "A1.08"
+            "subject": "Heuristieken 1",
+            "classroom": "C1.112"
          }
       ]
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0A25",
+            "subject": "Heuristieken 1",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -29,20 +35,14 @@
       "2": [],
       "3": [
          {
-            "subject": "Project Numerical Recipes",
             "string": "P0A15",
+            "subject": "Project Numerical Recipes",
             "classroom": "A1.08"
          }
       ]
    },
    "4": {
-      "0": [
-         {
-            "subject": "Heuristieken 1",
-            "string": "W0A25",
-            "classroom": "B0.201"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []

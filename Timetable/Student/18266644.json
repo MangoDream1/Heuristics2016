@@ -1,79 +1,80 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Informatie- en organisatieontwerp",
+            "string": "L1A0",
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
             "string": "W0A15",
-            "classroom": "C1.112"
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.04"
          }
-      ],
-      "2": [
-         {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A0",
-            "classroom": "B0.201"
-         }
-      ],
-      "3": []
+      ]
    },
    "1": {
       "0": [
          {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0A20",
-            "classroom": "B0.201"
-         }
-      ],
-      "1": [
-         {
+            "string": "L0A0",
             "subject": "Kansrekenen 2",
-            "string": "L1A0",
-            "classroom": "A1.10"
+            "classroom": "A1.06"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A0",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "C1.112"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A0",
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "A1.06"
+         }
+      ]
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L0A0",
-            "classroom": "A1.10"
-         }
-      ],
+      "2": [],
       "3": [
          {
+            "string": "L1A0",
             "subject": "Informatie- en organisatieontwerp",
-            "string": "P0A15",
-            "classroom": "B0.201"
+            "classroom": "C1.112"
          }
       ]
    },
    "4": {
       "0": [
          {
+            "string": "P0A15",
             "subject": "Informatie- en organisatieontwerp",
-            "string": "L1A0",
-            "classroom": "C1.112"
-         },
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L0A0",
-            "classroom": "A1.06"
+            "classroom": "A1.10"
          }
       ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "P0A20",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "C0.110"
+         }
+      ],
       "3": []
    }
 }

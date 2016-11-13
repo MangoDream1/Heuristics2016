@@ -1,6 +1,12 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "L1A0",
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -8,66 +14,60 @@
    "1": {
       "0": [
          {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0A20",
-            "classroom": "B0.201"
+            "string": "L0A0",
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.06"
          }
       ],
       "1": [
          {
-            "subject": "Kansrekenen 2",
-            "string": "L1A0",
-            "classroom": "A1.10"
+            "string": "L0A0",
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "C0.110"
          }
       ],
-      "2": [
-         {
-            "subject": "Project Genetic Algorithms",
-            "string": "P0A15",
-            "classroom": "A1.10"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [
+      "2": [
          {
+            "string": "P0A25",
             "subject": "Algoritmen en complexiteit",
-            "string": "L0A0",
-            "classroom": "A1.04"
+            "classroom": "B0.201"
          }
       ],
-      "2": [],
       "3": [
          {
-            "subject": "Algoritmen en complexiteit",
             "string": "W0A25",
+            "subject": "Algoritmen en complexiteit",
             "classroom": "A1.06"
          }
       ]
    },
-   "4": {
-      "0": [
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L0A0",
-            "classroom": "A1.06"
-         }
-      ],
+   "3": {
+      "0": [],
       "1": [],
       "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "P0A20",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "C0.110"
+         }
+      ],
       "3": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "string": "P0A25",
-            "classroom": "C1.112"
+            "string": "P0A15",
+            "subject": "Project Genetic Algorithms",
+            "classroom": "C0.110"
          }
       ]
    }

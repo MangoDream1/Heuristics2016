@@ -1,25 +1,31 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Software engineering",
-            "string": "L0A0",
-            "classroom": "A1.04"
+            "string": "L1A0",
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.06"
          }
       ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A0",
+            "subject": "Software engineering",
+            "classroom": "C0.110"
+         }
+      ]
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
+            "string": "L0A0",
             "subject": "Kansrekenen 2",
-            "string": "L1A0",
-            "classroom": "A1.10"
+            "classroom": "A1.06"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -30,37 +36,33 @@
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0C20",
-            "classroom": "A1.08"
-         }
-      ],
-      "3": []
-   },
-   "4": {
       "0": [
          {
-            "subject": "Kansrekenen 2",
-            "string": "L0A0",
-            "classroom": "A1.06"
-         },
-         {
-            "subject": "Software engineering",
             "string": "W0B40",
-            "classroom": "A1.04"
-         },
-         {
             "subject": "Software engineering",
-            "string": "P0B40",
-            "classroom": "A1.06"
+            "classroom": "A1.04"
          }
       ],
       "1": [],
       "2": [],
       "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "string": "P0C20",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "A1.10"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "P0B40",
+            "subject": "Software engineering",
+            "classroom": "A1.08"
+         }
+      ]
    }
 }

@@ -9,30 +9,30 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L1A0",
+            "subject": "Machine Learning",
+            "classroom": "C1.112"
+         }
+      ]
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "subject": "Machine Learning",
             "string": "L0A0",
-            "classroom": "C0.110"
+            "subject": "Machine Learning",
+            "classroom": "B0.201"
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Machine Learning",
-            "string": "L1A0",
-            "classroom": "A1.10"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {

@@ -1,33 +1,39 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "L1A0",
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
+            "string": "L0A0",
             "subject": "Kansrekenen 2",
-            "string": "L1A0",
-            "classroom": "A1.10"
+            "classroom": "A1.06"
          }
       ],
-      "2": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A0",
-            "classroom": "A1.04"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "W0A20",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.06"
+         }
+      ]
    },
    "3": {
       "0": [],
@@ -38,25 +44,19 @@
    "4": {
       "0": [
          {
-            "subject": "Kansrekenen 2",
-            "string": "L0A0",
+            "string": "L1A0",
+            "subject": "Reflectie op de digitale cultuur",
             "classroom": "A1.06"
          }
       ],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Reflectie op de digitale cultuur",
             "string": "L0A0",
-            "classroom": "A1.06"
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.04"
          }
       ],
-      "3": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "W0A20",
-            "classroom": "A1.08"
-         }
-      ]
+      "2": [],
+      "3": []
    }
 }

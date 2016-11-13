@@ -1,61 +1,62 @@
 {
    "0": {
       "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "W0A40",
+            "subject": "Compilerbouw",
+            "classroom": "A1.10"
+         }
+      ],
+      "3": [
+         {
+            "string": "L0A0",
+            "subject": "Compilerbouw",
+            "classroom": "A1.04"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
       "1": [
          {
+            "string": "P0A40",
             "subject": "Compilerbouw",
-            "string": "L1A0",
             "classroom": "A1.08"
          }
       ],
       "2": [],
       "3": []
    },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "subject": "Compilerbouw",
-            "string": "P0A40",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Project Genetic Algorithms",
-            "string": "P0A15",
-            "classroom": "A1.10"
-         }
-      ],
-      "3": []
-   },
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Compilerbouw",
-            "string": "W0A40",
-            "classroom": "A1.04"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "string": "L1A0",
+            "subject": "Compilerbouw",
+            "classroom": "A1.04"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "subject": "Compilerbouw",
-            "string": "L0A0",
-            "classroom": "A1.10"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0A15",
+            "subject": "Project Genetic Algorithms",
+            "classroom": "C0.110"
+         }
+      ]
    }
 }

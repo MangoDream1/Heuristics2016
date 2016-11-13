@@ -7,44 +7,44 @@
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L0A0",
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "C0.110"
+         }
+      ],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [
+      "2": [
          {
+            "string": "P0A25",
             "subject": "Algoritmen en complexiteit",
-            "string": "L0A0",
-            "classroom": "A1.04"
+            "classroom": "B0.201"
          }
       ],
-      "2": [],
       "3": [
          {
-            "subject": "Algoritmen en complexiteit",
             "string": "W0A25",
+            "subject": "Algoritmen en complexiteit",
             "classroom": "A1.06"
          }
       ]
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "4": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Algoritmen en complexiteit",
-            "string": "P0A25",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    }
 }

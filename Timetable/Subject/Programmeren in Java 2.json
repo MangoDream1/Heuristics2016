@@ -3,59 +3,57 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Programmeren in Java 2",
-            "string": "P0F20",
-            "classroom": "A1.06"
-         }
-      ],
-      "2": [],
       "3": [
          {
-            "subject": "Programmeren in Java 2",
             "string": "P0D20",
-            "classroom": "A1.06"
+            "subject": "Programmeren in Java 2",
+            "classroom": "C1.112"
+         },
+         {
+            "string": "P0E20",
+            "subject": "Programmeren in Java 2",
+            "classroom": "B0.201"
          }
       ]
    },
-   "2": {
+   "1": {
       "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "string": "P0B20",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
       "2": [
          {
+            "string": "P0A20",
             "subject": "Programmeren in Java 2",
-            "string": "P0C20",
             "classroom": "A1.08"
          }
       ],
       "3": [
          {
+            "string": "P0C20",
             "subject": "Programmeren in Java 2",
-            "string": "P0B20",
-            "classroom": "A1.10"
+            "classroom": "A1.08"
+         },
+         {
+            "string": "P0F20",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.04"
          }
       ]
    },
    "3": {
-      "0": [
-         {
-            "subject": "Programmeren in Java 2",
-            "string": "P0A20",
-            "classroom": "A1.06"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Programmeren in Java 2",
-            "string": "P0E20",
-            "classroom": "A1.08"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    },

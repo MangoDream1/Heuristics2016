@@ -2,29 +2,39 @@
    "0": {
       "0": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L0A0",
+            "string": "W0B40",
+            "subject": "Compilerbouw",
             "classroom": "A1.04"
          }
       ],
       "1": [
          {
-            "subject": "Software engineering",
-            "string": "L0A0",
+            "string": "P0C15",
+            "subject": "Project Numerical Recipes",
             "classroom": "A1.04"
          }
       ],
       "2": [
          {
-            "subject": "Data Mining",
-            "string": "L1A0",
+            "string": "P0C15",
+            "subject": "Compilerbouw (practicum)",
             "classroom": "A1.04"
          }
       ],
       "3": [
          {
+            "string": "L0A0",
             "subject": "Compilerbouw",
-            "string": "W0B40",
+            "classroom": "A1.04"
+         },
+         {
+            "string": "W0A15",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.04"
+         },
+         {
+            "string": "W0A40",
+            "subject": "Software engineering",
             "classroom": "A1.04"
          }
       ]
@@ -33,101 +43,80 @@
       "0": [],
       "1": [
          {
-            "subject": "Technology for games",
-            "string": "W0A20",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "P0B20",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0A40",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Project Numerical Recipes",
-            "string": "P0B15",
-            "classroom": "A1.04"
-         },
-         {
+            "string": "W0C20",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A0",
-            "classroom": "A1.04"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "W0B20",
-            "classroom": "A1.04"
-         }
-      ]
-   },
-   "2": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L1A0",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Compilerbouw",
-            "string": "W0A40",
-            "classroom": "A1.04"
-         }
-      ],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Algoritmen en complexiteit",
-            "string": "L0A0",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Data Mining",
-            "string": "P0B10",
             "classroom": "A1.04"
          }
       ],
       "2": [],
       "3": []
    },
-   "4": {
+   "2": {
       "0": [
          {
-            "subject": "Software engineering",
             "string": "W0B40",
+            "subject": "Databases 2",
             "classroom": "A1.04"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "string": "P0B15",
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.04"
+         }
+      ],
       "2": [
          {
-            "subject": "Heuristieken 2",
-            "string": "W0A20",
+            "string": "W0A10",
+            "subject": "Data Mining",
+            "classroom": "A1.04"
+         },
+         {
+            "string": "L0A0",
+            "subject": "Technology for games",
             "classroom": "A1.04"
          }
       ],
       "3": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0C20",
+            "string": "P0F20",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.04"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "string": "L1A0",
+            "subject": "Compilerbouw",
             "classroom": "A1.04"
          },
          {
-            "subject": "Interactie-ontwerp",
-            "string": "L1A0",
+            "string": "W0B40",
+            "subject": "Software engineering",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "string": "L0A0",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "W0A40",
+            "subject": "Calculus 2",
             "classroom": "A1.04"
          }
       ]

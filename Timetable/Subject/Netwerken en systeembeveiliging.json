@@ -6,50 +6,51 @@
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0A20",
-            "classroom": "B0.201"
-         },
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0B20",
-            "classroom": "A1.10"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0B20",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "C1.112"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0D20",
-            "classroom": "A1.06"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0C20",
-            "classroom": "A1.08"
-         }
-      ],
-      "3": []
-   },
-   "4": {
-      "0": [],
       "1": [],
       "2": [],
+      "3": [
+         {
+            "string": "P0D20",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "B0.201"
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "string": "P0C20",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "A1.10"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "string": "P0A20",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "C0.110"
+         }
+      ],
       "3": []
    }
 }

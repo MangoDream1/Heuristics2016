@@ -2,104 +2,105 @@
    "0": {
       "0": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L0A0",
-            "classroom": "A1.04"
+            "string": "L1A0",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "C0.110"
          }
       ],
       "1": [],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "string": "P0B10",
+            "subject": "Advanced Heuristics",
+            "classroom": "C1.112"
+         }
+      ],
+      "3": [
+         {
+            "string": "L0A0",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.06"
+         }
+      ]
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "string": "W0B20",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.08"
+         }
+      ],
+      "2": [
+         {
+            "string": "L0A0",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "C1.112"
+         }
+      ],
       "3": [
          {
-            "subject": "Advanced Heuristics",
-            "string": "P0B10",
-            "classroom": "A1.06"
+            "string": "L0A0",
+            "subject": "Architectuur en computerorganisatie",
+            "classroom": "C1.112"
+         },
+         {
+            "string": "P0B20",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "W0A20",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "B0.201"
          }
       ]
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "subject": "Advanced Heuristics",
-            "string": "L0A0",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L1A0",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0B20",
-            "classroom": "A1.08"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "L1A0",
-            "classroom": "A1.08"
-         }
-      ]
+      "3": []
    },
    "3": {
-      "0": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0B20",
-            "classroom": "B0.201"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L1A0",
-            "classroom": "C1.112"
+            "string": "L2A0",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110"
          }
       ],
       "2": [
          {
+            "string": "L1A0",
             "subject": "Collectieve Intelligentie",
-            "string": "L2A0",
-            "classroom": "B0.201"
-         },
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "W0A20",
             "classroom": "C0.110"
          }
       ],
-      "3": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "L0A0",
-            "classroom": "A1.06"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "P0A20",
+            "string": "L1A0",
+            "subject": "Architectuur en computerorganisatie",
             "classroom": "B0.201"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "string": "P0A20",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.06"
+         }
+      ],
       "2": [],
       "3": [
          {
-            "subject": "Collectieve Intelligentie",
             "string": "L0A0",
+            "subject": "Advanced Heuristics",
             "classroom": "A1.10"
          }
       ]

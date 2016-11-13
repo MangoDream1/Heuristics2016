@@ -42,12 +42,24 @@ class Lecture:
     def __str__(self):
         return self.name[0] + str(self.lecture_number) + chr(ord('A') + self.group) + str(self.maxStud)
 
+    def assignLecturetoAll(self):
+        self.assignLectureToStudents()
+        self.assignLecturetoClassroom()
+        self.assignLecturetoSubject()
+
     def assignLectureToStudents(self):
         for student in self.students:
             student.lectures.append(self)
 
     def assignLecturetoClassroom(self):
         self.classroom.lectures.append(self)
+
+    def assignLecturetoSubject(self):
+        self.subject.lectures.append(self)
+
+    def getChangingDataDict(self):
+        # This is the data of the lecture object that changes during algorithm iterations
+        return {"day": self.day, "timeslot": self.timeslot, "classroom": self.classroom.__str__()}
 
     def toDict(self):
         return {"subject": self.subject.name, "classroom": self.classroom.__str__(),
@@ -60,6 +72,9 @@ class Timetable:
         self.jsonDict = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(5)}
 
         self.score = 0
+
+    def clearLectures(self):
+        self.lectures = []
 
     def getLectures(self):
         return [x for x in self.lectures if x.name == "Lecture"]
@@ -86,6 +101,9 @@ class Timetable:
             json.dump(self.jsonDict, f, indent=3)
 
     def fillInTimetable(self):
+        self.timetable = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(5)}
+        self.jsonDict = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(5)}
+
         for lecture in self.lectures:
             self.timetable[lecture.day][lecture.timeslot].append(lecture)
             self.jsonDict[lecture.day][lecture.timeslot].append(lecture)

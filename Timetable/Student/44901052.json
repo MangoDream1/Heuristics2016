@@ -1,76 +1,95 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "L1A0",
+            "subject": "Autonomous Agents 2",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "W0B20",
+            "subject": "Technology for games",
+            "classroom": "A1.08"
+         }
+      ],
       "1": [
          {
-            "subject": "Technology for games",
-            "string": "L1A0",
-            "classroom": "A1.10"
+            "string": "W0B15",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "C0.110"
          }
       ],
       "2": [
          {
+            "string": "W0B10",
             "subject": "Autonomous Agents 2",
-            "string": "P0B10",
-            "classroom": "A1.06"
+            "classroom": "A1.08"
          }
       ],
       "3": [
          {
-            "subject": "Heuristieken 1",
             "string": "L0A0",
-            "classroom": "A1.08"
+            "subject": "Heuristieken 1",
+            "classroom": "C1.112"
          }
       ]
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0A25",
+            "subject": "Heuristieken 1",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0B15",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.10"
+         }
+      ]
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [],
+      "0": [
+         {
+            "string": "L0A0",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "C1.112"
+         }
+      ],
+      "1": [
+         {
+            "string": "L1A0",
+            "subject": "Technology for games",
+            "classroom": "A1.08"
+         }
+      ],
+      "2": [
+         {
+            "string": "L0A0",
+            "subject": "Technology for games",
+            "classroom": "A1.04"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [
          {
+            "string": "P0B10",
             "subject": "Autonomous Agents 2",
-            "string": "L0A0",
-            "classroom": "A1.08"
+            "classroom": "B0.201"
          }
       ],
-      "1": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "P0B15",
-            "classroom": "A1.06"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L0A0",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0C20",
-            "classroom": "A1.08"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": [
          {
-            "subject": "Autonomous Agents 2",
-            "string": "W0B10",
-            "classroom": "B0.201"
-         },
-         {
-            "subject": "Technology for games",
-            "string": "L0A0",
+            "string": "L1A0",
+            "subject": "Informatie- en organisatieontwerp",
             "classroom": "C1.112"
          }
       ]
@@ -78,35 +97,19 @@
    "4": {
       "0": [
          {
-            "subject": "Heuristieken 1",
-            "string": "W0A25",
-            "classroom": "B0.201"
-         },
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L1A0",
-            "classroom": "C1.112"
+            "string": "P0C20",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "A1.10"
          }
       ],
       "1": [
          {
+            "string": "L0A0",
             "subject": "Autonomous Agents 2",
-            "string": "L1A0",
-            "classroom": "A1.06"
-         },
-         {
-            "subject": "Technology for games",
-            "string": "W0B20",
-            "classroom": "C0.110"
+            "classroom": "C1.112"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "W0B15",
-            "classroom": "B0.201"
-         }
-      ]
+      "3": []
    }
 }

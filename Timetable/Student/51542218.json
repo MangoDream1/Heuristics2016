@@ -1,25 +1,37 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A0",
-            "classroom": "B0.201"
+            "string": "L1A0",
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.06"
          }
       ],
-      "3": []
-   },
-   "1": {
-      "0": [],
       "1": [
          {
-            "subject": "Kansrekenen 2",
-            "string": "L1A0",
+            "string": "L0A0",
+            "subject": "Databases 2",
             "classroom": "A1.10"
          }
       ],
+      "2": [],
+      "3": [
+         {
+            "string": "W0A40",
+            "subject": "Databases 2",
+            "classroom": "C0.110"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "string": "L0A0",
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -27,7 +39,13 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A0",
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "A1.06"
+         }
+      ]
    },
    "3": {
       "0": [],
@@ -36,27 +54,9 @@
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L0A0",
-            "classroom": "A1.06"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Databases 2",
-            "string": "L0A0",
-            "classroom": "A1.08"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Databases 2",
-            "string": "W0A40",
-            "classroom": "A1.08"
-         }
-      ],
+      "0": [],
+      "1": [],
+      "2": [],
       "3": []
    }
 }

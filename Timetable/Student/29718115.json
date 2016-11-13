@@ -1,64 +1,63 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L0A0",
+            "string": "W0A15",
+            "subject": "Informatie- en organisatieontwerp",
             "classroom": "A1.04"
          }
-      ],
-      "1": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "W0A15",
-            "classroom": "C1.112"
-         }
-      ],
-      "2": [],
-      "3": []
+      ]
    },
    "1": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A0",
+            "subject": "Architectuur en computerorganisatie",
+            "classroom": "C1.112"
+         }
+      ]
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A0",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "C1.112"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L1A0",
-            "classroom": "C1.112"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L0A0",
-            "classroom": "A1.10"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": [
          {
+            "string": "L1A0",
             "subject": "Informatie- en organisatieontwerp",
-            "string": "P0A15",
-            "classroom": "B0.201"
+            "classroom": "C1.112"
          }
       ]
    },
    "4": {
       "0": [
          {
-            "subject": "Informatie- en organisatieontwerp",
             "string": "L1A0",
-            "classroom": "C1.112"
+            "subject": "Architectuur en computerorganisatie",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "P0A15",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.10"
          }
       ],
       "1": [],

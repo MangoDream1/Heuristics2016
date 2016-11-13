@@ -6,62 +6,62 @@
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0A20",
-            "classroom": "B0.201"
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A0",
-            "classroom": "A1.04"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "W0A20",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.06"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
       "1": [
          {
+            "string": "P0A10",
             "subject": "Advanced Heuristics",
-            "string": "L0A0",
-            "classroom": "C0.110"
+            "classroom": "A1.06"
          }
       ],
       "2": [],
       "3": []
    },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Advanced Heuristics",
-            "string": "P0A10",
-            "classroom": "A1.10"
-         }
-      ]
-   },
    "4": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "L1A0",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A0",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.04"
+         }
+      ],
       "2": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A0",
-            "classroom": "A1.06"
+            "string": "P0A20",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "C0.110"
          }
       ],
       "3": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "W0A20",
-            "classroom": "A1.08"
+            "string": "L0A0",
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.10"
          }
       ]
    }

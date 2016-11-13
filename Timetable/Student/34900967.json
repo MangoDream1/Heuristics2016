@@ -2,13 +2,7 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A0",
-            "classroom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
@@ -18,14 +12,20 @@
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0B20",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Programmeren in Java 2",
-            "string": "P0B20",
-            "classroom": "A1.10"
+            "string": "L0A0",
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "A1.06"
          }
       ]
    },

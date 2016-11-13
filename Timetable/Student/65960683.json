@@ -2,23 +2,27 @@
    "0": {
       "0": [
          {
+            "string": "P0D20",
             "subject": "Collectieve Intelligentie",
-            "string": "W0D20",
-            "classroom": "C1.112"
-         }
-      ],
-      "1": [
+            "classroom": "A1.06"
+         },
          {
+            "string": "W0B40",
             "subject": "Compilerbouw",
-            "string": "L1A0",
-            "classroom": "A1.08"
+            "classroom": "A1.04"
          }
       ],
+      "1": [],
       "2": [],
       "3": [
          {
+            "string": "L0A0",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.06"
+         },
+         {
+            "string": "L0A0",
             "subject": "Compilerbouw",
-            "string": "W0B40",
             "classroom": "A1.04"
          }
       ]
@@ -28,58 +32,52 @@
       "1": [],
       "2": [
          {
-            "subject": "Compilerbouw",
-            "string": "P0B40",
-            "classroom": "A1.06"
+            "string": "W0D20",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C1.112"
          }
       ],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L1A0",
-            "classroom": "A1.04"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "L1A0",
+            "subject": "Compilerbouw",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [
+         {
+            "string": "L2A0",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110"
+         }
+      ],
       "2": [
          {
+            "string": "L1A0",
             "subject": "Collectieve Intelligentie",
-            "string": "L2A0",
-            "classroom": "B0.201"
+            "classroom": "C0.110"
          }
       ],
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "subject": "Compilerbouw",
-            "string": "L0A0",
-            "classroom": "A1.10"
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0D20",
-            "classroom": "C0.110"
-         }
-      ],
+      "2": [],
       "3": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A0",
-            "classroom": "A1.10"
+            "string": "P0B40",
+            "subject": "Compilerbouw",
+            "classroom": "A1.06"
          }
       ]
    }

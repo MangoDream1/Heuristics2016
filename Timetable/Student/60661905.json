@@ -2,61 +2,60 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A0",
-            "classroom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A0",
-            "classroom": "A1.04"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [
+      "2": [
          {
-            "subject": "Programmeren in Java 2",
             "string": "P0A20",
-            "classroom": "A1.06"
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.08"
          }
       ],
+      "3": [
+         {
+            "string": "L0A0",
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "A1.06"
+         },
+         {
+            "string": "W0A20",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.06"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
+            "string": "L1A0",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A0",
             "classroom": "A1.06"
          }
       ],
-      "3": [
+      "1": [
          {
+            "string": "L0A0",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "W0A20",
-            "classroom": "A1.08"
+            "classroom": "A1.04"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    }
 }

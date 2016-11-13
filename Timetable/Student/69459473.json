@@ -1,6 +1,12 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "L1A0",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "C0.110"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -10,53 +16,47 @@
       "1": [],
       "2": [
          {
-            "subject": "Project Genetic Algorithms",
-            "string": "P0A15",
-            "classroom": "A1.10"
+            "string": "L0A0",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "C1.112"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "string": "W0A20",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "B0.201"
+         }
+      ]
    },
    "2": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "L1A0",
-            "classroom": "A1.08"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "W0A20",
-            "classroom": "C0.110"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "L0A0",
-            "classroom": "A1.06"
-         }
-      ]
-   },
-   "4": {
-      "0": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "P0A20",
-            "classroom": "B0.201"
-         }
-      ],
-      "1": [],
       "2": [],
       "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "string": "P0A20",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.06"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "P0A15",
+            "subject": "Project Genetic Algorithms",
+            "classroom": "C0.110"
+         }
+      ]
    }
 }

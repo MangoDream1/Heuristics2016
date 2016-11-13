@@ -1,14 +1,12 @@
 from classes import *
 
-class Score:
+class ScoreSystem:
 	def __init__(self, subject_lst, student_lst, classroom_lst):
 		self.subject_lst = subject_lst
 		self.student_lst = student_lst
 		self.classroom_lst = classroom_lst
 
-		self.score = 0
-
-		self.total_score()
+		self.score = self.total_score()
 
 	def __str__(self):
 		return "Score: %s" % self.score
@@ -24,7 +22,7 @@ class Score:
 		total_student_score = sum([student.score for student in self.student_lst])
 		total_classroom_score = sum([classroom.score for classroom in self.classroom_lst])
 
-		self.score = total_subject_score + total_student_score + total_classroom_score + self.total_valid_score()
+		return total_subject_score + total_student_score + total_classroom_score + self.total_valid_score()
 
 	def total_valid_score(self):
 		valid = True
@@ -48,6 +46,8 @@ class Score:
 	def classroom_score(self, classroom_object):
 		classroom_score = 0
 
+		classroom_object.fillInTimetable()
+
 		for day, timeslot in classroom_object.timetable.items():
 			for key, lectures in timeslot.items():
 
@@ -67,6 +67,8 @@ class Score:
 	def student_score(self, student_object):
 		student_score = 0
 
+		student_object.fillInTimetable()
+
 		for day, timeslot in student_object.timetable.items():
 			for key, lectures in timeslot.items():
 
@@ -77,6 +79,8 @@ class Score:
 
 	def subject_score(self, subject_object):
 		subject_score = 0
+
+		subject_object.fillInTimetable()
 
 		if len(subject_object.getWorkLectures()) > 0:
 			nWorkLectureGroups = max([lecture.group for lecture in subject_object.getWorkLectures()])

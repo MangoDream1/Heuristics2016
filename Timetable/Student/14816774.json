@@ -1,96 +1,96 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "subject": "Bioinformatica",
-            "string": "W0C20",
-            "classroom": "A1.08"
+            "string": "W0C40",
+            "subject": "Calculus 2",
+            "classroom": "A1.06"
          },
          {
-            "subject": "Heuristieken 1",
             "string": "L0A0",
-            "classroom": "A1.08"
+            "subject": "Databases 2",
+            "classroom": "A1.10"
+         }
+      ],
+      "2": [
+         {
+            "string": "L0A0",
+            "subject": "Bioinformatica",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": [
+         {
+            "string": "L0A0",
+            "subject": "Heuristieken 1",
+            "classroom": "C1.112"
          }
       ]
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0C20",
+            "subject": "Bioinformatica",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "W0B25",
+            "subject": "Heuristieken 1",
+            "classroom": "A1.08"
+         }
+      ],
       "1": [
          {
+            "string": "L0A0",
             "subject": "Calculus 2",
-            "string": "W0C40",
-            "classroom": "A1.10"
+            "classroom": "C1.112"
          }
       ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Bioinformatica",
-            "string": "P0C20",
-            "classroom": "A1.10"
-         }
-      ]
-   },
-   "2": {
-      "0": [],
-      "1": [],
       "2": [
          {
+            "string": "L1A0",
             "subject": "Bioinformatica",
-            "string": "L0A0",
-            "classroom": "B0.201"
+            "classroom": "C1.112"
          }
       ],
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "string": "W0B40",
+            "subject": "Databases 2",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "3": {
       "0": [
          {
+            "string": "P0C20",
             "subject": "Bioinformatica",
-            "string": "L2A0",
-            "classroom": "C0.110"
+            "classroom": "C1.112"
          }
       ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Databases 2",
-            "string": "W0B40",
-            "classroom": "A1.08"
-         }
-      ]
+      "3": []
    },
    "4": {
-      "0": [
-         {
-            "subject": "Bioinformatica",
-            "string": "L1A0",
-            "classroom": "A1.10"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "subject": "Databases 2",
-            "string": "L0A0",
-            "classroom": "A1.08"
+            "string": "L2A0",
+            "subject": "Bioinformatica",
+            "classroom": "B0.201"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "subject": "Calculus 2",
-            "string": "L0A0",
-            "classroom": "A1.08"
-         },
-         {
-            "subject": "Heuristieken 1",
-            "string": "W0B25",
-            "classroom": "A1.08"
-         }
-      ]
+      "3": []
    }
 }

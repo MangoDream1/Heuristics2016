@@ -1,12 +1,18 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "L1A0",
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "subject": "Compilerbouw (practicum)",
             "string": "P0B15",
-            "classroom": "B0.201"
+            "subject": "Compilerbouw (practicum)",
+            "classroom": "A1.08"
          }
       ],
       "3": []
@@ -14,37 +20,44 @@
    "1": {
       "0": [
          {
-            "subject": "Calculus 2",
-            "string": "W0B40",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Heuristieken 2",
             "string": "L0A0",
-            "classroom": "A1.10"
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.06"
          }
       ],
       "1": [
          {
-            "subject": "Kansrekenen 2",
-            "string": "L1A0",
-            "classroom": "A1.10"
+            "string": "L0A0",
+            "subject": "Calculus 2",
+            "classroom": "C1.112"
          }
       ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A0",
+            "subject": "Heuristieken 2",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Programmeren in Java 2",
-            "string": "P0C20",
+            "string": "W0B40",
+            "subject": "Calculus 2",
             "classroom": "A1.08"
          }
       ],
-      "3": []
+      "2": [],
+      "3": [
+         {
+            "string": "P0C20",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "3": {
       "0": [],
@@ -53,27 +66,15 @@
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Kansrekenen 2",
-            "string": "L0A0",
-            "classroom": "A1.06"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "subject": "Heuristieken 2",
             "string": "W0A20",
-            "classroom": "A1.04"
+            "subject": "Heuristieken 2",
+            "classroom": "C0.110"
          }
       ],
-      "3": [
-         {
-            "subject": "Calculus 2",
-            "string": "L0A0",
-            "classroom": "A1.08"
-         }
-      ]
+      "2": [],
+      "3": []
    }
 }

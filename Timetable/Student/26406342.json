@@ -2,95 +2,96 @@
    "0": {
       "0": [
          {
+            "string": "P0D20",
             "subject": "Collectieve Intelligentie",
-            "string": "W0D20",
-            "classroom": "C1.112"
+            "classroom": "A1.06"
+         },
+         {
+            "string": "W0B20",
+            "subject": "Technology for games",
+            "classroom": "A1.08"
          }
       ],
       "1": [
          {
-            "subject": "Technology for games",
-            "string": "L1A0",
+            "string": "L0A0",
+            "subject": "Databases 2",
             "classroom": "A1.10"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "string": "P0C15",
+            "subject": "Compilerbouw (practicum)",
+            "classroom": "A1.04"
+         }
+      ],
       "3": [
          {
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0C15",
-            "classroom": "C1.112"
+            "string": "L0A0",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.06"
          }
       ]
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "W0D20",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C1.112"
+         }
+      ],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L1A0",
+            "string": "W0B40",
+            "subject": "Databases 2",
             "classroom": "A1.04"
          }
       ],
-      "2": [],
+      "1": [
+         {
+            "string": "L1A0",
+            "subject": "Technology for games",
+            "classroom": "A1.08"
+         }
+      ],
+      "2": [
+         {
+            "string": "L0A0",
+            "subject": "Technology for games",
+            "classroom": "A1.04"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Collectieve Intelligentie",
             "string": "L2A0",
-            "classroom": "B0.201"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110"
          }
       ],
-      "3": [
+      "2": [
          {
-            "subject": "Databases 2",
-            "string": "W0B40",
-            "classroom": "A1.08"
-         },
-         {
-            "subject": "Technology for games",
-            "string": "L0A0",
-            "classroom": "C1.112"
+            "string": "L1A0",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110"
          }
-      ]
+      ],
+      "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "subject": "Databases 2",
-            "string": "L0A0",
-            "classroom": "A1.08"
-         },
-         {
-            "subject": "Technology for games",
-            "string": "W0B20",
-            "classroom": "C0.110"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0D20",
-            "classroom": "C0.110"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A0",
-            "classroom": "A1.10"
-         }
-      ]
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

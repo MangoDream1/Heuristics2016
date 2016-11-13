@@ -6,25 +6,26 @@
       "3": []
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [
          {
+            "string": "L0A0",
             "subject": "Calculus 2",
-            "string": "W0B40",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Project Genetic Algorithms",
-            "string": "P0C15",
             "classroom": "C1.112"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "W0B40",
+            "subject": "Calculus 2",
+            "classroom": "A1.08"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -37,13 +38,13 @@
    "4": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "subject": "Calculus 2",
-            "string": "L0A0",
-            "classroom": "A1.08"
+            "string": "P0C15",
+            "subject": "Project Genetic Algorithms",
+            "classroom": "B0.201"
          }
-      ]
+      ],
+      "3": []
    }
 }

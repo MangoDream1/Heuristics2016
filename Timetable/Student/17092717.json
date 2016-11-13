@@ -1,66 +1,67 @@
 {
    "0": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "L1A0",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "C0.110"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A0",
+            "subject": "Databases 2",
+            "classroom": "A1.10"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
+            "string": "L0A0",
             "subject": "Webprogrammeren en databases",
-            "string": "P0B20",
-            "classroom": "A1.04"
+            "classroom": "C1.112"
          }
       ],
-      "2": [],
       "3": [
          {
+            "string": "P0B20",
             "subject": "Webprogrammeren en databases",
-            "string": "W0B20",
-            "classroom": "A1.04"
+            "classroom": "C0.110"
          }
       ]
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "0": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "L1A0",
-            "classroom": "A1.08"
+            "string": "W0B40",
+            "subject": "Databases 2",
+            "classroom": "A1.04"
          }
-      ]
+      ],
+      "1": [],
+      "2": [
+         {
+            "string": "W0B20",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.06"
+         }
+      ],
+      "3": []
    },
    "3": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Databases 2",
-            "string": "W0B40",
-            "classroom": "A1.08"
-         },
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "L0A0",
-            "classroom": "A1.06"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "subject": "Databases 2",
-            "string": "L0A0",
-            "classroom": "A1.08"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    }

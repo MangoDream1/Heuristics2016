@@ -2,32 +2,26 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A0",
-            "classroom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Project Genetic Algorithms",
-            "string": "P0A15",
-            "classroom": "A1.10"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A0",
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "A1.06"
+         }
+      ]
    },
    "3": {
       "0": [],
@@ -39,6 +33,12 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0A15",
+            "subject": "Project Genetic Algorithms",
+            "classroom": "C0.110"
+         }
+      ]
    }
 }

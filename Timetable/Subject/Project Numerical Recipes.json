@@ -1,33 +1,33 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "P0C15",
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.04"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Project Numerical Recipes",
-            "string": "P0B15",
-            "classroom": "A1.04"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
+            "string": "P0B15",
             "subject": "Project Numerical Recipes",
-            "string": "P0C15",
-            "classroom": "A1.06"
+            "classroom": "A1.04"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "3": {
       "0": [],
@@ -35,8 +35,8 @@
       "2": [],
       "3": [
          {
-            "subject": "Project Numerical Recipes",
             "string": "P0A15",
+            "subject": "Project Numerical Recipes",
             "classroom": "A1.08"
          }
       ]

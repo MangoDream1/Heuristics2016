@@ -6,27 +6,22 @@
       "3": []
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Heuristieken 2",
             "string": "L0A0",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
             "subject": "Calculus 2",
-            "string": "W0A40",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Project Genetic Algorithms",
-            "string": "P0A15",
-            "classroom": "A1.10"
+            "classroom": "C1.112"
          }
       ],
-      "3": []
+      "2": [],
+      "3": [
+         {
+            "string": "L0A0",
+            "subject": "Heuristieken 2",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "2": {
       "0": [],
@@ -42,19 +37,24 @@
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Heuristieken 2",
             "string": "W0A20",
-            "classroom": "A1.04"
+            "subject": "Heuristieken 2",
+            "classroom": "C0.110"
          }
       ],
+      "2": [],
       "3": [
          {
+            "string": "W0A40",
             "subject": "Calculus 2",
-            "string": "L0A0",
-            "classroom": "A1.08"
+            "classroom": "A1.04"
+         },
+         {
+            "string": "P0A15",
+            "subject": "Project Genetic Algorithms",
+            "classroom": "C0.110"
          }
       ]
    }
