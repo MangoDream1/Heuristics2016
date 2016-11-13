@@ -6,12 +6,18 @@
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Data Mining",
+            "classroom": "A1.08",
+            "string": "W0B10"
+         }
+      ],
       "1": [
          {
             "subject": "Data Mining",
-            "string": "L1A0",
-            "classroom": "A1.08"
+            "classroom": "A1.04",
+            "string": "L0A0"
          }
       ],
       "2": [],
@@ -27,8 +33,8 @@
       "0": [
          {
             "subject": "Data Mining",
-            "string": "L0A0",
-            "classroom": "A1.04"
+            "classroom": "B0.201",
+            "string": "P0B10"
          }
       ],
       "1": [],
@@ -36,21 +42,15 @@
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
             "subject": "Data Mining",
-            "string": "W0B10",
-            "classroom": "B0.201"
+            "classroom": "C1.112",
+            "string": "L1A0"
          }
       ],
-      "2": [
-         {
-            "subject": "Data Mining",
-            "string": "P0B10",
-            "classroom": "C1.112"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    }
 }

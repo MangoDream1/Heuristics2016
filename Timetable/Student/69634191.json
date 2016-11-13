@@ -1,24 +1,30 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Interactie-ontwerp",
+            "classroom": "B0.201",
+            "string": "L1A0"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Interactie-ontwerp",
-            "string": "L0A0",
-            "classroom": "A1.10"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Interactie-ontwerp",
+            "classroom": "A1.06",
+            "string": "L0A0"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -26,13 +32,7 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Interactie-ontwerp",
-            "string": "L1A0",
-            "classroom": "A1.04"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {

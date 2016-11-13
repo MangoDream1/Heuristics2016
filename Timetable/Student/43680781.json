@@ -1,46 +1,46 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Bioinformatica",
-            "string": "L1A0",
-            "classroom": "A1.04"
+            "subject": "Moderne Databases",
+            "classroom": "A1.04",
+            "string": "W0A20"
          },
          {
             "subject": "Moderne Databases",
-            "string": "W0A20",
-            "classroom": "A1.04"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "subject": "Bioinformatica",
-            "string": "W0A20",
-            "classroom": "B0.201"
+            "classroom": "B0.201",
+            "string": "P0A20"
          },
-         {
-            "subject": "Moderne Databases",
-            "string": "L0A0",
-            "classroom": "A1.08"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [
          {
             "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A0",
-            "classroom": "A1.06"
+            "classroom": "A1.08",
+            "string": "L0A0"
          }
       ],
+      "2": [
+         {
+            "subject": "Bioinformatica",
+            "classroom": "A1.06",
+            "string": "W0A20"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Technology for games",
+            "classroom": "A1.04",
+            "string": "W0A20"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
       "1": [],
       "2": [
          {
-            "subject": "Technology for games",
-            "string": "W0A20",
-            "classroom": "B0.201"
+            "subject": "Bioinformatica",
+            "classroom": "C1.112",
+            "string": "L0A0"
          }
       ],
       "3": []
@@ -48,65 +48,65 @@
    "2": {
       "0": [
          {
-            "subject": "Bioinformatica",
-            "string": "P0A20",
-            "classroom": "A1.08"
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.04",
+            "string": "W0B20"
          }
       ],
       "1": [
          {
+            "subject": "Technology for games",
+            "classroom": "C0.110",
+            "string": "L1A0"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
             "subject": "Bioinformatica",
-            "string": "L2A0",
-            "classroom": "B0.201"
+            "classroom": "A1.04",
+            "string": "P0A20"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Bioinformatica",
+            "classroom": "B0.201",
+            "string": "L1A0"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Bioinformatica",
+            "classroom": "C1.112",
+            "string": "L2A0"
+         },
+         {
+            "subject": "Moderne Databases",
+            "classroom": "C1.112",
+            "string": "L0A0"
          }
       ],
       "2": [],
       "3": [
          {
             "subject": "Reflectie op de digitale cultuur",
-            "string": "W0B20",
-            "classroom": "A1.08"
+            "classroom": "B0.201",
+            "string": "L1A0"
+         },
+         {
+            "subject": "Technology for games",
+            "classroom": "A1.04",
+            "string": "L0A0"
          }
       ]
-   },
-   "3": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A0",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Technology for games",
-            "string": "L0A0",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Moderne Databases",
-            "string": "P0A20",
-            "classroom": "A1.04"
-         }
-      ],
-      "3": []
-   },
-   "4": {
-      "0": [
-         {
-            "subject": "Bioinformatica",
-            "string": "L0A0",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Technology for games",
-            "string": "L1A0",
-            "classroom": "A1.06"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
    }
 }

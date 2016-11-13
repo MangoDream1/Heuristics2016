@@ -1,12 +1,18 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Databases 2",
+            "classroom": "A1.10",
+            "string": "W0B40"
+         }
+      ],
       "2": [
          {
             "subject": "Compilerbouw (practicum)",
-            "string": "P0C15",
-            "classroom": "C0.110"
+            "classroom": "A1.06",
+            "string": "P0C15"
          }
       ],
       "3": []
@@ -18,38 +24,32 @@
       "3": []
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A0",
-            "classroom": "A1.10"
+            "subject": "Databases 2",
+            "classroom": "B0.201",
+            "string": "L0A0"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "subject": "Databases 2",
-            "string": "L0A0",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Databases 2",
-            "string": "W0B40",
-            "classroom": "A1.10"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "A1.08",
+            "string": "L0A0"
+         }
+      ],
       "2": [],
       "3": []
    }

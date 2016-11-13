@@ -1,65 +1,67 @@
 {
    "0": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.10",
+            "string": "P0A10"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.08",
+            "string": "L0A0"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A0",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "A1.04",
+            "string": "P0A20"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A0",
-            "classroom": "C0.110"
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.08",
+            "string": "L0A0"
          }
       ],
-      "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "subject": "Advanced Heuristics",
-            "string": "L0A0",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Advanced Heuristics",
-            "string": "P0A10",
-            "classroom": "C1.112"
-         },
+      "1": [],
+      "2": [
          {
             "subject": "Reflectie op de digitale cultuur",
-            "string": "W0A20",
-            "classroom": "C0.110"
+            "classroom": "A1.06",
+            "string": "W0A20"
          }
       ],
-      "2": [],
       "3": [
          {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0A20",
-            "classroom": "C1.112"
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "B0.201",
+            "string": "L1A0"
          }
       ]
    }

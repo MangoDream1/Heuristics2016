@@ -1,19 +1,19 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Autonomous Agents 2",
+            "classroom": "B0.201",
+            "string": "L0A0"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "subject": "Autonomous Agents 2",
-            "string": "W0A10",
-            "classroom": "C0.110"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -22,28 +22,28 @@
       "1": [
          {
             "subject": "Programmeren in Java 2",
-            "string": "P0B20",
-            "classroom": "C0.110"
+            "classroom": "C1.112",
+            "string": "P0B20"
          }
       ],
       "2": [],
       "3": [
          {
             "subject": "Autonomous Agents 2",
-            "string": "P0A10",
-            "classroom": "B0.201"
+            "classroom": "B0.201",
+            "string": "P0A10"
          }
       ]
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
             "subject": "Autonomous Agents 2",
-            "string": "L1A0",
-            "classroom": "A1.04"
+            "classroom": "A1.04",
+            "string": "W0A10"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -53,8 +53,8 @@
       "2": [
          {
             "subject": "Autonomous Agents 2",
-            "string": "L0A0",
-            "classroom": "C1.112"
+            "classroom": "B0.201",
+            "string": "L1A0"
          }
       ],
       "3": []

@@ -3,7 +3,13 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "B0.201",
+            "string": "P0B20"
+         }
+      ]
    },
    "1": {
       "0": [],
@@ -12,13 +18,7 @@
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A0",
-            "classroom": "A1.10"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -31,14 +31,14 @@
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0B20",
-            "classroom": "A1.08"
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "A1.08",
+            "string": "L0A0"
          }
       ],
+      "2": [],
       "3": []
    }
 }

@@ -1,48 +1,49 @@
 {
    "0": {
-      "0": [
-         {
-            "subject": "Software engineering",
-            "string": "W0B40",
-            "classroom": "A1.06"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L1A0",
-            "classroom": "C1.112"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
             "subject": "Kansrekenen 2",
-            "string": "L0A0",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Technology for games",
-            "string": "W0B20",
-            "classroom": "A1.06"
+            "classroom": "A1.04",
+            "string": "L0A0"
          }
-      ]
+      ],
+      "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "0": [
          {
             "subject": "Software engineering",
-            "string": "L0A0",
-            "classroom": "C0.110"
+            "classroom": "C1.112",
+            "string": "P0B40"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Technology for games",
+            "classroom": "C0.110",
+            "string": "L1A0"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Software engineering",
+            "classroom": "A1.10",
+            "string": "L0A0"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.08",
+            "string": "P0C15"
          }
       ]
    },
@@ -50,35 +51,36 @@
       "0": [],
       "1": [
          {
-            "subject": "Technology for games",
-            "string": "L0A0",
-            "classroom": "B0.201"
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.06",
+            "string": "L1A0"
          }
       ],
       "2": [],
       "3": [
          {
-            "subject": "Project Numerical Recipes",
-            "string": "P0C15",
-            "classroom": "C1.112"
+            "subject": "Technology for games",
+            "classroom": "A1.06",
+            "string": "W0B20"
          }
       ]
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
             "subject": "Software engineering",
-            "string": "P0B40",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Technology for games",
-            "string": "L1A0",
-            "classroom": "A1.06"
+            "classroom": "C1.112",
+            "string": "W0B40"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Technology for games",
+            "classroom": "A1.04",
+            "string": "L0A0"
+         }
+      ]
    }
 }

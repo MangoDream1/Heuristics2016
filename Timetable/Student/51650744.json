@@ -2,13 +2,7 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Moderne Databases",
-            "string": "L0A0",
-            "classroom": "A1.08"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
@@ -18,16 +12,22 @@
       "3": []
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
             "subject": "Moderne Databases",
-            "string": "P0B20",
-            "classroom": "A1.04"
+            "classroom": "A1.08",
+            "string": "W0B20"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Moderne Databases",
+            "classroom": "B0.201",
+            "string": "P0B20"
+         }
+      ]
    },
    "3": {
       "0": [],
@@ -40,8 +40,8 @@
       "1": [
          {
             "subject": "Moderne Databases",
-            "string": "W0B20",
-            "classroom": "C0.110"
+            "classroom": "C1.112",
+            "string": "L0A0"
          }
       ],
       "2": [],

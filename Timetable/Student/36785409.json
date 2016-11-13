@@ -1,73 +1,73 @@
 {
    "0": {
       "0": [],
+      "1": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.08",
+            "string": "L0A0"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Technology for games",
+            "classroom": "A1.04",
+            "string": "W0A20"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
-   "1": {
-      "0": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A0",
-            "classroom": "A1.06"
-         }
-      ],
-      "1": [],
-      "2": [
+   "2": {
+      "0": [],
+      "1": [
          {
             "subject": "Technology for games",
-            "string": "W0A20",
-            "classroom": "B0.201"
+            "classroom": "C0.110",
+            "string": "L1A0"
          }
       ],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A0",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A0",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Technology for games",
-            "string": "L0A0",
-            "classroom": "B0.201"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "subject": "Technology for games",
-            "string": "L1A0",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "W0A20",
-            "classroom": "C0.110"
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "A1.08",
+            "string": "L0A0"
          }
       ],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.06",
+            "string": "W0A20"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "B0.201",
+            "string": "L1A0"
+         },
+         {
+            "subject": "Technology for games",
+            "classroom": "A1.04",
+            "string": "L0A0"
+         }
+      ]
    }
 }

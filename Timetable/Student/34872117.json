@@ -2,18 +2,12 @@
    "0": {
       "0": [
          {
-            "subject": "Compilerbouw",
-            "string": "L0A0",
-            "classroom": "B0.201"
+            "subject": "Databases 2",
+            "classroom": "C1.112",
+            "string": "W0A40"
          }
       ],
-      "1": [
-         {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L0A0",
-            "classroom": "A1.04"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -22,59 +16,64 @@
       "1": [],
       "2": [
          {
+            "subject": "Architectuur en computerorganisatie",
+            "classroom": "A1.08",
+            "string": "L0A0"
+         },
+         {
             "subject": "Compilerbouw",
-            "string": "P0A40",
-            "classroom": "C1.112"
+            "classroom": "C0.110",
+            "string": "W0A40"
          }
       ],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Compilerbouw",
+            "classroom": "A1.04",
+            "string": "P0A40"
+         }
+      ],
       "1": [
          {
             "subject": "Databases 2",
-            "string": "W0A40",
-            "classroom": "C1.112"
+            "classroom": "B0.201",
+            "string": "L0A0"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "subject": "Compilerbouw",
-            "string": "L1A0",
-            "classroom": "A1.10"
-         }
-      ]
+      "3": []
    },
    "3": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Compilerbouw",
+            "classroom": "A1.10",
+            "string": "L0A0"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "4": {
       "0": [
          {
-            "subject": "Databases 2",
-            "string": "L0A0",
-            "classroom": "A1.06"
+            "subject": "Architectuur en computerorganisatie",
+            "classroom": "A1.08",
+            "string": "L1A0"
          }
       ],
       "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L1A0",
-            "classroom": "A1.08"
+            "subject": "Compilerbouw",
+            "classroom": "C1.112",
+            "string": "L1A0"
          }
       ]
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "subject": "Compilerbouw",
-            "string": "W0A40",
-            "classroom": "A1.06"
-         }
-      ],
-      "3": []
    }
 }

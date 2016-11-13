@@ -1,17 +1,11 @@
 {
    "0": {
-      "0": [
-         {
-            "subject": "Compilerbouw",
-            "string": "L0A0",
-            "classroom": "B0.201"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "subject": "Kansrekenen 2",
-            "string": "L1A0",
-            "classroom": "C1.112"
+            "subject": "Calculus 2",
+            "classroom": "A1.04",
+            "string": "W0A40"
          }
       ],
       "2": [],
@@ -23,43 +17,48 @@
       "2": [
          {
             "subject": "Compilerbouw",
-            "string": "P0A40",
-            "classroom": "C1.112"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0A40",
-            "classroom": "A1.04"
+            "classroom": "C0.110",
+            "string": "W0A40"
          },
          {
             "subject": "Kansrekenen 2",
-            "string": "L0A0",
-            "classroom": "C0.110"
+            "classroom": "A1.04",
+            "string": "L0A0"
          }
-      ]
+      ],
+      "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "0": [
          {
             "subject": "Compilerbouw",
-            "string": "L1A0",
-            "classroom": "A1.10"
+            "classroom": "A1.04",
+            "string": "P0A40"
          }
-      ]
+      ],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "3": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Compilerbouw",
+            "classroom": "A1.10",
+            "string": "L0A0"
+         },
+         {
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.06",
+            "string": "L1A0"
+         }
+      ],
       "2": [
          {
             "subject": "Calculus 2",
-            "string": "L0A0",
-            "classroom": "C1.112"
+            "classroom": "A1.04",
+            "string": "L0A0"
          }
       ],
       "3": []
@@ -67,13 +66,13 @@
    "4": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
             "subject": "Compilerbouw",
-            "string": "W0A40",
-            "classroom": "A1.06"
+            "classroom": "C1.112",
+            "string": "L1A0"
          }
-      ],
-      "3": []
+      ]
    }
 }

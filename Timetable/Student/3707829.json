@@ -1,62 +1,62 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Interactie-ontwerp",
+            "classroom": "B0.201",
+            "string": "L1A0"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Algoritmen en complexiteit",
-            "string": "W0B25",
-            "classroom": "A1.08"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
-            "subject": "Interactie-ontwerp",
-            "string": "L0A0",
-            "classroom": "A1.10"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.10",
+            "string": "L0A0"
          }
       ],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Interactie-ontwerp",
+            "classroom": "A1.06",
+            "string": "L0A0"
+         }
+      ],
       "1": [
          {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0C15",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [
-         {
             "subject": "Algoritmen en complexiteit",
-            "string": "P0B25",
-            "classroom": "B0.201"
+            "classroom": "C1.112",
+            "string": "W0B25"
          }
       ],
-      "3": []
+      "2": [],
+      "3": [
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "C0.110",
+            "string": "P0C15"
+         }
+      ]
    },
    "3": {
       "0": [
          {
             "subject": "Algoritmen en complexiteit",
-            "string": "L0A0",
-            "classroom": "C0.110"
+            "classroom": "C1.112",
+            "string": "P0B25"
          }
       ],
       "1": [],
-      "2": [
-         {
-            "subject": "Interactie-ontwerp",
-            "string": "L1A0",
-            "classroom": "A1.04"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {

@@ -1,39 +1,33 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0C20",
-            "classroom": "C0.110"
-         }
-      ],
+      "1": [],
       "2": [
          {
             "subject": "Compilerbouw (practicum)",
-            "string": "P0C15",
-            "classroom": "C0.110"
+            "classroom": "A1.06",
+            "string": "P0C15"
          }
       ],
-      "3": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A0",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
       "1": [
          {
             "subject": "Collectieve Intelligentie",
-            "string": "L1A0",
-            "classroom": "A1.04"
+            "classroom": "C0.110",
+            "string": "L2A0"
          }
       ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.10",
+            "string": "L0A0"
+         }
+      ]
    },
    "2": {
       "0": [],
@@ -44,24 +38,31 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [],
       "2": [
          {
             "subject": "Collectieve Intelligentie",
-            "string": "L0A0",
-            "classroom": "B0.201"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0C20",
-            "classroom": "C1.112"
+            "classroom": "A1.08",
+            "string": "L1A0"
          }
       ],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C1.112",
+            "string": "P0C20"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.08",
+            "string": "W0C20"
+         }
+      ],
+      "2": [],
       "3": []
    }
 }

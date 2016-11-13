@@ -3,66 +3,67 @@
       "0": [],
       "1": [
          {
-            "subject": "Heuristieken 2",
-            "string": "L0A0",
-            "classroom": "A1.08"
+            "subject": "Interactie-ontwerp",
+            "classroom": "B0.201",
+            "string": "L1A0"
          }
       ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Algoritmen en complexiteit",
-            "string": "W0B25",
-            "classroom": "A1.08"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "subject": "Interactie-ontwerp",
-            "string": "L0A0",
-            "classroom": "A1.10"
-         }
-      ],
-      "3": []
-   },
-   "2": {
       "0": [],
       "1": [],
       "2": [
          {
             "subject": "Algoritmen en complexiteit",
-            "string": "P0B25",
-            "classroom": "B0.201"
+            "classroom": "A1.10",
+            "string": "L0A0"
          }
       ],
       "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "subject": "Interactie-ontwerp",
+            "classroom": "A1.06",
+            "string": "L0A0"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "C1.112",
+            "string": "W0B25"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Heuristieken 2",
+            "classroom": "A1.08",
+            "string": "W0B20"
+         }
+      ]
    },
    "3": {
       "0": [
          {
             "subject": "Algoritmen en complexiteit",
-            "string": "L0A0",
-            "classroom": "C0.110"
+            "classroom": "C1.112",
+            "string": "P0B25"
          }
       ],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
             "subject": "Heuristieken 2",
-            "string": "W0B20",
-            "classroom": "A1.08"
-         },
-         {
-            "subject": "Interactie-ontwerp",
-            "string": "L1A0",
-            "classroom": "A1.04"
+            "classroom": "A1.04",
+            "string": "L0A0"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
       "0": [],

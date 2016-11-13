@@ -1,15 +1,15 @@
 {
    "0": {
-      "0": [
-         {
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0A15",
-            "classroom": "A1.08"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "B0.201",
+            "string": "P0B20"
+         }
+      ]
    },
    "1": {
       "0": [],
@@ -26,19 +26,19 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Compilerbouw (practicum)",
+            "classroom": "A1.04",
+            "string": "P0A15"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0B20",
-            "classroom": "A1.08"
-         }
-      ],
+      "2": [],
       "3": []
    }
 }

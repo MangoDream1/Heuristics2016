@@ -12,7 +12,7 @@ def update_progress(workdone, text='Progress:'):
 
 iteration = 0
 iteration_dct = {}
-nPlannedIterations = 1000
+nPlannedIterations = 10000
 
 while iteration != nPlannedIterations:
     changed_lectures = []

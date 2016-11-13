@@ -1,62 +1,62 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Calculus 2",
+            "classroom": "C0.110",
+            "string": "W0C40"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Lineaire Algebra",
-            "string": "L0A0",
-            "classroom": "C1.112"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Lineaire Algebra",
+            "classroom": "C1.112",
+            "string": "L1A0"
+         }
+      ]
    },
    "2": {
-      "0": [
-         {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A0",
-            "classroom": "A1.10"
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0C40",
-            "classroom": "A1.04"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Lineaire Algebra",
-            "string": "L1A0",
-            "classroom": "A1.04"
-         }
-      ],
+      "1": [],
       "2": [
          {
             "subject": "Calculus 2",
-            "string": "L0A0",
-            "classroom": "C1.112"
+            "classroom": "A1.04",
+            "string": "L0A0"
          }
       ],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "A1.08",
+            "string": "L0A0"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Lineaire Algebra",
+            "classroom": "C1.112",
+            "string": "L0A0"
+         }
+      ],
       "3": []
    }
 }

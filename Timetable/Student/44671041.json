@@ -1,12 +1,6 @@
 {
    "0": {
-      "0": [
-         {
-            "subject": "Software engineering",
-            "string": "W0B40",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -18,39 +12,45 @@
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Software engineering",
-            "string": "L0A0",
-            "classroom": "C0.110"
-         }
-      ]
-   },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Programmeren in Java 2",
-            "string": "P0C20",
-            "classroom": "A1.06"
-         }
-      ]
-   },
-   "4": {
       "0": [
          {
             "subject": "Software engineering",
-            "string": "P0B40",
-            "classroom": "C0.110"
+            "classroom": "C1.112",
+            "string": "P0B40"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Software engineering",
+            "classroom": "A1.10",
+            "string": "L0A0"
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [
+         {
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.10",
+            "string": "P0C20"
          }
       ],
       "1": [],
       "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Software engineering",
+            "classroom": "C1.112",
+            "string": "W0B40"
+         }
+      ],
       "3": []
    }
 }

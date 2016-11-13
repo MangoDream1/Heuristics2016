@@ -3,77 +3,77 @@
       "0": [],
       "1": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "string": "W0A25",
-            "classroom": "A1.08"
+            "subject": "Calculus 2",
+            "classroom": "A1.04",
+            "string": "W0A40"
          }
       ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [
          {
             "subject": "Algoritmen en complexiteit",
-            "string": "P0A25",
-            "classroom": "C1.112"
+            "classroom": "C0.110",
+            "string": "W0A25"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "subject": "Calculus 2",
-            "string": "W0A40",
-            "classroom": "A1.04"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.10",
+            "string": "L0A0"
          }
-      ]
+      ],
+      "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.08",
+            "string": "P0A25"
+         },
+         {
+            "subject": "Software engineering",
+            "classroom": "A1.10",
+            "string": "L0A0"
+         }
+      ],
       "3": [
          {
             "subject": "Software engineering",
-            "string": "L0A0",
-            "classroom": "C0.110"
+            "classroom": "B0.201",
+            "string": "W0A40"
          }
       ]
    },
    "3": {
-      "0": [
-         {
-            "subject": "Algoritmen en complexiteit",
-            "string": "L0A0",
-            "classroom": "C0.110"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
             "subject": "Calculus 2",
-            "string": "L0A0",
-            "classroom": "C1.112"
-         },
-         {
-            "subject": "Software engineering",
-            "string": "P0A40",
-            "classroom": "A1.04"
+            "classroom": "A1.04",
+            "string": "L0A0"
          }
       ],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "0": [
          {
             "subject": "Software engineering",
-            "string": "W0A40",
-            "classroom": "A1.08"
+            "classroom": "B0.201",
+            "string": "P0A40"
          }
-      ]
+      ],
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

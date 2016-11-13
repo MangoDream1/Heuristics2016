@@ -2,17 +2,22 @@
    "0": {
       "0": [
          {
-            "subject": "Bioinformatica",
-            "string": "L1A0",
-            "classroom": "A1.04"
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.10",
+            "string": "P0A10"
+         },
+         {
+            "subject": "Databases 2",
+            "classroom": "C1.112",
+            "string": "W0A40"
          }
       ],
       "1": [],
       "2": [
          {
             "subject": "Bioinformatica",
-            "string": "W0A20",
-            "classroom": "B0.201"
+            "classroom": "A1.06",
+            "string": "W0A20"
          }
       ],
       "3": []
@@ -20,62 +25,58 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Bioinformatica",
+            "classroom": "C1.112",
+            "string": "L0A0"
+         }
+      ],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "subject": "Bioinformatica",
-            "string": "P0A20",
-            "classroom": "A1.08"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "subject": "Bioinformatica",
-            "string": "L2A0",
-            "classroom": "B0.201"
-         },
-         {
             "subject": "Databases 2",
-            "string": "W0A40",
-            "classroom": "C1.112"
+            "classroom": "B0.201",
+            "string": "L0A0"
          }
       ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Bioinformatica",
+            "classroom": "A1.04",
+            "string": "P0A20"
+         }
+      ]
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "subject": "Databases 2",
-            "string": "L0A0",
-            "classroom": "A1.06"
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.08",
+            "string": "L0A0"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [
+      "3": [
          {
             "subject": "Bioinformatica",
-            "string": "L0A0",
-            "classroom": "A1.04"
+            "classroom": "B0.201",
+            "string": "L1A0"
          }
-      ],
+      ]
+   },
+   "4": {
+      "0": [],
       "1": [
          {
-            "subject": "Advanced Heuristics",
-            "string": "L0A0",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Advanced Heuristics",
-            "string": "P0A10",
-            "classroom": "C1.112"
+            "subject": "Bioinformatica",
+            "classroom": "C1.112",
+            "string": "L2A0"
          }
       ],
       "2": [],

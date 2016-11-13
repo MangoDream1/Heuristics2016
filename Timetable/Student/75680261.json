@@ -9,7 +9,13 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Project Genetic Algorithms",
+            "classroom": "A1.04",
+            "string": "P0B15"
+         }
+      ]
    },
    "2": {
       "0": [],
@@ -20,13 +26,7 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Project Genetic Algorithms",
-            "string": "P0B15",
-            "classroom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {

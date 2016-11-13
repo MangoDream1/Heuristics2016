@@ -1,74 +1,73 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Moderne Databases",
-            "string": "L0A0",
-            "classroom": "A1.08"
+            "subject": "Databases 2",
+            "classroom": "A1.10",
+            "string": "W0B40"
          }
       ],
+      "2": [],
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Moderne Databases",
+            "classroom": "A1.08",
+            "string": "W0C20"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A0",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "subject": "Moderne Databases",
-            "string": "P0C20",
-            "classroom": "C1.112"
-         }
-      ],
-      "3": []
-   },
-   "3": {
-      "0": [
+      "0": [],
+      "1": [
          {
             "subject": "Databases 2",
-            "string": "L0A0",
-            "classroom": "A1.06"
+            "classroom": "B0.201",
+            "string": "L0A0"
          }
       ],
-      "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Databases 2",
-            "string": "W0B40",
-            "classroom": "A1.10"
+            "subject": "Moderne Databases",
+            "classroom": "A1.08",
+            "string": "P0C20"
          }
       ]
    },
-   "4": {
+   "3": {
       "0": [],
       "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "A1.08",
+            "string": "L0A0"
+         },
+         {
+            "subject": "Moderne Databases",
+            "classroom": "C1.112",
+            "string": "L0A0"
+         }
+      ],
       "2": [
          {
             "subject": "Project Genetic Algorithms",
-            "string": "P0C15",
-            "classroom": "A1.06"
+            "classroom": "A1.10",
+            "string": "P0C15"
          }
       ],
-      "3": [
-         {
-            "subject": "Moderne Databases",
-            "string": "W0C20",
-            "classroom": "C0.110"
-         }
-      ]
+      "3": []
    }
 }

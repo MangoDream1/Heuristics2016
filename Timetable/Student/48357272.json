@@ -1,79 +1,79 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "subject": "Software engineering",
-            "string": "W0B40",
-            "classroom": "A1.06"
+            "subject": "Heuristieken 1",
+            "classroom": "A1.04",
+            "string": "W0A25"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Heuristieken 1",
-            "string": "W0A25",
-            "classroom": "A1.04"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Heuristieken 1",
-            "string": "L0A0",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    },
    "2": {
       "0": [
          {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A0",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Calculus 2",
-            "string": "W0B40",
-            "classroom": "A1.04"
+            "subject": "Software engineering",
+            "classroom": "C1.112",
+            "string": "P0B40"
          }
       ],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
             "subject": "Software engineering",
-            "string": "L0A0",
-            "classroom": "C0.110"
+            "classroom": "A1.10",
+            "string": "L0A0"
          }
-      ]
+      ],
+      "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Heuristieken 1",
+            "classroom": "B0.201",
+            "string": "L0A0"
+         }
+      ],
       "1": [],
       "2": [
          {
             "subject": "Calculus 2",
-            "string": "L0A0",
-            "classroom": "C1.112"
+            "classroom": "A1.04",
+            "string": "L0A0"
          }
       ],
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Software engineering",
-            "string": "P0B40",
-            "classroom": "C0.110"
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "A1.08",
+            "string": "L0A0"
          }
       ],
-      "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Calculus 2",
+            "classroom": "A1.10",
+            "string": "W0B40"
+         },
+         {
+            "subject": "Software engineering",
+            "classroom": "C1.112",
+            "string": "W0B40"
+         }
+      ],
       "3": []
    }
 }

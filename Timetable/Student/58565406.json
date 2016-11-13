@@ -3,65 +3,65 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Technology for games",
+            "classroom": "A1.04",
+            "string": "W0A20"
+         }
+      ]
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Technology for games",
-            "string": "W0A20",
-            "classroom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "subject": "Technology for games",
+            "classroom": "C0.110",
+            "string": "L1A0"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Software engineering",
+            "classroom": "A1.10",
+            "string": "L0A0"
+         }
+      ],
       "3": [
          {
             "subject": "Software engineering",
-            "string": "L0A0",
-            "classroom": "C0.110"
+            "classroom": "B0.201",
+            "string": "W0A40"
          }
       ]
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Technology for games",
-            "string": "L0A0",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Software engineering",
-            "string": "P0A40",
-            "classroom": "A1.04"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [
          {
-            "subject": "Technology for games",
-            "string": "L1A0",
-            "classroom": "A1.06"
+            "subject": "Software engineering",
+            "classroom": "B0.201",
+            "string": "P0A40"
          }
       ],
       "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Software engineering",
-            "string": "W0A40",
-            "classroom": "A1.08"
+            "subject": "Technology for games",
+            "classroom": "A1.04",
+            "string": "L0A0"
          }
       ]
    }

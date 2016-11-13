@@ -1,43 +1,31 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L1A0",
-            "classroom": "C1.112"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0B20",
-            "classroom": "B0.201"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A0",
-            "classroom": "C1.112"
-         }
-      ]
+      "1": [],
+      "2": [],
+      "3": []
    },
    "1": {
       "0": [],
       "1": [
          {
             "subject": "Collectieve Intelligentie",
-            "string": "L1A0",
-            "classroom": "A1.04"
+            "classroom": "C0.110",
+            "string": "L2A0"
          }
       ],
-      "2": [],
-      "3": [
+      "2": [
          {
             "subject": "Kansrekenen 2",
-            "string": "L0A0",
-            "classroom": "C0.110"
+            "classroom": "A1.04",
+            "string": "L0A0"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.10",
+            "string": "L0A0"
          }
       ]
    },
@@ -45,30 +33,42 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0B20",
-            "classroom": "A1.04"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.06",
+            "string": "L1A0"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.08",
+            "string": "L1A0"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
             "subject": "Collectieve Intelligentie",
-            "string": "L0A0",
-            "classroom": "B0.201"
+            "classroom": "A1.04",
+            "string": "P0B20"
          }
       ],
-      "3": []
+      "2": [],
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "B0.201",
+            "string": "W0B20"
+         }
+      ]
    }
 }

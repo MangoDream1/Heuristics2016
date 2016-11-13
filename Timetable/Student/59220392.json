@@ -1,21 +1,27 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Calculus 2",
+            "classroom": "A1.04",
+            "string": "W0A40"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "A1.06",
+            "string": "P0A15"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0A40",
-            "classroom": "A1.04"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
@@ -29,20 +35,14 @@
       "2": [
          {
             "subject": "Calculus 2",
-            "string": "L0A0",
-            "classroom": "C1.112"
+            "classroom": "A1.04",
+            "string": "L0A0"
          }
       ],
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0A15",
-            "classroom": "B0.201"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
