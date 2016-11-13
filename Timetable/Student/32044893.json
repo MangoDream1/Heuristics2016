@@ -6,51 +6,51 @@
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A0",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "string": "P0B15",
-            "subject": "Project Numerical Recipes",
-            "classroom": "A1.04"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0B20",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "3": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A0",
+            "classroom": "C0.110"
+         }
+      ],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "string": "L1A0",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "string": "L0A0",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.04"
+            "subject": "Project Numerical Recipes",
+            "string": "P0B15",
+            "classroom": "A1.08"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "string": "W0B20",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.08"
-         }
-      ]
+      "3": []
    }
 }

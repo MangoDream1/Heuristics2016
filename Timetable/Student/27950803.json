@@ -2,93 +2,93 @@
    "0": {
       "0": [
          {
-            "string": "W0B40",
             "subject": "Compilerbouw",
-            "classroom": "A1.04"
+            "string": "L0A0",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Software engineering",
+            "string": "W0B40",
+            "classroom": "A1.06"
          }
       ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A0",
-            "subject": "Compilerbouw",
-            "classroom": "A1.04"
-         },
-         {
-            "string": "L0A0",
-            "subject": "Software engineering",
-            "classroom": "C0.110"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [
          {
-            "string": "P0B15",
-            "subject": "Project Genetic Algorithms",
-            "classroom": "A1.08"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A0",
+            "classroom": "A1.06"
          }
       ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Compilerbouw",
+            "string": "P0B40",
+            "classroom": "A1.08"
+         }
+      ],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [
+      "3": [
          {
-            "string": "L1A0",
             "subject": "Compilerbouw",
-            "classroom": "A1.04"
+            "string": "L1A0",
+            "classroom": "A1.10"
          },
          {
-            "string": "W0B40",
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0B20",
+            "classroom": "A1.08"
+         },
+         {
             "subject": "Software engineering",
-            "classroom": "A1.04"
+            "string": "L0A0",
+            "classroom": "C0.110"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Compilerbouw",
+            "string": "W0B40",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A0",
+            "classroom": "C0.110"
          }
       ],
-      "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Project Genetic Algorithms",
+            "string": "P0B15",
+            "classroom": "B0.201"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [
          {
-            "string": "L1A0",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.06"
-         }
-      ],
-      "1": [
-         {
-            "string": "L0A0",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "string": "P0B40",
-            "subject": "Compilerbouw",
-            "classroom": "A1.06"
-         },
-         {
-            "string": "W0B20",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.08"
-         },
-         {
-            "string": "P0B40",
             "subject": "Software engineering",
-            "classroom": "A1.08"
+            "string": "P0B40",
+            "classroom": "C0.110"
          }
-      ]
+      ],
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

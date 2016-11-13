@@ -2,47 +2,48 @@
    "0": {
       "0": [
          {
-            "string": "W0B40",
             "subject": "Compilerbouw",
-            "classroom": "A1.04"
+            "string": "L0A0",
+            "classroom": "B0.201"
          }
       ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A0",
-            "subject": "Compilerbouw",
-            "classroom": "A1.04"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Compilerbouw",
+            "string": "P0B40",
+            "classroom": "A1.08"
+         }
+      ],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Compilerbouw",
+            "string": "L1A0",
+            "classroom": "A1.10"
+         }
+      ]
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "L1A0",
             "subject": "Compilerbouw",
-            "classroom": "A1.04"
-         },
-         {
-            "string": "P0B15",
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "C0.110"
+            "string": "W0B40",
+            "classroom": "A1.10"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
@@ -52,9 +53,9 @@
       "2": [],
       "3": [
          {
-            "string": "P0B40",
-            "subject": "Compilerbouw",
-            "classroom": "A1.06"
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0B15",
+            "classroom": "A1.08"
          }
       ]
    }

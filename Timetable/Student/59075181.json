@@ -1,47 +1,42 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "L1A0",
             "subject": "Kansrekenen 2",
-            "classroom": "A1.06"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "L0A0",
-            "subject": "Heuristieken 1",
+            "string": "L1A0",
             "classroom": "C1.112"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "1": {
       "0": [
          {
-            "string": "W0A25",
             "subject": "Heuristieken 1",
-            "classroom": "A1.06"
-         },
+            "string": "W0A25",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [
          {
+            "subject": "Heuristieken 1",
             "string": "L0A0",
-            "subject": "Kansrekenen 2",
             "classroom": "A1.06"
          }
       ],
-      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L0A0",
+            "classroom": "C0.110"
+         }
+      ]
    },
    "2": {
-      "0": [
-         {
-            "string": "P0B20",
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "C1.112"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -55,7 +50,13 @@
    "4": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0B20",
+            "classroom": "A1.08"
+         }
+      ],
       "3": []
    }
 }

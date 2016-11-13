@@ -3,69 +3,69 @@
       "0": [],
       "1": [
          {
-            "string": "L0A0",
-            "subject": "Databases 2",
+            "subject": "Programmeren in Java 2",
+            "string": "P0A20",
             "classroom": "A1.10"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "string": "W0A40",
-            "subject": "Databases 2",
-            "classroom": "C0.110"
-         },
-         {
-            "string": "W0A15",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.04"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "L1A0",
+            "classroom": "C1.112"
+         },
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "W0A15",
+            "classroom": "A1.08"
+         }
+      ],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "L0A0",
-            "subject": "Informatie- en organisatieontwerp",
+            "subject": "Databases 2",
+            "string": "W0A40",
             "classroom": "C1.112"
          }
       ],
-      "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "string": "P0A20",
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.08"
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "L0A0",
+            "classroom": "C0.110"
          }
-      ],
-      "3": []
+      ]
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Databases 2",
+            "string": "L0A0",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "L1A0",
             "subject": "Informatie- en organisatieontwerp",
-            "classroom": "C1.112"
+            "string": "P0A15",
+            "classroom": "B0.201"
          }
       ]
    },
    "4": {
-      "0": [
-         {
-            "string": "P0A15",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.10"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []

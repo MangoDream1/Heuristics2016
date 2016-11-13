@@ -3,38 +3,32 @@
       "0": [],
       "1": [
          {
-            "string": "L0A0",
-            "subject": "Databases 2",
-            "classroom": "A1.10"
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0A25",
+            "classroom": "A1.08"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "string": "W0A40",
-            "subject": "Databases 2",
-            "classroom": "C0.110"
-         },
-         {
-            "string": "L0A0",
-            "subject": "Heuristieken 1",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [
          {
-            "string": "W0A25",
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A25",
+            "classroom": "C1.112"
+         },
+         {
             "subject": "Heuristieken 1",
-            "classroom": "A1.06"
+            "string": "W0A25",
+            "classroom": "A1.04"
          }
       ],
       "1": [
          {
+            "subject": "Heuristieken 1",
             "string": "L0A0",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "C0.110"
+            "classroom": "A1.06"
          }
       ],
       "2": [],
@@ -42,24 +36,29 @@
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "P0A25",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "B0.201"
+            "subject": "Databases 2",
+            "string": "W0A40",
+            "classroom": "C1.112"
          }
       ],
-      "3": [
-         {
-            "string": "W0A25",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.06"
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A0",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Databases 2",
+            "string": "L0A0",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -67,13 +66,13 @@
    "4": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "string": "P0A20",
             "subject": "Netwerken en systeembeveiliging",
-            "classroom": "C0.110"
+            "string": "P0A20",
+            "classroom": "C1.112"
          }
-      ],
-      "3": []
+      ]
    }
 }

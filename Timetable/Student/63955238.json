@@ -1,37 +1,37 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "L1A0",
             "subject": "Kansrekenen 2",
-            "classroom": "A1.06"
+            "string": "L1A0",
+            "classroom": "C1.112"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "string": "L0A0",
-            "subject": "Kansrekenen 2",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "P0C15",
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "B0.201"
+            "subject": "Kansrekenen 2",
+            "string": "L0A0",
+            "classroom": "C0.110"
          }
       ]
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0C15",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [],
       "3": []
    },

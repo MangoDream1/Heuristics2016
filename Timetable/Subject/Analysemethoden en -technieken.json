@@ -12,16 +12,16 @@
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A0",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A0",
-            "subject": "Analysemethoden en -technieken",
-            "classroom": "A1.06"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],

@@ -4,11 +4,17 @@ from iteration_management import *
 from random import randint, choice
 from operator import itemgetter
 
+def update_progress(workdone, text='Progress:'):
+    print("\r{0} [{1:50s}] {2:.1f}%".format(text, '#' * int(workdone * 50), workdone*100), end="", flush=True)
+
+    if workdone == 1:
+        print('\n')
+
 iteration = 0
 iteration_dct = {}
+nPlannedIterations = 1000
 
-
-while iteration != 1000:
+while iteration != nPlannedIterations:
     changed_lectures = []
 
     for lecture in lectures:
@@ -24,6 +30,7 @@ while iteration != 1000:
     iteration_dct = createBase(iteration, iteration_dct)
 
     iteration += 1
+    update_progress(iteration/nPlannedIterations)
 
 best_iteration = max([(i, iteration_dct[i]["score"]) for i in iteration_dct.keys()], key=itemgetter(1))
 

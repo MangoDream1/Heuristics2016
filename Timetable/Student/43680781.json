@@ -1,23 +1,28 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "P0A20",
+            "subject": "Bioinformatica",
+            "string": "L1A0",
+            "classroom": "A1.04"
+         },
+         {
             "subject": "Moderne Databases",
-            "classroom": "A1.10"
+            "string": "W0A20",
+            "classroom": "A1.04"
          }
       ],
+      "1": [],
       "2": [
          {
-            "string": "L0A0",
             "subject": "Bioinformatica",
+            "string": "W0A20",
             "classroom": "B0.201"
          },
          {
-            "string": "P0A20",
-            "subject": "Bioinformatica",
-            "classroom": "A1.06"
+            "subject": "Moderne Databases",
+            "string": "L0A0",
+            "classroom": "A1.08"
          }
       ],
       "3": []
@@ -25,53 +30,64 @@
    "1": {
       "0": [
          {
+            "subject": "Reflectie op de digitale cultuur",
             "string": "L0A0",
-            "subject": "Moderne Databases",
-            "classroom": "C1.112"
+            "classroom": "A1.06"
          }
       ],
-      "1": [
-         {
-            "string": "W0A20",
-            "subject": "Technology for games",
-            "classroom": "C0.110"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "string": "L1A0",
-            "subject": "Bioinformatica",
-            "classroom": "C1.112"
+            "subject": "Technology for games",
+            "string": "W0A20",
+            "classroom": "B0.201"
          }
       ],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "L1A0",
-            "subject": "Technology for games",
+            "subject": "Bioinformatica",
+            "string": "P0A20",
             "classroom": "A1.08"
          }
       ],
-      "2": [
+      "1": [
          {
-            "string": "L0A0",
-            "subject": "Technology for games",
-            "classroom": "A1.04"
+            "subject": "Bioinformatica",
+            "string": "L2A0",
+            "classroom": "B0.201"
          }
       ],
-      "3": []
+      "2": [],
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0B20",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "3": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A0",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Technology for games",
+            "string": "L0A0",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [
          {
-            "string": "W0A20",
-            "subject": "Bioinformatica",
-            "classroom": "A1.08"
+            "subject": "Moderne Databases",
+            "string": "P0A20",
+            "classroom": "A1.04"
          }
       ],
       "3": []
@@ -79,35 +95,18 @@
    "4": {
       "0": [
          {
+            "subject": "Bioinformatica",
+            "string": "L0A0",
+            "classroom": "A1.04"
+         },
+         {
+            "subject": "Technology for games",
             "string": "L1A0",
-            "subject": "Reflectie op de digitale cultuur",
             "classroom": "A1.06"
          }
       ],
-      "1": [
-         {
-            "string": "L2A0",
-            "subject": "Bioinformatica",
-            "classroom": "B0.201"
-         },
-         {
-            "string": "W0A20",
-            "subject": "Moderne Databases",
-            "classroom": "C1.112"
-         },
-         {
-            "string": "L0A0",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.04"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "W0B20",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.08"
-         }
-      ]
+      "3": []
    }
 }

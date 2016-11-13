@@ -4,68 +4,70 @@
       "1": [],
       "2": [
          {
-            "string": "W0B20",
             "subject": "Moderne Databases",
-            "classroom": "A1.10"
-         }
-      ],
-      "3": [
-         {
             "string": "L0A0",
-            "subject": "Software engineering",
-            "classroom": "C0.110"
-         },
-         {
-            "string": "W0A40",
-            "subject": "Software engineering",
-            "classroom": "A1.04"
-         }
-      ]
-   },
-   "1": {
-      "0": [
-         {
-            "string": "L0A0",
-            "subject": "Moderne Databases",
-            "classroom": "C1.112"
-         },
-         {
-            "string": "P0B15",
-            "subject": "Project Genetic Algorithms",
             "classroom": "A1.08"
-         },
-         {
-            "string": "P0A40",
-            "subject": "Software engineering",
-            "classroom": "B0.201"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "string": "P0B20",
-            "subject": "Moderne Databases",
-            "classroom": "C0.110"
          }
       ],
       "3": []
    },
-   "2": {
+   "1": {
       "0": [],
       "1": [],
       "2": [],
       "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "subject": "Moderne Databases",
+            "string": "P0B20",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Software engineering",
+            "string": "L0A0",
+            "classroom": "C0.110"
+         }
+      ]
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Project Genetic Algorithms",
+            "string": "P0B15",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Software engineering",
+            "string": "P0A40",
+            "classroom": "A1.04"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Moderne Databases",
+            "string": "W0B20",
+            "classroom": "C0.110"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Software engineering",
+            "string": "W0A40",
+            "classroom": "A1.08"
+         }
+      ]
    }
 }

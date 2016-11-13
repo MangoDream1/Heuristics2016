@@ -2,53 +2,59 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "P0B25",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "C1.112"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "string": "L0A0",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "C0.110"
-         }
-      ],
-      "2": [
-         {
-            "string": "W0B25",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.06"
-         }
-      ],
-      "3": [
-         {
-            "string": "P0C15",
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "B0.201"
-         }
-      ]
-   },
-   "2": {
-      "0": [],
-      "1": [],
       "2": [],
       "3": []
    },
-   "3": {
-      "0": [],
+   "1": {
+      "0": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0B25",
+            "classroom": "A1.08"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "string": "L0A0",
             "subject": "Interactie-ontwerp",
-            "classroom": "C1.112"
+            "string": "L0A0",
+            "classroom": "A1.10"
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0C15",
+            "classroom": "B0.201"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0B25",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A0",
+            "classroom": "C0.110"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Interactie-ontwerp",
+            "string": "L1A0",
+            "classroom": "A1.04"
          }
       ],
       "3": []
@@ -56,13 +62,7 @@
    "4": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L1A0",
-            "subject": "Interactie-ontwerp",
-            "classroom": "A1.08"
-         }
-      ],
+      "2": [],
       "3": []
    }
 }

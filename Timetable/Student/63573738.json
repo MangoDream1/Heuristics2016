@@ -13,7 +13,13 @@
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Project Numerical Recipes",
+            "string": "P0A15",
+            "classroom": "A1.06"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -21,24 +27,18 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "P0A15",
-            "subject": "Project Numerical Recipes",
-            "classroom": "A1.08"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "string": "P0A20",
             "subject": "Netwerken en systeembeveiliging",
-            "classroom": "C0.110"
+            "string": "P0A20",
+            "classroom": "C1.112"
          }
-      ],
-      "3": []
+      ]
    }
 }
