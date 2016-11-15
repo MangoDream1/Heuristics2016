@@ -1,91 +1,91 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "B0.201",
-            "subject": "Advanced Heuristics"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "string": "L0A0",
-            "classroom": "B0.201",
-            "subject": "Reflectie op de digitale cultuur"
+            "string": "W0A22",
+            "classroom": "A1.06",
+            "subject": "Algoritmen en complexiteit"
          }
       ],
       "3": [
          {
-            "string": "P0A25",
-            "classroom": "C0.110",
-            "subject": "Algoritmen en complexiteit"
+            "string": "L0A20",
+            "classroom": "A1.06",
+            "subject": "Advanced Heuristics"
          }
       ]
    },
    "1": {
       "0": [
          {
-            "string": "W0A25",
-            "classroom": "A1.06",
+            "string": "L0A43",
+            "classroom": "B0.201",
             "subject": "Algoritmen en complexiteit"
          }
       ],
-      "1": [
-         {
-            "string": "P0A10",
-            "classroom": "A1.10",
-            "subject": "Advanced Heuristics"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A0",
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2"
-         },
-         {
-            "string": "W0A20",
-            "classroom": "A1.08",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
       "1": [
          {
-            "string": "L0A0",
-            "classroom": "A1.10",
-            "subject": "Algoritmen en complexiteit"
+            "string": "L1A51",
+            "classroom": "A1.04",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "string": "L1A84",
+            "classroom": "C1.112",
+            "subject": "Kansrekenen 2"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [
          {
-            "string": "L1A0",
-            "classroom": "A1.08",
+            "string": "P0A10",
+            "classroom": "C1.112",
+            "subject": "Advanced Heuristics"
+         },
+         {
+            "string": "W0A17",
+            "classroom": "A1.04",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "string": "L0A51",
+            "classroom": "A1.10",
             "subject": "Reflectie op de digitale cultuur"
          }
       ],
       "1": [
          {
-            "string": "L1A0",
-            "classroom": "A1.08",
+            "string": "L0A84",
+            "classroom": "C1.112",
             "subject": "Kansrekenen 2"
          }
       ],
       "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0A22",
+            "classroom": "B0.201",
+            "subject": "Algoritmen en complexiteit"
+         }
+      ]
    }
 }

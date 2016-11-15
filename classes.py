@@ -40,7 +40,7 @@ class Lecture:
         return "Name: %s | Lecture number: %s | Group: %s | maxStud: %s" % (self.name, self.lecture_number, self.group, self.maxStud)
 
     def __str__(self):
-        return self.name[0] + str(self.lecture_number) + chr(ord('A') + self.group) + str(self.maxStud)
+        return self.name[0] + str(self.lecture_number) + chr(ord('A') + self.group) + str(len(self.students))
 
     def assignLecturetoAll(self):
         self.assignLectureToStudents()

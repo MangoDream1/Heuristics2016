@@ -1,62 +1,61 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.06",
-            "subject": "Architectuur en computerorganisatie"
-         }
-      ],
-      "2": [
-         {
-            "string": "L1A0",
-            "classroom": "B0.201",
-            "subject": "Architectuur en computerorganisatie"
-         }
-      ],
-      "3": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.10",
-            "subject": "Heuristieken 1"
-         }
-      ]
-   },
-   "1": {
-      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
-   "2": {
-      "0": [
+   "1": {
+      "0": [],
+      "1": [
          {
-            "string": "W0B25",
+            "string": "L1A21",
             "classroom": "A1.06",
-            "subject": "Heuristieken 1"
+            "subject": "Architectuur en computerorganisatie"
+         },
+         {
+            "string": "P0C12",
+            "classroom": "C0.110",
+            "subject": "Compilerbouw (practicum)"
          }
       ],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "3": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "L0A21",
+            "classroom": "A1.06",
+            "subject": "Architectuur en computerorganisatie"
+         }
+      ],
+      "3": []
+   },
+   "4": {
       "0": [
          {
-            "string": "P0C15",
-            "classroom": "B0.201",
-            "subject": "Compilerbouw (practicum)"
+            "string": "W0B22",
+            "classroom": "A1.08",
+            "subject": "Heuristieken 1"
          }
       ],
       "1": [],
       "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A44",
+            "classroom": "A1.04",
+            "subject": "Heuristieken 1"
+         }
+      ]
    }
 }

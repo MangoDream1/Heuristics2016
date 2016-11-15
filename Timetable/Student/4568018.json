@@ -3,94 +3,94 @@
       "0": [],
       "1": [
          {
-            "string": "L0A0",
-            "classroom": "A1.10",
+            "string": "W0B15",
+            "classroom": "B0.201",
             "subject": "Bioinformatica"
-         },
-         {
-            "string": "L0A0",
-            "classroom": "A1.04",
-            "subject": "Software engineering"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "string": "P0B20",
-            "classroom": "A1.04",
-            "subject": "Bioinformatica"
-         },
-         {
-            "string": "L0A0",
-            "classroom": "A1.10",
-            "subject": "Heuristieken 1"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
       "1": [
          {
-            "string": "L1A0",
-            "classroom": "C0.110",
-            "subject": "Bioinformatica"
-         }
-      ],
-      "2": [
-         {
-            "string": "W0B20",
+            "string": "P0B15",
             "classroom": "A1.10",
             "subject": "Bioinformatica"
+         },
+         {
+            "string": "P0C12",
+            "classroom": "C0.110",
+            "subject": "Compilerbouw (practicum)"
          }
       ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [
          {
-            "string": "W0B25",
-            "classroom": "A1.06",
-            "subject": "Heuristieken 1"
+            "string": "L2A45",
+            "classroom": "A1.08",
+            "subject": "Bioinformatica"
          }
       ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "L0A45",
+            "classroom": "B0.201",
+            "subject": "Bioinformatica"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
       "1": [
          {
-            "string": "P0B40",
-            "classroom": "C0.110",
+            "string": "P0B37",
+            "classroom": "C1.112",
             "subject": "Software engineering"
          }
       ],
       "2": [
          {
-            "string": "W0B40",
+            "string": "L1A45",
             "classroom": "A1.10",
-            "subject": "Software engineering"
-         }
-      ],
-      "3": []
-   },
-   "3": {
-      "0": [
-         {
-            "string": "P0C15",
-            "classroom": "B0.201",
-            "subject": "Compilerbouw (practicum)"
-         }
-      ],
-      "1": [
-         {
-            "string": "L2A0",
-            "classroom": "A1.04",
             "subject": "Bioinformatica"
          }
       ],
-      "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A75",
+            "classroom": "A1.08",
+            "subject": "Software engineering"
+         }
+      ]
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0B22",
+            "classroom": "A1.08",
+            "subject": "Heuristieken 1"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A44",
+            "classroom": "A1.04",
+            "subject": "Heuristieken 1"
+         },
+         {
+            "string": "W0B37",
+            "classroom": "A1.04",
+            "subject": "Software engineering"
+         }
+      ]
    }
 }

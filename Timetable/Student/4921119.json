@@ -1,12 +1,23 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L0A54",
+            "classroom": "A1.04",
+            "subject": "Lineaire Algebra"
+         },
+         {
+            "string": "L1A54",
+            "classroom": "B0.201",
+            "subject": "Lineaire Algebra"
+         }
+      ],
       "2": [
          {
-            "string": "L1A0",
+            "string": "L0A72",
             "classroom": "A1.08",
-            "subject": "Lineaire Algebra"
+            "subject": "Databases 2"
          }
       ],
       "3": []
@@ -18,49 +29,39 @@
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "string": "L0A0",
-            "classroom": "A1.10",
-            "subject": "Analysemethoden en -technieken"
-         },
-         {
-            "string": "P0D20",
+            "string": "W0B36",
             "classroom": "A1.08",
-            "subject": "Programmeren in Java 2"
+            "subject": "Databases 2"
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "string": "L0A49",
+            "classroom": "C0.110",
+            "subject": "Analysemethoden en -technieken"
+         }
+      ],
+      "3": [
+         {
+            "string": "P0D19",
+            "classroom": "C0.110",
+            "subject": "Programmeren in Java 2"
+         }
+      ]
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.04",
-            "subject": "Databases 2"
-         },
-         {
-            "string": "L0A0",
-            "classroom": "C1.112",
-            "subject": "Lineaire Algebra"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "W0B40",
-            "classroom": "A1.04",
-            "subject": "Databases 2"
-         }
-      ]
+      "3": []
    }
 }

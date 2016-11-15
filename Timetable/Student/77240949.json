@@ -3,13 +3,8 @@
       "0": [],
       "1": [
          {
-            "string": "L0A0",
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "L1A0",
-            "classroom": "A1.04",
+            "string": "W0C16",
+            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie"
          }
       ],
@@ -17,20 +12,20 @@
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "L2A0",
-            "classroom": "C1.112",
+            "string": "L0A61",
+            "classroom": "A1.08",
             "subject": "Collectieve Intelligentie"
          }
       ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "string": "L0A0",
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2"
+            "string": "L1A22",
+            "classroom": "A1.04",
+            "subject": "Machine Learning"
          }
       ]
    },
@@ -39,47 +34,52 @@
       "1": [],
       "2": [
          {
-            "string": "L0A0",
+            "string": "L1A84",
             "classroom": "C1.112",
-            "subject": "Machine Learning"
+            "subject": "Kansrekenen 2"
          }
       ],
-      "3": [
-         {
-            "string": "L1A0",
-            "classroom": "A1.10",
-            "subject": "Machine Learning"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],
       "1": [
          {
-            "string": "L1A0",
-            "classroom": "A1.08",
-            "subject": "Kansrekenen 2"
-         }
-      ],
-      "2": [
-         {
-            "string": "W0C20",
-            "classroom": "B0.201",
+            "string": "L1A61",
+            "classroom": "A1.06",
             "subject": "Collectieve Intelligentie"
          }
       ],
+      "2": [],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "string": "P0C20",
-            "classroom": "C0.110",
+            "string": "L2A61",
+            "classroom": "A1.06",
             "subject": "Collectieve Intelligentie"
          }
       ],
-      "3": []
+      "1": [
+         {
+            "string": "L0A84",
+            "classroom": "C1.112",
+            "subject": "Kansrekenen 2"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "P0C16",
+            "classroom": "B0.201",
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "string": "L0A22",
+            "classroom": "C0.110",
+            "subject": "Machine Learning"
+         }
+      ]
    }
 }

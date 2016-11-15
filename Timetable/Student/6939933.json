@@ -3,7 +3,13 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "W0A36",
+            "classroom": "A1.04",
+            "subject": "Calculus 2"
+         }
+      ]
    },
    "1": {
       "0": [],
@@ -19,32 +25,26 @@
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.06",
-            "subject": "Calculus 2"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0A15",
+            "classroom": "A1.06",
+            "subject": "Project Numerical Recipes"
+         }
+      ]
    },
    "4": {
       "0": [],
       "1": [],
       "2": [
          {
-            "string": "P0A15",
-            "classroom": "C0.110",
-            "subject": "Project Numerical Recipes"
-         }
-      ],
-      "3": [
-         {
-            "string": "W0A40",
+            "string": "L0A106",
             "classroom": "B0.201",
             "subject": "Calculus 2"
          }
-      ]
+      ],
+      "3": []
    }
 }

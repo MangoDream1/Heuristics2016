@@ -1,49 +1,43 @@
 {
    "0": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
       "0": [
          {
-            "string": "W0A20",
-            "classroom": "A1.08",
-            "subject": "Heuristieken 2"
-         },
-         {
-            "string": "P0B15",
-            "classroom": "A1.06",
-            "subject": "Project Genetic Algorithms"
+            "string": "W0B36",
+            "classroom": "C1.112",
+            "subject": "Calculus 2"
          }
       ],
       "1": [
          {
-            "string": "L0A0",
+            "string": "L1A21",
             "classroom": "A1.06",
             "subject": "Architectuur en computerorganisatie"
          }
       ],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "string": "L1A0",
-            "classroom": "B0.201",
-            "subject": "Architectuur en computerorganisatie"
-         },
-         {
-            "string": "L0A0",
+            "string": "L0A32",
             "classroom": "A1.10",
             "subject": "Heuristieken 2"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [
+         },
          {
-            "string": "W0B40",
-            "classroom": "A1.04",
-            "subject": "Calculus 2"
+            "string": "W0A16",
+            "classroom": "C1.112",
+            "subject": "Heuristieken 2"
+         },
+         {
+            "string": "P0B12",
+            "classroom": "A1.10",
+            "subject": "Project Genetic Algorithms"
          }
-      ],
-      "3": []
+      ]
    },
    "2": {
       "0": [],
@@ -53,20 +47,26 @@
    },
    "3": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "L0A0",
+            "string": "L0A21",
             "classroom": "A1.06",
-            "subject": "Calculus 2"
+            "subject": "Architectuur en computerorganisatie"
          }
       ],
-      "2": [],
       "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L0A106",
+            "classroom": "B0.201",
+            "subject": "Calculus 2"
+         }
+      ],
       "3": []
    }
 }

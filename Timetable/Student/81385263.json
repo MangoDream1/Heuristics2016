@@ -1,101 +1,100 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "P0A40",
-            "classroom": "A1.06",
-            "subject": "Compilerbouw"
+            "string": "L0A54",
+            "classroom": "A1.04",
+            "subject": "Lineaire Algebra"
          },
          {
-            "string": "L1A0",
-            "classroom": "A1.08",
+            "string": "L1A54",
+            "classroom": "B0.201",
             "subject": "Lineaire Algebra"
          }
       ],
-      "3": [
+      "2": [
          {
-            "string": "P0A25",
-            "classroom": "C0.110",
+            "string": "W0A22",
+            "classroom": "A1.06",
             "subject": "Algoritmen en complexiteit"
          }
-      ]
+      ],
+      "3": []
    },
    "1": {
       "0": [
          {
-            "string": "W0A25",
-            "classroom": "A1.06",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ],
-      "1": [
-         {
-            "string": "L1A0",
-            "classroom": "A1.08",
-            "subject": "Compilerbouw"
-         },
-         {
-            "string": "P0A20",
-            "classroom": "C1.112",
-            "subject": "Netwerken en systeembeveiliging"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "string": "L1A0",
-            "classroom": "A1.06",
-            "subject": "Interactie-ontwerp"
-         }
-      ]
-   },
-   "2": {
-      "0": [],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.10",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [
-         {
-            "string": "W0A40",
+            "string": "L0A43",
             "classroom": "B0.201",
+            "subject": "Algoritmen en complexiteit"
+         }
+      ],
+      "1": [
+         {
+            "string": "P0A35",
+            "classroom": "C0.110",
             "subject": "Compilerbouw"
          }
       ],
       "2": [
          {
-            "string": "L0A0",
-            "classroom": "C0.110",
+            "string": "L1A25",
+            "classroom": "A1.10",
             "subject": "Interactie-ontwerp"
          }
       ],
       "3": []
    },
-   "4": {
+   "2": {
       "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [
+         {
+            "string": "L1A69",
+            "classroom": "A1.06",
+            "subject": "Compilerbouw"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "string": "P0A16",
+            "classroom": "C1.112",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ],
       "1": [
          {
-            "string": "L0A0",
-            "classroom": "C1.112",
-            "subject": "Lineaire Algebra"
+            "string": "L0A69",
+            "classroom": "C0.110",
+            "subject": "Compilerbouw"
          }
       ],
       "2": [],
       "3": [
          {
-            "string": "L0A0",
-            "classroom": "A1.04",
+            "string": "P0A22",
+            "classroom": "B0.201",
+            "subject": "Algoritmen en complexiteit"
+         },
+         {
+            "string": "W0A35",
+            "classroom": "C0.110",
             "subject": "Compilerbouw"
+         },
+         {
+            "string": "L0A25",
+            "classroom": "C1.112",
+            "subject": "Interactie-ontwerp"
          }
       ]
    }

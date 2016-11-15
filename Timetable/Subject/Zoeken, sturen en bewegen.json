@@ -1,6 +1,17 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0A14",
+            "classroom": "A1.06",
+            "subject": "Zoeken, sturen en bewegen"
+         },
+         {
+            "string": "P0B14",
+            "classroom": "A1.06",
+            "subject": "Zoeken, sturen en bewegen"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -8,20 +19,8 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "P0A15",
-            "classroom": "A1.08",
-            "subject": "Zoeken, sturen en bewegen"
-         }
-      ],
-      "3": [
-         {
-            "string": "P0B15",
-            "classroom": "C0.110",
-            "subject": "Zoeken, sturen en bewegen"
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "2": {
       "0": [],
@@ -39,8 +38,8 @@
       "0": [],
       "1": [
          {
-            "string": "P0C15",
-            "classroom": "A1.04",
+            "string": "P0C14",
+            "classroom": "C1.112",
             "subject": "Zoeken, sturen en bewegen"
          }
       ],

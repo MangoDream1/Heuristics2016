@@ -1,37 +1,26 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.04",
-            "subject": "Software engineering"
-         }
-      ],
-      "2": [
-         {
-            "string": "P0A40",
-            "classroom": "A1.06",
-            "subject": "Compilerbouw"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [
          {
-            "string": "L1A0",
-            "classroom": "A1.08",
+            "string": "P0A35",
+            "classroom": "C0.110",
             "subject": "Compilerbouw"
-         },
+         }
+      ],
+      "2": [
          {
-            "string": "W0A40",
-            "classroom": "C1.112",
+            "string": "W0A38",
+            "classroom": "C0.110",
             "subject": "Software engineering"
          }
       ],
-      "2": [],
       "3": []
    },
    "2": {
@@ -41,31 +30,42 @@
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [
-         {
-            "string": "W0A40",
-            "classroom": "B0.201",
-            "subject": "Compilerbouw"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "4": {
       "0": [
          {
-            "string": "P0A40",
+            "string": "L1A69",
             "classroom": "A1.06",
-            "subject": "Software engineering"
+            "subject": "Compilerbouw"
          }
       ],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "L0A0",
+            "string": "L0A75",
+            "classroom": "A1.08",
+            "subject": "Software engineering"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "string": "L0A69",
+            "classroom": "C0.110",
+            "subject": "Compilerbouw"
+         },
+         {
+            "string": "P0A38",
             "classroom": "A1.04",
+            "subject": "Software engineering"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "W0A35",
+            "classroom": "C0.110",
             "subject": "Compilerbouw"
          }
       ]

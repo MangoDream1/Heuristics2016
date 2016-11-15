@@ -1,57 +1,45 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "P0C20",
-            "classroom": "A1.08",
-            "subject": "Netwerken en systeembeveiliging"
+            "string": "W0B19",
+            "classroom": "A1.04",
+            "subject": "Webprogrammeren en databases"
          }
       ],
-      "1": [],
-      "2": [
-         {
-            "string": "L0A0",
-            "classroom": "B0.201",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "string": "P0B20",
-            "classroom": "C1.112",
-            "subject": "Webprogrammeren en databases"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "L1A0",
-            "classroom": "C0.110",
-            "subject": "Webprogrammeren en databases"
-         }
-      ]
-   },
-   "2": {
       "0": [],
       "1": [],
       "2": [
          {
-            "string": "W0B20",
-            "classroom": "B0.201",
+            "string": "P0B19",
+            "classroom": "A1.10",
             "subject": "Webprogrammeren en databases"
          }
       ],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "string": "L1A51",
+            "classroom": "A1.04",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
+      "2": [],
       "3": []
    },
    "3": {
       "0": [
          {
-            "string": "L1A0",
-            "classroom": "A1.08",
+            "string": "W0B17",
+            "classroom": "C0.110",
             "subject": "Reflectie op de digitale cultuur"
          }
       ],
@@ -59,22 +47,33 @@
       "2": [],
       "3": [
          {
-            "string": "L0A0",
-            "classroom": "A1.08",
-            "subject": "Webprogrammeren en databases"
+            "string": "P0C16",
+            "classroom": "A1.04",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ]
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "string": "W0B20",
-            "classroom": "C1.112",
+            "string": "L0A51",
+            "classroom": "A1.10",
             "subject": "Reflectie op de digitale cultuur"
          }
       ],
+      "1": [
+         {
+            "string": "L0A39",
+            "classroom": "A1.08",
+            "subject": "Webprogrammeren en databases"
+         },
+         {
+            "string": "L1A39",
+            "classroom": "A1.08",
+            "subject": "Webprogrammeren en databases"
+         }
+      ],
+      "2": [],
       "3": []
    }
 }

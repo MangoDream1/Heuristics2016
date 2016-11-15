@@ -1,31 +1,25 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.06",
-            "subject": "Architectuur en computerorganisatie"
-         }
-      ],
-      "2": [
-         {
-            "string": "L1A0",
-            "classroom": "B0.201",
-            "subject": "Architectuur en computerorganisatie"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L1A21",
+            "classroom": "A1.06",
+            "subject": "Architectuur en computerorganisatie"
+         }
+      ],
       "2": [],
       "3": [
          {
-            "string": "L0A0",
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2"
+            "string": "L1A22",
+            "classroom": "A1.04",
+            "subject": "Machine Learning"
          }
       ]
    },
@@ -34,40 +28,46 @@
       "1": [],
       "2": [
          {
-            "string": "L0A0",
-            "classroom": "A1.10",
-            "subject": "Analysemethoden en -technieken"
-         },
-         {
-            "string": "L0A0",
+            "string": "L1A84",
             "classroom": "C1.112",
-            "subject": "Machine Learning"
-         }
-      ],
-      "3": [
-         {
-            "string": "L1A0",
-            "classroom": "A1.10",
-            "subject": "Machine Learning"
-         }
-      ]
-   },
-   "3": {
-      "0": [],
-      "1": [
-         {
-            "string": "L1A0",
-            "classroom": "A1.08",
             "subject": "Kansrekenen 2"
          }
       ],
-      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "L0A49",
+            "classroom": "C0.110",
+            "subject": "Analysemethoden en -technieken"
+         },
+         {
+            "string": "L0A21",
+            "classroom": "A1.06",
+            "subject": "Architectuur en computerorganisatie"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L0A84",
+            "classroom": "C1.112",
+            "subject": "Kansrekenen 2"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A22",
+            "classroom": "C0.110",
+            "subject": "Machine Learning"
+         }
+      ]
    }
 }

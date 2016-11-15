@@ -1,95 +1,95 @@
 {
    "0": {
       "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "L0A72",
+            "classroom": "A1.08",
+            "subject": "Databases 2"
+         }
+      ],
+      "3": [
+         {
+            "string": "L0A38",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
+         },
+         {
+            "string": "W0B19",
+            "classroom": "C0.110",
+            "subject": "Technology for games"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "string": "L0A61",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "string": "W0D13",
+            "classroom": "A1.06",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "1": [
          {
-            "string": "L0A0",
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "L1A0",
-            "classroom": "A1.04",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "L0A0",
-            "classroom": "A1.04",
-            "subject": "Technology for games"
+            "string": "P0C12",
+            "classroom": "C0.110",
+            "subject": "Compilerbouw (practicum)"
          }
       ],
       "2": [],
       "3": []
    },
-   "1": {
-      "0": [],
-      "1": [
+   "2": {
+      "0": [
          {
-            "string": "L2A0",
-            "classroom": "C1.112",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "W0B20",
-            "classroom": "B0.201",
-            "subject": "Technology for games"
+            "string": "W0B36",
+            "classroom": "A1.08",
+            "subject": "Databases 2"
          }
       ],
-      "2": [],
-      "3": [
-         {
-            "string": "W0D20",
-            "classroom": "A1.10",
-            "subject": "Collectieve Intelligentie"
-         }
-      ]
-   },
-   "2": {
-      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "L1A0",
-            "classroom": "B0.201",
-            "subject": "Technology for games"
+            "string": "P0D13",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
          }
       ]
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "P0C15",
-            "classroom": "B0.201",
-            "subject": "Compilerbouw (practicum)"
+            "string": "L1A61",
+            "classroom": "A1.06",
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "string": "L1A38",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [
          {
-            "string": "P0D20",
-            "classroom": "A1.10",
+            "string": "L2A61",
+            "classroom": "A1.06",
             "subject": "Collectieve Intelligentie"
          }
       ],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.04",
-            "subject": "Databases 2"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "W0B40",
-            "classroom": "A1.04",
-            "subject": "Databases 2"
-         }
-      ]
+      "3": []
    }
 }

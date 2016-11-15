@@ -4,9 +4,9 @@
       "1": [],
       "2": [
          {
-            "string": "L0A0",
-            "classroom": "B0.201",
-            "subject": "Reflectie op de digitale cultuur"
+            "string": "L0A72",
+            "classroom": "A1.08",
+            "subject": "Databases 2"
          }
       ],
       "3": []
@@ -18,50 +18,51 @@
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "W0B36",
+            "classroom": "A1.08",
+            "subject": "Databases 2"
+         }
+      ],
+      "1": [
+         {
+            "string": "L1A51",
+            "classroom": "A1.04",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "string": "L1A0",
-            "classroom": "A1.08",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "W0C20",
+            "string": "W0C17",
             "classroom": "B0.201",
             "subject": "Reflectie op de digitale cultuur"
          }
       ]
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A51",
+            "classroom": "A1.10",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
       "1": [
          {
-            "string": "L0A0",
-            "classroom": "A1.04",
-            "subject": "Databases 2"
-         },
-         {
-            "string": "P0C15",
-            "classroom": "A1.04",
+            "string": "P0C14",
+            "classroom": "C1.112",
             "subject": "Zoeken, sturen en bewegen"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "string": "W0B40",
-            "classroom": "A1.04",
-            "subject": "Databases 2"
-         }
-      ]
+      "3": []
    }
 }

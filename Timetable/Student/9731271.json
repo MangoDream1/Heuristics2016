@@ -1,17 +1,11 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "P0D20",
-            "classroom": "A1.06",
-            "subject": "Netwerken en systeembeveiliging"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "string": "W0C40",
-            "classroom": "C0.110",
-            "subject": "Calculus 2"
+            "string": "P0D16",
+            "classroom": "B0.201",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ],
       "2": [],
@@ -21,47 +15,54 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A0",
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
       "1": [],
+      "2": [
+         {
+            "string": "L1A84",
+            "classroom": "C1.112",
+            "subject": "Kansrekenen 2"
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
       "2": [],
       "3": [
          {
-            "string": "P0F20",
-            "classroom": "A1.08",
+            "string": "P0F15",
+            "classroom": "A1.04",
             "subject": "Programmeren in Java 2"
          }
       ]
    },
-   "3": {
+   "4": {
       "0": [],
       "1": [
          {
-            "string": "L0A0",
-            "classroom": "A1.06",
-            "subject": "Calculus 2"
-         },
-         {
-            "string": "L1A0",
-            "classroom": "A1.08",
+            "string": "L0A84",
+            "classroom": "C1.112",
             "subject": "Kansrekenen 2"
          }
       ],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "string": "L0A106",
+            "classroom": "B0.201",
+            "subject": "Calculus 2"
+         }
+      ],
+      "3": [
+         {
+            "string": "W0C34",
+            "classroom": "C1.112",
+            "subject": "Calculus 2"
+         }
+      ]
    }
 }

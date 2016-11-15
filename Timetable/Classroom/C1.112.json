@@ -4,60 +4,39 @@
       "1": [],
       "2": [
          {
-            "string": "W0A20",
+            "string": "W0A16",
             "classroom": "C1.112",
             "subject": "Collectieve Intelligentie"
          },
          {
-            "string": "P0C10",
-            "classroom": "C1.112",
-            "subject": "Data Mining"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "string": "L1A0",
-            "classroom": "C1.112",
-            "subject": "Data Mining"
-         },
-         {
-            "string": "P0B20",
-            "classroom": "C1.112",
-            "subject": "Webprogrammeren en databases"
-         }
-      ],
-      "1": [
-         {
-            "string": "L2A0",
+            "string": "P0A16",
             "classroom": "C1.112",
             "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "P0A20",
-            "classroom": "C1.112",
-            "subject": "Netwerken en systeembeveiliging"
-         },
-         {
-            "string": "W0A40",
-            "classroom": "C1.112",
-            "subject": "Software engineering"
-         }
-      ],
-      "2": [
-         {
-            "string": "P0B10",
-            "classroom": "C1.112",
-            "subject": "Data Mining"
          }
       ],
       "3": [
          {
-            "string": "P0A20",
+            "string": "L0A38",
             "classroom": "C1.112",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Technology for games"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "string": "W0B36",
+            "classroom": "C1.112",
+            "subject": "Calculus 2"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "W0A16",
+            "classroom": "C1.112",
+            "subject": "Heuristieken 2"
          }
       ]
    },
@@ -66,41 +45,106 @@
       "1": [],
       "2": [
          {
-            "string": "L0A0",
+            "string": "L0A22",
             "classroom": "C1.112",
-            "subject": "Machine Learning"
+            "subject": "Autonomous Agents 2"
+         },
+         {
+            "string": "L1A84",
+            "classroom": "C1.112",
+            "subject": "Kansrekenen 2"
+         },
+         {
+            "string": "L0A54",
+            "classroom": "C1.112",
+            "subject": "Moderne Databases"
+         },
+         {
+            "string": "W0A19",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
          }
       ],
       "3": [
          {
-            "string": "P0C15",
+            "string": "P0B8",
             "classroom": "C1.112",
-            "subject": "Project Numerical Recipes"
+            "subject": "Autonomous Agents 2"
          }
       ]
    },
    "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0A10",
+            "classroom": "C1.112",
+            "subject": "Advanced Heuristics"
+         }
+      ],
       "1": [
          {
-            "string": "L0A0",
+            "string": "P0B37",
             "classroom": "C1.112",
-            "subject": "Lineaire Algebra"
+            "subject": "Software engineering"
+         },
+         {
+            "string": "L1A38",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "P0A15",
+            "classroom": "C1.112",
+            "subject": "Bioinformatica"
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "string": "P0A16",
+            "classroom": "C1.112",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A84",
+            "classroom": "C1.112",
+            "subject": "Kansrekenen 2"
+         },
+         {
+            "string": "P0C14",
+            "classroom": "C1.112",
+            "subject": "Zoeken, sturen en bewegen"
          }
       ],
       "2": [
          {
-            "string": "W0B20",
+            "string": "P0B18",
             "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Moderne Databases"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "string": "W0C34",
+            "classroom": "C1.112",
+            "subject": "Calculus 2"
+         },
+         {
+            "string": "L0A25",
+            "classroom": "C1.112",
+            "subject": "Interactie-ontwerp"
+         },
+         {
+            "string": "W0B18",
+            "classroom": "C1.112",
+            "subject": "Moderne Databases"
+         }
+      ]
    }
 }

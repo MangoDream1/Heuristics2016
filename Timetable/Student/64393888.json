@@ -3,19 +3,19 @@
       "0": [],
       "1": [
          {
-            "string": "L0A0",
+            "string": "P0A19",
             "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "L1A0",
-            "classroom": "A1.04",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Programmeren in Java 2"
          }
       ],
       "2": [
          {
-            "string": "W0A20",
+            "string": "W0A16",
+            "classroom": "C1.112",
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "string": "P0A16",
             "classroom": "C1.112",
             "subject": "Collectieve Intelligentie"
          }
@@ -23,22 +23,16 @@
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "L2A0",
-            "classroom": "C1.112",
+            "string": "L0A61",
+            "classroom": "A1.08",
             "subject": "Collectieve Intelligentie"
          }
       ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "P0A20",
-            "classroom": "C1.112",
-            "subject": "Collectieve Intelligentie"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
@@ -48,19 +42,25 @@
    },
    "3": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L1A61",
+            "classroom": "A1.06",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "P0A20",
-            "classroom": "A1.04",
-            "subject": "Programmeren in Java 2"
+            "string": "L2A61",
+            "classroom": "A1.06",
+            "subject": "Collectieve Intelligentie"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    }

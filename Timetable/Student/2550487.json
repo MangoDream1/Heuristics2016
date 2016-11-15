@@ -8,48 +8,49 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "L1A0",
-            "classroom": "A1.06",
-            "subject": "Interactie-ontwerp"
-         }
-      ]
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "P0F20",
-            "classroom": "A1.08",
-            "subject": "Programmeren in Java 2"
-         },
-         {
-            "string": "P0C15",
-            "classroom": "C1.112",
-            "subject": "Project Numerical Recipes"
-         }
-      ]
-   },
-   "3": {
-      "0": [],
-      "1": [],
       "2": [
          {
-            "string": "L0A0",
-            "classroom": "C0.110",
+            "string": "L1A25",
+            "classroom": "A1.10",
             "subject": "Interactie-ontwerp"
          }
       ],
       "3": []
    },
-   "4": {
+   "2": {
       "0": [],
       "1": [],
       "2": [],
       "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "string": "P0C14",
+            "classroom": "C0.110",
+            "subject": "Project Numerical Recipes"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "P0F15",
+            "classroom": "A1.04",
+            "subject": "Programmeren in Java 2"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "L0A25",
+            "classroom": "C1.112",
+            "subject": "Interactie-ontwerp"
+         }
+      ]
    }
 }

@@ -3,35 +3,36 @@
       "0": [],
       "1": [
          {
-            "string": "L0A0",
+            "string": "P0C19",
             "classroom": "B0.201",
-            "subject": "Advanced Heuristics"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "string": "P0A10",
-            "classroom": "A1.10",
-            "subject": "Advanced Heuristics"
+            "subject": "Programmeren in Java 2"
          }
       ],
       "2": [
          {
-            "string": "W0B40",
-            "classroom": "A1.04",
-            "subject": "Calculus 2"
-         },
-         {
-            "string": "W0A40",
+            "string": "L0A72",
             "classroom": "A1.08",
             "subject": "Databases 2"
          }
       ],
+      "3": [
+         {
+            "string": "L0A20",
+            "classroom": "A1.06",
+            "subject": "Advanced Heuristics"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "string": "W0B36",
+            "classroom": "C1.112",
+            "subject": "Calculus 2"
+         }
+      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "2": {
@@ -41,33 +42,33 @@
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "L0A0",
-            "classroom": "A1.06",
-            "subject": "Calculus 2"
+            "string": "P0A10",
+            "classroom": "C1.112",
+            "subject": "Advanced Heuristics"
          }
       ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "string": "P0C20",
-            "classroom": "A1.06",
-            "subject": "Programmeren in Java 2"
+            "string": "W0A36",
+            "classroom": "C0.110",
+            "subject": "Databases 2"
          }
       ]
    },
    "4": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "L0A0",
-            "classroom": "A1.04",
-            "subject": "Databases 2"
+            "string": "L0A106",
+            "classroom": "B0.201",
+            "subject": "Calculus 2"
          }
       ],
-      "2": [],
       "3": []
    }
 }

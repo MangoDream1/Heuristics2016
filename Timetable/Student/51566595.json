@@ -4,13 +4,18 @@
       "1": [],
       "2": [
          {
-            "string": "P0B25",
-            "classroom": "C0.110",
-            "subject": "Algoritmen en complexiteit"
+            "string": "L1A27",
+            "classroom": "A1.04",
+            "subject": "Data Mining"
          },
          {
-            "string": "L0A0",
-            "classroom": "A1.10",
+            "string": "L0A72",
+            "classroom": "A1.08",
+            "subject": "Databases 2"
+         },
+         {
+            "string": "W0B16",
+            "classroom": "B0.201",
             "subject": "Heuristieken 2"
          }
       ],
@@ -19,96 +24,93 @@
    "1": {
       "0": [
          {
-            "string": "W0C10",
+            "string": "L0A43",
             "classroom": "B0.201",
-            "subject": "Autonomous Agents 2"
-         },
-         {
-            "string": "L1A0",
-            "classroom": "C1.112",
-            "subject": "Data Mining"
-         },
-         {
-            "string": "W0B10",
-            "classroom": "B0.201",
-            "subject": "Data Mining"
-         },
-         {
-            "string": "W0B20",
-            "classroom": "A1.06",
-            "subject": "Heuristieken 2"
+            "subject": "Algoritmen en complexiteit"
          }
       ],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "string": "L0A0",
-            "classroom": "A1.06",
-            "subject": "Data Mining"
-         },
-         {
-            "string": "P0B10",
-            "classroom": "C1.112",
-            "subject": "Data Mining"
+            "string": "L0A32",
+            "classroom": "A1.10",
+            "subject": "Heuristieken 2"
          }
-      ],
-      "3": []
+      ]
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "L0A0",
-            "classroom": "A1.10",
-            "subject": "Algoritmen en complexiteit"
+            "string": "W0B9",
+            "classroom": "A1.04",
+            "subject": "Data Mining"
          },
          {
-            "string": "W0B25",
-            "classroom": "A1.10",
-            "subject": "Algoritmen en complexiteit"
+            "string": "W0B36",
+            "classroom": "A1.08",
+            "subject": "Databases 2"
          }
       ],
-      "2": [],
+      "1": [
+         {
+            "string": "L0A27",
+            "classroom": "A1.08",
+            "subject": "Data Mining"
+         }
+      ],
+      "2": [
+         {
+            "string": "L0A22",
+            "classroom": "C1.112",
+            "subject": "Autonomous Agents 2"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
       "1": [
          {
-            "string": "L0A0",
+            "string": "L1A22",
             "classroom": "A1.10",
             "subject": "Autonomous Agents 2"
          },
          {
-            "string": "L1A0",
-            "classroom": "A1.08",
+            "string": "P0C6",
+            "classroom": "B0.201",
             "subject": "Autonomous Agents 2"
          }
       ],
-      "2": [
-         {
-            "string": "P0C10",
-            "classroom": "A1.10",
-            "subject": "Autonomous Agents 2"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [],
       "1": [
          {
-            "string": "L0A0",
-            "classroom": "A1.04",
-            "subject": "Databases 2"
+            "string": "P0B9",
+            "classroom": "A1.10",
+            "subject": "Data Mining"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "string": "W0B21",
+            "classroom": "A1.06",
+            "subject": "Algoritmen en complexiteit"
+         },
+         {
+            "string": "P0B21",
+            "classroom": "A1.10",
+            "subject": "Algoritmen en complexiteit"
+         }
+      ],
       "3": [
          {
-            "string": "W0B40",
+            "string": "W0C6",
             "classroom": "A1.04",
-            "subject": "Databases 2"
+            "subject": "Autonomous Agents 2"
          }
       ]
    }

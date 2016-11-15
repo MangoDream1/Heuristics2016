@@ -1,67 +1,67 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.04",
-            "subject": "Software engineering"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "string": "W0B40",
-            "classroom": "A1.04",
+            "string": "W0B36",
+            "classroom": "C1.112",
             "subject": "Calculus 2"
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "string": "P0B40",
-            "classroom": "C0.110",
-            "subject": "Software engineering"
-         }
-      ],
-      "2": [
-         {
-            "string": "P0D20",
-            "classroom": "A1.08",
-            "subject": "Programmeren in Java 2"
-         },
-         {
-            "string": "W0B40",
-            "classroom": "A1.10",
-            "subject": "Software engineering"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "3": {
       "0": [],
       "1": [
          {
-            "string": "L0A0",
-            "classroom": "A1.06",
-            "subject": "Calculus 2"
+            "string": "P0B37",
+            "classroom": "C1.112",
+            "subject": "Software engineering"
          }
       ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0D19",
+            "classroom": "C0.110",
+            "subject": "Programmeren in Java 2"
+         },
+         {
+            "string": "L0A75",
+            "classroom": "A1.08",
+            "subject": "Software engineering"
+         }
+      ]
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "string": "L0A106",
+            "classroom": "B0.201",
+            "subject": "Calculus 2"
+         }
+      ],
+      "3": [
+         {
+            "string": "W0B37",
+            "classroom": "A1.04",
+            "subject": "Software engineering"
+         }
+      ]
    }
 }

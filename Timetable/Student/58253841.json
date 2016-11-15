@@ -2,9 +2,9 @@
    "0": {
       "0": [
          {
-            "string": "P0B15",
+            "string": "P0B14",
             "classroom": "A1.06",
-            "subject": "Project Genetic Algorithms"
+            "subject": "Zoeken, sturen en bewegen"
          }
       ],
       "1": [],
@@ -12,20 +12,20 @@
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "string": "W0B40",
-            "classroom": "A1.04",
+            "string": "W0B36",
+            "classroom": "C1.112",
             "subject": "Calculus 2"
          }
       ],
+      "1": [],
+      "2": [],
       "3": [
          {
-            "string": "P0B15",
-            "classroom": "C0.110",
-            "subject": "Zoeken, sturen en bewegen"
+            "string": "P0B12",
+            "classroom": "A1.10",
+            "subject": "Project Genetic Algorithms"
          }
       ]
    },
@@ -37,20 +37,20 @@
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.06",
-            "subject": "Calculus 2"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L0A106",
+            "classroom": "B0.201",
+            "subject": "Calculus 2"
+         }
+      ],
       "3": []
    }
 }

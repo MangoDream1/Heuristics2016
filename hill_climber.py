@@ -46,7 +46,7 @@ while noProgressCounter != 1000:
 
         #print((iteration, noProgressCounter, iteration_dct[iteration]["score"],  iteration_dct[iteration - 1]["score"]))
 
-        if iteration % 100 == 0:
+        if iteration % 10 == 0:
             print(iteration_dct[iteration]["score"])
 
             iteration_dct = createBase(iteration, iteration_dct)

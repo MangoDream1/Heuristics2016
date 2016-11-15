@@ -1,53 +1,47 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "W0A20",
-            "classroom": "A1.08",
-            "subject": "Heuristieken 2"
-         }
-      ],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "L1A0",
-            "classroom": "A1.04",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [
          {
-            "string": "W0A20",
+            "string": "W0A16",
             "classroom": "C1.112",
             "subject": "Collectieve Intelligentie"
          },
          {
-            "string": "L0A0",
-            "classroom": "A1.10",
-            "subject": "Heuristieken 2"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "string": "L2A0",
+            "string": "P0A16",
             "classroom": "C1.112",
             "subject": "Collectieve Intelligentie"
          }
       ],
+      "3": [
+         {
+            "string": "W0A36",
+            "classroom": "A1.04",
+            "subject": "Calculus 2"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "string": "L0A61",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "string": "P0A20",
+            "string": "L0A32",
+            "classroom": "A1.10",
+            "subject": "Heuristieken 2"
+         },
+         {
+            "string": "W0A16",
             "classroom": "C1.112",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Heuristieken 2"
          }
       ]
    },
@@ -61,24 +55,30 @@
       "0": [],
       "1": [
          {
-            "string": "L0A0",
+            "string": "L1A61",
             "classroom": "A1.06",
-            "subject": "Calculus 2"
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "0": [
          {
-            "string": "W0A40",
+            "string": "L2A61",
+            "classroom": "A1.06",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "string": "L0A106",
             "classroom": "B0.201",
             "subject": "Calculus 2"
          }
-      ]
+      ],
+      "3": []
    }
 }

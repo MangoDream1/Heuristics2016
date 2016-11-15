@@ -3,14 +3,14 @@
       "0": [],
       "1": [
          {
-            "string": "L0A0",
-            "classroom": "B0.201",
+            "string": "W0C16",
+            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie"
          },
          {
-            "string": "L1A0",
+            "string": "W0B19",
             "classroom": "A1.04",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Webprogrammeren en databases"
          }
       ],
       "2": [],
@@ -19,79 +19,77 @@
    "1": {
       "0": [
          {
-            "string": "P0B20",
+            "string": "W0B36",
             "classroom": "C1.112",
-            "subject": "Webprogrammeren en databases"
-         }
-      ],
-      "1": [
+            "subject": "Calculus 2"
+         },
          {
-            "string": "L2A0",
-            "classroom": "C1.112",
+            "string": "L0A61",
+            "classroom": "A1.08",
             "subject": "Collectieve Intelligentie"
          }
       ],
+      "1": [],
       "2": [
          {
-            "string": "W0B40",
-            "classroom": "A1.04",
-            "subject": "Calculus 2"
-         }
-      ],
-      "3": [
-         {
-            "string": "L1A0",
-            "classroom": "C0.110",
+            "string": "P0B19",
+            "classroom": "A1.10",
             "subject": "Webprogrammeren en databases"
          }
-      ]
+      ],
+      "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "W0B20",
-            "classroom": "B0.201",
-            "subject": "Webprogrammeren en databases"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
       "0": [],
       "1": [
          {
-            "string": "L0A0",
+            "string": "L1A61",
             "classroom": "A1.06",
-            "subject": "Calculus 2"
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "string": "L2A61",
+            "classroom": "A1.06",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A39",
+            "classroom": "A1.08",
+            "subject": "Webprogrammeren en databases"
+         },
+         {
+            "string": "L1A39",
+            "classroom": "A1.08",
+            "subject": "Webprogrammeren en databases"
          }
       ],
       "2": [
          {
-            "string": "W0C20",
+            "string": "L0A106",
             "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Calculus 2"
          }
       ],
       "3": [
          {
-            "string": "L0A0",
-            "classroom": "A1.08",
-            "subject": "Webprogrammeren en databases"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "string": "P0C20",
-            "classroom": "C0.110",
+            "string": "P0C16",
+            "classroom": "B0.201",
             "subject": "Collectieve Intelligentie"
          }
-      ],
-      "3": []
+      ]
    }
 }

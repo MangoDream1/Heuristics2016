@@ -9,29 +9,23 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A0",
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L1A84",
+            "classroom": "C1.112",
+            "subject": "Kansrekenen 2"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "string": "L1A0",
-            "classroom": "A1.08",
-            "subject": "Kansrekenen 2"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -39,8 +33,13 @@
       "0": [],
       "1": [
          {
-            "string": "P0C15",
-            "classroom": "A1.04",
+            "string": "L0A84",
+            "classroom": "C1.112",
+            "subject": "Kansrekenen 2"
+         },
+         {
+            "string": "P0C14",
+            "classroom": "C1.112",
             "subject": "Zoeken, sturen en bewegen"
          }
       ],

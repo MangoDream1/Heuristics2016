@@ -48,6 +48,13 @@ function getJson() {
 
 					if ($(day).length > 1) {
 						column.css("background-color", "red");
+						column.css("font-size", "35px");
+						column.css("color", "black");
+						column.text($(day).length);
+
+						$.each(day, function(i, lecture){
+							$('#'+lecture.string).css("background-color", "red").css("color", "black");
+						})
 					}
 
 

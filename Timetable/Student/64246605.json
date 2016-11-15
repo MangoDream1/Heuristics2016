@@ -1,12 +1,6 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "P0C20",
-            "classroom": "A1.08",
-            "subject": "Netwerken en systeembeveiliging"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -27,7 +21,13 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0C16",
+            "classroom": "A1.04",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ]
    },
    "4": {
       "0": [],

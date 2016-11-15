@@ -2,65 +2,53 @@
    "0": {
       "0": [
          {
-            "string": "P0C20",
-            "classroom": "A1.08",
-            "subject": "Netwerken en systeembeveiliging"
+            "string": "W0B8",
+            "classroom": "B0.201",
+            "subject": "Autonomous Agents 2"
          }
       ],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "C0.110",
-            "subject": "Informatie- en organisatieontwerp"
-         },
-         {
-            "string": "L0A0",
-            "classroom": "A1.04",
-            "subject": "Technology for games"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "string": "L0A0",
-            "classroom": "A1.10",
-            "subject": "Heuristieken 1"
+            "string": "L0A38",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
+         },
+         {
+            "string": "W0B19",
+            "classroom": "C0.110",
+            "subject": "Technology for games"
          }
       ]
    },
    "1": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "W0B20",
+            "string": "L0A21",
             "classroom": "B0.201",
-            "subject": "Technology for games"
+            "subject": "Informatie- en organisatieontwerp"
          }
       ],
-      "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "string": "P0B10",
-            "classroom": "B0.201",
-            "subject": "Autonomous Agents 2"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "string": "W0B15",
-            "classroom": "A1.06",
-            "subject": "Informatie- en organisatieontwerp"
+            "string": "L0A22",
+            "classroom": "C1.112",
+            "subject": "Autonomous Agents 2"
          }
       ],
       "3": [
          {
-            "string": "L1A0",
-            "classroom": "B0.201",
-            "subject": "Technology for games"
+            "string": "P0B8",
+            "classroom": "C1.112",
+            "subject": "Autonomous Agents 2"
          }
       ]
    },
@@ -68,45 +56,56 @@
       "0": [],
       "1": [
          {
-            "string": "L0A0",
+            "string": "L1A22",
             "classroom": "A1.10",
             "subject": "Autonomous Agents 2"
          },
          {
-            "string": "L1A0",
+            "string": "W0A22",
             "classroom": "A1.08",
-            "subject": "Autonomous Agents 2"
-         }
-      ],
-      "2": [
-         {
-            "string": "W0B10",
-            "classroom": "C0.110",
-            "subject": "Autonomous Agents 2"
-         },
-         {
-            "string": "P0B15",
-            "classroom": "A1.10",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ],
-      "3": [
-         {
-            "string": "W0A25",
-            "classroom": "B0.201",
             "subject": "Heuristieken 1"
          },
          {
-            "string": "L1A0",
+            "string": "W0B10",
+            "classroom": "C0.110",
+            "subject": "Informatie- en organisatieontwerp"
+         },
+         {
+            "string": "P0B10",
             "classroom": "A1.04",
             "subject": "Informatie- en organisatieontwerp"
+         },
+         {
+            "string": "L1A38",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "P0C16",
+            "classroom": "A1.04",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ]
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L1A21",
+            "classroom": "C0.110",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A44",
+            "classroom": "A1.04",
+            "subject": "Heuristieken 1"
+         }
+      ]
    }
 }

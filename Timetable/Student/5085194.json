@@ -2,55 +2,55 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L0A72",
+            "classroom": "A1.08",
+            "subject": "Databases 2"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "P0C12",
+            "classroom": "C0.110",
+            "subject": "Compilerbouw (practicum)"
+         }
+      ],
       "2": [],
       "3": []
    },
    "2": {
+      "0": [
+         {
+            "string": "W0B36",
+            "classroom": "A1.08",
+            "subject": "Databases 2"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "3": {
       "0": [],
       "1": [],
       "2": [
          {
-            "string": "L0A0",
-            "classroom": "A1.10",
+            "string": "L0A49",
+            "classroom": "C0.110",
             "subject": "Analysemethoden en -technieken"
          }
       ],
       "3": []
    },
-   "3": {
-      "0": [
-         {
-            "string": "P0C15",
-            "classroom": "B0.201",
-            "subject": "Compilerbouw (practicum)"
-         }
-      ],
+   "4": {
+      "0": [],
       "1": [],
       "2": [],
       "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.04",
-            "subject": "Databases 2"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "string": "W0B40",
-            "classroom": "A1.04",
-            "subject": "Databases 2"
-         }
-      ]
    }
 }

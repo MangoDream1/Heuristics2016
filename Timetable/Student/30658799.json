@@ -1,28 +1,16 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.08",
-            "subject": "Moderne Databases"
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "P0A40",
-            "classroom": "A1.06",
-            "subject": "Compilerbouw"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [
          {
-            "string": "L1A0",
-            "classroom": "A1.08",
+            "string": "P0A35",
+            "classroom": "C0.110",
             "subject": "Compilerbouw"
          }
       ],
@@ -32,24 +20,24 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L0A54",
+            "classroom": "C1.112",
+            "subject": "Moderne Databases"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [
          {
-            "string": "W0B20",
-            "classroom": "B0.201",
-            "subject": "Moderne Databases"
-         }
-      ],
-      "1": [
-         {
-            "string": "W0A40",
-            "classroom": "B0.201",
+            "string": "L1A69",
+            "classroom": "A1.06",
             "subject": "Compilerbouw"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -57,17 +45,28 @@
       "0": [],
       "1": [
          {
-            "string": "P0B20",
-            "classroom": "B0.201",
+            "string": "L0A69",
+            "classroom": "C0.110",
+            "subject": "Compilerbouw"
+         }
+      ],
+      "2": [
+         {
+            "string": "P0B18",
+            "classroom": "C1.112",
             "subject": "Moderne Databases"
          }
       ],
-      "2": [],
       "3": [
          {
-            "string": "L0A0",
-            "classroom": "A1.04",
+            "string": "W0A35",
+            "classroom": "C0.110",
             "subject": "Compilerbouw"
+         },
+         {
+            "string": "W0B18",
+            "classroom": "C1.112",
+            "subject": "Moderne Databases"
          }
       ]
    }

@@ -1,41 +1,13 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "P0A20",
-            "classroom": "B0.201",
-            "subject": "Bioinformatica"
-         },
-         {
-            "string": "L0A0",
-            "classroom": "A1.08",
-            "subject": "Moderne Databases"
-         }
-      ],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.10",
-            "subject": "Bioinformatica"
-         },
-         {
-            "string": "L0A0",
-            "classroom": "A1.04",
-            "subject": "Technology for games"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A0",
-            "classroom": "B0.201",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
+      "0": [],
+      "1": [],
+      "2": [],
       "3": [
          {
-            "string": "W0A20",
-            "classroom": "A1.04",
-            "subject": "Bioinformatica"
+            "string": "L0A38",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
          }
       ]
    },
@@ -43,71 +15,99 @@
       "0": [],
       "1": [
          {
-            "string": "L1A0",
-            "classroom": "C0.110",
-            "subject": "Bioinformatica"
+            "string": "P0A18",
+            "classroom": "A1.08",
+            "subject": "Moderne Databases"
          }
       ],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "L2A45",
+            "classroom": "A1.08",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "1": [
+         {
+            "string": "L1A51",
+            "classroom": "A1.04",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
       "2": [
          {
-            "string": "W0A20",
-            "classroom": "A1.06",
+            "string": "L0A54",
+            "classroom": "C1.112",
+            "subject": "Moderne Databases"
+         },
+         {
+            "string": "W0A19",
+            "classroom": "C1.112",
             "subject": "Technology for games"
          }
       ],
       "3": [
          {
-            "string": "L1A0",
+            "string": "L0A45",
             "classroom": "B0.201",
-            "subject": "Technology for games"
+            "subject": "Bioinformatica"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "string": "L1A0",
-            "classroom": "A1.08",
+            "string": "W0A15",
+            "classroom": "A1.04",
+            "subject": "Bioinformatica"
+         },
+         {
+            "string": "W0B17",
+            "classroom": "C0.110",
             "subject": "Reflectie op de digitale cultuur"
          }
       ],
       "1": [
          {
-            "string": "L2A0",
-            "classroom": "A1.04",
+            "string": "L1A38",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
+         }
+      ],
+      "2": [
+         {
+            "string": "L1A45",
+            "classroom": "A1.10",
             "subject": "Bioinformatica"
          }
       ],
-      "2": [
+      "3": [
          {
-            "string": "W0A20",
-            "classroom": "B0.201",
-            "subject": "Moderne Databases"
+            "string": "P0A15",
+            "classroom": "C1.112",
+            "subject": "Bioinformatica"
          },
          {
-            "string": "P0A20",
-            "classroom": "A1.10",
+            "string": "W0A18",
+            "classroom": "A1.06",
             "subject": "Moderne Databases"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "string": "W0B20",
-            "classroom": "C1.112",
+            "string": "L0A51",
+            "classroom": "A1.10",
             "subject": "Reflectie op de digitale cultuur"
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    }
 }

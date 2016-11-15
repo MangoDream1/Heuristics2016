@@ -1,14 +1,14 @@
 {
    "0": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "W0C40",
-            "classroom": "C0.110",
-            "subject": "Calculus 2"
+            "string": "L0A72",
+            "classroom": "A1.08",
+            "subject": "Databases 2"
          }
       ],
-      "2": [],
       "3": []
    },
    "1": {
@@ -18,50 +18,50 @@
       "3": []
    },
    "2": {
+      "0": [
+         {
+            "string": "W0B36",
+            "classroom": "A1.08",
+            "subject": "Databases 2"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "3": {
       "0": [],
       "1": [],
       "2": [
          {
-            "string": "L0A0",
-            "classroom": "A1.10",
+            "string": "L0A49",
+            "classroom": "C0.110",
             "subject": "Analysemethoden en -technieken"
          }
       ],
       "3": [
          {
-            "string": "P0F20",
-            "classroom": "A1.08",
+            "string": "P0F15",
+            "classroom": "A1.04",
             "subject": "Programmeren in Java 2"
          }
       ]
    },
-   "3": {
+   "4": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "L0A0",
-            "classroom": "A1.06",
+            "string": "L0A106",
+            "classroom": "B0.201",
             "subject": "Calculus 2"
          }
       ],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.04",
-            "subject": "Databases 2"
-         }
-      ],
-      "2": [],
       "3": [
          {
-            "string": "W0B40",
-            "classroom": "A1.04",
-            "subject": "Databases 2"
+            "string": "W0C34",
+            "classroom": "C1.112",
+            "subject": "Calculus 2"
          }
       ]
    }

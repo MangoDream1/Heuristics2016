@@ -1,105 +1,107 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "L0A0",
-            "classroom": "B0.201",
-            "subject": "Advanced Heuristics"
-         },
-         {
-            "string": "L0A0",
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "L1A0",
-            "classroom": "A1.04",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "L0A0",
-            "classroom": "A1.04",
-            "subject": "Technology for games"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "string": "P0A10",
-            "classroom": "A1.10",
-            "subject": "Advanced Heuristics"
-         },
-         {
-            "string": "L2A0",
-            "classroom": "C1.112",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "2": [
-         {
-            "string": "W0B20",
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "3": [
-         {
-            "string": "L1A0",
+            "string": "P0B14",
             "classroom": "A1.06",
-            "subject": "Interactie-ontwerp"
-         },
-         {
-            "string": "P0B15",
-            "classroom": "C0.110",
             "subject": "Zoeken, sturen en bewegen"
          }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "L0A20",
+            "classroom": "A1.06",
+            "subject": "Advanced Heuristics"
+         },
+         {
+            "string": "L0A38",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
+         }
       ]
+   },
+   "1": {
+      "0": [
+         {
+            "string": "L0A61",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "string": "L1A25",
+            "classroom": "A1.10",
+            "subject": "Interactie-ontwerp"
+         }
+      ],
+      "3": []
    },
    "2": {
       "0": [],
       "1": [],
       "2": [
          {
-            "string": "W0A20",
-            "classroom": "A1.06",
+            "string": "W0A19",
+            "classroom": "C1.112",
             "subject": "Technology for games"
-         }
-      ],
-      "3": [
-         {
-            "string": "L1A0",
-            "classroom": "B0.201",
-            "subject": "Technology for games"
-         }
-      ]
-   },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "string": "L0A0",
-            "classroom": "C0.110",
-            "subject": "Interactie-ontwerp"
          }
       ],
       "3": []
    },
-   "4": {
-      "0": [],
+   "3": {
+      "0": [
+         {
+            "string": "P0A10",
+            "classroom": "C1.112",
+            "subject": "Advanced Heuristics"
+         },
+         {
+            "string": "P0B16",
+            "classroom": "A1.04",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "1": [
          {
-            "string": "P0B20",
-            "classroom": "A1.10",
+            "string": "L1A61",
+            "classroom": "A1.06",
             "subject": "Collectieve Intelligentie"
+         },
+         {
+            "string": "L1A38",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
          }
       ],
       "2": [],
       "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "string": "L2A61",
+            "classroom": "A1.06",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "string": "W0B16",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "3": [
+         {
+            "string": "L0A25",
+            "classroom": "C1.112",
+            "subject": "Interactie-ontwerp"
+         }
+      ]
    }
 }

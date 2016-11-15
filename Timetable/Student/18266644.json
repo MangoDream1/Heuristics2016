@@ -1,73 +1,8 @@
 {
    "0": {
-      "0": [],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "C0.110",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "string": "W0A15",
-            "classroom": "C0.110",
-            "subject": "Informatie- en organisatieontwerp"
-         },
-         {
-            "string": "P0A20",
-            "classroom": "C1.112",
-            "subject": "Netwerken en systeembeveiliging"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "string": "L0A0",
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2"
-         }
-      ]
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.10",
-            "subject": "Analysemethoden en -technieken"
-         }
-      ],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [
-         {
-            "string": "L1A0",
-            "classroom": "A1.08",
-            "subject": "Kansrekenen 2"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "string": "L1A0",
-            "classroom": "A1.04",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ]
-   },
-   "4": {
       "0": [
          {
-            "string": "P0A15",
+            "string": "W0A11",
             "classroom": "B0.201",
             "subject": "Informatie- en organisatieontwerp"
          }
@@ -75,5 +10,70 @@
       "1": [],
       "2": [],
       "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "L0A21",
+            "classroom": "B0.201",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "L1A84",
+            "classroom": "C1.112",
+            "subject": "Kansrekenen 2"
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "L0A49",
+            "classroom": "C0.110",
+            "subject": "Analysemethoden en -technieken"
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "string": "P0A16",
+            "classroom": "C1.112",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ],
+      "1": [
+         {
+            "string": "L1A21",
+            "classroom": "C0.110",
+            "subject": "Informatie- en organisatieontwerp"
+         },
+         {
+            "string": "L0A84",
+            "classroom": "C1.112",
+            "subject": "Kansrekenen 2"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "P0A11",
+            "classroom": "B0.201",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ]
    }
 }

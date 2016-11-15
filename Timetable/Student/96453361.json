@@ -1,70 +1,53 @@
 {
    "0": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [
          {
-            "string": "L0A0",
-            "classroom": "A1.10",
+            "string": "L0A43",
+            "classroom": "B0.201",
+            "subject": "Algoritmen en complexiteit"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "string": "L2A45",
+            "classroom": "A1.08",
             "subject": "Bioinformatica"
          }
       ],
+      "1": [],
       "2": [
          {
-            "string": "P0B25",
+            "string": "W0C15",
             "classroom": "C0.110",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Bioinformatica"
          }
       ],
       "3": [
          {
-            "string": "P0C20",
+            "string": "L0A45",
             "classroom": "B0.201",
             "subject": "Bioinformatica"
          }
       ]
    },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "string": "L1A0",
-            "classroom": "C0.110",
-            "subject": "Bioinformatica"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.10",
-            "subject": "Algoritmen en complexiteit"
-         },
-         {
-            "string": "W0B25",
-            "classroom": "A1.10",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
    "3": {
       "0": [],
-      "1": [
-         {
-            "string": "L2A0",
-            "classroom": "A1.04",
-            "subject": "Bioinformatica"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "string": "W0C20",
-            "classroom": "B0.201",
+            "string": "L1A45",
+            "classroom": "A1.10",
             "subject": "Bioinformatica"
          }
       ],
@@ -75,11 +58,27 @@
       "1": [
          {
             "string": "P0C15",
-            "classroom": "A1.04",
+            "classroom": "A1.06",
+            "subject": "Bioinformatica"
+         },
+         {
+            "string": "P0C14",
+            "classroom": "C1.112",
             "subject": "Zoeken, sturen en bewegen"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "string": "W0B21",
+            "classroom": "A1.06",
+            "subject": "Algoritmen en complexiteit"
+         },
+         {
+            "string": "P0B21",
+            "classroom": "A1.10",
+            "subject": "Algoritmen en complexiteit"
+         }
+      ],
       "3": []
    }
 }

@@ -3,16 +3,21 @@
       "0": [],
       "1": [
          {
-            "string": "L0A0",
+            "string": "L0A54",
             "classroom": "A1.04",
-            "subject": "Software engineering"
+            "subject": "Lineaire Algebra"
+         },
+         {
+            "string": "L1A54",
+            "classroom": "B0.201",
+            "subject": "Lineaire Algebra"
          }
       ],
       "2": [
          {
-            "string": "L1A0",
-            "classroom": "A1.08",
-            "subject": "Lineaire Algebra"
+            "string": "L1A27",
+            "classroom": "A1.04",
+            "subject": "Data Mining"
          }
       ],
       "3": []
@@ -20,68 +25,64 @@
    "1": {
       "0": [
          {
-            "string": "L1A0",
-            "classroom": "C1.112",
+            "string": "W0A9",
+            "classroom": "A1.06",
             "subject": "Data Mining"
          }
       ],
-      "1": [
-         {
-            "string": "W0A40",
-            "classroom": "C1.112",
-            "subject": "Software engineering"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "string": "L0A0",
-            "classroom": "A1.06",
-            "subject": "Data Mining"
-         },
-         {
-            "string": "P0A10",
-            "classroom": "A1.06",
-            "subject": "Data Mining"
+            "string": "W0A38",
+            "classroom": "C0.110",
+            "subject": "Software engineering"
          }
       ],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "L0A0",
-            "classroom": "A1.10",
-            "subject": "Analysemethoden en -technieken"
-         },
-         {
-            "string": "W0A10",
-            "classroom": "A1.10",
+            "string": "L0A27",
+            "classroom": "A1.08",
             "subject": "Data Mining"
          }
       ],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [],
       "2": [],
       "3": []
    },
-   "4": {
+   "3": {
       "0": [
          {
-            "string": "P0A40",
-            "classroom": "A1.06",
-            "subject": "Software engineering"
+            "string": "P0A9",
+            "classroom": "A1.04",
+            "subject": "Data Mining"
          }
       ],
+      "1": [],
+      "2": [
+         {
+            "string": "L0A49",
+            "classroom": "C0.110",
+            "subject": "Analysemethoden en -technieken"
+         }
+      ],
+      "3": [
+         {
+            "string": "L0A75",
+            "classroom": "A1.08",
+            "subject": "Software engineering"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
       "1": [
          {
-            "string": "L0A0",
-            "classroom": "C1.112",
-            "subject": "Lineaire Algebra"
+            "string": "P0A38",
+            "classroom": "A1.04",
+            "subject": "Software engineering"
          }
       ],
       "2": [],

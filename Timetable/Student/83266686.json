@@ -1,40 +1,23 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.08",
-            "subject": "Moderne Databases"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "string": "L0A0",
-            "classroom": "A1.06",
-            "subject": "Architectuur en computerorganisatie"
-         },
-         {
-            "string": "W0C40",
+            "string": "W0B34",
             "classroom": "C0.110",
-            "subject": "Calculus 2"
+            "subject": "Compilerbouw"
          }
       ],
-      "2": [
-         {
-            "string": "L1A0",
-            "classroom": "B0.201",
-            "subject": "Architectuur en computerorganisatie"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [
          {
-            "string": "L1A0",
-            "classroom": "A1.08",
-            "subject": "Compilerbouw"
+            "string": "L1A21",
+            "classroom": "A1.06",
+            "subject": "Architectuur en computerorganisatie"
          }
       ],
       "2": [],
@@ -45,9 +28,9 @@
       "1": [],
       "2": [
          {
-            "string": "W0B40",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw"
+            "string": "L0A54",
+            "classroom": "C1.112",
+            "subject": "Moderne Databases"
          }
       ],
       "3": []
@@ -55,41 +38,57 @@
    "3": {
       "0": [
          {
-            "string": "W0B20",
-            "classroom": "B0.201",
-            "subject": "Moderne Databases"
-         }
-      ],
-      "1": [
-         {
-            "string": "L0A0",
+            "string": "L1A69",
             "classroom": "A1.06",
-            "subject": "Calculus 2"
+            "subject": "Compilerbouw"
          }
       ],
-      "2": [],
+      "1": [],
+      "2": [
+         {
+            "string": "L0A21",
+            "classroom": "A1.06",
+            "subject": "Architectuur en computerorganisatie"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
       "1": [
          {
-            "string": "P0B20",
-            "classroom": "B0.201",
-            "subject": "Moderne Databases"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.04",
+            "string": "L0A69",
+            "classroom": "C0.110",
             "subject": "Compilerbouw"
          },
          {
-            "string": "P0B40",
-            "classroom": "A1.10",
+            "string": "P0B34",
+            "classroom": "A1.06",
             "subject": "Compilerbouw"
+         }
+      ],
+      "2": [
+         {
+            "string": "L0A106",
+            "classroom": "B0.201",
+            "subject": "Calculus 2"
+         },
+         {
+            "string": "P0B18",
+            "classroom": "C1.112",
+            "subject": "Moderne Databases"
+         }
+      ],
+      "3": [
+         {
+            "string": "W0C34",
+            "classroom": "C1.112",
+            "subject": "Calculus 2"
+         },
+         {
+            "string": "W0B18",
+            "classroom": "C1.112",
+            "subject": "Moderne Databases"
          }
       ]
    }

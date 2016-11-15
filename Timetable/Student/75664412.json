@@ -1,64 +1,57 @@
 {
    "0": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [],
+      "3": [
          {
-            "string": "L0A0",
-            "classroom": "A1.04",
+            "string": "L0A38",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
+         },
+         {
+            "string": "W0B19",
+            "classroom": "C0.110",
             "subject": "Technology for games"
          }
-      ],
-      "2": [
-         {
-            "string": "P0A40",
-            "classroom": "A1.06",
-            "subject": "Compilerbouw"
-         }
-      ],
-      "3": []
+      ]
    },
    "1": {
       "0": [],
       "1": [
          {
-            "string": "L1A0",
-            "classroom": "A1.08",
+            "string": "P0A35",
+            "classroom": "C0.110",
             "subject": "Compilerbouw"
-         },
-         {
-            "string": "W0B20",
-            "classroom": "B0.201",
-            "subject": "Technology for games"
          }
       ],
       "2": [],
       "3": []
    },
    "2": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "3": {
       "0": [
          {
-            "string": "P0B20",
+            "string": "L1A69",
+            "classroom": "A1.06",
+            "subject": "Compilerbouw"
+         },
+         {
+            "string": "P0B16",
             "classroom": "B0.201",
             "subject": "Netwerken en systeembeveiliging"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "L1A0",
-            "classroom": "B0.201",
-            "subject": "Technology for games"
-         }
-      ]
-   },
-   "3": {
-      "0": [],
       "1": [
          {
-            "string": "W0A40",
-            "classroom": "B0.201",
-            "subject": "Compilerbouw"
+            "string": "L1A38",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
          }
       ],
       "2": [],
@@ -66,12 +59,18 @@
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L0A69",
+            "classroom": "C0.110",
+            "subject": "Compilerbouw"
+         }
+      ],
       "2": [],
       "3": [
          {
-            "string": "L0A0",
-            "classroom": "A1.04",
+            "string": "W0A35",
+            "classroom": "C0.110",
             "subject": "Compilerbouw"
          }
       ]

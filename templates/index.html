@@ -33,7 +33,7 @@
 
 				Lectures: [ <br>
 				{% for x in object.lectures %}
-					<p>{{ x.subject.name }}: {{ x.__str__() }}</p>
+					<p><span id="{{ x.__str__() }}">{{ x.subject.name }}: {{ x.__str__() }}</span></p>
 				{% endfor %}
 				]
 
@@ -41,18 +41,30 @@
 				Room number: {{ object.room_number }} <br>
 			  	Capacity:  {{ object.capacity }} <br><br>
 
-				Lectures: [ <br>
+				Lectures: [
 				{% for x in object.lectures %}
-					<p>{{ x.subject.name }}: {{ x.__str__() }}</p>
+					<span id="{{ x.__str__() }}">{{ x.subject.name }}: {{ x.__str__() }}</span>
 				{% endfor %}
 				]
 
 			{% elif object.__class__.__name__ == "Subject" %}
-				Lectures: [{{ object.getLectures()|join(", ") }}] <br>
+				Lectures: [
+				{% for x in object.getLectures() %}
+					<span id="{{ x.__str__() }}">{{ x.__str__() }}</span>
+				{% endfor %}
+				]<br>
 
-				WorkLectures: [{{ object.getWorkLectures()|join(", ") }}] <br>
+				WorkLectures: [
+				{% for x in object.getWorkLectures() %}
+					<span id="{{ x.__str__() }}">{{ x.__str__() }}</span>
+				{% endfor %}
+				]<br>
 
-				Practicas: [{{ object.getPracticas()|join(", ") }}] <br>
+				Practicas: [
+				{% for x in object.getPracticas() %}
+					<span id="{{ x.__str__() }}">{{ x.__str__() }}</span>
+				{% endfor %}
+				]<br>
 
 				Students ({{ object.students|length }}): [
 				{% for x in object.students %}

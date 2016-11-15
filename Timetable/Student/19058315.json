@@ -1,13 +1,13 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "P0D20",
-            "classroom": "A1.06",
+            "string": "P0D16",
+            "classroom": "B0.201",
             "subject": "Netwerken en systeembeveiliging"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },

@@ -4,76 +4,76 @@
       "1": [],
       "2": [
          {
-            "string": "P0C10",
-            "classroom": "C1.112",
+            "string": "L1A27",
+            "classroom": "A1.04",
             "subject": "Data Mining"
-         },
-         {
-            "string": "L0A0",
-            "classroom": "B0.201",
-            "subject": "Reflectie op de digitale cultuur"
          }
       ],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "string": "L1A0",
-            "classroom": "C1.112",
-            "subject": "Data Mining"
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.06",
-            "subject": "Data Mining"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "W0C10",
-            "classroom": "B0.201",
+            "string": "L0A27",
+            "classroom": "A1.08",
             "subject": "Data Mining"
+         },
+         {
+            "string": "L1A51",
+            "classroom": "A1.04",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "string": "L1A0",
-            "classroom": "A1.08",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "W0C20",
+            "string": "W0C17",
             "classroom": "B0.201",
             "subject": "Reflectie op de digitale cultuur"
          }
       ]
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A51",
+            "classroom": "A1.10",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
       "1": [
          {
-            "string": "P0C15",
-            "classroom": "A1.04",
+            "string": "P0C14",
+            "classroom": "C1.112",
             "subject": "Zoeken, sturen en bewegen"
          }
       ],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "string": "P0C9",
+            "classroom": "A1.04",
+            "subject": "Data Mining"
+         }
+      ],
+      "3": [
+         {
+            "string": "W0C9",
+            "classroom": "C0.110",
+            "subject": "Data Mining"
+         }
+      ]
    }
 }

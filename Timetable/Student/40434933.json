@@ -1,94 +1,93 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A0",
-            "classroom": "A1.06",
-            "subject": "Architectuur en computerorganisatie"
-         },
-         {
-            "string": "L0A0",
-            "classroom": "A1.04",
-            "subject": "Technology for games"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "string": "L1A0",
-            "classroom": "B0.201",
-            "subject": "Architectuur en computerorganisatie"
+            "string": "L0A72",
+            "classroom": "A1.08",
+            "subject": "Databases 2"
          }
       ],
       "3": [
          {
-            "string": "W0A20",
-            "classroom": "A1.04",
-            "subject": "Webprogrammeren en databases"
+            "string": "L0A38",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
          }
       ]
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "W0A40",
-            "classroom": "A1.08",
-            "subject": "Databases 2"
+            "string": "L1A21",
+            "classroom": "A1.06",
+            "subject": "Architectuur en computerorganisatie"
          }
       ],
-      "3": [
-         {
-            "string": "L1A0",
-            "classroom": "C0.110",
-            "subject": "Webprogrammeren en databases"
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "2": {
       "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "W0A19",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [],
       "1": [
          {
-            "string": "P0A20",
-            "classroom": "B0.201",
-            "subject": "Webprogrammeren en databases"
+            "string": "L1A38",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
          }
       ],
       "2": [
          {
-            "string": "W0A20",
+            "string": "L0A21",
             "classroom": "A1.06",
-            "subject": "Technology for games"
+            "subject": "Architectuur en computerorganisatie"
          }
       ],
       "3": [
          {
-            "string": "L1A0",
-            "classroom": "B0.201",
-            "subject": "Technology for games"
-         }
-      ]
-   },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+            "string": "W0A36",
+            "classroom": "C0.110",
+            "subject": "Databases 2"
+         },
          {
-            "string": "L0A0",
-            "classroom": "A1.08",
+            "string": "W0A20",
+            "classroom": "B0.201",
             "subject": "Webprogrammeren en databases"
          }
       ]
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0A20",
+            "classroom": "A1.06",
+            "subject": "Webprogrammeren en databases"
+         }
+      ],
       "1": [
          {
-            "string": "L0A0",
-            "classroom": "A1.04",
-            "subject": "Databases 2"
+            "string": "L0A39",
+            "classroom": "A1.08",
+            "subject": "Webprogrammeren en databases"
+         },
+         {
+            "string": "L1A39",
+            "classroom": "A1.08",
+            "subject": "Webprogrammeren en databases"
          }
       ],
       "2": [],

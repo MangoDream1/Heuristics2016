@@ -3,67 +3,56 @@
       "0": [],
       "1": [
          {
-            "string": "L0A0",
-            "classroom": "A1.10",
-            "subject": "Bioinformatica"
+            "string": "L0A54",
+            "classroom": "A1.04",
+            "subject": "Lineaire Algebra"
          },
          {
-            "string": "W0C40",
-            "classroom": "C0.110",
-            "subject": "Calculus 2"
-         }
-      ],
-      "2": [
-         {
-            "string": "L1A0",
-            "classroom": "A1.08",
-            "subject": "Lineaire Algebra"
-         }
-      ],
-      "3": [
-         {
-            "string": "P0C20",
+            "string": "L1A54",
             "classroom": "B0.201",
-            "subject": "Bioinformatica"
-         }
-      ]
-   },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "string": "L1A0",
-            "classroom": "C0.110",
-            "subject": "Bioinformatica"
+            "subject": "Lineaire Algebra"
          }
       ],
       "2": [],
       "3": []
    },
-   "2": {
+   "1": {
       "0": [],
       "1": [],
       "2": [],
       "3": []
    },
-   "3": {
-      "0": [],
-      "1": [
+   "2": {
+      "0": [
          {
-            "string": "L2A0",
-            "classroom": "A1.04",
+            "string": "L2A45",
+            "classroom": "A1.08",
             "subject": "Bioinformatica"
-         },
-         {
-            "string": "L0A0",
-            "classroom": "A1.06",
-            "subject": "Calculus 2"
          }
       ],
+      "1": [],
       "2": [
          {
-            "string": "W0C20",
+            "string": "W0C15",
+            "classroom": "C0.110",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "3": [
+         {
+            "string": "L0A45",
             "classroom": "B0.201",
+            "subject": "Bioinformatica"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "L1A45",
+            "classroom": "A1.10",
             "subject": "Bioinformatica"
          }
       ],
@@ -73,12 +62,24 @@
       "0": [],
       "1": [
          {
-            "string": "L0A0",
-            "classroom": "C1.112",
-            "subject": "Lineaire Algebra"
+            "string": "P0C15",
+            "classroom": "A1.06",
+            "subject": "Bioinformatica"
          }
       ],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "string": "L0A106",
+            "classroom": "B0.201",
+            "subject": "Calculus 2"
+         }
+      ],
+      "3": [
+         {
+            "string": "W0C34",
+            "classroom": "C1.112",
+            "subject": "Calculus 2"
+         }
+      ]
    }
 }

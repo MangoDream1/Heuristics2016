@@ -1,6 +1,12 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0B8",
+            "classroom": "B0.201",
+            "subject": "Autonomous Agents 2"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -13,37 +19,32 @@
    },
    "2": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "P0B10",
-            "classroom": "B0.201",
+            "string": "L0A22",
+            "classroom": "C1.112",
             "subject": "Autonomous Agents 2"
          }
       ],
-      "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0B8",
+            "classroom": "C1.112",
+            "subject": "Autonomous Agents 2"
+         }
+      ]
    },
    "3": {
       "0": [],
       "1": [
          {
-            "string": "L0A0",
+            "string": "L1A22",
             "classroom": "A1.10",
             "subject": "Autonomous Agents 2"
-         },
-         {
-            "string": "L1A0",
-            "classroom": "A1.08",
-            "subject": "Autonomous Agents 2"
          }
       ],
-      "2": [
-         {
-            "string": "W0B10",
-            "classroom": "C0.110",
-            "subject": "Autonomous Agents 2"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {
