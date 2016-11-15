@@ -1,11 +1,6 @@
 from process_data import *
 from score_system import *
 
-# Two way dictionary for finding lectures
-lectures = [lecture for subject in subjects for lecture in subject.lectures]
-lecture_dct = {index: lecture for index, lecture in enumerate(lectures)}
-lecture_dct = dict(lecture_dct.items() | dict(reversed(item) for item in lecture_dct.items()).items())
-
 class IterationManager:
     def __init__(self, lecture_dct):
         self.iteration_dct = {}

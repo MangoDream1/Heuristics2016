@@ -81,6 +81,11 @@ students = [Student(x[0], x[1], x[2], x[3], x[4], x[5], x[6], x[7], subject_dct)
             for x in students]
 student_dct = {x.studentId: x for x in students}
 
+# Two way dictionary for finding lectures
+lectures = [lecture for subject in subjects for lecture in subject.lectures]
+lecture_dct = {index: lecture for index, lecture in enumerate(lectures)}
+lecture_dct = dict(lecture_dct.items() | dict(reversed(item) for item in lecture_dct.items()).items())
+
 # Assign students to lectures
 for x in subjects:
     x.assignStudentsToLectures()
