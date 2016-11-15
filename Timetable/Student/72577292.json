@@ -1,81 +1,65 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "string": "W0A20",
-            "subject": "Webprogrammeren en databases",
-            "classroom": "A1.08"
+            "classroom": "A1.08",
+            "string": "L0A20",
+            "subject": "Advanced Heuristics"
          }
       ],
-      "1": [
-         {
-            "string": "P0B16",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.06"
-         }
-      ],
-      "2": [],
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.06",
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "1": [
          {
-            "string": "L1A21",
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "A1.10"
-         },
-         {
-            "string": "L1A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "C0.110"
-         },
-         {
-            "string": "L1A39",
-            "subject": "Webprogrammeren en databases",
-            "classroom": "A1.08"
+            "classroom": "C1.112",
+            "string": "L0A21",
+            "subject": "Architectuur en computerorganisatie"
          }
       ],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "string": "W0B16",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "string": "L0A20",
-            "subject": "Advanced Heuristics",
-            "classroom": "A1.06"
+            "classroom": "A1.10",
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "2": [
-         {
-            "string": "L2A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.04"
-         }
-      ],
+      "2": [],
       "3": [
          {
-            "string": "L0A21",
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "C1.112"
+            "classroom": "A1.08",
+            "string": "L0A39",
+            "subject": "Webprogrammeren en databases"
          }
       ]
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.04",
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "1": [
          {
-            "string": "P0A20",
-            "subject": "Webprogrammeren en databases",
-            "classroom": "C0.110"
+            "classroom": "A1.06",
+            "string": "L1A21",
+            "subject": "Architectuur en computerorganisatie"
          }
       ],
       "2": [],
@@ -85,23 +69,12 @@
       "0": [],
       "1": [
          {
-            "string": "P0B10",
-            "subject": "Advanced Heuristics",
-            "classroom": "C0.110"
+            "classroom": "A1.08",
+            "string": "L1A39",
+            "subject": "Webprogrammeren en databases"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "string": "L0A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "C0.110"
-         },
-         {
-            "string": "L0A39",
-            "subject": "Webprogrammeren en databases",
-            "classroom": "A1.10"
-         }
-      ]
+      "3": []
    }
 }

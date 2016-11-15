@@ -1,12 +1,6 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "P0C12",
-            "subject": "Compilerbouw (practicum)",
-            "classroom": "A1.10"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -14,13 +8,7 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "P0B14",
-            "subject": "Compilerbouw (practicum)",
-            "classroom": "C0.110"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
@@ -28,9 +16,9 @@
       "1": [],
       "2": [
          {
-            "string": "P0A14",
-            "subject": "Compilerbouw (practicum)",
-            "classroom": "C1.112"
+            "classroom": "B0.201",
+            "string": "P0A0",
+            "subject": "Compilerbouw (practicum)"
          }
       ],
       "3": []

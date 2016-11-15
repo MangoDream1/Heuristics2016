@@ -1,37 +1,13 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "W0A20",
-            "subject": "Webprogrammeren en databases",
-            "classroom": "A1.08"
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L1A38",
-            "subject": "Technology for games",
-            "classroom": "A1.04"
-         }
-      ],
-      "3": [
-         {
-            "string": "W0A19",
-            "subject": "Technology for games",
-            "classroom": "B0.201"
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "string": "L1A39",
-            "subject": "Webprogrammeren en databases",
-            "classroom": "A1.08"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -39,36 +15,42 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.08",
+            "string": "L0A39",
+            "subject": "Webprogrammeren en databases"
+         }
+      ]
    },
    "3": {
       "0": [],
       "1": [
          {
-            "string": "P0A20",
-            "subject": "Webprogrammeren en databases",
-            "classroom": "C0.110"
+            "classroom": "B0.201",
+            "string": "L0A38",
+            "subject": "Technology for games"
          }
       ],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "L0A38",
-            "subject": "Technology for games",
-            "classroom": "A1.10"
+            "classroom": "A1.04",
+            "string": "L1A38",
+            "subject": "Technology for games"
          }
-      ]
+      ],
+      "3": []
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "string": "L0A39",
-            "subject": "Webprogrammeren en databases",
-            "classroom": "A1.10"
+            "classroom": "A1.08",
+            "string": "L1A39",
+            "subject": "Webprogrammeren en databases"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    }
 }

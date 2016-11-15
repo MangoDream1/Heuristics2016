@@ -2,14 +2,9 @@
    "0": {
       "0": [
          {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.10"
-         },
-         {
-            "string": "P0A35",
-            "subject": "Compilerbouw",
-            "classroom": "C0.110"
+            "classroom": "A1.10",
+            "string": "L1A69",
+            "subject": "Compilerbouw"
          }
       ],
       "1": [],
@@ -19,23 +14,11 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "W0A35",
-            "subject": "Compilerbouw",
-            "classroom": "C1.112"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "string": "W0A18",
-            "subject": "Moderne Databases",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -44,35 +27,23 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "P0A18",
-            "subject": "Moderne Databases",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "string": "P0B15",
-            "subject": "Project Numerical Recipes",
-            "classroom": "A1.04"
-         }
-      ],
-      "1": [
-         {
+            "classroom": "A1.06",
             "string": "L0A54",
-            "subject": "Moderne Databases",
-            "classroom": "A1.06"
+            "subject": "Moderne Databases"
          }
       ],
-      "2": [],
       "3": [
          {
-            "string": "L1A69",
-            "subject": "Compilerbouw",
-            "classroom": "C0.110"
+            "classroom": "A1.10",
+            "string": "L0A69",
+            "subject": "Compilerbouw"
          }
       ]
    }

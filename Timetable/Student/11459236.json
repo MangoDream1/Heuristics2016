@@ -1,44 +1,32 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.08",
+            "string": "L0A21",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "string": "W0A11",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "string": "P0A11",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.10"
-         }
-      ]
-   },
-   "2": {
-      "0": [
-         {
-            "string": "L1A21",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.08"
-         }
-      ],
       "1": [],
       "2": [
          {
-            "string": "P0A14",
-            "subject": "Compilerbouw (practicum)",
-            "classroom": "C1.112"
+            "classroom": "A1.04",
+            "string": "L1A21",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
       "3": []
    },
    "3": {
@@ -51,12 +39,6 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A21",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.10"
-         }
-      ]
+      "3": []
    }
 }

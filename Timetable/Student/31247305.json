@@ -2,7 +2,13 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.10",
+            "string": "L0A75",
+            "subject": "Software engineering"
+         }
+      ],
       "3": []
    },
    "1": {
@@ -14,54 +20,30 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "W0B37",
-            "subject": "Software engineering",
-            "classroom": "A1.10"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "string": "L0A84",
-            "subject": "Kansrekenen 2",
-            "classroom": "C1.112"
-         },
-         {
-            "string": "L0A75",
-            "subject": "Software engineering",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "P0C16",
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "A1.10"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
+            "classroom": "A1.06",
+            "string": "L0A84",
+            "subject": "Kansrekenen 2"
+         },
+         {
+            "classroom": "A1.04",
             "string": "L1A84",
-            "subject": "Kansrekenen 2",
-            "classroom": "B0.201"
+            "subject": "Kansrekenen 2"
          }
       ],
-      "1": [
-         {
-            "string": "P0B37",
-            "subject": "Software engineering",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [],
       "3": []
    }
 }

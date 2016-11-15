@@ -7,38 +7,32 @@
    },
    "1": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "L0A25",
-            "subject": "Interactie-ontwerp",
-            "classroom": "C1.112"
+            "classroom": "C0.110",
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp"
          }
       ],
-      "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "P0B16",
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "A1.10"
+            "classroom": "C0.110",
+            "string": "L0A25",
+            "subject": "Interactie-ontwerp"
          }
-      ]
+      ],
+      "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L1A25",
-            "subject": "Interactie-ontwerp",
-            "classroom": "C1.112"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {

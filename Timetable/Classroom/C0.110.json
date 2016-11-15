@@ -2,19 +2,60 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "P0A0",
+            "subject": "Programmeren in Java 2"
+         }
+      ],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [],
+      "0": [
+         {
+            "classroom": "C0.110",
+            "string": "P0A0",
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "classroom": "C0.110",
+            "string": "P0A0",
+            "subject": "Software engineering"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "C0.110",
+            "string": "L0A22",
+            "subject": "Machine Learning"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp"
+         }
+      ],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "classroom": "C0.110",
+            "string": "W0A0",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "L0A25",
+            "subject": "Interactie-ontwerp"
+         }
+      ],
       "3": []
    },
    "3": {
@@ -26,7 +67,13 @@
    "4": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "L1A22",
+            "subject": "Autonomous Agents 2"
+         }
+      ],
       "3": []
    }
 }

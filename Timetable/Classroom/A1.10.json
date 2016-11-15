@@ -1,19 +1,54 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.10",
+            "string": "L1A69",
+            "subject": "Compilerbouw"
+         },
+         {
+            "classroom": "A1.10",
+            "string": "W0A0",
+            "subject": "Software engineering"
+         }
+      ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.10",
+            "string": "L0A75",
+            "subject": "Software engineering"
+         }
+      ],
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.10",
+            "string": "L0A54",
+            "subject": "Lineaire Algebra"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.10",
+            "string": "W0A0",
+            "subject": "Technology for games"
+         }
+      ]
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -21,12 +56,46 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.10",
+            "string": "W0A0",
+            "subject": "Calculus 2"
+         },
+         {
+            "classroom": "A1.10",
+            "string": "W0A0",
+            "subject": "Heuristieken 2"
+         }
+      ]
    },
    "4": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "classroom": "A1.10",
+            "string": "W0A0",
+            "subject": "Webprogrammeren en databases"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "string": "P0A0",
+            "subject": "Moderne Databases"
+         },
+         {
+            "classroom": "A1.10",
+            "string": "P0A0",
+            "subject": "Zoeken, sturen en bewegen"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.10",
+            "string": "L0A69",
+            "subject": "Compilerbouw"
+         }
+      ]
    }
 }

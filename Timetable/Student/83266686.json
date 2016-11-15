@@ -2,9 +2,9 @@
    "0": {
       "0": [
          {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.10"
+            "classroom": "A1.10",
+            "string": "L1A69",
+            "subject": "Compilerbouw"
          }
       ],
       "1": [],
@@ -15,9 +15,9 @@
       "0": [],
       "1": [
          {
-            "string": "L1A21",
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "A1.10"
+            "classroom": "C1.112",
+            "string": "L0A21",
+            "subject": "Architectuur en computerorganisatie"
          }
       ],
       "2": [],
@@ -25,71 +25,42 @@
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A106",
-            "subject": "Calculus 2",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [
-         {
-            "string": "W0B18",
-            "subject": "Moderne Databases",
-            "classroom": "C0.110"
-         }
-      ],
-      "3": [
-         {
-            "string": "L0A21",
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "C1.112"
-         }
-      ]
+      "1": [],
+      "2": [],
+      "3": []
    },
    "3": {
       "0": [],
       "1": [
          {
-            "string": "W0C34",
-            "subject": "Calculus 2",
-            "classroom": "B0.201"
+            "classroom": "A1.06",
+            "string": "L1A21",
+            "subject": "Architectuur en computerorganisatie"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "string": "W0B34",
-            "subject": "Compilerbouw",
-            "classroom": "B0.201"
-         },
-         {
-            "string": "P0B34",
-            "subject": "Compilerbouw",
-            "classroom": "C0.110"
-         },
-         {
-            "string": "P0B18",
-            "subject": "Moderne Databases",
-            "classroom": "A1.04"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
+            "classroom": "A1.06",
             "string": "L0A54",
-            "subject": "Moderne Databases",
-            "classroom": "A1.06"
+            "subject": "Moderne Databases"
          }
       ],
-      "2": [],
       "3": [
          {
-            "string": "L1A69",
-            "subject": "Compilerbouw",
-            "classroom": "C0.110"
+            "classroom": "C1.112",
+            "string": "L0A106",
+            "subject": "Calculus 2"
+         },
+         {
+            "classroom": "A1.10",
+            "string": "L0A69",
+            "subject": "Compilerbouw"
          }
       ]
    }

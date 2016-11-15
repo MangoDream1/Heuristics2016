@@ -2,60 +2,33 @@
    "0": {
       "0": [
          {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.10"
-         },
-         {
-            "string": "P0A35",
-            "subject": "Compilerbouw",
-            "classroom": "C0.110"
+            "classroom": "A1.10",
+            "string": "L1A69",
+            "subject": "Compilerbouw"
          }
       ],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "L1A22",
-            "subject": "Autonomous Agents 2",
-            "classroom": "A1.06"
-         },
-         {
-            "string": "P0A38",
-            "subject": "Software engineering",
-            "classroom": "C0.110"
+            "classroom": "A1.10",
+            "string": "L0A75",
+            "subject": "Software engineering"
          }
-      ]
+      ],
+      "3": []
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "string": "W0A38",
-            "subject": "Software engineering",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A22",
-            "subject": "Autonomous Agents 2",
-            "classroom": "A1.10"
-         },
-         {
-            "string": "W0A35",
-            "subject": "Compilerbouw",
-            "classroom": "C1.112"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [
          {
-            "string": "W0A8",
-            "subject": "Autonomous Agents 2",
-            "classroom": "B0.201"
+            "classroom": "C1.112",
+            "string": "L0A22",
+            "subject": "Autonomous Agents 2"
          }
       ],
       "1": [],
@@ -63,43 +36,36 @@
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "string": "L0A84",
-            "subject": "Kansrekenen 2",
-            "classroom": "C1.112"
-         },
-         {
-            "string": "L0A75",
-            "subject": "Software engineering",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "P0A8",
-            "subject": "Autonomous Agents 2",
-            "classroom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
+            "classroom": "C0.110",
+            "string": "L1A22",
+            "subject": "Autonomous Agents 2"
+         },
+         {
+            "classroom": "A1.06",
+            "string": "L0A84",
+            "subject": "Kansrekenen 2"
+         },
+         {
+            "classroom": "A1.04",
             "string": "L1A84",
-            "subject": "Kansrekenen 2",
-            "classroom": "B0.201"
+            "subject": "Kansrekenen 2"
          }
       ],
-      "1": [],
-      "2": [],
       "3": [
          {
-            "string": "L1A69",
-            "subject": "Compilerbouw",
-            "classroom": "C0.110"
+            "classroom": "A1.10",
+            "string": "L0A69",
+            "subject": "Compilerbouw"
          }
       ]
    }

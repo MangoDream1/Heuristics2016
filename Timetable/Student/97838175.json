@@ -15,13 +15,7 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "P0B14",
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "A1.04"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],
@@ -32,13 +26,13 @@
    "4": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
+            "classroom": "A1.04",
             "string": "L0A49",
-            "subject": "Analysemethoden en -technieken",
-            "classroom": "C1.112"
+            "subject": "Analysemethoden en -technieken"
          }
-      ],
-      "3": []
+      ]
    }
 }

@@ -19,32 +19,26 @@
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A72",
-            "subject": "Databases 2",
-            "classroom": "A1.06"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "string": "W0B36",
-            "subject": "Databases 2",
-            "classroom": "A1.04"
+            "classroom": "B0.201",
+            "string": "L0A72",
+            "subject": "Databases 2"
          }
       ],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "string": "W0A36",
-            "subject": "Databases 2",
-            "classroom": "A1.10"
+            "classroom": "B0.201",
+            "string": "W0A0",
+            "subject": "Databases 2"
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    }
 }

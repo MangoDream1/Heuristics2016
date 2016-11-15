@@ -15,36 +15,24 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "P0C12",
-            "subject": "Project Genetic Algorithms",
-            "classroom": "B0.201"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
+            "classroom": "B0.201",
             "string": "L0A72",
-            "subject": "Databases 2",
-            "classroom": "A1.06"
+            "subject": "Databases 2"
          }
       ],
-      "2": [],
       "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "W0A36",
-            "subject": "Databases 2",
-            "classroom": "A1.10"
-         }
-      ],
+      "2": [],
       "3": []
    }
 }

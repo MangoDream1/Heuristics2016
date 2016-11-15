@@ -6,10 +6,28 @@
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "classroom": "A1.06",
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "string": "P0A0",
+            "subject": "Project Numerical Recipes"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.06",
+            "string": "P0A0",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ]
    },
    "2": {
       "0": [],
@@ -18,15 +36,82 @@
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
+      "0": [
+         {
+            "classroom": "A1.06",
+            "string": "P0A0",
+            "subject": "Compilerbouw"
+         },
+         {
+            "classroom": "A1.06",
+            "string": "P0A0",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "string": "L1A21",
+            "subject": "Architectuur en computerorganisatie"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "A1.06",
+            "string": "P0A0",
+            "subject": "Data Mining"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "A1.06",
+            "string": "L0A27",
+            "subject": "Data Mining"
+         },
+         {
+            "classroom": "A1.06",
+            "string": "W0A0",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ]
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [],
+      "0": [
+         {
+            "classroom": "A1.06",
+            "string": "W0A0",
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "classroom": "A1.06",
+            "string": "L1A51",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "string": "W0A0",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "A1.06",
+            "string": "L2A45",
+            "subject": "Bioinformatica"
+         },
+         {
+            "classroom": "A1.06",
+            "string": "L0A84",
+            "subject": "Kansrekenen 2"
+         },
+         {
+            "classroom": "A1.06",
+            "string": "L0A54",
+            "subject": "Moderne Databases"
+         }
+      ],
       "3": []
    }
 }

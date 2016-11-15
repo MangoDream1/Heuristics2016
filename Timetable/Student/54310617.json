@@ -1,52 +1,40 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "P0B16",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.06"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "L1A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "C0.110"
+            "classroom": "A1.06",
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "W0B16",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.06"
+            "classroom": "A1.10",
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "1": [],
-      "2": [
-         {
-            "string": "L2A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.04"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
       "0": [
          {
-            "string": "L0A84",
-            "subject": "Kansrekenen 2",
-            "classroom": "C1.112"
+            "classroom": "A1.04",
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "1": [],
@@ -54,21 +42,20 @@
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
+            "classroom": "A1.06",
+            "string": "L0A84",
+            "subject": "Kansrekenen 2"
+         },
+         {
+            "classroom": "A1.04",
             "string": "L1A84",
-            "subject": "Kansrekenen 2",
-            "classroom": "B0.201"
+            "subject": "Kansrekenen 2"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "L0A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "C0.110"
-         }
-      ]
+      "3": []
    }
 }

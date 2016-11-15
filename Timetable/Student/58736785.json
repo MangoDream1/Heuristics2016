@@ -8,9 +8,9 @@
    "1": {
       "0": [
          {
-            "string": "W0B16",
-            "subject": "Heuristieken 2",
-            "classroom": "C1.112"
+            "classroom": "B0.201",
+            "string": "L0A44",
+            "subject": "Heuristieken 1"
          }
       ],
       "1": [],
@@ -21,30 +21,18 @@
       "0": [],
       "1": [
          {
-            "string": "L0A44",
-            "subject": "Heuristieken 1",
-            "classroom": "C1.112"
+            "classroom": "A1.08",
+            "string": "L0A32",
+            "subject": "Heuristieken 2"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "string": "L0A32",
-            "subject": "Heuristieken 2",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "W0B22",
-            "subject": "Heuristieken 1",
-            "classroom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {

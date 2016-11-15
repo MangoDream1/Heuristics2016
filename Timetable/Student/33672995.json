@@ -13,38 +13,31 @@
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A106",
-            "subject": "Calculus 2",
-            "classroom": "B0.201"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "string": "W0C34",
-            "subject": "Calculus 2",
-            "classroom": "B0.201"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
+            "classroom": "A1.04",
             "string": "L0A49",
-            "subject": "Analysemethoden en -technieken",
-            "classroom": "C1.112"
+            "subject": "Analysemethoden en -technieken"
+         },
+         {
+            "classroom": "C1.112",
+            "string": "L0A106",
+            "subject": "Calculus 2"
          }
-      ],
-      "3": []
+      ]
    }
 }

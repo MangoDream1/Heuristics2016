@@ -1,7 +1,13 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.08",
+            "string": "L0A21",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -9,46 +15,35 @@
       "0": [],
       "1": [
          {
-            "string": "L1A21",
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "A1.10"
-         },
-         {
-            "string": "W0A11",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.04"
+            "classroom": "C1.112",
+            "string": "L0A21",
+            "subject": "Architectuur en computerorganisatie"
          }
       ],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "P0A11",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.10"
+            "classroom": "A1.04",
+            "string": "L1A21",
+            "subject": "Informatie- en organisatieontwerp"
          }
-      ]
+      ],
+      "3": []
    },
    "2": {
-      "0": [
-         {
-            "string": "L1A21",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.08"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A21",
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "string": "L1A21",
+            "subject": "Architectuur en computerorganisatie"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -56,12 +51,6 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A21",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.10"
-         }
-      ]
+      "3": []
    }
 }

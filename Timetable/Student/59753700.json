@@ -10,71 +10,46 @@
       "1": [],
       "2": [
          {
-            "string": "L0A27",
-            "subject": "Data Mining",
-            "classroom": "C1.112"
+            "classroom": "A1.04",
+            "string": "L1A27",
+            "subject": "Data Mining"
          }
       ],
-      "3": [
-         {
-            "string": "P0C14",
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    },
    "2": {
-      "0": [
-         {
-            "string": "W0C17",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [
-         {
-            "string": "W0C9",
-            "subject": "Data Mining",
-            "classroom": "B0.201"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    },
    "3": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "classroom": "A1.06",
+            "string": "L0A27",
+            "subject": "Data Mining"
+         }
+      ]
+   },
+   "4": {
       "0": [
          {
+            "classroom": "C1.112",
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur"
+         },
+         {
+            "classroom": "A1.06",
             "string": "L1A51",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.04"
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
       "1": [],
       "2": [],
       "3": []
-   },
-   "4": {
-      "0": [
-         {
-            "string": "P0C9",
-            "subject": "Data Mining",
-            "classroom": "A1.06"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "string": "L1A27",
-            "subject": "Data Mining",
-            "classroom": "B0.201"
-         }
-      ],
-      "3": [
-         {
-            "string": "L0A51",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.10"
-         }
-      ]
    }
 }

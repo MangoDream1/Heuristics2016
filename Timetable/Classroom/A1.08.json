@@ -1,31 +1,96 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": []
+      "1": [
+         {
+            "classroom": "A1.08",
+            "string": "L0A45",
+            "subject": "Bioinformatica"
+         },
+         {
+            "classroom": "A1.08",
+            "string": "L0A21",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "A1.08",
+            "string": "L0A20",
+            "subject": "Advanced Heuristics"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "A1.08",
+            "string": "W0A0",
+            "subject": "Algoritmen en complexiteit"
+         }
+      ]
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.08",
+            "string": "L1A45",
+            "subject": "Bioinformatica"
+         }
+      ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.08",
+            "string": "L1A54",
+            "subject": "Lineaire Algebra"
+         }
+      ],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.08",
+            "string": "L0A32",
+            "subject": "Heuristieken 2"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.08",
+            "string": "L0A39",
+            "subject": "Webprogrammeren en databases"
+         }
+      ]
    },
    "3": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.08",
+            "string": "P0A0",
+            "subject": "Project Genetic Algorithms"
+         }
+      ]
    },
    "4": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "classroom": "A1.08",
+            "string": "P0A0",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "A1.08",
+            "string": "L1A39",
+            "subject": "Webprogrammeren en databases"
+         }
+      ],
       "2": [],
       "3": []
    }

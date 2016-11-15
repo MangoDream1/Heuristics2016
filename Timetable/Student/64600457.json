@@ -1,95 +1,61 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.08",
+            "string": "L0A45",
+            "subject": "Bioinformatica"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.08",
+            "string": "L1A45",
+            "subject": "Bioinformatica"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "string": "L1A45",
-            "subject": "Bioinformatica",
-            "classroom": "A1.06"
-         }
-      ],
-      "1": [
-         {
-            "string": "L0A106",
-            "subject": "Calculus 2",
-            "classroom": "B0.201"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "P0C18",
-            "subject": "Moderne Databases",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    },
    "3": {
-      "0": [
-         {
-            "string": "P0C15",
-            "subject": "Bioinformatica",
-            "classroom": "A1.04"
-         },
-         {
-            "string": "P0E19",
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.04"
-         }
-      ],
-      "1": [
-         {
-            "string": "L0A45",
-            "subject": "Bioinformatica",
-            "classroom": "C0.110"
-         },
-         {
-            "string": "W0C34",
-            "subject": "Calculus 2",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [
-         {
-            "string": "L2A45",
-            "subject": "Bioinformatica",
-            "classroom": "A1.10"
-         }
-      ],
+      "0": [],
+      "1": [],
+      "2": [],
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "string": "W0C15",
-            "subject": "Bioinformatica",
-            "classroom": "A1.06"
-         }
-      ],
-      "1": [
-         {
-            "string": "L0A54",
-            "subject": "Moderne Databases",
-            "classroom": "A1.06"
+            "classroom": "A1.06",
+            "string": "L2A45",
+            "subject": "Bioinformatica"
          },
          {
-            "string": "W0C18",
-            "subject": "Moderne Databases",
-            "classroom": "A1.06"
+            "classroom": "A1.06",
+            "string": "L0A54",
+            "subject": "Moderne Databases"
          }
       ],
-      "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "C1.112",
+            "string": "L0A106",
+            "subject": "Calculus 2"
+         }
+      ]
    }
 }

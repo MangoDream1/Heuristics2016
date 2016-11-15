@@ -7,55 +7,38 @@
    },
    "1": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "L0A25",
-            "subject": "Interactie-ontwerp",
-            "classroom": "C1.112"
+            "classroom": "C0.110",
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp"
          }
       ],
-      "2": [],
       "3": [
          {
-            "string": "P0C14",
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "C1.112"
+            "classroom": "B0.201",
+            "string": "L0A43",
+            "subject": "Algoritmen en complexiteit"
          }
       ]
    },
    "2": {
-      "0": [
-         {
-            "string": "W0B21",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.04"
-         },
-         {
-            "string": "P0B21",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "C0.110"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "L0A43",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "C0.110"
-         }
-      ]
-   },
-   "3": {
       "0": [],
       "1": [],
       "2": [
          {
-            "string": "L1A25",
-            "subject": "Interactie-ontwerp",
-            "classroom": "C1.112"
+            "classroom": "C0.110",
+            "string": "L0A25",
+            "subject": "Interactie-ontwerp"
          }
       ],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
       "3": []
    },
    "4": {

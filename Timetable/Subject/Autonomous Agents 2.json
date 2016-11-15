@@ -1,46 +1,22 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "P0C6",
-            "subject": "Autonomous Agents 2",
-            "classroom": "C1.112"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L1A22",
-            "subject": "Autonomous Agents 2",
-            "classroom": "A1.06"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L0A22",
-            "subject": "Autonomous Agents 2",
-            "classroom": "A1.10"
-         }
-      ],
-      "3": [
-         {
-            "string": "W0B8",
-            "subject": "Autonomous Agents 2",
-            "classroom": "A1.08"
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "2": {
       "0": [
          {
-            "string": "W0A8",
-            "subject": "Autonomous Agents 2",
-            "classroom": "B0.201"
+            "classroom": "C1.112",
+            "string": "L0A22",
+            "subject": "Autonomous Agents 2"
          }
       ],
       "1": [],
@@ -50,30 +26,30 @@
    "3": {
       "0": [
          {
-            "string": "W0C6",
-            "subject": "Autonomous Agents 2",
-            "classroom": "A1.10"
-         },
-         {
-            "string": "P0B8",
-            "subject": "Autonomous Agents 2",
-            "classroom": "C0.110"
+            "classroom": "A1.04",
+            "string": "W0A0",
+            "subject": "Autonomous Agents 2"
          }
       ],
       "1": [],
-      "2": [
-         {
-            "string": "P0A8",
-            "subject": "Autonomous Agents 2",
-            "classroom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "L1A22",
+            "subject": "Autonomous Agents 2"
+         },
+         {
+            "classroom": "A1.04",
+            "string": "P0A0",
+            "subject": "Autonomous Agents 2"
+         }
+      ],
       "3": []
    }
 }

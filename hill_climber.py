@@ -63,7 +63,7 @@ def simple_hill_climber(classroomWeigth, timeslotWeigth, dayWeigth, lecture_dct)
     best_iteration = max([(i, im.iteration_dct[i]["score"]) for i in im.iteration_dct.keys()], key=itemgetter(1))
     print("Best iteration: %s, Score: %s" % (best_iteration[0], best_iteration[1]))
 
-    lecture_dct = im.applyChanges(im.compileChanges(best_iteration[0]))
+    im.lecture_dct = im.applyChanges(im.compileChanges(best_iteration[0]))
 
     for x in subjects + students + classrooms:
         x.exportTimetable()
