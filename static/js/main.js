@@ -87,4 +87,16 @@ var getUrlParameter = function getUrlParameter(sParam) {
     }
 };
 
+$("#classrooms").change(function() {
+	window.location = "?id=" + $(this).find("option:selected").attr('value')
+});
+
+$("#subjects").change(function() {
+	window.location = "?id=" + $(this).find("option:selected").attr('value')
+});
+
+$("#students").change(function() {
+	window.location = "?id=" + $(this).find("option:selected").attr('value')
+});
+
 getJson();

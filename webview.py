@@ -15,7 +15,10 @@ def main():
 
     _object = findObject(_id)
 
-    return render_template("index.html", object=_object)
+    available_items = {"classrooms": classrooms, "students": students, "subjects": subjects}
+
+
+    return render_template("index.html", object=_object, available_items=available_items)
 
 @app.route("/json", methods=["GET"])
 def json():

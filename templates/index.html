@@ -6,6 +6,31 @@
 		<link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/style.css') }}">
 	</head>
 	<body>
+		<!-- Classroom -->
+		<select id="classrooms">
+			<option value="">-</option>
+			{% for x in available_items["classrooms"] %}
+				<option value="{{ x.__str__() }}">{{ x.__str__() }}</option>
+			{% endfor %}
+		</select>
+
+		<!-- Subject -->
+		<select id="subjects">
+			<option value="">-</option>
+			{% for x in available_items["subjects"] %}
+				<option value="{{ x.__str__()|replace(" ", "+") }}">{{ x.__str__() }}</option>
+			{% endfor %}
+		</select>
+
+		<!-- Student -->
+		<select id="students">
+			<option value="">-</option>
+			{% for x in available_items["students"] %}
+				<option value="{{ x.studentId }}">{{ x.__str__() }}</option>
+			{% endfor %}
+		</select>
+
+
 
 		{% if object %}
 			<h1>Timetable for {{ object.__str__() }}</h1>
@@ -77,8 +102,6 @@
 		{% endif %}
 
 		</div>
-
-
 
 	</body>
 
