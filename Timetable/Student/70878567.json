@@ -1,106 +1,107 @@
 {
    "0": {
-      "0": [
-         {
-            "subject": "Data Mining",
-            "classroom": "A1.06",
-            "string": "P0C10"
-         },
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.04",
-            "string": "L0A0"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "1": {
       "0": [],
       "1": [
          {
-            "subject": "Data Mining",
-            "classroom": "A1.04",
-            "string": "L0A0"
+            "string": "L0A0",
+            "classroom": "A1.10",
+            "subject": "Bioinformatica"
          },
          {
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.04",
-            "string": "L1A0"
+            "string": "L0A0",
+            "classroom": "C0.110",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ],
       "2": [
          {
-            "subject": "Bioinformatica",
+            "string": "P0C10",
             "classroom": "C1.112",
-            "string": "L0A0"
+            "subject": "Data Mining"
+         }
+      ],
+      "3": [
+         {
+            "string": "P0C20",
+            "classroom": "B0.201",
+            "subject": "Bioinformatica"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "string": "L1A0",
+            "classroom": "C1.112",
+            "subject": "Data Mining"
+         }
+      ],
+      "1": [
+         {
+            "string": "L1A0",
+            "classroom": "C0.110",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "2": [
+         {
+            "string": "L0A0",
+            "classroom": "A1.06",
+            "subject": "Data Mining"
          }
       ],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "C0.110",
-            "string": "W0B15"
+            "string": "W0C10",
+            "classroom": "B0.201",
+            "subject": "Data Mining"
          }
       ],
-      "2": [
-         {
-            "subject": "Bioinformatica",
-            "classroom": "A1.08",
-            "string": "P0C20"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Bioinformatica",
-            "classroom": "A1.04",
-            "string": "W0C20"
-         }
-      ]
-   },
-   "3": {
-      "0": [],
       "1": [],
       "2": [
          {
-            "subject": "Data Mining",
+            "string": "W0B15",
+            "classroom": "A1.06",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "string": "L2A0",
+            "classroom": "A1.04",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "2": [
+         {
+            "string": "W0C20",
+            "classroom": "B0.201",
+            "subject": "Bioinformatica"
+         },
+         {
+            "string": "P0B15",
             "classroom": "A1.10",
-            "string": "W0C10"
+            "subject": "Informatie- en organisatieontwerp"
          }
       ],
       "3": [
          {
-            "subject": "Bioinformatica",
-            "classroom": "B0.201",
-            "string": "L1A0"
+            "string": "L1A0",
+            "classroom": "A1.04",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ]
    },
    "4": {
-      "0": [
-         {
-            "subject": "Data Mining",
-            "classroom": "C1.112",
-            "string": "L1A0"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Bioinformatica",
-            "classroom": "C1.112",
-            "string": "L2A0"
-         },
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.10",
-            "string": "P0B15"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    }

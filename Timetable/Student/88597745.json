@@ -6,26 +6,26 @@
       "3": []
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "A1.06",
-            "string": "P0A15"
+            "string": "P0A15",
+            "classroom": "A1.08",
+            "subject": "Zoeken, sturen en bewegen"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Programmeren in Java 2",
-            "classroom": "C1.112",
-            "string": "P0B20"
+            "string": "P0B20",
+            "classroom": "A1.06",
+            "subject": "Programmeren in Java 2"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },

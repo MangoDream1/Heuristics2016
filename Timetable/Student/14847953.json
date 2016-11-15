@@ -3,9 +3,9 @@
       "0": [],
       "1": [
          {
-            "subject": "Interactie-ontwerp",
+            "string": "L0A0",
             "classroom": "B0.201",
-            "string": "L1A0"
+            "subject": "Advanced Heuristics"
          }
       ],
       "2": [],
@@ -14,42 +14,36 @@
    "1": {
       "0": [
          {
-            "subject": "Webprogrammeren en databases",
-            "classroom": "A1.08",
-            "string": "W0B20"
+            "string": "P0B20",
+            "classroom": "C1.112",
+            "subject": "Webprogrammeren en databases"
          }
       ],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "subject": "Webprogrammeren en databases",
-            "classroom": "A1.04",
-            "string": "L1A0"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "subject": "Interactie-ontwerp",
+            "string": "L1A0",
             "classroom": "A1.06",
-            "string": "L0A0"
+            "subject": "Interactie-ontwerp"
          },
          {
-            "subject": "Webprogrammeren en databases",
-            "classroom": "A1.08",
-            "string": "P0B20"
+            "string": "L1A0",
+            "classroom": "C0.110",
+            "subject": "Webprogrammeren en databases"
          }
-      ],
-      "1": [
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "subject": "Webprogrammeren en databases",
-            "classroom": "A1.04",
-            "string": "L0A0"
+            "string": "W0B20",
+            "classroom": "B0.201",
+            "subject": "Webprogrammeren en databases"
          }
       ],
-      "2": [],
       "3": []
    },
    "3": {
@@ -57,16 +51,21 @@
       "1": [],
       "2": [
          {
-            "subject": "Advanced Heuristics",
-            "classroom": "A1.08",
-            "string": "L0A0"
+            "string": "L0A0",
+            "classroom": "C0.110",
+            "subject": "Interactie-ontwerp"
          }
       ],
       "3": [
          {
-            "subject": "Advanced Heuristics",
-            "classroom": "A1.10",
-            "string": "P0B10"
+            "string": "P0B10",
+            "classroom": "A1.08",
+            "subject": "Advanced Heuristics"
+         },
+         {
+            "string": "L0A0",
+            "classroom": "A1.08",
+            "subject": "Webprogrammeren en databases"
          }
       ]
    },

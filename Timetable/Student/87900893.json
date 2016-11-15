@@ -1,32 +1,36 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "subject": "Calculus 2",
-            "classroom": "A1.04",
-            "string": "W0A40"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "1": {
       "0": [
          {
-            "subject": "Data Mining",
-            "classroom": "A1.08",
-            "string": "W0B10"
-         }
-      ],
-      "1": [
+            "string": "L1A0",
+            "classroom": "C1.112",
+            "subject": "Data Mining"
+         },
          {
-            "subject": "Data Mining",
-            "classroom": "A1.04",
-            "string": "L0A0"
+            "string": "W0B10",
+            "classroom": "B0.201",
+            "subject": "Data Mining"
          }
       ],
-      "2": [],
+      "1": [],
+      "2": [
+         {
+            "string": "L0A0",
+            "classroom": "A1.06",
+            "subject": "Data Mining"
+         },
+         {
+            "string": "P0B10",
+            "classroom": "C1.112",
+            "subject": "Data Mining"
+         }
+      ],
       "3": []
    },
    "2": {
@@ -36,33 +40,27 @@
       "3": []
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Data Mining",
-            "classroom": "B0.201",
-            "string": "P0B10"
+            "string": "L0A0",
+            "classroom": "A1.06",
+            "subject": "Calculus 2"
          }
       ],
-      "1": [],
-      "2": [
-         {
-            "subject": "Calculus 2",
-            "classroom": "A1.04",
-            "string": "L0A0"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "subject": "Data Mining",
-            "classroom": "C1.112",
-            "string": "L1A0"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "W0A40",
+            "classroom": "B0.201",
+            "subject": "Calculus 2"
+         }
+      ]
    }
 }

@@ -19,15 +19,15 @@
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.10",
-            "string": "P0E20"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0E20",
+            "classroom": "A1.10",
+            "subject": "Programmeren in Java 2"
+         }
+      ]
    },
    "4": {
       "0": [],

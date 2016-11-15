@@ -1,20 +1,26 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "string": "L0A0",
+            "classroom": "A1.06",
+            "subject": "Architectuur en computerorganisatie"
+         }
+      ],
+      "2": [
+         {
+            "string": "L1A0",
+            "classroom": "B0.201",
+            "subject": "Architectuur en computerorganisatie"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "A1.08",
-            "string": "L0A0"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
@@ -30,13 +36,7 @@
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "A1.08",
-            "string": "L1A0"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []

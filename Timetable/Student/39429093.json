@@ -1,7 +1,13 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L0A0",
+            "classroom": "B0.201",
+            "subject": "Advanced Heuristics"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -20,18 +26,12 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Advanced Heuristics",
-            "classroom": "A1.08",
-            "string": "L0A0"
-         }
-      ],
+      "2": [],
       "3": [
          {
-            "subject": "Advanced Heuristics",
-            "classroom": "A1.10",
-            "string": "P0B10"
+            "string": "P0B10",
+            "classroom": "A1.08",
+            "subject": "Advanced Heuristics"
          }
       ]
    },

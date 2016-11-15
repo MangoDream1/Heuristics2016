@@ -7,15 +7,15 @@
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "A1.10",
-            "string": "P0B15"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0B15",
+            "classroom": "C0.110",
+            "subject": "Zoeken, sturen en bewegen"
+         }
+      ]
    },
    "2": {
       "0": [],

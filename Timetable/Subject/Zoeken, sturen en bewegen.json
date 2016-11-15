@@ -6,34 +6,28 @@
       "3": []
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "A1.06",
-            "string": "P0A15"
+            "string": "P0A15",
+            "classroom": "A1.08",
+            "subject": "Zoeken, sturen en bewegen"
          }
       ],
-      "1": [
+      "3": [
          {
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "A1.10",
-            "string": "P0B15"
+            "string": "P0B15",
+            "classroom": "C0.110",
+            "subject": "Zoeken, sturen en bewegen"
          }
-      ],
-      "2": [],
-      "3": []
+      ]
    },
    "2": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "C0.110",
-            "string": "P0C15"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],
@@ -43,7 +37,13 @@
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "P0C15",
+            "classroom": "A1.04",
+            "subject": "Zoeken, sturen en bewegen"
+         }
+      ],
       "2": [],
       "3": []
    }

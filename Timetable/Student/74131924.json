@@ -1,41 +1,58 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Autonomous Agents 2",
+            "string": "P0A20",
             "classroom": "B0.201",
-            "string": "L0A0"
+            "subject": "Bioinformatica"
          }
       ],
-      "2": [
-         {
-            "subject": "Bioinformatica",
-            "classroom": "A1.06",
-            "string": "W0A20"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [],
       "1": [
          {
-            "subject": "Data Mining",
-            "classroom": "A1.04",
-            "string": "L0A0"
+            "string": "P0A10",
+            "classroom": "B0.201",
+            "subject": "Autonomous Agents 2"
          },
          {
-            "subject": "Data Mining",
-            "classroom": "A1.06",
-            "string": "W0A10"
+            "string": "L0A0",
+            "classroom": "A1.10",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "W0A20",
+            "classroom": "A1.04",
+            "subject": "Bioinformatica"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "string": "L1A0",
+            "classroom": "C1.112",
+            "subject": "Data Mining"
+         }
+      ],
+      "1": [
+         {
+            "string": "L1A0",
+            "classroom": "C0.110",
+            "subject": "Bioinformatica"
          }
       ],
       "2": [
          {
-            "subject": "Bioinformatica",
-            "classroom": "C1.112",
-            "string": "L0A0"
+            "string": "L0A0",
+            "classroom": "A1.06",
+            "subject": "Data Mining"
+         },
+         {
+            "string": "P0A10",
+            "classroom": "A1.06",
+            "subject": "Data Mining"
          }
       ],
       "3": []
@@ -43,66 +60,47 @@
    "2": {
       "0": [
          {
-            "subject": "Data Mining",
+            "string": "W0A10",
             "classroom": "B0.201",
-            "string": "P0A10"
+            "subject": "Autonomous Agents 2"
          }
       ],
       "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Autonomous Agents 2",
-            "classroom": "B0.201",
-            "string": "P0A10"
-         },
-         {
-            "subject": "Bioinformatica",
-            "classroom": "A1.04",
-            "string": "P0A20"
-         }
-      ]
-   },
-   "3": {
-      "0": [
-         {
-            "subject": "Autonomous Agents 2",
-            "classroom": "A1.04",
-            "string": "W0A10"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Bioinformatica",
-            "classroom": "B0.201",
-            "string": "L1A0"
-         }
-      ]
-   },
-   "4": {
-      "0": [
-         {
-            "subject": "Data Mining",
-            "classroom": "C1.112",
-            "string": "L1A0"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Bioinformatica",
-            "classroom": "C1.112",
-            "string": "L2A0"
-         }
-      ],
       "2": [
          {
-            "subject": "Autonomous Agents 2",
-            "classroom": "B0.201",
-            "string": "L1A0"
+            "string": "W0A10",
+            "classroom": "A1.10",
+            "subject": "Data Mining"
          }
       ],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "string": "L0A0",
+            "classroom": "A1.10",
+            "subject": "Autonomous Agents 2"
+         },
+         {
+            "string": "L1A0",
+            "classroom": "A1.08",
+            "subject": "Autonomous Agents 2"
+         },
+         {
+            "string": "L2A0",
+            "classroom": "A1.04",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
       "3": []
    }
 }

@@ -1,13 +1,7 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "subject": "Calculus 2",
-            "classroom": "A1.04",
-            "string": "W0A40"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -25,20 +19,26 @@
    },
    "3": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Calculus 2",
-            "classroom": "A1.04",
-            "string": "L0A0"
+            "string": "L0A0",
+            "classroom": "A1.06",
+            "subject": "Calculus 2"
          }
       ],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "W0A40",
+            "classroom": "B0.201",
+            "subject": "Calculus 2"
+         }
+      ]
    }
 }

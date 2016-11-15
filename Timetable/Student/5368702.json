@@ -1,46 +1,41 @@
 {
    "0": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "subject": "Interactie-ontwerp",
-            "classroom": "B0.201",
-            "string": "L1A0"
+            "string": "P0A40",
+            "classroom": "A1.06",
+            "subject": "Compilerbouw"
          }
       ],
-      "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Compilerbouw",
-            "classroom": "C0.110",
-            "string": "W0A40"
-         },
-         {
-            "subject": "Kansrekenen 2",
-            "classroom": "A1.04",
-            "string": "L0A0"
+            "string": "L1A0",
+            "classroom": "A1.08",
+            "subject": "Compilerbouw"
          }
       ],
-      "3": []
+      "2": [],
+      "3": [
+         {
+            "string": "L1A0",
+            "classroom": "A1.06",
+            "subject": "Interactie-ontwerp"
+         },
+         {
+            "string": "L0A0",
+            "classroom": "C0.110",
+            "subject": "Kansrekenen 2"
+         }
+      ]
    },
    "2": {
-      "0": [
-         {
-            "subject": "Compilerbouw",
-            "classroom": "A1.04",
-            "string": "P0A40"
-         },
-         {
-            "subject": "Interactie-ontwerp",
-            "classroom": "A1.06",
-            "string": "L0A0"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -49,17 +44,23 @@
       "0": [],
       "1": [
          {
-            "subject": "Compilerbouw",
-            "classroom": "A1.10",
-            "string": "L0A0"
+            "string": "W0A40",
+            "classroom": "B0.201",
+            "subject": "Compilerbouw"
          },
          {
-            "subject": "Kansrekenen 2",
-            "classroom": "A1.06",
-            "string": "L1A0"
+            "string": "L1A0",
+            "classroom": "A1.08",
+            "subject": "Kansrekenen 2"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "string": "L0A0",
+            "classroom": "C0.110",
+            "subject": "Interactie-ontwerp"
+         }
+      ],
       "3": []
    },
    "4": {
@@ -68,9 +69,9 @@
       "2": [],
       "3": [
          {
-            "subject": "Compilerbouw",
-            "classroom": "C1.112",
-            "string": "L1A0"
+            "string": "L0A0",
+            "classroom": "A1.04",
+            "subject": "Compilerbouw"
          }
       ]
    }

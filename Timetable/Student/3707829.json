@@ -1,67 +1,66 @@
 {
    "0": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "subject": "Interactie-ontwerp",
-            "classroom": "B0.201",
-            "string": "L1A0"
+            "string": "P0B25",
+            "classroom": "C0.110",
+            "subject": "Algoritmen en complexiteit"
          }
       ],
-      "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.10",
-            "string": "L0A0"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "subject": "Interactie-ontwerp",
-            "classroom": "A1.06",
-            "string": "L0A0"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "C1.112",
-            "string": "W0B25"
-         }
-      ],
       "2": [],
       "3": [
          {
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "C0.110",
-            "string": "P0C15"
+            "string": "L1A0",
+            "classroom": "A1.06",
+            "subject": "Interactie-ontwerp"
          }
       ]
    },
-   "3": {
-      "0": [
+   "2": {
+      "0": [],
+      "1": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "C1.112",
-            "string": "P0B25"
+            "string": "L0A0",
+            "classroom": "A1.10",
+            "subject": "Algoritmen en complexiteit"
+         },
+         {
+            "string": "W0B25",
+            "classroom": "A1.10",
+            "subject": "Algoritmen en complexiteit"
          }
       ],
-      "1": [],
       "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "L0A0",
+            "classroom": "C0.110",
+            "subject": "Interactie-ontwerp"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "P0C15",
+            "classroom": "A1.04",
+            "subject": "Zoeken, sturen en bewegen"
+         }
+      ],
       "2": [],
       "3": []
    }

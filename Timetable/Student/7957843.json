@@ -2,40 +2,34 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "P0A40",
+            "classroom": "A1.06",
+            "subject": "Compilerbouw"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Compilerbouw",
-            "classroom": "C0.110",
-            "string": "W0A40"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Project Numerical Recipes",
+            "string": "L1A0",
             "classroom": "A1.08",
-            "string": "P0A15"
-         }
-      ]
-   },
-   "2": {
-      "0": [
-         {
-            "subject": "Compilerbouw",
-            "classroom": "A1.04",
-            "string": "P0A40"
+            "subject": "Compilerbouw"
          },
          {
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "A1.04",
-            "string": "P0A20"
+            "string": "P0A20",
+            "classroom": "C1.112",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -44,9 +38,9 @@
       "0": [],
       "1": [
          {
-            "subject": "Compilerbouw",
-            "classroom": "A1.10",
-            "string": "L0A0"
+            "string": "W0A40",
+            "classroom": "B0.201",
+            "subject": "Compilerbouw"
          }
       ],
       "2": [],
@@ -55,12 +49,18 @@
    "4": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "P0A15",
+            "classroom": "C0.110",
+            "subject": "Project Numerical Recipes"
+         }
+      ],
       "3": [
          {
-            "subject": "Compilerbouw",
-            "classroom": "C1.112",
-            "string": "L1A0"
+            "string": "L0A0",
+            "classroom": "A1.04",
+            "subject": "Compilerbouw"
          }
       ]
    }

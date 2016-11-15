@@ -20,18 +20,18 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "P0B15",
+            "classroom": "A1.10",
+            "subject": "Compilerbouw (practicum)"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "subject": "Compilerbouw (practicum)",
-            "classroom": "C0.110",
-            "string": "P0B15"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    }

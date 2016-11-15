@@ -1,13 +1,13 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Calculus 2",
+            "string": "W0C40",
             "classroom": "C0.110",
-            "string": "W0C40"
+            "subject": "Calculus 2"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
@@ -20,30 +20,30 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L0A0",
+            "classroom": "A1.10",
+            "subject": "Analysemethoden en -technieken"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Calculus 2",
-            "classroom": "A1.04",
-            "string": "L0A0"
+            "string": "L0A0",
+            "classroom": "A1.06",
+            "subject": "Calculus 2"
          }
       ],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "subject": "Analysemethoden en -technieken",
-            "classroom": "A1.08",
-            "string": "L0A0"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    }

@@ -1,68 +1,67 @@
 {
    "0": {
-      "0": [
-         {
-            "subject": "Calculus 2",
-            "classroom": "C0.110",
-            "string": "W0C40"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "subject": "Databases 2",
-            "classroom": "A1.10",
-            "string": "W0B40"
+            "string": "W0C40",
+            "classroom": "C0.110",
+            "subject": "Calculus 2"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "string": "L1A0",
+            "classroom": "A1.08",
+            "subject": "Lineaire Algebra"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Lineaire Algebra",
-            "classroom": "C1.112",
-            "string": "L1A0"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "subject": "Databases 2",
-            "classroom": "B0.201",
-            "string": "L0A0"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Calculus 2",
-            "classroom": "A1.04",
-            "string": "L0A0"
+            "string": "L0A0",
+            "classroom": "A1.06",
+            "subject": "Calculus 2"
          }
       ],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Lineaire Algebra",
+            "string": "L0A0",
+            "classroom": "A1.04",
+            "subject": "Databases 2"
+         },
+         {
+            "string": "L0A0",
             "classroom": "C1.112",
-            "string": "L0A0"
+            "subject": "Lineaire Algebra"
          }
       ],
-      "3": []
+      "2": [],
+      "3": [
+         {
+            "string": "W0B40",
+            "classroom": "A1.04",
+            "subject": "Databases 2"
+         }
+      ]
    }
 }

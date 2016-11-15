@@ -1,89 +1,82 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Calculus 2",
+            "string": "L0A0",
+            "classroom": "A1.10",
+            "subject": "Bioinformatica"
+         },
+         {
+            "string": "W0C40",
             "classroom": "C0.110",
-            "string": "W0C40"
+            "subject": "Calculus 2"
          }
       ],
-      "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "subject": "Compilerbouw",
-            "classroom": "C1.112",
-            "string": "W0B40"
+            "string": "P0C20",
+            "classroom": "B0.201",
+            "subject": "Bioinformatica"
          }
-      ],
-      "3": []
+      ]
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Bioinformatica",
-            "classroom": "C1.112",
-            "string": "L0A0"
+            "string": "L1A0",
+            "classroom": "C0.110",
+            "subject": "Bioinformatica"
+         },
+         {
+            "string": "L1A0",
+            "classroom": "A1.08",
+            "subject": "Compilerbouw"
          }
       ],
-      "3": [
-         {
-            "subject": "Compilerbouw",
-            "classroom": "C1.112",
-            "string": "P0B40"
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "2": {
       "0": [],
       "1": [],
       "2": [
          {
-            "subject": "Bioinformatica",
-            "classroom": "A1.08",
-            "string": "P0C20"
+            "string": "W0B40",
+            "classroom": "C0.110",
+            "subject": "Compilerbouw"
          }
       ],
-      "3": [
-         {
-            "subject": "Bioinformatica",
-            "classroom": "A1.04",
-            "string": "W0C20"
-         },
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "C0.110",
-            "string": "P0C15"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],
       "1": [
          {
-            "subject": "Compilerbouw",
-            "classroom": "A1.10",
-            "string": "L0A0"
+            "string": "L2A0",
+            "classroom": "A1.04",
+            "subject": "Bioinformatica"
          },
          {
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.10",
-            "string": "P0E20"
+            "string": "L0A0",
+            "classroom": "A1.06",
+            "subject": "Calculus 2"
          }
       ],
       "2": [
          {
-            "subject": "Calculus 2",
-            "classroom": "A1.04",
-            "string": "L0A0"
+            "string": "W0C20",
+            "classroom": "B0.201",
+            "subject": "Bioinformatica"
          }
       ],
       "3": [
          {
-            "subject": "Bioinformatica",
-            "classroom": "B0.201",
-            "string": "L1A0"
+            "string": "P0E20",
+            "classroom": "A1.10",
+            "subject": "Programmeren in Java 2"
          }
       ]
    },
@@ -91,17 +84,22 @@
       "0": [],
       "1": [
          {
-            "subject": "Bioinformatica",
-            "classroom": "C1.112",
-            "string": "L2A0"
+            "string": "P0C15",
+            "classroom": "A1.04",
+            "subject": "Zoeken, sturen en bewegen"
          }
       ],
       "2": [],
       "3": [
          {
-            "subject": "Compilerbouw",
-            "classroom": "C1.112",
-            "string": "L1A0"
+            "string": "L0A0",
+            "classroom": "A1.04",
+            "subject": "Compilerbouw"
+         },
+         {
+            "string": "P0B40",
+            "classroom": "A1.10",
+            "subject": "Compilerbouw"
          }
       ]
    }

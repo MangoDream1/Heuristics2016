@@ -3,13 +3,7 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "B0.201",
-            "string": "P0B20"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
@@ -18,22 +12,28 @@
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
       "0": [
          {
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.10",
-            "string": "P0C20"
+            "string": "P0B20",
+            "classroom": "B0.201",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ],
       "1": [],
       "2": [],
       "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "P0C20",
+            "classroom": "A1.06",
+            "subject": "Programmeren in Java 2"
+         }
+      ]
    },
    "4": {
       "0": [],

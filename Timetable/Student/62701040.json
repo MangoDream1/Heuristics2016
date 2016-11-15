@@ -1,13 +1,23 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Informatie- en organisatieontwerp",
+            "string": "L0A0",
+            "classroom": "B0.201",
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "string": "L1A0",
             "classroom": "A1.04",
-            "string": "L0A0"
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "string": "L0A0",
+            "classroom": "C0.110",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
@@ -15,40 +25,36 @@
       "0": [],
       "1": [
          {
-            "subject": "Collectieve Intelligentie",
-            "classroom": "C0.110",
-            "string": "L2A0"
-         },
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.04",
-            "string": "L1A0"
+            "string": "L2A0",
+            "classroom": "C1.112",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.10",
-            "string": "L0A0"
+            "string": "W0B20",
+            "classroom": "B0.201",
+            "subject": "Collectieve Intelligentie"
          }
-      ]
+      ],
+      "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "C0.110",
-            "string": "W0B15"
-         },
-         {
-            "subject": "Programmeren in Java 2",
-            "classroom": "C1.112",
-            "string": "P0B20"
+            "string": "P0B20",
+            "classroom": "A1.06",
+            "subject": "Programmeren in Java 2"
          }
       ],
-      "2": [],
+      "1": [],
+      "2": [
+         {
+            "string": "W0B15",
+            "classroom": "A1.06",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
       "3": []
    },
    "3": {
@@ -56,34 +62,29 @@
       "1": [],
       "2": [
          {
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.08",
-            "string": "L1A0"
+            "string": "P0B15",
+            "classroom": "A1.10",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "string": "L1A0",
+            "classroom": "A1.04",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ]
    },
    "4": {
       "0": [],
       "1": [
          {
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.04",
-            "string": "P0B20"
-         },
-         {
-            "subject": "Informatie- en organisatieontwerp",
+            "string": "P0B20",
             "classroom": "A1.10",
-            "string": "P0B15"
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "classroom": "B0.201",
-            "string": "W0B20"
-         }
-      ]
+      "3": []
    }
 }

@@ -8,14 +8,14 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "subject": "Kansrekenen 2",
-            "classroom": "A1.04",
-            "string": "L0A0"
+            "string": "L0A0",
+            "classroom": "C0.110",
+            "subject": "Kansrekenen 2"
          }
-      ],
-      "3": []
+      ]
    },
    "2": {
       "0": [],
@@ -27,9 +27,9 @@
       "0": [],
       "1": [
          {
-            "subject": "Kansrekenen 2",
-            "classroom": "A1.06",
-            "string": "L1A0"
+            "string": "L1A0",
+            "classroom": "A1.08",
+            "subject": "Kansrekenen 2"
          }
       ],
       "2": [],

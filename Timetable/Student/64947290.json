@@ -1,14 +1,14 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "subject": "Databases 2",
-            "classroom": "C1.112",
-            "string": "W0A40"
+            "string": "P0B25",
+            "classroom": "C0.110",
+            "subject": "Algoritmen en complexiteit"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    },
    "1": {
@@ -16,9 +16,9 @@
       "1": [],
       "2": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.10",
-            "string": "L0A0"
+            "string": "W0A40",
+            "classroom": "A1.08",
+            "subject": "Databases 2"
          }
       ],
       "3": []
@@ -27,39 +27,40 @@
       "0": [],
       "1": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "C1.112",
-            "string": "W0B25"
+            "string": "L0A0",
+            "classroom": "A1.10",
+            "subject": "Algoritmen en complexiteit"
          },
          {
-            "subject": "Databases 2",
-            "classroom": "B0.201",
-            "string": "L0A0"
+            "string": "W0B25",
+            "classroom": "A1.10",
+            "subject": "Algoritmen en complexiteit"
          }
       ],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "C1.112",
-            "string": "P0B25"
-         },
-         {
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.10",
-            "string": "P0C20"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0C20",
+            "classroom": "A1.06",
+            "subject": "Programmeren in Java 2"
+         }
+      ]
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L0A0",
+            "classroom": "A1.04",
+            "subject": "Databases 2"
+         }
+      ],
       "2": [],
       "3": []
    }

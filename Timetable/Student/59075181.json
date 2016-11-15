@@ -2,56 +2,56 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Heuristieken 1",
-            "classroom": "A1.04",
-            "string": "W0A25"
-         }
-      ],
+      "2": [],
       "3": [
          {
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "B0.201",
-            "string": "P0B20"
+            "string": "L0A0",
+            "classroom": "A1.10",
+            "subject": "Heuristieken 1"
          }
       ]
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "subject": "Kansrekenen 2",
-            "classroom": "A1.04",
-            "string": "L0A0"
+            "string": "L0A0",
+            "classroom": "C0.110",
+            "subject": "Kansrekenen 2"
          }
-      ],
-      "3": []
+      ]
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0B20",
+            "classroom": "B0.201",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "subject": "Heuristieken 1",
-            "classroom": "B0.201",
-            "string": "L0A0"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "subject": "Kansrekenen 2",
-            "classroom": "A1.06",
-            "string": "L1A0"
+            "string": "L1A0",
+            "classroom": "A1.08",
+            "subject": "Kansrekenen 2"
          }
       ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "W0A25",
+            "classroom": "B0.201",
+            "subject": "Heuristieken 1"
+         }
+      ]
    },
    "4": {
       "0": [],

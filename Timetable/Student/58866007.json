@@ -1,27 +1,32 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "string": "L0A0",
+            "classroom": "A1.06",
+            "subject": "Architectuur en computerorganisatie"
+         }
+      ],
+      "2": [
+         {
+            "string": "L1A0",
+            "classroom": "B0.201",
+            "subject": "Architectuur en computerorganisatie"
+         },
+         {
+            "string": "L1A0",
+            "classroom": "A1.08",
+            "subject": "Lineaire Algebra"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "A1.08",
-            "string": "L0A0"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Lineaire Algebra",
-            "classroom": "C1.112",
-            "string": "L1A0"
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "2": {
       "0": [],
@@ -36,21 +41,15 @@
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "A1.08",
-            "string": "L1A0"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "subject": "Lineaire Algebra",
+            "string": "L0A0",
             "classroom": "C1.112",
-            "string": "L0A0"
+            "subject": "Lineaire Algebra"
          }
       ],
+      "2": [],
       "3": []
    }
 }

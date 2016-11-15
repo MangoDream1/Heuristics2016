@@ -10,53 +10,52 @@
       "1": [],
       "2": [
          {
-            "subject": "Kansrekenen 2",
+            "string": "W0B40",
             "classroom": "A1.04",
-            "string": "L0A0"
+            "subject": "Calculus 2"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "string": "L0A0",
+            "classroom": "C0.110",
+            "subject": "Kansrekenen 2"
+         }
+      ]
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "P0D20",
+            "classroom": "A1.08",
+            "subject": "Programmeren in Java 2"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
       "1": [
          {
-            "subject": "Kansrekenen 2",
+            "string": "L0A0",
             "classroom": "A1.06",
-            "string": "L1A0"
-         }
-      ],
-      "2": [
+            "subject": "Calculus 2"
+         },
          {
-            "subject": "Calculus 2",
-            "classroom": "A1.04",
-            "string": "L0A0"
+            "string": "L1A0",
+            "classroom": "A1.08",
+            "subject": "Kansrekenen 2"
          }
       ],
+      "2": [],
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.04",
-            "string": "P0D20"
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Calculus 2",
-            "classroom": "A1.10",
-            "string": "W0B40"
-         }
-      ],
+      "2": [],
       "3": []
    }
 }

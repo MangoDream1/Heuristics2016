@@ -1,16 +1,28 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0D20",
+            "classroom": "A1.06",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L0A0",
+            "classroom": "A1.10",
+            "subject": "Heuristieken 2"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [
          {
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "A1.04",
-            "string": "P0D20"
+            "string": "W0B20",
+            "classroom": "A1.06",
+            "subject": "Heuristieken 2"
          }
       ],
       "1": [],
@@ -20,41 +32,29 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "subject": "Heuristieken 2",
-            "classroom": "A1.08",
-            "string": "W0B20"
+            "string": "L0A0",
+            "classroom": "A1.10",
+            "subject": "Analysemethoden en -technieken"
          }
-      ]
+      ],
+      "3": []
    },
    "3": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Heuristieken 2",
-            "classroom": "A1.04",
-            "string": "L0A0"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "subject": "Analysemethoden en -technieken",
-            "classroom": "A1.08",
-            "string": "L0A0"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "subject": "Project Genetic Algorithms",
-            "classroom": "A1.10",
-            "string": "P0C15"
+            "string": "P0C15",
+            "classroom": "C0.110",
+            "subject": "Project Genetic Algorithms"
          }
       ],
       "3": []

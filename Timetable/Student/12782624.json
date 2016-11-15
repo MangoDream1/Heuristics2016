@@ -6,13 +6,7 @@
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.06",
-            "string": "P0F20"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -21,7 +15,13 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0F20",
+            "classroom": "A1.08",
+            "subject": "Programmeren in Java 2"
+         }
+      ]
    },
    "3": {
       "0": [],

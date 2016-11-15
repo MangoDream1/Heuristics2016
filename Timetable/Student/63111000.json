@@ -1,6 +1,17 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A0",
+            "classroom": "A1.08",
+            "subject": "Moderne Databases"
+         },
+         {
+            "string": "W0C20",
+            "classroom": "A1.06",
+            "subject": "Moderne Databases"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -8,9 +19,9 @@
    "1": {
       "0": [
          {
-            "subject": "Moderne Databases",
+            "string": "P0C20",
             "classroom": "A1.08",
-            "string": "W0C20"
+            "subject": "Moderne Databases"
          }
       ],
       "1": [],
@@ -20,49 +31,37 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L0A0",
+            "classroom": "C1.112",
+            "subject": "Machine Learning"
+         }
+      ],
       "3": [
          {
-            "subject": "Moderne Databases",
-            "classroom": "A1.08",
-            "string": "P0C20"
+            "string": "L1A0",
+            "classroom": "A1.10",
+            "subject": "Machine Learning"
          }
       ]
    },
    "3": {
-      "0": [
-         {
-            "subject": "Machine Learning",
-            "classroom": "A1.08",
-            "string": "L1A0"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.10",
-            "string": "P0E20"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0E20",
+            "classroom": "A1.10",
+            "subject": "Programmeren in Java 2"
+         }
+      ]
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "subject": "Moderne Databases",
-            "classroom": "C1.112",
-            "string": "L0A0"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Machine Learning",
-            "classroom": "C1.112",
-            "string": "L0A0"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    }
 }

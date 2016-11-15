@@ -1,48 +1,48 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A0",
+            "classroom": "A1.08",
+            "subject": "Moderne Databases"
+         }
+      ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L1A0",
+            "classroom": "A1.08",
+            "subject": "Lineaire Algebra"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "A1.10",
-            "string": "P0B15"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Lineaire Algebra",
-            "classroom": "C1.112",
-            "string": "L1A0"
+            "string": "P0B15",
+            "classroom": "C0.110",
+            "subject": "Zoeken, sturen en bewegen"
          }
       ]
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Moderne Databases",
-            "classroom": "A1.08",
-            "string": "W0B20"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Moderne Databases",
-            "classroom": "B0.201",
-            "string": "P0B20"
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0B20",
+            "classroom": "B0.201",
+            "subject": "Moderne Databases"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -51,18 +51,17 @@
       "0": [],
       "1": [
          {
-            "subject": "Moderne Databases",
+            "string": "L0A0",
             "classroom": "C1.112",
-            "string": "L0A0"
-         }
-      ],
-      "2": [
+            "subject": "Lineaire Algebra"
+         },
          {
-            "subject": "Lineaire Algebra",
-            "classroom": "C1.112",
-            "string": "L0A0"
+            "string": "P0B20",
+            "classroom": "B0.201",
+            "subject": "Moderne Databases"
          }
       ],
+      "2": [],
       "3": []
    }
 }
