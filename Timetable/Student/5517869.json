@@ -2,120 +2,125 @@
    "0": {
       "0": [
          {
-            "string": "W0A8",
-            "classroom": "A1.08",
-            "subject": "Autonomous Agents 2"
+            "string": "L0A54",
+            "subject": "Lineaire Algebra",
+            "classroom": "A1.08"
          }
       ],
       "1": [
-         {
-            "string": "L0A54",
-            "classroom": "A1.04",
-            "subject": "Lineaire Algebra"
-         },
-         {
-            "string": "L1A54",
-            "classroom": "B0.201",
-            "subject": "Lineaire Algebra"
-         }
-      ],
-      "2": [
          {
             "string": "W0A16",
-            "classroom": "C1.112",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "P0A16",
-            "classroom": "C1.112",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "L0A72",
-            "classroom": "A1.08",
-            "subject": "Databases 2"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "string": "L0A61",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "1": [
-         {
-            "string": "P0A18",
-            "classroom": "A1.08",
-            "subject": "Moderne Databases"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "string": "L0A22",
-            "classroom": "C1.112",
-            "subject": "Autonomous Agents 2"
-         },
-         {
-            "string": "P0A8",
-            "classroom": "C0.110",
-            "subject": "Autonomous Agents 2"
-         },
-         {
-            "string": "L0A54",
-            "classroom": "C1.112",
-            "subject": "Moderne Databases"
-         }
-      ],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [
-         {
-            "string": "L1A22",
-            "classroom": "A1.10",
-            "subject": "Autonomous Agents 2"
-         },
-         {
-            "string": "L1A61",
-            "classroom": "A1.06",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C1.112"
          }
       ],
       "2": [],
       "3": [
          {
-            "string": "W0A36",
-            "classroom": "C0.110",
-            "subject": "Databases 2"
+            "string": "L1A22",
+            "subject": "Autonomous Agents 2",
+            "classroom": "A1.06"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110"
+         }
+      ],
+      "2": [
+         {
+            "string": "L0A22",
+            "subject": "Autonomous Agents 2",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "L1A54",
+            "subject": "Lineaire Algebra",
+            "classroom": "A1.04"
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "string": "W0A8",
+            "subject": "Autonomous Agents 2",
+            "classroom": "B0.201"
          },
          {
             "string": "W0A18",
-            "classroom": "A1.06",
-            "subject": "Moderne Databases"
+            "subject": "Moderne Databases",
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.04"
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [
+         {
+            "string": "P0A16",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A72",
+            "subject": "Databases 2",
+            "classroom": "A1.06"
+         }
+      ],
+      "2": [
+         {
+            "string": "P0A8",
+            "subject": "Autonomous Agents 2",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": [
+         {
+            "string": "P0A18",
+            "subject": "Moderne Databases",
+            "classroom": "C1.112"
          }
       ]
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "L2A61",
-            "classroom": "A1.06",
-            "subject": "Collectieve Intelligentie"
+            "string": "L0A54",
+            "subject": "Moderne Databases",
+            "classroom": "A1.06"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "string": "W0A36",
+            "subject": "Databases 2",
+            "classroom": "A1.10"
+         }
+      ],
+      "3": [
+         {
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110"
+         }
+      ]
    }
 }

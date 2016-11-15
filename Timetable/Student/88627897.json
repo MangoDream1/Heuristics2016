@@ -1,61 +1,62 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0C6",
+            "subject": "Autonomous Agents 2",
+            "classroom": "C1.112"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L1A22",
+            "subject": "Autonomous Agents 2",
+            "classroom": "A1.06"
+         }
+      ]
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "2": {
       "0": [],
       "1": [],
       "2": [
          {
             "string": "L0A22",
-            "classroom": "C1.112",
-            "subject": "Autonomous Agents 2"
+            "subject": "Autonomous Agents 2",
+            "classroom": "A1.10"
          }
       ],
+      "3": [
+         {
+            "string": "P0C14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "C1.112"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "L1A22",
-            "classroom": "A1.10",
-            "subject": "Autonomous Agents 2"
-         },
-         {
-            "string": "P0C6",
-            "classroom": "B0.201",
-            "subject": "Autonomous Agents 2"
+            "string": "W0C6",
+            "subject": "Autonomous Agents 2",
+            "classroom": "A1.10"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "string": "P0C14",
-            "classroom": "C1.112",
-            "subject": "Zoeken, sturen en bewegen"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "W0C6",
-            "classroom": "A1.04",
-            "subject": "Autonomous Agents 2"
-         }
-      ]
+      "3": []
    }
 }

@@ -2,61 +2,61 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "W0B16",
-            "classroom": "B0.201",
-            "subject": "Heuristieken 2"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0B16",
+            "subject": "Heuristieken 2",
+            "classroom": "C1.112"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "string": "W0C17",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [],
       "2": [],
       "3": [
          {
             "string": "L0A32",
-            "classroom": "A1.10",
-            "subject": "Heuristieken 2"
+            "subject": "Heuristieken 2",
+            "classroom": "C1.112"
          }
       ]
    },
-   "2": {
-      "0": [],
-      "1": [
+   "3": {
+      "0": [
          {
             "string": "L1A51",
-            "classroom": "A1.04",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.04"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
-   "3": {
+   "4": {
       "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "W0C17",
-            "classroom": "B0.201",
-            "subject": "Reflectie op de digitale cultuur"
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.10"
          }
       ]
-   },
-   "4": {
-      "0": [
-         {
-            "string": "L0A51",
-            "classroom": "A1.10",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
    }
 }

@@ -1,19 +1,31 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "P0C19",
-            "classroom": "B0.201",
-            "subject": "Programmeren in Java 2"
+            "string": "W0A20",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.08"
          }
       ],
-      "2": [],
+      "1": [],
+      "2": [
+         {
+            "string": "P0C19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "B0.201"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L1A39",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.08"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -25,37 +37,26 @@
    },
    "3": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "W0A20",
-            "classroom": "B0.201",
-            "subject": "Webprogrammeren en databases"
-         }
-      ]
-   },
-   "4": {
-      "0": [
-         {
-            "string": "P0A20",
-            "classroom": "A1.06",
-            "subject": "Webprogrammeren en databases"
-         }
-      ],
       "1": [
          {
-            "string": "L0A39",
-            "classroom": "A1.08",
-            "subject": "Webprogrammeren en databases"
-         },
-         {
-            "string": "L1A39",
-            "classroom": "A1.08",
-            "subject": "Webprogrammeren en databases"
+            "string": "P0A20",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "C0.110"
          }
       ],
       "2": [],
       "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "L0A39",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.10"
+         }
+      ]
    }
 }

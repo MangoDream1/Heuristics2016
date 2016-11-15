@@ -2,61 +2,60 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L1A27",
-            "classroom": "A1.04",
-            "subject": "Data Mining"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "string": "W0A9",
-            "classroom": "A1.06",
-            "subject": "Data Mining"
+            "string": "L0A27",
+            "subject": "Data Mining",
+            "classroom": "C1.112"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "L0A27",
-            "classroom": "A1.08",
-            "subject": "Data Mining"
+            "string": "W0A9",
+            "subject": "Data Mining",
+            "classroom": "C1.112"
          }
       ],
-      "2": [],
       "3": []
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
             "string": "P0A9",
-            "classroom": "A1.04",
-            "subject": "Data Mining"
+            "subject": "Data Mining",
+            "classroom": "B0.201"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
+         {
+            "string": "L1A27",
+            "subject": "Data Mining",
+            "classroom": "B0.201"
+         },
          {
             "string": "P0B19",
-            "classroom": "C0.110",
-            "subject": "Programmeren in Java 2"
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.04"
          }
       ],
-      "2": [],
       "3": []
    }
 }

@@ -1,79 +1,76 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "P0A19",
-            "classroom": "B0.201",
-            "subject": "Programmeren in Java 2"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A20",
-            "classroom": "A1.06",
-            "subject": "Advanced Heuristics"
-         },
-         {
-            "string": "W0A36",
-            "classroom": "A1.04",
-            "subject": "Calculus 2"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "W0A36",
+            "subject": "Calculus 2",
+            "classroom": "A1.08"
+         },
+         {
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.06"
+         }
+      ],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L0A20",
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.06"
+         },
+         {
+            "string": "L0A106",
+            "subject": "Calculus 2",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "L0A44",
+            "subject": "Heuristieken 1",
+            "classroom": "C1.112"
+         },
+         {
+            "string": "P0A15",
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.04"
+         }
+      ],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "string": "P0A10",
-            "classroom": "C1.112",
-            "subject": "Advanced Heuristics"
-         }
-      ],
+      "0": [],
       "1": [
          {
             "string": "W0A22",
-            "classroom": "A1.08",
-            "subject": "Heuristieken 1"
+            "subject": "Heuristieken 1",
+            "classroom": "A1.10"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "string": "P0A15",
-            "classroom": "A1.06",
-            "subject": "Project Numerical Recipes"
-         }
-      ]
+      "3": []
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "string": "L0A106",
-            "classroom": "B0.201",
-            "subject": "Calculus 2"
+            "string": "P0A10",
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.10"
          }
       ],
-      "3": [
-         {
-            "string": "L0A44",
-            "classroom": "A1.04",
-            "subject": "Heuristieken 1"
-         }
-      ]
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

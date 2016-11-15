@@ -4,9 +4,9 @@
       "1": [],
       "2": [
          {
-            "string": "L1A27",
-            "classroom": "A1.04",
-            "subject": "Data Mining"
+            "string": "P0C14",
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.04"
          }
       ],
       "3": []
@@ -16,9 +16,9 @@
       "1": [],
       "2": [
          {
-            "string": "P0E19",
-            "classroom": "B0.201",
-            "subject": "Programmeren in Java 2"
+            "string": "L0A27",
+            "subject": "Data Mining",
+            "classroom": "C1.112"
          }
       ],
       "3": []
@@ -27,42 +27,42 @@
       "0": [],
       "1": [
          {
-            "string": "L0A27",
-            "classroom": "A1.08",
-            "subject": "Data Mining"
+            "string": "W0C9",
+            "subject": "Data Mining",
+            "classroom": "B0.201"
          }
       ],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "P0C14",
-            "classroom": "C0.110",
-            "subject": "Project Numerical Recipes"
+            "string": "P0E19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.04"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0C9",
+            "subject": "Data Mining",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "string": "P0C9",
-            "classroom": "A1.04",
-            "subject": "Data Mining"
+            "string": "L1A27",
+            "subject": "Data Mining",
+            "classroom": "B0.201"
          }
       ],
-      "3": [
-         {
-            "string": "W0C9",
-            "classroom": "C0.110",
-            "subject": "Data Mining"
-         }
-      ]
+      "3": []
    }
 }

@@ -1,37 +1,49 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "W0A11",
-            "classroom": "B0.201",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "W0A36",
-            "classroom": "A1.04",
-            "subject": "Calculus 2"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "L0A21",
-            "classroom": "B0.201",
-            "subject": "Informatie- en organisatieontwerp"
+            "string": "W0A11",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.04"
          }
       ],
-      "3": []
+      "2": [
+         {
+            "string": "W0A36",
+            "subject": "Calculus 2",
+            "classroom": "A1.08"
+         }
+      ],
+      "3": [
+         {
+            "string": "P0A11",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.10"
+         }
+      ]
    },
    "2": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "L1A21",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.08"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A106",
+            "subject": "Calculus 2",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -43,25 +55,13 @@
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "string": "L1A21",
-            "classroom": "C0.110",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A106",
-            "classroom": "B0.201",
-            "subject": "Calculus 2"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": [
          {
-            "string": "P0A11",
-            "classroom": "B0.201",
-            "subject": "Informatie- en organisatieontwerp"
+            "string": "L0A21",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.10"
          }
       ]
    }

@@ -1,13 +1,13 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "W0B34",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw"
+            "string": "L0A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.10"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -19,54 +19,53 @@
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "string": "W0C18",
-            "classroom": "A1.06",
-            "subject": "Moderne Databases"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A54",
-            "classroom": "C1.112",
-            "subject": "Moderne Databases"
-         }
-      ],
-      "3": []
-   },
-   "3": {
-      "0": [
-         {
-            "string": "L1A69",
-            "classroom": "A1.06",
-            "subject": "Compilerbouw"
-         }
-      ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0C18",
+            "subject": "Moderne Databases",
+            "classroom": "C1.112"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "W0B34",
+            "subject": "Compilerbouw",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "P0B34",
+            "subject": "Compilerbouw",
+            "classroom": "C0.110"
+         }
+      ]
    },
    "4": {
       "0": [],
       "1": [
          {
-            "string": "L0A69",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw"
+            "string": "L0A54",
+            "subject": "Moderne Databases",
+            "classroom": "A1.06"
          },
          {
-            "string": "P0B34",
-            "classroom": "A1.06",
-            "subject": "Compilerbouw"
+            "string": "W0C18",
+            "subject": "Moderne Databases",
+            "classroom": "A1.06"
          }
       ],
       "2": [],
       "3": [
          {
-            "string": "P0C18",
-            "classroom": "A1.10",
-            "subject": "Moderne Databases"
+            "string": "L1A69",
+            "subject": "Compilerbouw",
+            "classroom": "C0.110"
          }
       ]
    }

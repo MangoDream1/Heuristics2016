@@ -3,120 +3,120 @@
       "0": [],
       "1": [
          {
-            "string": "P0A14",
-            "classroom": "A1.04",
-            "subject": "Compilerbouw (practicum)"
-         }
-      ],
-      "2": [
-         {
-            "string": "W0A22",
-            "classroom": "A1.06",
-            "subject": "Algoritmen en complexiteit"
-         },
-         {
             "string": "W0A16",
-            "classroom": "C1.112",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "P0A16",
-            "classroom": "C1.112",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "L1A27",
-            "classroom": "A1.04",
-            "subject": "Data Mining"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "string": "L0A43",
-            "classroom": "B0.201",
-            "subject": "Algoritmen en complexiteit"
-         },
-         {
-            "string": "L0A61",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "W0A9",
-            "classroom": "A1.06",
-            "subject": "Data Mining"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "string": "W0A38",
-            "classroom": "C0.110",
-            "subject": "Software engineering"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [
-         {
-            "string": "L0A27",
-            "classroom": "A1.08",
-            "subject": "Data Mining"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [
-         {
-            "string": "P0A9",
-            "classroom": "A1.04",
-            "subject": "Data Mining"
-         }
-      ],
-      "1": [
-         {
-            "string": "L1A61",
-            "classroom": "A1.06",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "string": "L0A75",
-            "classroom": "A1.08",
-            "subject": "Software engineering"
-         }
-      ]
-   },
-   "4": {
-      "0": [
-         {
-            "string": "L2A61",
-            "classroom": "A1.06",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "1": [
-         {
-            "string": "P0A38",
-            "classroom": "A1.04",
-            "subject": "Software engineering"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C1.112"
          }
       ],
       "2": [],
       "3": [
          {
             "string": "P0A22",
-            "classroom": "B0.201",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "P0A38",
+            "subject": "Software engineering",
+            "classroom": "C0.110"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "W0A38",
+            "subject": "Software engineering",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [
+         {
+            "string": "L0A27",
+            "subject": "Data Mining",
+            "classroom": "C1.112"
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.04"
+         },
+         {
+            "string": "P0A14",
+            "subject": "Compilerbouw (practicum)",
+            "classroom": "C1.112"
+         },
+         {
+            "string": "W0A9",
+            "subject": "Data Mining",
+            "classroom": "C1.112"
+         }
+      ],
+      "3": [
+         {
+            "string": "L0A43",
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "C0.110"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "string": "P0A16",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "L0A75",
+            "subject": "Software engineering",
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "string": "P0A9",
+            "subject": "Data Mining",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "string": "W0A22",
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.10"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "string": "L1A27",
+            "subject": "Data Mining",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": [
+         {
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110"
          }
       ]
    }

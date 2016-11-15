@@ -1,67 +1,68 @@
 {
    "0": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [],
+      "3": [
          {
             "string": "W0B19",
-            "classroom": "A1.04",
-            "subject": "Webprogrammeren en databases"
+            "subject": "Webprogrammeren en databases",
+            "classroom": "B0.201"
          }
-      ],
-      "2": [
-         {
-            "string": "L0A72",
-            "classroom": "A1.08",
-            "subject": "Databases 2"
-         }
-      ],
-      "3": []
+      ]
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
             "string": "P0B19",
-            "classroom": "A1.10",
-            "subject": "Webprogrammeren en databases"
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.08"
          }
       ],
+      "1": [
+         {
+            "string": "L1A39",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.08"
+         }
+      ],
+      "2": [],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "string": "W0B36",
-            "classroom": "A1.08",
-            "subject": "Databases 2"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "string": "L0A72",
+            "subject": "Databases 2",
+            "classroom": "A1.06"
+         }
+      ],
+      "2": [
+         {
+            "string": "W0B36",
+            "subject": "Databases 2",
+            "classroom": "A1.04"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [],
+      "3": [
          {
             "string": "L0A39",
-            "classroom": "A1.08",
-            "subject": "Webprogrammeren en databases"
-         },
-         {
-            "string": "L1A39",
-            "classroom": "A1.08",
-            "subject": "Webprogrammeren en databases"
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.10"
          }
-      ],
-      "2": [],
-      "3": []
+      ]
    }
 }

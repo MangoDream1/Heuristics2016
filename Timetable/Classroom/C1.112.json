@@ -2,149 +2,31 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "W0A16",
-            "classroom": "C1.112",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "P0A16",
-            "classroom": "C1.112",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "3": [
-         {
-            "string": "L0A38",
-            "classroom": "C1.112",
-            "subject": "Technology for games"
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "1": {
-      "0": [
-         {
-            "string": "W0B36",
-            "classroom": "C1.112",
-            "subject": "Calculus 2"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "W0A16",
-            "classroom": "C1.112",
-            "subject": "Heuristieken 2"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L0A22",
-            "classroom": "C1.112",
-            "subject": "Autonomous Agents 2"
-         },
-         {
-            "string": "L1A84",
-            "classroom": "C1.112",
-            "subject": "Kansrekenen 2"
-         },
-         {
-            "string": "L0A54",
-            "classroom": "C1.112",
-            "subject": "Moderne Databases"
-         },
-         {
-            "string": "W0A19",
-            "classroom": "C1.112",
-            "subject": "Technology for games"
-         }
-      ],
-      "3": [
-         {
-            "string": "P0B8",
-            "classroom": "C1.112",
-            "subject": "Autonomous Agents 2"
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "3": {
-      "0": [
-         {
-            "string": "P0A10",
-            "classroom": "C1.112",
-            "subject": "Advanced Heuristics"
-         }
-      ],
-      "1": [
-         {
-            "string": "P0B37",
-            "classroom": "C1.112",
-            "subject": "Software engineering"
-         },
-         {
-            "string": "L1A38",
-            "classroom": "C1.112",
-            "subject": "Technology for games"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "P0A15",
-            "classroom": "C1.112",
-            "subject": "Bioinformatica"
-         }
-      ]
+      "3": []
    },
    "4": {
-      "0": [
-         {
-            "string": "P0A16",
-            "classroom": "C1.112",
-            "subject": "Netwerken en systeembeveiliging"
-         }
-      ],
-      "1": [
-         {
-            "string": "L0A84",
-            "classroom": "C1.112",
-            "subject": "Kansrekenen 2"
-         },
-         {
-            "string": "P0C14",
-            "classroom": "C1.112",
-            "subject": "Zoeken, sturen en bewegen"
-         }
-      ],
-      "2": [
-         {
-            "string": "P0B18",
-            "classroom": "C1.112",
-            "subject": "Moderne Databases"
-         }
-      ],
-      "3": [
-         {
-            "string": "W0C34",
-            "classroom": "C1.112",
-            "subject": "Calculus 2"
-         },
-         {
-            "string": "L0A25",
-            "classroom": "C1.112",
-            "subject": "Interactie-ontwerp"
-         },
-         {
-            "string": "W0B18",
-            "classroom": "C1.112",
-            "subject": "Moderne Databases"
-         }
-      ]
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

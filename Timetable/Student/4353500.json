@@ -13,7 +13,13 @@
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L0A44",
+            "subject": "Heuristieken 1",
+            "classroom": "C1.112"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -22,29 +28,23 @@
       "1": [
          {
             "string": "W0A22",
-            "classroom": "A1.08",
-            "subject": "Heuristieken 1"
+            "subject": "Heuristieken 1",
+            "classroom": "A1.10"
          }
       ],
-      "2": [],
-      "3": [
+      "2": [
          {
             "string": "P0C16",
-            "classroom": "A1.04",
-            "subject": "Netwerken en systeembeveiliging"
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "A1.10"
          }
-      ]
+      ],
+      "3": []
    },
    "4": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A44",
-            "classroom": "A1.04",
-            "subject": "Heuristieken 1"
-         }
-      ]
+      "3": []
    }
 }

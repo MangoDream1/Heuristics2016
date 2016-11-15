@@ -2,55 +2,54 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L0A72",
-            "classroom": "A1.08",
-            "subject": "Databases 2"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "L1A25",
-            "classroom": "A1.10",
-            "subject": "Interactie-ontwerp"
+            "string": "L0A25",
+            "subject": "Interactie-ontwerp",
+            "classroom": "C1.112"
          }
       ],
+      "2": [],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "string": "W0B36",
-            "classroom": "A1.08",
-            "subject": "Databases 2"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "string": "L0A72",
+            "subject": "Databases 2",
+            "classroom": "A1.06"
+         }
+      ],
+      "2": [
+         {
+            "string": "W0B36",
+            "subject": "Databases 2",
+            "classroom": "A1.04"
+         },
+         {
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp",
+            "classroom": "C1.112"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A25",
-            "classroom": "C1.112",
-            "subject": "Interactie-ontwerp"
-         }
-      ]
+      "3": []
    }
 }

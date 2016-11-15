@@ -1,34 +1,42 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
             "string": "L0A54",
-            "classroom": "A1.04",
-            "subject": "Lineaire Algebra"
-         },
-         {
-            "string": "L1A54",
-            "classroom": "B0.201",
-            "subject": "Lineaire Algebra"
-         },
-         {
-            "string": "W0B19",
-            "classroom": "A1.04",
-            "subject": "Webprogrammeren en databases"
+            "subject": "Lineaire Algebra",
+            "classroom": "A1.08"
          }
       ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "W0B19",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "B0.201"
+         }
+      ]
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
             "string": "P0B19",
-            "classroom": "A1.10",
-            "subject": "Webprogrammeren en databases"
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.08"
+         }
+      ],
+      "1": [
+         {
+            "string": "L1A39",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.08"
+         }
+      ],
+      "2": [
+         {
+            "string": "L1A54",
+            "subject": "Lineaire Algebra",
+            "classroom": "A1.04"
          }
       ],
       "3": []
@@ -47,19 +55,14 @@
    },
    "4": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [],
+      "3": [
          {
             "string": "L0A39",
-            "classroom": "A1.08",
-            "subject": "Webprogrammeren en databases"
-         },
-         {
-            "string": "L1A39",
-            "classroom": "A1.08",
-            "subject": "Webprogrammeren en databases"
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.10"
          }
-      ],
-      "2": [],
-      "3": []
+      ]
    }
 }

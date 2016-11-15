@@ -1,101 +1,99 @@
 {
    "0": {
+      "0": [
+         {
+            "string": "L0A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "P0A35",
+            "subject": "Compilerbouw",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "L0A54",
+            "subject": "Lineaire Algebra",
+            "classroom": "A1.08"
+         }
+      ],
+      "1": [
+         {
+            "string": "W0A16",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C1.112"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "1": {
       "0": [],
       "1": [
          {
-            "string": "L0A54",
-            "classroom": "A1.04",
-            "subject": "Lineaire Algebra"
-         },
-         {
-            "string": "L1A54",
-            "classroom": "B0.201",
-            "subject": "Lineaire Algebra"
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110"
          }
       ],
       "2": [
          {
-            "string": "W0A16",
-            "classroom": "C1.112",
-            "subject": "Collectieve Intelligentie"
+            "string": "W0A35",
+            "subject": "Compilerbouw",
+            "classroom": "C1.112"
          },
          {
-            "string": "P0A16",
-            "classroom": "C1.112",
-            "subject": "Collectieve Intelligentie"
+            "string": "L1A54",
+            "subject": "Lineaire Algebra",
+            "classroom": "A1.04"
          }
       ],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "string": "L0A61",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "1": [
-         {
-            "string": "P0A35",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw"
-         }
-      ],
-      "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "string": "P0A15",
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [
+         {
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.04"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [
          {
-            "string": "L1A69",
-            "classroom": "A1.06",
-            "subject": "Compilerbouw"
+            "string": "P0A16",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110"
          }
       ],
-      "1": [
-         {
-            "string": "L1A61",
-            "classroom": "A1.06",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "P0A15",
-            "classroom": "A1.06",
-            "subject": "Project Numerical Recipes"
-         }
-      ]
+      "3": []
    },
    "4": {
-      "0": [
-         {
-            "string": "L2A61",
-            "classroom": "A1.06",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "1": [
-         {
-            "string": "L0A69",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
       "3": [
          {
-            "string": "W0A35",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw"
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "L1A69",
+            "subject": "Compilerbouw",
+            "classroom": "C0.110"
          }
       ]
    }

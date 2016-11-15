@@ -1,75 +1,71 @@
 from process_data import *
 from score_system import *
-from iteration_management import *
+from iteration_manager import *
 from random import randint, choice, random
 from operator import itemgetter
 
-iteration = 0
-iteration_dct = {}
+def simple_hill_climber(classroomWeigth, timeslotWeigth, dayWeigth, lecture_dct):
+    print("Starting simple hill climber...")
 
-noProgressCounter = 0
+    weight = 1 / (classroomWeigth + timeslotWeigth + dayWeigth)
 
-classroomWeigth = 0.333
-timeslotWeigth = 0.333
-dayWeigth = 0.333
+    classroomWeigth = classroomWeigth * weight
+    timeslotWeigth = timeslotWeigth * weight
+    dayWeigth = dayWeigth * weight
 
+    im = IterationManager(lecture_dct)
 
-while noProgressCounter != 1000:
-    changed_lectures = []
+    noProgressCounter = 0
 
-    if iteration == 0:
-        for lecture in lectures:
-            lecture.day = randint(0, 4)
-            lecture.timeslot = randint(0, 3)
-            lecture.classroom = choice(classrooms)
+    while noProgressCounter != 1000:
+        changed_lectures = []
 
-            changed_lectures.append(lecture)
+        if im.i == 0:
+            for lecture in lectures:
+                lecture.day = randint(0, 4)
+                lecture.timeslot = randint(0, 3)
+                lecture.classroom = choice(classrooms)
 
-        iteration_dct = addChanges(changed_lectures, iteration, iteration_dct, lecture_dct)
-        iteration += 1
+                changed_lectures.append(lecture)
 
-    else:
-        lecture = choice(lectures)
-        r = random()
+            im.addChanges(changed_lectures)
+            im.i += 1
 
-        if r < classroomWeigth:
-            # Classroom
-            lecture.classroom = choice(classrooms)
-        elif r > classroomWeigth and r < (timeslotWeigth + classroomWeigth):
-            # Timeslot
-            lecture.timeslot = randint(0, 3)
-        elif r > (timeslotWeigth + classroomWeigth) and r < (timeslotWeigth + classroomWeigth + dayWeigth):
-            # Day
-            lecture.day = randint(0, 4)
-
-        iteration_dct = addChanges(changed_lectures, iteration, iteration_dct, lecture_dct)
-
-        #print((iteration, noProgressCounter, iteration_dct[iteration]["score"],  iteration_dct[iteration - 1]["score"]))
-
-        if iteration % 10 == 0:
-            print(iteration_dct[iteration]["score"])
-
-            iteration_dct = createBase(iteration, iteration_dct)
-
-        if iteration_dct[iteration]["score"] > iteration_dct[iteration - 1]["score"]:
-            iteration += 1
-            noProgressCounter = 0
         else:
-            lecture_dct = applyChanges(compileChanges(iteration - 1, iteration_dct), lecture_dct)
-            noProgressCounter += 1
+            lecture = choice(lectures)
+            r = random()
 
+            if r < classroomWeigth:
+                # Classroom
+                lecture.classroom = choice(classrooms)
+            elif r > classroomWeigth and r < (timeslotWeigth + classroomWeigth):
+                # Timeslot
+                lecture.timeslot = randint(0, 3)
+            elif r > (timeslotWeigth + classroomWeigth) and r < (timeslotWeigth + classroomWeigth + dayWeigth):
+                # Day
+                lecture.day = randint(0, 4)
 
+            im.addChanges(changed_lectures)
 
-lecture_dct = applyChanges(compileChanges(iteration, iteration_dct), lecture_dct)
+            if im.iteration_dct[im.i]["score"] > im.iteration_dct[im.i - 1]["score"]:
+                if im.i % 10 == 0:
+                    print(im.iteration_dct[im.i]["score"])
 
-best_iteration = max([(i, iteration_dct[i]["score"]) for i in iteration_dct.keys()], key=itemgetter(1))
-print("Best iteration: %s, Score: %s" % (best_iteration[0], best_iteration[1]))
+                    im.createBase()
 
-for x in subjects + students + classrooms:
-    x.clearLectures()
+                im.i += 1
+                noProgressCounter = 0
 
-for x in lectures:
-    x.assignLecturetoAll()
+            else:
+                im.applyChanges(im.compileChanges(im.i - 1))
+                noProgressCounter += 1
 
-for x in subjects + students + classrooms:
-    x.exportTimetable()
+    best_iteration = max([(i, im.iteration_dct[i]["score"]) for i in im.iteration_dct.keys()], key=itemgetter(1))
+    print("Best iteration: %s, Score: %s" % (best_iteration[0], best_iteration[1]))
+
+    lecture_dct = im.applyChanges(im.compileChanges(best_iteration[0]))
+
+    for x in subjects + students + classrooms:
+        x.exportTimetable()
+
+simple_hill_climber(1, 5, 3, lecture_dct)

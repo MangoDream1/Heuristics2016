@@ -2,83 +2,82 @@
    "0": {
       "0": [
          {
-            "string": "W0B8",
-            "classroom": "B0.201",
-            "subject": "Autonomous Agents 2"
-         }
-      ],
-      "1": [
-         {
             "string": "L0A54",
-            "classroom": "A1.04",
-            "subject": "Lineaire Algebra"
-         },
-         {
-            "string": "L1A54",
-            "classroom": "B0.201",
-            "subject": "Lineaire Algebra"
+            "subject": "Lineaire Algebra",
+            "classroom": "A1.08"
          }
       ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "string": "W0A36",
-            "classroom": "A1.04",
-            "subject": "Calculus 2"
+            "string": "L1A22",
+            "subject": "Autonomous Agents 2",
+            "classroom": "A1.06"
          }
       ]
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "L0A32",
-            "classroom": "A1.10",
-            "subject": "Heuristieken 2"
+            "string": "L0A22",
+            "subject": "Autonomous Agents 2",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "W0A36",
+            "subject": "Calculus 2",
+            "classroom": "A1.08"
          },
          {
             "string": "W0A16",
-            "classroom": "C1.112",
-            "subject": "Heuristieken 2"
+            "subject": "Heuristieken 2",
+            "classroom": "A1.08"
+         },
+         {
+            "string": "L1A54",
+            "subject": "Lineaire Algebra",
+            "classroom": "A1.04"
+         }
+      ],
+      "3": [
+         {
+            "string": "W0B8",
+            "subject": "Autonomous Agents 2",
+            "classroom": "A1.08"
          }
       ]
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "L0A22",
-            "classroom": "C1.112",
-            "subject": "Autonomous Agents 2"
+            "string": "L0A106",
+            "subject": "Calculus 2",
+            "classroom": "B0.201"
          }
       ],
+      "2": [],
       "3": [
          {
-            "string": "P0B8",
-            "classroom": "C1.112",
-            "subject": "Autonomous Agents 2"
+            "string": "L0A32",
+            "subject": "Heuristieken 2",
+            "classroom": "C1.112"
          }
       ]
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "L1A22",
-            "classroom": "A1.10",
-            "subject": "Autonomous Agents 2"
+            "string": "P0B8",
+            "subject": "Autonomous Agents 2",
+            "classroom": "C0.110"
          }
       ],
-      "2": [
-         {
-            "string": "L0A49",
-            "classroom": "C0.110",
-            "subject": "Analysemethoden en -technieken"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "4": {
@@ -86,9 +85,9 @@
       "1": [],
       "2": [
          {
-            "string": "L0A106",
-            "classroom": "B0.201",
-            "subject": "Calculus 2"
+            "string": "L0A49",
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "C1.112"
          }
       ],
       "3": []

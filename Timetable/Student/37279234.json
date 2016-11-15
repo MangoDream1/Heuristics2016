@@ -8,9 +8,9 @@
    "1": {
       "0": [
          {
-            "string": "W0B36",
-            "classroom": "C1.112",
-            "subject": "Calculus 2"
+            "string": "P0D19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.06"
          }
       ],
       "1": [],
@@ -19,32 +19,32 @@
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "string": "L0A106",
+            "subject": "Calculus 2",
+            "classroom": "B0.201"
+         }
+      ],
+      "2": [
+         {
+            "string": "W0B36",
+            "subject": "Calculus 2",
+            "classroom": "C1.112"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "P0D19",
-            "classroom": "C0.110",
-            "subject": "Programmeren in Java 2"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L0A106",
-            "classroom": "B0.201",
-            "subject": "Calculus 2"
-         }
-      ],
+      "2": [],
       "3": []
    }
 }

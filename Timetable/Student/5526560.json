@@ -2,20 +2,20 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L0A72",
-            "classroom": "A1.08",
-            "subject": "Databases 2"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0A12",
+            "subject": "Project Genetic Algorithms",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "2": {
       "0": [],
@@ -25,25 +25,26 @@
    },
    "3": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "string": "W0A36",
-            "classroom": "C0.110",
-            "subject": "Databases 2"
-         },
-         {
-            "string": "P0A12",
-            "classroom": "A1.04",
-            "subject": "Project Genetic Algorithms"
+            "string": "L0A72",
+            "subject": "Databases 2",
+            "classroom": "A1.06"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "W0A36",
+            "subject": "Databases 2",
+            "classroom": "A1.10"
+         }
+      ],
       "3": []
    }
 }

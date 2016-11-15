@@ -11,85 +11,85 @@
       "2": [],
       "3": [
          {
-            "string": "L1A22",
-            "classroom": "A1.04",
-            "subject": "Machine Learning"
+            "string": "L0A22",
+            "subject": "Machine Learning",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "P0C14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "C1.112"
          }
       ]
    },
    "2": {
       "0": [
          {
-            "string": "L2A45",
-            "classroom": "A1.08",
-            "subject": "Bioinformatica"
+            "string": "L1A45",
+            "subject": "Bioinformatica",
+            "classroom": "A1.06"
          }
       ],
-      "1": [
-         {
-            "string": "W0C18",
-            "classroom": "A1.06",
-            "subject": "Moderne Databases"
-         }
-      ],
-      "2": [
-         {
-            "string": "W0C15",
-            "classroom": "C0.110",
-            "subject": "Bioinformatica"
-         },
-         {
-            "string": "L0A54",
-            "classroom": "C1.112",
-            "subject": "Moderne Databases"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": [
          {
-            "string": "L0A45",
-            "classroom": "B0.201",
-            "subject": "Bioinformatica"
+            "string": "P0C18",
+            "subject": "Moderne Databases",
+            "classroom": "C1.112"
          }
       ]
    },
    "3": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "P0C15",
+            "subject": "Bioinformatica",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A45",
+            "subject": "Bioinformatica",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "L1A22",
+            "subject": "Machine Learning",
+            "classroom": "C0.110"
+         }
+      ],
       "2": [
          {
-            "string": "L1A45",
-            "classroom": "A1.10",
-            "subject": "Bioinformatica"
+            "string": "L2A45",
+            "subject": "Bioinformatica",
+            "classroom": "A1.10"
          }
       ],
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0C15",
+            "subject": "Bioinformatica",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [
          {
-            "string": "P0C15",
-            "classroom": "A1.06",
-            "subject": "Bioinformatica"
+            "string": "L0A54",
+            "subject": "Moderne Databases",
+            "classroom": "A1.06"
          },
          {
-            "string": "P0C14",
-            "classroom": "C1.112",
-            "subject": "Zoeken, sturen en bewegen"
+            "string": "W0C18",
+            "subject": "Moderne Databases",
+            "classroom": "A1.06"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "string": "L0A22",
-            "classroom": "C0.110",
-            "subject": "Machine Learning"
-         },
-         {
-            "string": "P0C18",
-            "classroom": "A1.10",
-            "subject": "Moderne Databases"
-         }
-      ]
+      "3": []
    }
 }

@@ -1,149 +1,32 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "W0C16",
-            "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "W0B34",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "W0B19",
-            "classroom": "C0.110",
-            "subject": "Technology for games"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "string": "P0A35",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw"
-         },
-         {
-            "string": "P0C12",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw (practicum)"
-         }
-      ],
-      "2": [
-         {
-            "string": "W0A38",
-            "classroom": "C0.110",
-            "subject": "Software engineering"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "P0A8",
-            "classroom": "C0.110",
-            "subject": "Autonomous Agents 2"
-         },
-         {
-            "string": "W0C15",
-            "classroom": "C0.110",
-            "subject": "Bioinformatica"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "string": "W0B17",
-            "classroom": "C0.110",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
-      "1": [
-         {
-            "string": "W0B10",
-            "classroom": "C0.110",
-            "subject": "Informatie- en organisatieontwerp"
-         },
-         {
-            "string": "P0C14",
-            "classroom": "C0.110",
-            "subject": "Project Numerical Recipes"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A49",
-            "classroom": "C0.110",
-            "subject": "Analysemethoden en -technieken"
-         }
-      ],
-      "3": [
-         {
-            "string": "W0A36",
-            "classroom": "C0.110",
-            "subject": "Databases 2"
-         },
-         {
-            "string": "P0D19",
-            "classroom": "C0.110",
-            "subject": "Programmeren in Java 2"
-         }
-      ]
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A69",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw"
-         },
-         {
-            "string": "L1A21",
-            "classroom": "C0.110",
-            "subject": "Informatie- en organisatieontwerp"
-         },
-         {
-            "string": "P0B19",
-            "classroom": "C0.110",
-            "subject": "Programmeren in Java 2"
-         }
-      ],
-      "2": [
-         {
-            "string": "P0C12",
-            "classroom": "C0.110",
-            "subject": "Project Genetic Algorithms"
-         }
-      ],
-      "3": [
-         {
-            "string": "W0A35",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw"
-         },
-         {
-            "string": "W0C9",
-            "classroom": "C0.110",
-            "subject": "Data Mining"
-         },
-         {
-            "string": "L0A22",
-            "classroom": "C0.110",
-            "subject": "Machine Learning"
-         }
-      ]
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

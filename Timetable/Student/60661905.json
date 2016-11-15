@@ -1,62 +1,62 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "P0A19",
-            "classroom": "B0.201",
-            "subject": "Programmeren in Java 2"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.06"
+         }
+      ],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "L1A51",
-            "classroom": "A1.04",
-            "subject": "Reflectie op de digitale cultuur"
+            "string": "W0A17",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "C1.112"
          }
       ],
-      "2": [],
       "3": []
    },
    "3": {
       "0": [
          {
-            "string": "W0A17",
-            "classroom": "A1.04",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "string": "L0A49",
-            "classroom": "C0.110",
-            "subject": "Analysemethoden en -technieken"
-         }
-      ],
-      "3": []
-   },
-   "4": {
-      "0": [
-         {
-            "string": "L0A51",
-            "classroom": "A1.10",
-            "subject": "Reflectie op de digitale cultuur"
+            "string": "L1A51",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.04"
          }
       ],
       "1": [],
       "2": [],
       "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "L0A49",
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "C1.112"
+         }
+      ],
+      "3": [
+         {
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.10"
+         }
+      ]
    }
 }

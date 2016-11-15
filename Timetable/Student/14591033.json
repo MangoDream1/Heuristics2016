@@ -1,64 +1,86 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
             "string": "L0A54",
-            "classroom": "A1.04",
-            "subject": "Lineaire Algebra"
-         },
-         {
-            "string": "L1A54",
-            "classroom": "B0.201",
-            "subject": "Lineaire Algebra"
+            "subject": "Lineaire Algebra",
+            "classroom": "A1.08"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L1A54",
+            "subject": "Lineaire Algebra",
+            "classroom": "A1.04"
+         }
+      ],
       "3": []
    },
    "2": {
       "0": [
          {
-            "string": "L2A45",
-            "classroom": "A1.08",
-            "subject": "Bioinformatica"
+            "string": "L1A45",
+            "subject": "Bioinformatica",
+            "classroom": "A1.06"
          }
       ],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "W0C15",
-            "classroom": "C0.110",
-            "subject": "Bioinformatica"
+            "string": "L0A106",
+            "subject": "Calculus 2",
+            "classroom": "B0.201"
          },
          {
-            "string": "L1A84",
-            "classroom": "C1.112",
-            "subject": "Kansrekenen 2"
+            "string": "L0A44",
+            "subject": "Heuristieken 1",
+            "classroom": "C1.112"
          }
       ],
-      "3": [
-         {
-            "string": "L0A45",
-            "classroom": "B0.201",
-            "subject": "Bioinformatica"
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "3": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "P0C15",
+            "subject": "Bioinformatica",
+            "classroom": "A1.04"
+         },
+         {
+            "string": "L0A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "C1.112"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A45",
+            "subject": "Bioinformatica",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "W0C34",
+            "subject": "Calculus 2",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [
          {
-            "string": "L1A45",
-            "classroom": "A1.10",
-            "subject": "Bioinformatica"
+            "string": "L2A45",
+            "subject": "Bioinformatica",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "W0B22",
+            "subject": "Heuristieken 1",
+            "classroom": "B0.201"
          }
       ],
       "3": []
@@ -66,41 +88,18 @@
    "4": {
       "0": [
          {
-            "string": "W0B22",
-            "classroom": "A1.08",
-            "subject": "Heuristieken 1"
-         }
-      ],
-      "1": [
-         {
-            "string": "P0C15",
-            "classroom": "A1.06",
-            "subject": "Bioinformatica"
+            "string": "W0C15",
+            "subject": "Bioinformatica",
+            "classroom": "A1.06"
          },
          {
-            "string": "L0A84",
-            "classroom": "C1.112",
-            "subject": "Kansrekenen 2"
+            "string": "L1A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "B0.201"
          }
       ],
-      "2": [
-         {
-            "string": "L0A106",
-            "classroom": "B0.201",
-            "subject": "Calculus 2"
-         }
-      ],
-      "3": [
-         {
-            "string": "W0C34",
-            "classroom": "C1.112",
-            "subject": "Calculus 2"
-         },
-         {
-            "string": "L0A44",
-            "classroom": "A1.04",
-            "subject": "Heuristieken 1"
-         }
-      ]
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

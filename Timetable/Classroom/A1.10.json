@@ -7,102 +7,26 @@
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "string": "P0B15",
-            "classroom": "A1.10",
-            "subject": "Bioinformatica"
-         }
-      ],
-      "2": [
-         {
-            "string": "L1A25",
-            "classroom": "A1.10",
-            "subject": "Interactie-ontwerp"
-         },
-         {
-            "string": "P0B19",
-            "classroom": "A1.10",
-            "subject": "Webprogrammeren en databases"
-         }
-      ],
-      "3": [
-         {
-            "string": "L0A32",
-            "classroom": "A1.10",
-            "subject": "Heuristieken 2"
-         },
-         {
-            "string": "P0B12",
-            "classroom": "A1.10",
-            "subject": "Project Genetic Algorithms"
-         }
-      ]
+      "1": [],
+      "2": [],
+      "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "string": "P0B10",
-            "classroom": "A1.10",
-            "subject": "Advanced Heuristics"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "string": "P0B15",
-            "classroom": "A1.10",
-            "subject": "Project Numerical Recipes"
-         }
-      ],
-      "1": [
-         {
-            "string": "L1A22",
-            "classroom": "A1.10",
-            "subject": "Autonomous Agents 2"
-         }
-      ],
-      "2": [
-         {
-            "string": "L1A45",
-            "classroom": "A1.10",
-            "subject": "Bioinformatica"
-         }
-      ],
+      "0": [],
+      "1": [],
+      "2": [],
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "string": "L0A51",
-            "classroom": "A1.10",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
-      "1": [
-         {
-            "string": "P0B9",
-            "classroom": "A1.10",
-            "subject": "Data Mining"
-         }
-      ],
-      "2": [
-         {
-            "string": "P0B21",
-            "classroom": "A1.10",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ],
-      "3": [
-         {
-            "string": "P0C18",
-            "classroom": "A1.10",
-            "subject": "Moderne Databases"
-         }
-      ]
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

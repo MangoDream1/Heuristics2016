@@ -1,29 +1,36 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
             "string": "L0A54",
-            "classroom": "A1.04",
-            "subject": "Lineaire Algebra"
-         },
-         {
-            "string": "L1A54",
-            "classroom": "B0.201",
-            "subject": "Lineaire Algebra"
+            "subject": "Lineaire Algebra",
+            "classroom": "A1.08"
          }
       ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0A38",
+            "subject": "Software engineering",
+            "classroom": "C0.110"
+         }
+      ]
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
             "string": "W0A38",
-            "classroom": "C0.110",
-            "subject": "Software engineering"
+            "subject": "Software engineering",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [
+         {
+            "string": "L1A54",
+            "subject": "Lineaire Algebra",
+            "classroom": "A1.04"
          }
       ],
       "3": []
@@ -31,48 +38,42 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L1A84",
-            "classroom": "C1.112",
-            "subject": "Kansrekenen 2"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "C1.112"
+         },
+         {
+            "string": "L0A75",
+            "subject": "Software engineering",
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "string": "L1A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "B0.201"
+         }
+      ],
       "1": [],
       "2": [
          {
             "string": "L0A49",
-            "classroom": "C0.110",
-            "subject": "Analysemethoden en -technieken"
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "C1.112"
          }
       ],
-      "3": [
-         {
-            "string": "L0A75",
-            "classroom": "A1.08",
-            "subject": "Software engineering"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
-      "1": [
-         {
-            "string": "L0A84",
-            "classroom": "C1.112",
-            "subject": "Kansrekenen 2"
-         },
-         {
-            "string": "P0A38",
-            "classroom": "A1.04",
-            "subject": "Software engineering"
-         }
-      ],
-      "2": [],
       "3": []
    }
 }

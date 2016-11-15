@@ -14,42 +14,43 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "W0B37",
+            "subject": "Software engineering",
+            "classroom": "A1.10"
+         }
+      ],
       "3": []
    },
    "3": {
+      "0": [
+         {
+            "string": "L0A75",
+            "subject": "Software engineering",
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
       "0": [],
       "1": [
          {
             "string": "P0B37",
-            "classroom": "C1.112",
-            "subject": "Software engineering"
+            "subject": "Software engineering",
+            "classroom": "A1.04"
          }
       ],
-      "2": [],
-      "3": [
+      "2": [
          {
             "string": "P0F15",
-            "classroom": "A1.04",
-            "subject": "Programmeren in Java 2"
-         },
-         {
-            "string": "L0A75",
-            "classroom": "A1.08",
-            "subject": "Software engineering"
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.10"
          }
-      ]
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "W0B37",
-            "classroom": "A1.04",
-            "subject": "Software engineering"
-         }
-      ]
+      ],
+      "3": []
    }
 }

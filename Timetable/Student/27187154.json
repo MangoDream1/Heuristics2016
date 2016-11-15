@@ -1,94 +1,94 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "W0B34",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw"
+            "string": "L0A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.10"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "P0E19",
-            "classroom": "B0.201",
-            "subject": "Programmeren in Java 2"
-         }
-      ],
+      "2": [],
       "3": [
          {
-            "string": "L1A22",
-            "classroom": "A1.04",
-            "subject": "Machine Learning"
+            "string": "L0A22",
+            "subject": "Machine Learning",
+            "classroom": "C0.110"
          }
       ]
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "L1A84",
-            "classroom": "C1.112",
-            "subject": "Kansrekenen 2"
+            "string": "L0A106",
+            "subject": "Calculus 2",
+            "classroom": "B0.201"
          }
       ],
+      "2": [],
       "3": []
    },
    "3": {
       "0": [
          {
-            "string": "L1A69",
-            "classroom": "A1.06",
-            "subject": "Compilerbouw"
+            "string": "L0A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "C1.112"
+         },
+         {
+            "string": "P0E19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [
+         {
+            "string": "W0C34",
+            "subject": "Calculus 2",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "L1A22",
+            "subject": "Machine Learning",
+            "classroom": "C0.110"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "W0B34",
+            "subject": "Compilerbouw",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "P0B34",
+            "subject": "Compilerbouw",
+            "classroom": "C0.110"
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "string": "L1A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "B0.201"
          }
       ],
       "1": [],
       "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [
-         {
-            "string": "L0A69",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw"
-         },
-         {
-            "string": "P0B34",
-            "classroom": "A1.06",
-            "subject": "Compilerbouw"
-         },
-         {
-            "string": "L0A84",
-            "classroom": "C1.112",
-            "subject": "Kansrekenen 2"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A106",
-            "classroom": "B0.201",
-            "subject": "Calculus 2"
-         }
-      ],
       "3": [
          {
-            "string": "W0C34",
-            "classroom": "C1.112",
-            "subject": "Calculus 2"
-         },
-         {
-            "string": "L0A22",
-            "classroom": "C0.110",
-            "subject": "Machine Learning"
+            "string": "L1A69",
+            "subject": "Compilerbouw",
+            "classroom": "C0.110"
          }
       ]
    }

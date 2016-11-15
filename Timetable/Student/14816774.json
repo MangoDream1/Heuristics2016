@@ -2,13 +2,7 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L0A72",
-            "classroom": "A1.08",
-            "subject": "Databases 2"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
@@ -20,40 +14,66 @@
    "2": {
       "0": [
          {
+            "string": "L1A45",
+            "subject": "Bioinformatica",
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A106",
+            "subject": "Calculus 2",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "L0A44",
+            "subject": "Heuristieken 1",
+            "classroom": "C1.112"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [
+         {
+            "string": "P0C15",
+            "subject": "Bioinformatica",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A45",
+            "subject": "Bioinformatica",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "W0C34",
+            "subject": "Calculus 2",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "L0A72",
+            "subject": "Databases 2",
+            "classroom": "A1.06"
+         }
+      ],
+      "2": [
+         {
             "string": "L2A45",
-            "classroom": "A1.08",
-            "subject": "Bioinformatica"
+            "subject": "Bioinformatica",
+            "classroom": "A1.10"
          },
          {
             "string": "W0B36",
-            "classroom": "A1.08",
-            "subject": "Databases 2"
-         }
-      ],
-      "1": [],
-      "2": [
+            "subject": "Databases 2",
+            "classroom": "A1.04"
+         },
          {
-            "string": "W0C15",
-            "classroom": "C0.110",
-            "subject": "Bioinformatica"
-         }
-      ],
-      "3": [
-         {
-            "string": "L0A45",
-            "classroom": "B0.201",
-            "subject": "Bioinformatica"
-         }
-      ]
-   },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "string": "L1A45",
-            "classroom": "A1.10",
-            "subject": "Bioinformatica"
+            "string": "W0B22",
+            "subject": "Heuristieken 1",
+            "classroom": "B0.201"
          }
       ],
       "3": []
@@ -61,36 +81,13 @@
    "4": {
       "0": [
          {
-            "string": "W0B22",
-            "classroom": "A1.08",
-            "subject": "Heuristieken 1"
+            "string": "W0C15",
+            "subject": "Bioinformatica",
+            "classroom": "A1.06"
          }
       ],
-      "1": [
-         {
-            "string": "P0C15",
-            "classroom": "A1.06",
-            "subject": "Bioinformatica"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A106",
-            "classroom": "B0.201",
-            "subject": "Calculus 2"
-         }
-      ],
-      "3": [
-         {
-            "string": "W0C34",
-            "classroom": "C1.112",
-            "subject": "Calculus 2"
-         },
-         {
-            "string": "L0A44",
-            "classroom": "A1.04",
-            "subject": "Heuristieken 1"
-         }
-      ]
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

@@ -9,7 +9,13 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0C14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "C1.112"
+         }
+      ]
    },
    "2": {
       "0": [],
@@ -25,13 +31,7 @@
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "string": "P0C14",
-            "classroom": "C1.112",
-            "subject": "Zoeken, sturen en bewegen"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    }

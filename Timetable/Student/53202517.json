@@ -2,45 +2,41 @@
    "0": {
       "0": [
          {
-            "string": "P0B14",
-            "classroom": "A1.06",
-            "subject": "Zoeken, sturen en bewegen"
+            "string": "L0A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.10"
          }
       ],
-      "1": [
-         {
-            "string": "W0B15",
-            "classroom": "B0.201",
-            "subject": "Bioinformatica"
-         },
-         {
-            "string": "W0B34",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw"
-         },
+      "1": [],
+      "2": [],
+      "3": [
          {
             "string": "W0B19",
-            "classroom": "A1.04",
-            "subject": "Webprogrammeren en databases"
+            "subject": "Webprogrammeren en databases",
+            "classroom": "B0.201"
          }
-      ],
-      "2": [],
-      "3": []
+      ]
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0B19",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.08"
+         }
+      ],
       "1": [
          {
-            "string": "P0B15",
-            "classroom": "A1.10",
-            "subject": "Bioinformatica"
+            "string": "L1A39",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.08"
          }
       ],
       "2": [
          {
-            "string": "P0B19",
-            "classroom": "A1.10",
-            "subject": "Webprogrammeren en databases"
+            "string": "W0B15",
+            "subject": "Bioinformatica",
+            "classroom": "B0.201"
          }
       ],
       "3": []
@@ -48,64 +44,71 @@
    "2": {
       "0": [
          {
-            "string": "L2A45",
-            "classroom": "A1.08",
-            "subject": "Bioinformatica"
+            "string": "L1A45",
+            "subject": "Bioinformatica",
+            "classroom": "A1.06"
          }
       ],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "L0A45",
-            "classroom": "B0.201",
-            "subject": "Bioinformatica"
+            "string": "P0B14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "A1.04"
          }
       ]
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "L1A69",
-            "classroom": "A1.06",
-            "subject": "Compilerbouw"
+            "string": "L0A45",
+            "subject": "Bioinformatica",
+            "classroom": "C0.110"
          }
       ],
-      "1": [],
       "2": [
          {
-            "string": "L1A45",
-            "classroom": "A1.10",
-            "subject": "Bioinformatica"
+            "string": "L2A45",
+            "subject": "Bioinformatica",
+            "classroom": "A1.10"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "string": "W0B34",
+            "subject": "Compilerbouw",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "P0B34",
+            "subject": "Compilerbouw",
+            "classroom": "C0.110"
+         }
+      ]
    },
    "4": {
       "0": [],
       "1": [
          {
-            "string": "L0A69",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw"
-         },
-         {
-            "string": "P0B34",
-            "classroom": "A1.06",
-            "subject": "Compilerbouw"
-         },
-         {
-            "string": "L0A39",
-            "classroom": "A1.08",
-            "subject": "Webprogrammeren en databases"
-         },
-         {
-            "string": "L1A39",
-            "classroom": "A1.08",
-            "subject": "Webprogrammeren en databases"
+            "string": "P0B15",
+            "subject": "Bioinformatica",
+            "classroom": "A1.10"
          }
       ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L1A69",
+            "subject": "Compilerbouw",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "L0A39",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.10"
+         }
+      ]
    }
 }

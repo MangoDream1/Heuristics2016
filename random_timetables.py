@@ -1,6 +1,6 @@
 from process_data import *
 from score_system import *
-from iteration_management import *
+from iteration_manager import *
 from random import randint, choice
 from operator import itemgetter
 
@@ -10,40 +10,39 @@ def update_progress(workdone, text='Progress:'):
     if workdone == 1:
         print('\n')
 
-iteration = 0
-iteration_dct = {}
-nPlannedIterations = 10000
+def random_timetables(nPlannedIterations, lecture_dct):
+    print("Starting random timetables with %s iterations..." % nPlannedIterations)
 
-while iteration != nPlannedIterations:
-    changed_lectures = []
+    im = IterationManager(lecture_dct)
 
-    for lecture in lectures:
-        lecture.day = randint(0, 4)
-        lecture.timeslot = randint(0, 3)
-        lecture.classroom = choice(classrooms)
+    while im.i != nPlannedIterations:
+        changed_lectures = []
 
-        changed_lectures.append(lecture)
+        for lecture in lectures:
+            lecture.day = randint(0, 4)
+            lecture.timeslot = randint(0, 3)
+            lecture.classroom = choice(classrooms)
 
-    iteration_dct = addChanges(changed_lectures, iteration, iteration_dct, lecture_dct)
+            changed_lectures.append(lecture)
 
-    # Makes all base since its all random anyways
-    iteration_dct = createBase(iteration, iteration_dct)
+        im.addChanges(changed_lectures)
 
-    iteration += 1
-    update_progress(iteration/nPlannedIterations)
+        # Makes all base since its all random anyways
+        im.createBase()
 
-best_iteration = max([(i, iteration_dct[i]["score"]) for i in iteration_dct.keys()], key=itemgetter(1))
+        im.i += 1
+        update_progress(im.i/nPlannedIterations)
 
-print("Best iteration: %s, Score: %s" % (best_iteration[0], best_iteration[1]))
+    best_iteration = max([(i, im.iteration_dct[i]["score"]) for i in im.iteration_dct.keys()], key=itemgetter(1))
 
-compiled_changes = compileChanges(best_iteration[0], iteration_dct)
-lecture_dct = applyChanges(compiled_changes, lecture_dct)
+    print("Best iteration: %s, Score: %s" % (best_iteration[0], best_iteration[1]))
 
-for x in subjects + students + classrooms:
-    x.clearLectures()
+    compiled_changes = im.compileChanges(best_iteration[0])
+    lecture_dct = im.applyChanges(compiled_changes)
 
-for x in lectures:
-    x.assignLecturetoAll()
+    for x in subjects + students + classrooms:
+        x.exportTimetable()
 
-for x in subjects + students + classrooms:
-    x.exportTimetable()
+    return lecture_dct
+
+random_timetables(100, lecture_dct)

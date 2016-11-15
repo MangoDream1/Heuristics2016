@@ -1,30 +1,36 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "W0A11",
-            "classroom": "B0.201",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "L0A21",
-            "classroom": "B0.201",
-            "subject": "Informatie- en organisatieontwerp"
+            "string": "W0A11",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.04"
          }
       ],
-      "3": []
+      "2": [],
+      "3": [
+         {
+            "string": "P0A11",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.10"
+         }
+      ]
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "string": "L1A21",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.08"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -37,19 +43,13 @@
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "string": "L1A21",
-            "classroom": "C0.110",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "string": "P0A11",
-            "classroom": "B0.201",
-            "subject": "Informatie- en organisatieontwerp"
+            "string": "L0A21",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.10"
          }
       ]
    }

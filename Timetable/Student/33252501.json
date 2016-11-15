@@ -11,9 +11,9 @@
       "2": [],
       "3": [
          {
-            "string": "L1A22",
-            "classroom": "A1.04",
-            "subject": "Machine Learning"
+            "string": "L0A22",
+            "subject": "Machine Learning",
+            "classroom": "C0.110"
          }
       ]
    },
@@ -25,7 +25,13 @@
    },
    "3": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L1A22",
+            "subject": "Machine Learning",
+            "classroom": "C0.110"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -33,12 +39,6 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A22",
-            "classroom": "C0.110",
-            "subject": "Machine Learning"
-         }
-      ]
+      "3": []
    }
 }

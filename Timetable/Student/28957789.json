@@ -9,53 +9,54 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0C14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "C1.112"
+         }
+      ]
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "L1A84",
-            "classroom": "C1.112",
-            "subject": "Kansrekenen 2"
+            "string": "L0A106",
+            "subject": "Calculus 2",
+            "classroom": "B0.201"
          }
       ],
+      "2": [],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "L0A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "C1.112"
+         }
+      ],
+      "1": [
+         {
+            "string": "W0C34",
+            "subject": "Calculus 2",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "L0A84",
-            "classroom": "C1.112",
-            "subject": "Kansrekenen 2"
-         },
-         {
-            "string": "P0C14",
-            "classroom": "C1.112",
-            "subject": "Zoeken, sturen en bewegen"
+            "string": "L1A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "B0.201"
          }
       ],
-      "2": [
-         {
-            "string": "L0A106",
-            "classroom": "B0.201",
-            "subject": "Calculus 2"
-         }
-      ],
-      "3": [
-         {
-            "string": "W0C34",
-            "classroom": "C1.112",
-            "subject": "Calculus 2"
-         }
-      ]
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

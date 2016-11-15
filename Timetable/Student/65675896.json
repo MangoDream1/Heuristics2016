@@ -1,6 +1,12 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0C12",
+            "subject": "Compilerbouw (practicum)",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -9,18 +15,12 @@
       "0": [],
       "1": [
          {
-            "string": "P0C12",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw (practicum)"
+            "string": "L0A25",
+            "subject": "Interactie-ontwerp",
+            "classroom": "C1.112"
          }
       ],
-      "2": [
-         {
-            "string": "L1A25",
-            "classroom": "A1.10",
-            "subject": "Interactie-ontwerp"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
@@ -32,19 +32,19 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp",
+            "classroom": "C1.112"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A25",
-            "classroom": "C1.112",
-            "subject": "Interactie-ontwerp"
-         }
-      ]
+      "3": []
    }
 }

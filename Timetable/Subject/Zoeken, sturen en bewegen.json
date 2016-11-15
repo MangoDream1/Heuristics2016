@@ -1,17 +1,6 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "P0A14",
-            "classroom": "A1.06",
-            "subject": "Zoeken, sturen en bewegen"
-         },
-         {
-            "string": "P0B14",
-            "classroom": "A1.06",
-            "subject": "Zoeken, sturen en bewegen"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -20,13 +9,30 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0C14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "C1.112"
+         }
+      ]
    },
    "2": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0A14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "P0B14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "A1.04"
+         }
+      ]
    },
    "3": {
       "0": [],
@@ -36,13 +42,7 @@
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "string": "P0C14",
-            "classroom": "C1.112",
-            "subject": "Zoeken, sturen en bewegen"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    }

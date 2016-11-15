@@ -2,19 +2,25 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "P0C14",
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.04"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "L1A25",
-            "classroom": "A1.10",
-            "subject": "Interactie-ontwerp"
+            "string": "L0A25",
+            "subject": "Interactie-ontwerp",
+            "classroom": "C1.112"
          }
       ],
+      "2": [],
       "3": []
    },
    "2": {
@@ -25,32 +31,26 @@
    },
    "3": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "P0C14",
-            "classroom": "C0.110",
-            "subject": "Project Numerical Recipes"
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp",
+            "classroom": "C1.112"
          }
       ],
-      "2": [],
-      "3": [
-         {
-            "string": "P0F15",
-            "classroom": "A1.04",
-            "subject": "Programmeren in Java 2"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "L0A25",
-            "classroom": "C1.112",
-            "subject": "Interactie-ontwerp"
+            "string": "P0F15",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.10"
          }
-      ]
+      ],
+      "3": []
    }
 }
