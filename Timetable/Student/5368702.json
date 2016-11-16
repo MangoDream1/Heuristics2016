@@ -1,79 +1,79 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "L1A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.04"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "string": "L1A84",
-            "subject": "Kansrekenen 2",
-            "classroom": "C0.110"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "string": "P0A35",
-            "subject": "Compilerbouw",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.10"
+            "classroom": "C0.110",
+            "string": "L0A25",
+            "subject": "Interactie-ontwerp"
          }
       ],
       "3": [
          {
-            "string": "L0A25",
-            "subject": "Interactie-ontwerp",
-            "classroom": "C0.110"
+            "classroom": "C0.110",
+            "string": "L1A69",
+            "subject": "Compilerbouw"
          }
       ]
    },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
    "2": {
-      "0": [
-         {
-            "string": "L1A25",
-            "subject": "Interactie-ontwerp",
-            "classroom": "B0.201"
-         },
-         {
-            "string": "L0A84",
-            "subject": "Kansrekenen 2",
-            "classroom": "C1.112"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "W0A35",
-            "subject": "Compilerbouw",
-            "classroom": "B0.201"
+            "classroom": "A1.06",
+            "string": "L0A69",
+            "subject": "Compilerbouw"
          }
       ],
-      "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.06",
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": []
+      "1": [
+         {
+            "classroom": "A1.04",
+            "string": "W0A35",
+            "subject": "Compilerbouw"
+         },
+         {
+            "classroom": "A1.08",
+            "string": "L0A84",
+            "subject": "Kansrekenen 2"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "A1.10",
+            "string": "P0A35",
+            "subject": "Compilerbouw"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "C0.110",
+            "string": "L1A84",
+            "subject": "Kansrekenen 2"
+         }
+      ]
    }
 }

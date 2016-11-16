@@ -15,7 +15,8 @@ def main():
 
     _object = findObject(_id)
 
-    available_items = {"classrooms": classrooms, "students": students, "subjects": subjects}
+    available_items = {"classrooms": iteration_manager.classrooms,
+    "students": iteration_manager.students, "subjects": iteration_manager.subjects}
 
 
     return render_template("index.html", object=_object, available_items=available_items)
@@ -47,15 +48,15 @@ def findObject(_id):
     _object = None
     if _id:
         try:
-            _object = classroom_dct[_id]
+            _object = iteration_manager.classroom_dct[_id]
         except:
             pass
         try:
-            _object = subject_dct[_id]
+            _object = iteration_manager.subject_dct[_id]
         except:
             pass
         try:
-            _object = student_dct[_id]
+            _object = iteration_manager.student_dct[_id]
         except:
             pass
 

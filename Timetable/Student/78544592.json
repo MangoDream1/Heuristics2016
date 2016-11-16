@@ -1,24 +1,24 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "L0A106",
-            "subject": "Calculus 2",
-            "classroom": "C1.112"
+            "classroom": "A1.10",
+            "string": "W0A34",
+            "subject": "Calculus 2"
          }
       ],
-      "2": [
-         {
-            "string": "W0C34",
-            "subject": "Calculus 2",
-            "classroom": "C1.112"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "C0.110",
+            "string": "P0A18",
+            "subject": "Moderne Databases"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -32,31 +32,31 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "L0A54",
-            "subject": "Moderne Databases",
-            "classroom": "A1.08"
+            "classroom": "C1.112",
+            "string": "L0A106",
+            "subject": "Calculus 2"
          }
-      ]
+      ],
+      "3": []
    },
    "4": {
       "0": [
          {
-            "string": "P0B18",
-            "subject": "Moderne Databases",
-            "classroom": "A1.04"
+            "classroom": "C1.112",
+            "string": "L0A54",
+            "subject": "Moderne Databases"
          }
       ],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "W0B18",
-            "subject": "Moderne Databases",
-            "classroom": "A1.08"
+            "classroom": "A1.04",
+            "string": "W0A18",
+            "subject": "Moderne Databases"
          }
       ],
+      "2": [],
       "3": []
    }
 }

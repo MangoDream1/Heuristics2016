@@ -1,10 +1,8 @@
-
-# coding: utf-8
-
 # --------------
 # Get Data:
 
 from classes import *
+from iteration_manager import *
 
 print("Getting data...")
 
@@ -72,20 +70,10 @@ print("Transforming data...")
 # Transform data:
 
 classrooms = [Classroom(x[0], x[1]) for x in classrooms]
-classroom_dct = {x.room_number: x for x in classrooms}
 
 subjects = [Subject(x[0], x[1], x[2], x[3], x[4], x[5]) for x in subjects]
-subject_dct = {x.__str__(): x for x in subjects}
 
-students = [Student(x[0], x[1], x[2], x[3], x[4], x[5], x[6], x[7], subject_dct)
+students = [Student(x[0], x[1], x[2], x[3], x[4], x[5], x[6], x[7])
             for x in students]
-student_dct = {x.studentId: x for x in students}
 
-# Assign students to lectures
-for x in subjects:
-    x.assignStudentsToLectures()
-
-# Two way dictionary for finding lectures
-lectures = [lecture for subject in subjects for lecture in subject.lectures]
-lecture_dct = {index: lecture for index, lecture in enumerate(lectures)}
-lecture_dct = dict(lecture_dct.items() | dict(reversed(item) for item in lecture_dct.items()).items())
+iteration_manager = IterationManager(classrooms, subjects, students)

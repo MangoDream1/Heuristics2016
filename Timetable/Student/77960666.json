@@ -1,38 +1,33 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "1": {
       "0": [
          {
-            "string": "L0A51",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.08"
-         },
-         {
-            "string": "L1A51",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.10"
+            "classroom": "C0.110",
+            "string": "L0A72",
+            "subject": "Databases 2"
          }
       ],
       "1": [
          {
-            "string": "W0B17",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "C0.110"
+            "classroom": "C1.112",
+            "string": "W0A36",
+            "subject": "Databases 2"
          }
       ],
       "2": [],
       "3": [
          {
-            "string": "L0A72",
-            "subject": "Databases 2",
-            "classroom": "A1.06"
+            "classroom": "C0.110",
+            "string": "L1A51",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ]
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "2": {
       "0": [],
@@ -41,22 +36,29 @@
       "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "C0.110",
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "C0.110",
+            "string": "W0A17",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ]
    },
    "4": {
       "0": [
          {
-            "string": "P0C19",
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.04"
-         },
-         {
-            "string": "W0A36",
-            "subject": "Databases 2",
-            "classroom": "A1.10"
+            "classroom": "B0.201",
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2"
          }
       ],
       "1": [],

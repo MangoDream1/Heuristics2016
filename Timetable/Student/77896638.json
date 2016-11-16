@@ -2,90 +2,92 @@
    "0": {
       "0": [
          {
-            "string": "P0E19",
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.10"
+            "classroom": "A1.06",
+            "string": "P0A34",
+            "subject": "Compilerbouw"
          },
          {
-            "string": "L0A54",
-            "subject": "Lineaire Algebra",
-            "classroom": "B0.201"
+            "classroom": "C0.110",
+            "string": "L0A72",
+            "subject": "Databases 2"
          }
       ],
       "1": [
          {
-            "string": "L2A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "C1.112"
-         },
-         {
-            "string": "L1A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.04"
+            "classroom": "C1.112",
+            "string": "W0A34",
+            "subject": "Compilerbouw"
          }
       ],
       "2": [
          {
-            "string": "W0D13",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "C0.110"
+            "classroom": "C1.112",
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2"
          }
       ],
       "3": [
          {
-            "string": "L0A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.10"
-         },
-         {
-            "string": "W0B36",
-            "subject": "Databases 2",
-            "classroom": "C1.112"
+            "classroom": "C0.110",
+            "string": "L1A69",
+            "subject": "Compilerbouw"
          }
       ]
    },
    "1": {
-      "0": [
-         {
-            "string": "W0B34",
-            "subject": "Compilerbouw",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.10"
+            "classroom": "B0.201",
+            "string": "P0A13",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "3": [
          {
-            "string": "L0A72",
-            "subject": "Databases 2",
-            "classroom": "A1.06"
+            "classroom": "C1.112",
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie"
          }
       ]
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "L1A54",
+            "subject": "Lineaire Algebra"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "A1.04",
+            "string": "W0A13",
+            "subject": "Collectieve Intelligentie"
+         }
+      ]
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "B0.201",
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "1": [
          {
-            "string": "P0B34",
-            "subject": "Compilerbouw",
-            "classroom": "B0.201"
+            "classroom": "A1.06",
+            "string": "L0A69",
+            "subject": "Compilerbouw"
          },
          {
-            "string": "L1A54",
-            "subject": "Lineaire Algebra",
-            "classroom": "A1.06"
+            "classroom": "C0.110",
+            "string": "W0A36",
+            "subject": "Databases 2"
          }
       ],
       "2": [],
@@ -94,19 +96,19 @@
    "4": {
       "0": [
          {
-            "string": "L1A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "B0.201"
+            "classroom": "A1.08",
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "P0D13",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.10"
+            "classroom": "B0.201",
+            "string": "L0A54",
+            "subject": "Lineaire Algebra"
          }
       ],
-      "2": [],
       "3": []
    }
 }

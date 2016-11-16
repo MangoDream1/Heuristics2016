@@ -1,108 +1,107 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "P0A10",
-            "subject": "Advanced Heuristics",
-            "classroom": "A1.04"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "string": "L2A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "C1.112"
+            "classroom": "A1.10",
+            "string": "W0A19",
+            "subject": "Technology for games"
          }
       ],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "L0A38",
-            "subject": "Technology for games",
-            "classroom": "A1.08"
-         },
-         {
-            "string": "L0A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.10"
+            "classroom": "C0.110",
+            "string": "L0A25",
+            "subject": "Interactie-ontwerp"
          }
-      ]
+      ],
+      "3": []
    },
    "1": {
       "0": [],
       "1": [],
       "2": [
          {
-            "string": "P0B14",
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "C1.112"
+            "classroom": "A1.04",
+            "string": "P0A14",
+            "subject": "Zoeken, sturen en bewegen"
          }
       ],
       "3": [
          {
-            "string": "L0A25",
-            "subject": "Interactie-ontwerp",
-            "classroom": "C0.110"
+            "classroom": "A1.06",
+            "string": "P0A10",
+            "subject": "Advanced Heuristics"
+         },
+         {
+            "classroom": "C1.112",
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie"
          }
       ]
    },
    "2": {
       "0": [
          {
-            "string": "L1A25",
-            "subject": "Interactie-ontwerp",
-            "classroom": "B0.201"
+            "classroom": "A1.08",
+            "string": "P0A16",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "P0B16",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.08"
+            "classroom": "C0.110",
+            "string": "L0A38",
+            "subject": "Technology for games"
          }
       ]
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "L1A38",
-            "subject": "Technology for games",
-            "classroom": "A1.08"
+            "classroom": "B0.201",
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "classroom": "C0.110",
+            "string": "L0A20",
+            "subject": "Advanced Heuristics"
          }
       ],
-      "2": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "A1.04",
+            "string": "W0A16",
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "classroom": "A1.06",
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [
          {
-            "string": "L1A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "B0.201"
+            "classroom": "A1.08",
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "1": [
+      "1": [],
+      "2": [],
+      "3": [
          {
-            "string": "L0A20",
-            "subject": "Advanced Heuristics",
-            "classroom": "C0.110"
-         },
-         {
-            "string": "W0B16",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "B0.201"
+            "classroom": "A1.06",
+            "string": "L1A38",
+            "subject": "Technology for games"
          }
-      ],
-      "2": [
-         {
-            "string": "W0A19",
-            "subject": "Technology for games",
-            "classroom": "C1.112"
-         }
-      ],
-      "3": []
+      ]
    }
 }

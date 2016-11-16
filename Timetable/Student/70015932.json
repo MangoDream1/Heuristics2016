@@ -1,18 +1,24 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
+            "classroom": "C1.112",
             "string": "W0A38",
-            "subject": "Software engineering",
-            "classroom": "C1.112"
+            "subject": "Software engineering"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.04",
+            "string": "L0A21",
+            "subject": "Architectuur en computerorganisatie"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -20,7 +26,13 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.10",
+            "string": "L0A75",
+            "subject": "Software engineering"
+         }
+      ],
       "3": []
    },
    "3": {
@@ -28,30 +40,19 @@
       "1": [],
       "2": [
          {
-            "string": "L0A75",
-            "subject": "Software engineering",
-            "classroom": "C0.110"
+            "classroom": "C0.110",
+            "string": "L1A21",
+            "subject": "Architectuur en computerorganisatie"
          }
       ],
-      "3": [
-         {
-            "string": "L0A21",
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "B0.201"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [
          {
+            "classroom": "C1.112",
             "string": "P0A38",
-            "subject": "Software engineering",
-            "classroom": "A1.04"
-         },
-         {
-            "string": "L1A21",
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "A1.10"
+            "subject": "Software engineering"
          }
       ],
       "1": [],

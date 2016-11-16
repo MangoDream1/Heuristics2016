@@ -2,53 +2,41 @@
    "0": {
       "0": [
          {
+            "classroom": "C1.112",
             "string": "L0A43",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "B0.201"
+            "subject": "Algoritmen en complexiteit"
          }
       ],
       "1": [],
       "2": [
          {
-            "string": "L1A84",
-            "subject": "Kansrekenen 2",
-            "classroom": "C0.110"
+            "classroom": "A1.10",
+            "string": "P0A37",
+            "subject": "Software engineering"
          }
       ],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "W0B37",
-            "subject": "Software engineering",
-            "classroom": "A1.08"
-         }
-      ]
-   },
-   "2": {
       "0": [
          {
-            "string": "L0A84",
-            "subject": "Kansrekenen 2",
-            "classroom": "C1.112"
+            "classroom": "A1.10",
+            "string": "P0A21",
+            "subject": "Algoritmen en complexiteit"
          }
       ],
-      "1": [
-         {
-            "string": "P0B37",
-            "subject": "Software engineering",
-            "classroom": "B0.201"
-         }
-      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
       "2": [
          {
-            "string": "P0B21",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.04"
+            "classroom": "A1.10",
+            "string": "L0A75",
+            "subject": "Software engineering"
          }
       ],
       "3": []
@@ -56,24 +44,35 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L0A75",
-            "subject": "Software engineering",
-            "classroom": "C0.110"
-         }
-      ],
-      "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [],
       "2": [],
       "3": [
          {
-            "string": "W0B21",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "B0.201"
+            "classroom": "A1.06",
+            "string": "W0A37",
+            "subject": "Software engineering"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "A1.08",
+            "string": "L0A84",
+            "subject": "Kansrekenen 2"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "classroom": "C0.110",
+            "string": "L1A84",
+            "subject": "Kansrekenen 2"
+         },
+         {
+            "classroom": "A1.08",
+            "string": "W0A21",
+            "subject": "Algoritmen en complexiteit"
          }
       ]
    }

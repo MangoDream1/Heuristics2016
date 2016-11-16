@@ -1,56 +1,56 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.06",
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "string": "P0B16",
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [
-         {
-            "string": "P0C16",
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "C0.110"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "P0D16",
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "A1.04"
+            "classroom": "A1.04",
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "string": "P0A16",
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "A1.10"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "C0.110",
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ]
    },
    "4": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.08",
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ]
    }
 }

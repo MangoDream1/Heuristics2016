@@ -1,26 +1,48 @@
 from score_system import *
-from process_data import *
 
 class IterationManager:
-    def __init__(self, lecture_dct):
+    def __init__(self, classrooms, subjects, students):
         self.iteration_dct = {}
-        self.lecture_dct = lecture_dct
+
+        self.classrooms = classrooms
+        self.classroom_dct = {x.getId(): x for x in classrooms}
+
+        self.subjects = subjects
+        self.subject_dct = {x.getId(): x for x in subjects}
+
+        self.students = students
+        self.student_dct = {x.getId(): x for x in students}
+
+        for student in self.students:
+            student.assignSubjectToStudent(self.subject_dct)
+
+        # Assign students to lectures
+        for subject in self.subjects:
+            subject.assignStudentsToLectures()
+
+        # Two way dictionary for finding lectures
+        self.lectures = [lecture for subject in subjects for lecture in subject.lectures]
+        self.lecture_dct = {index: lecture for index, lecture in enumerate(self.lectures)}
+        self.lecture_dct = dict(self.lecture_dct.items() | dict(reversed(item) for item in self.lecture_dct.items()).items())
 
         self.i = 0
+
+    def resetLectures(self):
+        for x in self.subjects + self.students + self.classrooms:
+            x.clearLectures()
+
+        for x in self.lecture_dct.keys():
+            if type(x) != int:
+                x.assignLecturetoAll()
 
     def addChanges(self, changed_lectures):
         self.iteration_dct[self.i] = {self.lecture_dct[x]:x.getChangingDataDict()
                                     for x in changed_lectures}
         self.iteration_dct[self.i]["base"] = False
 
-        for x in subjects + students + classrooms:
-            x.clearLectures()
+        self.resetLectures()
 
-        for x in lecture_dct.keys():
-            if type(x) != int:
-                x.assignLecturetoAll()
-
-        self.iteration_dct[self.i]["score"] = ScoreSystem(subjects, students, classrooms).score
+        self.iteration_dct[self.i]["score"] = ScoreSystem(self.subjects, self.students, self.classrooms).score
 
         return self.iteration_dct
 
@@ -53,13 +75,50 @@ class IterationManager:
 
                 lecture.day = data["day"]
                 lecture.timeslot = data["timeslot"]
-                lecture.classroom = classroom_dct[data["classroom"]]
+                lecture.classroom = self.classroom_dct[data["classroom"]]
 
-        for x in subjects + students + classrooms:
-            x.clearLectures()
-
-        for x in lecture_dct.keys():
-            if type(x) != int:
-                x.assignLecturetoAll()
+        self.resetLectures()
 
         return self.lecture_dct
+
+    def exportLectures(self, file_name):
+        nLectures = max([x for x in self.lecture_dct if type(x) == int])
+
+        export_dct = [self.lecture_dct[x].toLongDict() for x in range(nLectures)]
+
+        if not os.path.exists("Timetable/Lectures"):
+            os.makedirs("Timetable/Lectures")
+
+        with open("Timetable/Lectures/%s.json" % file_name, 'w') as f:
+            json.dump(export_dct, f, indent=3)
+
+    def exportTimetable(self):
+        for x in self.subjects + self.students + self.classrooms:
+            x.exportTimetable()
+
+    def importLectures(self, file_name):
+        file_name = file_name.replace(".json", "")
+        path = "Timetable/Lectures/%s.json" % file_name
+
+        with open(path) as f:
+            data_list = json.load(f)
+
+        lectures = []
+
+        for dct in data_list:
+            l = Lecture(dct["name"], dct["lecture_number"], self.subject_dct[dct["subject"]], dct["maxStud"])
+
+            l.classroom = self.classroom_dct[dct["classroom"]]
+            l.day = dct["day"]
+            l.timeslot = dct["timeslot"]
+            l.students = [self.student_dct[x] for x in dct["students"]]
+
+            lectures.append(l)
+
+        self.lectures = lectures
+        self.lecture_dct = {index: lecture for index, lecture in enumerate(self.lectures)}
+        self.lecture_dct = dict(self.lecture_dct.items() | dict(reversed(item) for item in self.lecture_dct.items()).items())
+
+        self.resetLectures()
+
+        return self.lectures

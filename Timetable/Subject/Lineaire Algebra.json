@@ -1,12 +1,6 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "L0A54",
-            "subject": "Lineaire Algebra",
-            "classroom": "B0.201"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -20,25 +14,31 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "L1A54",
+            "subject": "Lineaire Algebra"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "string": "L1A54",
-            "subject": "Lineaire Algebra",
-            "classroom": "A1.06"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "B0.201",
+            "string": "L0A54",
+            "subject": "Lineaire Algebra"
+         }
+      ],
       "3": []
    }
 }

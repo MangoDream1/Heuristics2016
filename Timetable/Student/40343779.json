@@ -2,47 +2,47 @@
    "0": {
       "0": [
          {
+            "classroom": "C1.112",
             "string": "L0A43",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "B0.201"
+            "subject": "Algoritmen en complexiteit"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "classroom": "A1.10",
+            "string": "P0A37",
+            "subject": "Software engineering"
+         }
+      ],
+      "3": []
+   },
+   "1": {
+      "0": [
+         {
+            "classroom": "A1.10",
+            "string": "P0A21",
+            "subject": "Algoritmen en complexiteit"
          }
       ],
       "1": [],
       "2": [],
       "3": []
    },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "string": "P0C16",
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "C0.110"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "string": "W0B37",
-            "subject": "Software engineering",
-            "classroom": "A1.08"
-         }
-      ]
-   },
    "2": {
       "0": [],
       "1": [
          {
-            "string": "P0B37",
-            "subject": "Software engineering",
-            "classroom": "B0.201"
+            "classroom": "A1.04",
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ],
       "2": [
          {
-            "string": "P0B21",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.04"
+            "classroom": "A1.10",
+            "string": "L0A75",
+            "subject": "Software engineering"
          }
       ],
       "3": []
@@ -50,14 +50,14 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "string": "L0A75",
-            "subject": "Software engineering",
-            "classroom": "C0.110"
+            "classroom": "A1.06",
+            "string": "W0A37",
+            "subject": "Software engineering"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
       "0": [],
@@ -65,9 +65,9 @@
       "2": [],
       "3": [
          {
-            "string": "W0B21",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "B0.201"
+            "classroom": "A1.08",
+            "string": "W0A21",
+            "subject": "Algoritmen en complexiteit"
          }
       ]
    }

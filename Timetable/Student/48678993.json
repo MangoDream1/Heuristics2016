@@ -1,36 +1,43 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "2": {
       "0": [
          {
-            "string": "P0D16",
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "A1.04"
+            "classroom": "A1.06",
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "classroom": "C1.112",
+            "string": "L0A49",
+            "subject": "Analysemethoden en -technieken"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "classroom": "A1.06",
+            "string": "W0A16",
+            "subject": "Heuristieken 2"
          }
       ],
       "1": [
          {
-            "string": "L0A49",
-            "subject": "Analysemethoden en -technieken",
-            "classroom": "C0.110"
-         },
-         {
-            "string": "W0B16",
-            "subject": "Heuristieken 2",
-            "classroom": "C0.110"
+            "classroom": "B0.201",
+            "string": "L0A32",
+            "subject": "Heuristieken 2"
          }
       ],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -38,24 +45,18 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "P0C12",
-            "subject": "Project Genetic Algorithms",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A32",
-            "subject": "Heuristieken 2",
-            "classroom": "A1.10"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "C0.110",
+            "string": "P0A12",
+            "subject": "Project Genetic Algorithms"
+         }
+      ]
    }
 }

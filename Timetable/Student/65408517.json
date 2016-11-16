@@ -1,57 +1,57 @@
 {
    "0": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "L0A106",
-            "subject": "Calculus 2",
-            "classroom": "C1.112"
+            "classroom": "A1.10",
+            "string": "P0A37",
+            "subject": "Software engineering"
          }
       ],
-      "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "W0B36",
-            "subject": "Calculus 2",
-            "classroom": "A1.08"
-         }
-      ],
-      "3": [
-         {
-            "string": "W0B37",
-            "subject": "Software engineering",
-            "classroom": "A1.08"
-         }
-      ]
-   },
-   "2": {
-      "0": [],
-      "1": [
-         {
-            "string": "P0B37",
-            "subject": "Software engineering",
-            "classroom": "B0.201"
-         }
-      ],
       "2": [],
       "3": []
    },
-   "3": {
+   "2": {
       "0": [],
       "1": [],
       "2": [
          {
+            "classroom": "A1.10",
             "string": "L0A75",
-            "subject": "Software engineering",
-            "classroom": "C0.110"
+            "subject": "Software engineering"
          }
       ],
       "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "string": "W0A36",
+            "subject": "Calculus 2"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "C1.112",
+            "string": "L0A106",
+            "subject": "Calculus 2"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "A1.06",
+            "string": "W0A37",
+            "subject": "Software engineering"
+         }
+      ]
    },
    "4": {
       "0": [],

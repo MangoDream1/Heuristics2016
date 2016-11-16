@@ -1,64 +1,66 @@
 {
    "0": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "L0A106",
-            "subject": "Calculus 2",
-            "classroom": "C1.112"
-         },
-         {
-            "string": "L2A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "C1.112"
+            "classroom": "A1.10",
+            "string": "P0A16",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "2": [],
       "3": [
          {
-            "string": "L0A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.10"
+            "classroom": "A1.04",
+            "string": "W0A36",
+            "subject": "Calculus 2"
          }
       ]
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "W0A36",
-            "subject": "Calculus 2",
-            "classroom": "A1.04"
-         },
-         {
-            "string": "P0A16",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.06"
+            "classroom": "B0.201",
+            "string": "L0A32",
+            "subject": "Heuristieken 2"
          }
       ],
-      "3": []
+      "2": [],
+      "3": [
+         {
+            "classroom": "C1.112",
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie"
+         }
+      ]
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.06",
+            "string": "W0A16",
+            "subject": "Heuristieken 2"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [
          {
-            "string": "W0A16",
-            "subject": "Heuristieken 2",
-            "classroom": "C0.110"
+            "classroom": "B0.201",
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "1": [],
       "2": [
          {
-            "string": "W0A16",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "C1.112"
+            "classroom": "C1.112",
+            "string": "L0A106",
+            "subject": "Calculus 2"
          }
       ],
       "3": []
@@ -66,19 +68,19 @@
    "4": {
       "0": [
          {
-            "string": "L1A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "B0.201"
+            "classroom": "A1.08",
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "1": [
-         {
-            "string": "L0A32",
-            "subject": "Heuristieken 2",
-            "classroom": "A1.10"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "C0.110",
+            "string": "W0A16",
+            "subject": "Collectieve Intelligentie"
+         }
+      ]
    }
 }

@@ -1,118 +1,139 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "P0A10",
-            "subject": "Advanced Heuristics",
-            "classroom": "A1.04"
-         }
-      ],
-      "1": [
-         {
-            "string": "L1A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [
-         {
-            "string": "P0C6",
-            "subject": "Autonomous Agents 2",
-            "classroom": "A1.04"
-         },
-         {
-            "string": "W0B9",
-            "subject": "Data Mining",
-            "classroom": "A1.04"
-         }
-      ],
-      "3": [
-         {
-            "string": "W0A11",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.04"
-         }
-      ]
-   },
-   "1": {
       "0": [],
       "1": [],
       "2": [
          {
-            "string": "P0B8",
-            "subject": "Autonomous Agents 2",
-            "classroom": "A1.04"
+            "classroom": "A1.04",
+            "string": "W0A22",
+            "subject": "Algoritmen en complexiteit"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "A1.04",
+            "string": "W0A36",
+            "subject": "Calculus 2"
          },
          {
-            "string": "W0A36",
-            "subject": "Calculus 2",
-            "classroom": "A1.04"
+            "classroom": "A1.04",
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "classroom": "A1.04",
+            "string": "L0A21",
+            "subject": "Architectuur en computerorganisatie"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "classroom": "A1.04",
+            "string": "P0A14",
+            "subject": "Zoeken, sturen en bewegen"
          }
       ],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "string": "P0D16",
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "A1.04"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "string": "P0B21",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.04"
-         }
-      ],
-      "3": []
-   },
-   "3": {
       "0": [],
       "1": [
          {
-            "string": "L1A27",
-            "subject": "Data Mining",
-            "classroom": "A1.04"
+            "classroom": "A1.04",
+            "string": "L0A45",
+            "subject": "Bioinformatica"
+         },
+         {
+            "classroom": "A1.04",
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ],
       "2": [],
       "3": [
          {
-            "string": "L1A45",
-            "subject": "Bioinformatica",
-            "classroom": "A1.04"
+            "classroom": "A1.04",
+            "string": "W0A13",
+            "subject": "Collectieve Intelligentie"
          }
       ]
+   },
+   "3": {
+      "0": [
+         {
+            "classroom": "A1.04",
+            "string": "P0A19",
+            "subject": "Webprogrammeren en databases"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "A1.04",
+            "string": "L0A44",
+            "subject": "Heuristieken 1"
+         },
+         {
+            "classroom": "A1.04",
+            "string": "P0A10",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "A1.04",
+            "string": "W0A16",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "3": []
    },
    "4": {
       "0": [
          {
-            "string": "P0C19",
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.04"
+            "classroom": "A1.04",
+            "string": "P0A16",
+            "subject": "Collectieve Intelligentie"
          },
          {
-            "string": "P0A38",
-            "subject": "Software engineering",
-            "classroom": "A1.04"
+            "classroom": "A1.04",
+            "string": "L0A27",
+            "subject": "Data Mining"
          },
          {
-            "string": "P0B18",
-            "subject": "Moderne Databases",
-            "classroom": "A1.04"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
+            "classroom": "A1.04",
             "string": "W0A17",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.04"
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
-      "3": []
+      "1": [
+         {
+            "classroom": "A1.04",
+            "string": "W0A35",
+            "subject": "Compilerbouw"
+         },
+         {
+            "classroom": "A1.04",
+            "string": "W0A18",
+            "subject": "Moderne Databases"
+         },
+         {
+            "classroom": "A1.04",
+            "string": "P0A18",
+            "subject": "Moderne Databases"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "classroom": "A1.04",
+            "string": "L1A22",
+            "subject": "Machine Learning"
+         }
+      ]
    }
 }

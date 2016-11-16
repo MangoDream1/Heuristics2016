@@ -1,79 +1,79 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "L1A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.04"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "C0.110",
+            "string": "L1A69",
+            "subject": "Compilerbouw"
+         }
+      ]
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "P0A35",
-            "subject": "Compilerbouw",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.10"
+            "classroom": "A1.04",
+            "string": "L0A21",
+            "subject": "Architectuur en computerorganisatie"
          },
          {
-            "string": "L1A22",
-            "subject": "Machine Learning",
-            "classroom": "C1.112"
+            "classroom": "A1.10",
+            "string": "L0A22",
+            "subject": "Machine Learning"
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A22",
-            "subject": "Machine Learning",
-            "classroom": "A1.08"
-         }
-      ]
+      "3": []
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "W0A35",
-            "subject": "Compilerbouw",
-            "classroom": "B0.201"
+            "classroom": "A1.06",
+            "string": "L0A69",
+            "subject": "Compilerbouw"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "L0A21",
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "B0.201"
+            "classroom": "C0.110",
+            "string": "L1A21",
+            "subject": "Architectuur en computerorganisatie"
          }
-      ]
+      ],
+      "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "L1A21",
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "A1.10"
+            "classroom": "A1.04",
+            "string": "W0A35",
+            "subject": "Compilerbouw"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "classroom": "A1.10",
+            "string": "P0A35",
+            "subject": "Compilerbouw"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "A1.04",
+            "string": "L1A22",
+            "subject": "Machine Learning"
+         }
+      ]
    }
 }

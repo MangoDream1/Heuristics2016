@@ -4,7 +4,7 @@ from iteration_manager import *
 from random import randint, choice, random
 from operator import itemgetter
 
-def simple_hill_climber(classroomWeigth, timeslotWeigth, dayWeigth, lecture_dct):
+def simple_hill_climber(noProgressCounterLimit, classroomWeigth, timeslotWeigth, dayWeigth, im, startRandom=True):
     print("Starting simple hill climber...")
 
     weight = 1 / (classroomWeigth + timeslotWeigth + dayWeigth)
@@ -13,18 +13,16 @@ def simple_hill_climber(classroomWeigth, timeslotWeigth, dayWeigth, lecture_dct)
     timeslotWeigth = timeslotWeigth * weight
     dayWeigth = dayWeigth * weight
 
-    im = IterationManager(lecture_dct)
-
     noProgressCounter = 0
 
-    while noProgressCounter != 1000:
+    while noProgressCounter != noProgressCounterLimit:
         changed_lectures = []
 
-        if im.i == 0:
-            for lecture in lectures:
+        if im.i == 0 and startRandom:
+            for lecture in im.lectures:
                 lecture.day = randint(0, 4)
                 lecture.timeslot = randint(0, 3)
-                lecture.classroom = choice(classrooms)
+                lecture.classroom = choice(im.classrooms)
 
                 changed_lectures.append(lecture)
 
@@ -32,12 +30,12 @@ def simple_hill_climber(classroomWeigth, timeslotWeigth, dayWeigth, lecture_dct)
             im.i += 1
 
         else:
-            lecture = choice(lectures)
+            lecture = choice(im.lectures)
             r = random()
 
             if r < classroomWeigth:
                 # Classroom
-                lecture.classroom = choice(classrooms)
+                lecture.classroom = choice(im.classrooms)
             elif r > classroomWeigth and r < (timeslotWeigth + classroomWeigth):
                 # Timeslot
                 lecture.timeslot = randint(0, 3)
@@ -65,7 +63,6 @@ def simple_hill_climber(classroomWeigth, timeslotWeigth, dayWeigth, lecture_dct)
 
     im.lecture_dct = im.applyChanges(im.compileChanges(best_iteration[0]))
 
-    for x in subjects + students + classrooms:
-        x.exportTimetable()
+    im.exportLectures("SHC%snPl%sc%.1ft%.1fd%.1f" % (best_iteration[1], noProgressCounterLimit, classroomWeigth, timeslotWeigth, dayWeigth))
 
-simple_hill_climber(1, 5, 3, lecture_dct)
+simple_hill_climber(100, 1, 1, 1, iteration_manager)

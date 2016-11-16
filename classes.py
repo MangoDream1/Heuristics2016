@@ -190,7 +190,7 @@ class Subject(Timetable):
 
 class Student(Timetable):
     def __init__(self, surname, name, studentId, subject1, subject2,
-                 subject3, subject4, subject5, subject_dct):
+                 subject3, subject4, subject5):
 
         super().__init__()
 
@@ -198,7 +198,7 @@ class Student(Timetable):
         self.name = name
         self.studentId = studentId
 
-        self.subjectNames = []
+        self.__subjectNames = []
         self.__addSubject(subject1)
         self.__addSubject(subject2)
         self.__addSubject(subject3)
@@ -209,8 +209,6 @@ class Student(Timetable):
         self.lectures = []
 
         self.__cleanUp()
-        self.__fillInSubject(subject_dct)
-        self.__addStudentToSubject()
 
     def getId(self):
         return self.studentId
@@ -220,7 +218,7 @@ class Student(Timetable):
 
     def __addSubject(self, subject):
         if subject != "":
-            self.subjectNames.append(subject)
+            self.__subjectNames.append(subject)
 
     def __addStudentToSubject(self):
         for subject in self.subjects:
@@ -229,16 +227,18 @@ class Student(Timetable):
     def __cleanUp(self):
         # Fixes CSV errors
 
-        for i, x in enumerate(self.subjectNames):
+        for i, x in enumerate(self.__subjectNames):
             if x == "Zoeken":
-                self.subjectNames[i] = "Zoeken, sturen en bewegen"
+                self.__subjectNames[i] = "Zoeken, sturen en bewegen"
             if x == " sturen en bewegen":
-                del self.subjectNames[i]
+                del self.__subjectNames[i]
             if x == "Compilerbouw practicum":
-                self.subjectNames[i] = "Compilerbouw (practicum)"
+                self.__subjectNames[i] = "Compilerbouw (practicum)"
             if x == "Informatie- en organsatieontwerp":
-                self.subjectNames[i] = "Informatie- en organisatieontwerp"
+                self.__subjectNames[i] = "Informatie- en organisatieontwerp"
 
-    def __fillInSubject(self, subject_dct):
-        for subjectName in self.subjectNames:
+    def assignSubjectToStudent(self, subject_dct):
+        for subjectName in self.__subjectNames:
             self.subjects.append(subject_dct[subjectName])
+
+        self.__addStudentToSubject()
