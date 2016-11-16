@@ -7,7 +7,13 @@
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "P0C16",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "C0.110"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -21,16 +27,28 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A54",
+            "subject": "Moderne Databases",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0B18",
+            "subject": "Moderne Databases",
+            "classroom": "A1.04"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "classroom": "A1.06",
-            "string": "L0A54",
-            "subject": "Moderne Databases"
+            "string": "W0B18",
+            "subject": "Moderne Databases",
+            "classroom": "A1.08"
          }
       ],
       "3": []

@@ -4,6 +4,8 @@ from iteration_manager import *
 from random import randint, choice
 from operator import itemgetter
 
+from export_lectures import *
+
 def update_progress(workdone, text='Progress:'):
     print("\r{0} [{1:50s}] {2:.1f}%".format(text, '#' * int(workdone * 50), workdone*100), end="", flush=True)
 
@@ -45,4 +47,7 @@ def random_timetables(nPlannedIterations, lecture_dct):
 
     return lecture_dct
 
-random_timetables(100, lecture_dct)
+t = random_timetables(1000, lecture_dct)
+
+#exportLectures(t, "test")
+#importLectures("test")

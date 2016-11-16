@@ -1,13 +1,31 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "P0D19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A38",
+            "subject": "Technology for games",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "W0B19",
+            "subject": "Technology for games",
+            "classroom": "A1.10"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -21,18 +39,12 @@
       "0": [],
       "1": [
          {
-            "classroom": "B0.201",
-            "string": "L0A38",
-            "subject": "Technology for games"
-         }
-      ],
-      "2": [
-         {
-            "classroom": "A1.04",
             "string": "L1A38",
-            "subject": "Technology for games"
+            "subject": "Technology for games",
+            "classroom": "A1.08"
          }
       ],
+      "2": [],
       "3": []
    },
    "4": {

@@ -5,7 +5,6 @@ import os
 
 # Global variables
 
-# Moet hier ook nog zaterdag en zondag bij?
 NUMBER_OF_SLOTS = 4
 TIMESLOTS = {0: "9-11", 1: "11-13", 2: "13-15", 3: "15-17", 4: "17-19"}
 DAYS = {0: "Monday", 1: "Tuesday", 2: "Wednesday", 3: "Thursday",
@@ -64,6 +63,19 @@ class Lecture:
     def toDict(self):
         return {"subject": self.subject.name, "classroom": self.classroom.__str__(),
                 "string": self.__str__()}
+
+    def toLongDict(self):
+        return {
+            "subject": self.subject.getId(),
+            "lecture_number": self.lecture_number,
+            "name": self.name,
+            "group": self.group,
+            "classroom": self.classroom.getId(),
+            "maxStud": self.maxStud,
+            "students": [x.getId() for x in self.students],
+            "day": self.day,
+            "timeslot": self.timeslot
+        }
 
 class Timetable:
     def __init__(self):

@@ -1,8 +1,25 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "string": "L0A106",
+            "subject": "Calculus 2",
+            "classroom": "C1.112"
+         }
+      ],
+      "2": [
+         {
+            "string": "W0C34",
+            "subject": "Calculus 2",
+            "classroom": "C1.112"
+         },
+         {
+            "string": "L1A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "C0.110"
+         }
+      ],
       "3": []
    },
    "1": {
@@ -12,13 +29,30 @@
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0D16",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "A1.04"
+         },
+         {
+            "string": "L0A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "C1.112"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0F15",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -26,24 +60,7 @@
    "4": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "classroom": "A1.06",
-            "string": "L0A84",
-            "subject": "Kansrekenen 2"
-         },
-         {
-            "classroom": "A1.04",
-            "string": "L1A84",
-            "subject": "Kansrekenen 2"
-         }
-      ],
-      "3": [
-         {
-            "classroom": "C1.112",
-            "string": "L0A106",
-            "subject": "Calculus 2"
-         }
-      ]
+      "2": [],
+      "3": []
    }
 }

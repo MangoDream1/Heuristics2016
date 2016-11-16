@@ -1,22 +1,44 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "A1.08",
-            "string": "L0A45",
-            "subject": "Bioinformatica"
+            "string": "P0E19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "L2A45",
+            "subject": "Bioinformatica",
+            "classroom": "A1.06"
          }
       ],
-      "2": [],
+      "1": [
+         {
+            "string": "L0A106",
+            "subject": "Calculus 2",
+            "classroom": "C1.112"
+         }
+      ],
+      "2": [
+         {
+            "string": "W0C34",
+            "subject": "Calculus 2",
+            "classroom": "C1.112"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [
          {
-            "classroom": "A1.08",
-            "string": "L1A45",
-            "subject": "Bioinformatica"
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.08"
+         },
+         {
+            "string": "L1A51",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.10"
          }
       ],
       "1": [],
@@ -26,42 +48,49 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [
-         {
-            "classroom": "C1.112",
-            "string": "L0A51",
-            "subject": "Reflectie op de digitale cultuur"
-         },
-         {
-            "classroom": "A1.06",
-            "string": "L1A51",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
-      "1": [],
       "2": [
          {
-            "classroom": "A1.06",
-            "string": "L2A45",
-            "subject": "Bioinformatica"
+            "string": "W0C17",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "C0.110"
          }
       ],
       "3": [
          {
-            "classroom": "C1.112",
-            "string": "L0A106",
-            "subject": "Calculus 2"
+            "string": "P0C15",
+            "subject": "Bioinformatica",
+            "classroom": "A1.10"
          }
       ]
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "string": "W0C15",
+            "subject": "Bioinformatica",
+            "classroom": "A1.08"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "L1A45",
+            "subject": "Bioinformatica",
+            "classroom": "A1.04"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "L0A45",
+            "subject": "Bioinformatica",
+            "classroom": "A1.10"
+         }
+      ],
+      "3": []
    }
 }

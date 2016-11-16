@@ -1,20 +1,38 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "classroom": "A1.10",
             "string": "L1A69",
-            "subject": "Compilerbouw"
+            "subject": "Compilerbouw",
+            "classroom": "A1.04"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [],
+      "0": [
+         {
+            "string": "P0B16",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "A1.10"
+         }
+      ],
+      "1": [
+         {
+            "string": "P0A35",
+            "subject": "Compilerbouw",
+            "classroom": "B0.201"
+         }
+      ],
+      "2": [
+         {
+            "string": "L0A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.10"
+         }
+      ],
       "3": []
    },
    "2": {
@@ -24,21 +42,27 @@
       "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0A35",
+            "subject": "Compilerbouw",
+            "classroom": "B0.201"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0B19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "B0.201"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "A1.10",
-            "string": "L0A69",
-            "subject": "Compilerbouw"
-         }
-      ]
+      "3": []
    }
 }

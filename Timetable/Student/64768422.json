@@ -8,25 +8,25 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "classroom": "C0.110",
-            "string": "L1A25",
-            "subject": "Interactie-ontwerp"
+            "string": "L0A25",
+            "subject": "Interactie-ontwerp",
+            "classroom": "C0.110"
          }
-      ],
-      "3": []
+      ]
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "classroom": "C0.110",
-            "string": "L0A25",
-            "subject": "Interactie-ontwerp"
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp",
+            "classroom": "B0.201"
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "3": {

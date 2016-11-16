@@ -1,95 +1,118 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "1": {
       "0": [
          {
-            "classroom": "A1.04",
-            "string": "W0A0",
-            "subject": "Data Mining"
+            "string": "P0A10",
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.04"
          }
       ],
+      "1": [
+         {
+            "string": "L1A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [
+         {
+            "string": "P0C6",
+            "subject": "Autonomous Agents 2",
+            "classroom": "A1.04"
+         },
+         {
+            "string": "W0B9",
+            "subject": "Data Mining",
+            "classroom": "A1.04"
+         }
+      ],
+      "3": [
+         {
+            "string": "W0A11",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.04"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
       "1": [],
       "2": [
          {
-            "classroom": "A1.04",
-            "string": "L1A27",
-            "subject": "Data Mining"
+            "string": "P0B8",
+            "subject": "Autonomous Agents 2",
+            "classroom": "A1.04"
          },
          {
-            "classroom": "A1.04",
-            "string": "L1A21",
-            "subject": "Informatie- en organisatieontwerp"
+            "string": "W0A36",
+            "subject": "Calculus 2",
+            "classroom": "A1.04"
          }
       ],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "classroom": "A1.04",
-            "string": "W0A0",
-            "subject": "Compilerbouw"
-         }
-      ]
-   },
-   "3": {
       "0": [
          {
-            "classroom": "A1.04",
-            "string": "W0A0",
-            "subject": "Autonomous Agents 2"
-         },
-         {
-            "classroom": "A1.04",
-            "string": "L0A61",
-            "subject": "Collectieve Intelligentie"
+            "string": "P0D16",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "A1.04"
          }
       ],
       "1": [],
       "2": [
          {
-            "classroom": "A1.04",
-            "string": "L1A38",
-            "subject": "Technology for games"
+            "string": "P0B21",
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.04"
          }
       ],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "string": "L1A27",
+            "subject": "Data Mining",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [],
       "3": [
          {
-            "classroom": "A1.04",
-            "string": "P0A0",
-            "subject": "Advanced Heuristics"
+            "string": "L1A45",
+            "subject": "Bioinformatica",
+            "classroom": "A1.04"
          }
       ]
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0C19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.04"
+         },
+         {
+            "string": "P0A38",
+            "subject": "Software engineering",
+            "classroom": "A1.04"
+         },
+         {
+            "string": "P0B18",
+            "subject": "Moderne Databases",
+            "classroom": "A1.04"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "classroom": "A1.04",
-            "string": "P0A0",
-            "subject": "Autonomous Agents 2"
-         },
-         {
-            "classroom": "A1.04",
-            "string": "L1A84",
-            "subject": "Kansrekenen 2"
+            "string": "W0A17",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.04"
          }
       ],
-      "3": [
-         {
-            "classroom": "A1.04",
-            "string": "L0A49",
-            "subject": "Analysemethoden en -technieken"
-         }
-      ]
+      "3": []
    }
 }

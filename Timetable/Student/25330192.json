@@ -7,37 +7,55 @@
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "classroom": "A1.04",
-            "string": "L1A27",
-            "subject": "Data Mining"
+            "string": "P0C9",
+            "subject": "Data Mining",
+            "classroom": "B0.201"
          }
       ],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [],
       "2": [],
       "3": []
    },
-   "3": {
-      "0": [],
+   "2": {
+      "0": [
+         {
+            "string": "P0D16",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "A1.04"
+         }
+      ],
       "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "A1.06",
             "string": "L0A27",
-            "subject": "Data Mining"
+            "subject": "Data Mining",
+            "classroom": "C0.110"
          }
       ]
    },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "string": "L1A27",
+            "subject": "Data Mining",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "W0C9",
+            "subject": "Data Mining",
+            "classroom": "A1.06"
+         }
+      ],
       "2": [],
       "3": []
    }

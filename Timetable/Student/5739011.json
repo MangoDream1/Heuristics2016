@@ -15,9 +15,9 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.08",
-            "string": "L0A32",
-            "subject": "Heuristieken 2"
+            "string": "W0B16",
+            "subject": "Heuristieken 2",
+            "classroom": "C0.110"
          }
       ],
       "2": [],
@@ -31,7 +31,13 @@
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L0A32",
+            "subject": "Heuristieken 2",
+            "classroom": "A1.10"
+         }
+      ],
       "2": [],
       "3": []
    }

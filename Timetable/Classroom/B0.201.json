@@ -1,74 +1,140 @@
 {
    "0": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "L0A54",
+            "subject": "Lineaire Algebra",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "L0A43",
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "B0.201"
+         }
+      ],
+      "1": [
+         {
+            "string": "P0D19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
       "0": [
          {
-            "classroom": "B0.201",
-            "string": "L0A44",
-            "subject": "Heuristieken 1"
+            "string": "W0C6",
+            "subject": "Autonomous Agents 2",
+            "classroom": "B0.201"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "classroom": "B0.201",
-            "string": "L0A43",
-            "subject": "Algoritmen en complexiteit"
+            "string": "P0C9",
+            "subject": "Data Mining",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "P0A35",
+            "subject": "Compilerbouw",
+            "classroom": "B0.201"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "classroom": "B0.201",
-            "string": "P0A0",
-            "subject": "Compilerbouw (practicum)"
+            "string": "P0B14",
+            "subject": "Compilerbouw (practicum)",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp",
+            "classroom": "B0.201"
          }
       ],
+      "1": [
+         {
+            "string": "P0B37",
+            "subject": "Software engineering",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "W0A15",
+            "subject": "Bioinformatica",
+            "classroom": "B0.201"
+         }
+      ],
+      "2": [],
       "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0A35",
+            "subject": "Compilerbouw",
+            "classroom": "B0.201"
+         }
+      ],
       "1": [
          {
-            "classroom": "B0.201",
-            "string": "L0A38",
-            "subject": "Technology for games"
+            "string": "P0B34",
+            "subject": "Compilerbouw",
+            "classroom": "B0.201"
          }
       ],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "classroom": "B0.201",
-            "string": "L0A72",
-            "subject": "Databases 2"
+            "string": "L0A21",
+            "subject": "Architectuur en computerorganisatie",
+            "classroom": "B0.201"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
       "0": [
          {
-            "classroom": "B0.201",
-            "string": "W0A0",
-            "subject": "Databases 2"
+            "string": "P0B19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "B0.201"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "string": "W0B16",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [
          {
-            "classroom": "B0.201",
-            "string": "L1A22",
-            "subject": "Machine Learning"
+            "string": "W0A9",
+            "subject": "Data Mining",
+            "classroom": "B0.201"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "string": "P0C18",
+            "subject": "Moderne Databases",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "W0B21",
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "B0.201"
+         }
+      ]
    }
 }

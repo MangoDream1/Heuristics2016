@@ -1,97 +1,135 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.08",
-            "string": "L0A45",
-            "subject": "Bioinformatica"
-         },
-         {
-            "classroom": "A1.08",
-            "string": "L0A21",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "classroom": "A1.08",
-            "string": "L0A20",
-            "subject": "Advanced Heuristics"
+            "string": "P0A14",
+            "subject": "Compilerbouw (practicum)",
+            "classroom": "A1.08"
+         },
+         {
+            "string": "W0B8",
+            "subject": "Autonomous Agents 2",
+            "classroom": "A1.08"
+         },
+         {
+            "string": "W0A18",
+            "subject": "Moderne Databases",
+            "classroom": "A1.08"
          }
       ],
       "3": [
          {
-            "classroom": "A1.08",
-            "string": "W0A0",
-            "subject": "Algoritmen en complexiteit"
+            "string": "L0A38",
+            "subject": "Technology for games",
+            "classroom": "A1.08"
          }
       ]
    },
    "1": {
       "0": [
          {
-            "classroom": "A1.08",
-            "string": "L1A45",
-            "subject": "Bioinformatica"
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.08"
          }
       ],
-      "1": [],
-      "2": [
-         {
-            "classroom": "A1.08",
-            "string": "L1A54",
-            "subject": "Lineaire Algebra"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [],
       "1": [
          {
-            "classroom": "A1.08",
-            "string": "L0A32",
-            "subject": "Heuristieken 2"
+            "string": "P0A15",
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.08"
+         }
+      ],
+      "2": [
+         {
+            "string": "W0B36",
+            "subject": "Calculus 2",
+            "classroom": "A1.08"
+         }
+      ],
+      "3": [
+         {
+            "string": "W0B37",
+            "subject": "Software engineering",
+            "classroom": "A1.08"
+         }
+      ]
+   },
+   "2": {
+      "0": [
+         {
+            "string": "W0A22",
+            "subject": "Heuristieken 1",
+            "classroom": "A1.08"
+         }
+      ],
+      "1": [
+         {
+            "string": "W0C18",
+            "subject": "Moderne Databases",
+            "classroom": "A1.08"
          }
       ],
       "2": [],
       "3": [
          {
-            "classroom": "A1.08",
-            "string": "L0A39",
-            "subject": "Webprogrammeren en databases"
+            "string": "P0B16",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.08"
+         },
+         {
+            "string": "L1A21",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.08"
+         },
+         {
+            "string": "L0A22",
+            "subject": "Machine Learning",
+            "classroom": "A1.08"
          }
       ]
    },
    "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "classroom": "A1.08",
-            "string": "P0A0",
-            "subject": "Project Genetic Algorithms"
-         }
-      ]
-   },
-   "4": {
       "0": [
          {
-            "classroom": "A1.08",
-            "string": "P0A0",
-            "subject": "Bioinformatica"
+            "string": "P0B15",
+            "subject": "Bioinformatica",
+            "classroom": "A1.08"
          }
       ],
       "1": [
          {
-            "classroom": "A1.08",
-            "string": "L1A39",
-            "subject": "Webprogrammeren en databases"
+            "string": "L1A38",
+            "subject": "Technology for games",
+            "classroom": "A1.08"
+         },
+         {
+            "string": "W0C15",
+            "subject": "Bioinformatica",
+            "classroom": "A1.08"
          }
       ],
       "2": [],
+      "3": [
+         {
+            "string": "L0A54",
+            "subject": "Moderne Databases",
+            "classroom": "A1.08"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "W0B18",
+            "subject": "Moderne Databases",
+            "classroom": "A1.08"
+         }
+      ],
       "3": []
    }
 }

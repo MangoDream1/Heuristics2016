@@ -1,77 +1,135 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": []
+      "1": [
+         {
+            "string": "L0A106",
+            "subject": "Calculus 2",
+            "classroom": "C1.112"
+         },
+         {
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C1.112"
+         }
+      ],
+      "2": [
+         {
+            "string": "W0C34",
+            "subject": "Calculus 2",
+            "classroom": "C1.112"
+         }
+      ],
+      "3": [
+         {
+            "string": "W0A38",
+            "subject": "Software engineering",
+            "classroom": "C1.112"
+         },
+         {
+            "string": "W0B36",
+            "subject": "Databases 2",
+            "classroom": "C1.112"
+         }
+      ]
    },
    "1": {
       "0": [],
       "1": [
          {
-            "classroom": "C1.112",
-            "string": "L0A21",
-            "subject": "Architectuur en computerorganisatie"
-         },
-         {
-            "classroom": "C1.112",
-            "string": "P0A0",
-            "subject": "Webprogrammeren en databases"
+            "string": "P0B12",
+            "subject": "Project Genetic Algorithms",
+            "classroom": "C1.112"
          }
       ],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "string": "P0B14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "C1.112"
+         },
+         {
+            "string": "L1A22",
+            "subject": "Machine Learning",
+            "classroom": "C1.112"
+         }
+      ],
+      "3": [
+         {
+            "string": "P0C14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "C1.112"
+         }
+      ]
    },
    "2": {
       "0": [
          {
-            "classroom": "C1.112",
-            "string": "L0A22",
-            "subject": "Autonomous Agents 2"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [
+            "string": "W0B10",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "C1.112"
+         },
          {
-            "classroom": "C1.112",
-            "string": "L0A51",
-            "subject": "Reflectie op de digitale cultuur"
+            "string": "L0A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "C1.112"
          }
       ],
       "1": [
          {
-            "classroom": "C1.112",
-            "string": "P0A0",
-            "subject": "Algoritmen en complexiteit"
-         },
-         {
-            "classroom": "C1.112",
-            "string": "W0A0",
-            "subject": "Heuristieken 1"
+            "string": "P0B15",
+            "subject": "Project Numerical Recipes",
+            "classroom": "C1.112"
          }
       ],
       "2": [],
       "3": [
          {
-            "classroom": "C1.112",
-            "string": "L0A106",
-            "subject": "Calculus 2"
-         },
-         {
-            "classroom": "C1.112",
-            "string": "W0A0",
-            "subject": "Moderne Databases"
+            "string": "P0A18",
+            "subject": "Moderne Databases",
+            "classroom": "C1.112"
          }
       ]
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "W0A16",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C1.112"
+         },
+         {
+            "string": "W0B22",
+            "subject": "Heuristieken 1",
+            "classroom": "C1.112"
+         }
+      ],
+      "3": [
+         {
+            "string": "P0C12",
+            "subject": "Project Genetic Algorithms",
+            "classroom": "C1.112"
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "string": "P0A12",
+            "subject": "Project Genetic Algorithms",
+            "classroom": "C1.112"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "string": "W0A19",
+            "subject": "Technology for games",
+            "classroom": "C1.112"
+         }
+      ],
+      "3": []
    }
 }

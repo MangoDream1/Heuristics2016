@@ -3,9 +3,9 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.08",
-            "string": "L0A21",
-            "subject": "Informatie- en organisatieontwerp"
+            "string": "L0A44",
+            "subject": "Heuristieken 1",
+            "classroom": "A1.10"
          }
       ],
       "2": [],
@@ -14,46 +14,74 @@
    "1": {
       "0": [
          {
-            "classroom": "B0.201",
-            "string": "L0A44",
-            "subject": "Heuristieken 1"
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.08"
+         },
+         {
+            "string": "L1A51",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.10"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "P0C14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "C1.112"
+         }
+      ]
+   },
+   "2": {
+      "0": [
+         {
+            "string": "W0B10",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "C1.112"
          }
       ],
       "1": [],
       "2": [
          {
-            "classroom": "A1.04",
-            "string": "L1A21",
-            "subject": "Informatie- en organisatieontwerp"
+            "string": "W0C17",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "P0B10",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.06"
+         },
+         {
+            "string": "L0A21",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "C0.110"
          }
       ],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L1A21",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "W0B22",
+            "subject": "Heuristieken 1",
+            "classroom": "C1.112"
+         }
+      ],
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "classroom": "C1.112",
-            "string": "L0A51",
-            "subject": "Reflectie op de digitale cultuur"
-         },
-         {
-            "classroom": "A1.06",
-            "string": "L1A51",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []

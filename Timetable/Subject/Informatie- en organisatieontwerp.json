@@ -1,51 +1,62 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.08",
-            "string": "L0A21",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "classroom": "A1.04",
-            "string": "L1A21",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [
-         {
-            "classroom": "A1.06",
-            "string": "P0A0",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ],
       "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "A1.06",
-            "string": "W0A0",
-            "subject": "Informatie- en organisatieontwerp"
+            "string": "W0A11",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.04"
          }
       ]
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "string": "W0B10",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "C1.112"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "string": "P0B10",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.06"
+         },
+         {
+            "string": "L0A21",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "C0.110"
+         }
+      ],
+      "3": [
+         {
+            "string": "L1A21",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.08"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "P0A11",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.10"
+         }
+      ],
+      "3": []
    },
    "4": {
       "0": [],

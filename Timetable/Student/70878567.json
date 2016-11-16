@@ -1,70 +1,104 @@
 {
    "0": {
+      "0": [
+         {
+            "string": "L2A45",
+            "subject": "Bioinformatica",
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
       "0": [],
       "1": [
          {
-            "classroom": "A1.08",
-            "string": "L0A45",
-            "subject": "Bioinformatica"
-         },
-         {
-            "classroom": "A1.08",
-            "string": "L0A21",
-            "subject": "Informatie- en organisatieontwerp"
+            "string": "P0C9",
+            "subject": "Data Mining",
+            "classroom": "B0.201"
          }
       ],
       "2": [],
       "3": []
    },
-   "1": {
+   "2": {
       "0": [
          {
-            "classroom": "A1.08",
-            "string": "L1A45",
-            "subject": "Bioinformatica"
+            "string": "W0B10",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "C1.112"
          }
       ],
       "1": [],
       "2": [
          {
-            "classroom": "A1.04",
-            "string": "L1A27",
-            "subject": "Data Mining"
+            "string": "P0B10",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.06"
          },
          {
-            "classroom": "A1.04",
-            "string": "L1A21",
-            "subject": "Informatie- en organisatieontwerp"
+            "string": "L0A21",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "C0.110"
          }
       ],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0C15",
+            "subject": "Bioinformatica",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "L0A27",
+            "subject": "Data Mining",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "L1A21",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "3": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "W0C15",
+            "subject": "Bioinformatica",
+            "classroom": "A1.08"
+         },
+         {
+            "string": "L1A27",
+            "subject": "Data Mining",
+            "classroom": "A1.04"
+         }
+      ],
       "2": [],
       "3": [
          {
-            "classroom": "A1.06",
-            "string": "L0A27",
-            "subject": "Data Mining"
+            "string": "L1A45",
+            "subject": "Bioinformatica",
+            "classroom": "A1.04"
          }
       ]
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "W0C9",
+            "subject": "Data Mining",
+            "classroom": "A1.06"
+         }
+      ],
       "2": [
          {
-            "classroom": "A1.06",
-            "string": "L2A45",
-            "subject": "Bioinformatica"
+            "string": "L0A45",
+            "subject": "Bioinformatica",
+            "classroom": "A1.10"
          }
       ],
       "3": []

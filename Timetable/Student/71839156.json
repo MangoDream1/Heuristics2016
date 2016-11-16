@@ -1,42 +1,55 @@
 {
    "0": {
+      "0": [
+         {
+            "string": "L0A54",
+            "subject": "Lineaire Algebra",
+            "classroom": "B0.201"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A44",
+            "subject": "Heuristieken 1",
+            "classroom": "A1.10"
+         }
+      ],
+      "2": [
+         {
+            "string": "P0A14",
+            "subject": "Compilerbouw (practicum)",
+            "classroom": "A1.08"
+         }
+      ],
+      "3": []
+   },
+   "1": {
       "0": [],
       "1": [],
       "2": [],
       "3": []
    },
-   "1": {
+   "2": {
       "0": [
          {
-            "classroom": "B0.201",
-            "string": "L0A44",
-            "subject": "Heuristieken 1"
-         },
-         {
-            "classroom": "A1.10",
-            "string": "L0A54",
-            "subject": "Lineaire Algebra"
+            "string": "W0A22",
+            "subject": "Heuristieken 1",
+            "classroom": "A1.08"
          }
       ],
-      "1": [],
-      "2": [
-         {
-            "classroom": "A1.08",
-            "string": "L1A54",
-            "subject": "Lineaire Algebra"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L1A54",
+            "subject": "Lineaire Algebra",
+            "classroom": "A1.06"
+         }
+      ],
       "2": [],
       "3": []
    },
