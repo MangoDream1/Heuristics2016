@@ -1,25 +1,20 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "L0A22",
-            "subject": "Autonomous Agents 2",
-            "classroom": "B0.201"
-         },
-         {
-            "string": "L2A45",
-            "subject": "Bioinformatica",
-            "classroom": "C1.112"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "string": "L1A45",
-            "subject": "Bioinformatica",
-            "classroom": "A1.04"
+            "classroom": "C0.110",
+            "string": "P0A38",
+            "subject": "Software engineering"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.04",
+            "string": "L2A45",
+            "subject": "Bioinformatica"
+         }
+      ],
       "3": []
    },
    "1": {
@@ -27,74 +22,81 @@
       "1": [],
       "2": [
          {
-            "string": "P0A15",
-            "subject": "Bioinformatica",
-            "classroom": "A1.06"
-         }
-      ],
-      "3": [
-         {
+            "classroom": "A1.10",
             "string": "L1A22",
-            "subject": "Autonomous Agents 2",
-            "classroom": "C1.112"
-         }
-      ]
-   },
-   "2": {
-      "0": [
-         {
-            "string": "P0A8",
-            "subject": "Autonomous Agents 2",
-            "classroom": "C0.110"
-         }
-      ],
-      "1": [
-         {
-            "string": "W0A8",
-            "subject": "Autonomous Agents 2",
-            "classroom": "A1.10"
+            "subject": "Autonomous Agents 2"
          },
          {
-            "string": "P0A38",
-            "subject": "Software engineering",
-            "classroom": "A1.08"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A75",
-            "subject": "Software engineering",
-            "classroom": "C1.112"
+            "classroom": "A1.08",
+            "string": "L1A45",
+            "subject": "Bioinformatica"
          }
       ],
       "3": []
    },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [],
+   "2": {
+      "0": [
+         {
+            "classroom": "A1.08",
+            "string": "W0A38",
+            "subject": "Software engineering"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "string": "W0A15",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "A1.08",
+            "string": "L0A45",
+            "subject": "Bioinformatica"
+         }
+      ],
       "3": [
          {
-            "string": "W0A15",
-            "subject": "Bioinformatica",
-            "classroom": "A1.04"
-         },
-         {
-            "string": "W0A38",
-            "subject": "Software engineering",
-            "classroom": "A1.06"
+            "classroom": "A1.04",
+            "string": "P0B8",
+            "subject": "Autonomous Agents 2"
          }
       ]
    },
-   "4": {
-      "0": [],
+   "3": {
+      "0": [
+         {
+            "classroom": "B0.201",
+            "string": "L0A22",
+            "subject": "Autonomous Agents 2"
+         }
+      ],
       "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "classroom": "A1.06",
+            "string": "P0A15",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "C1.112",
+            "string": "L0A75",
+            "subject": "Software engineering"
+         }
+      ],
       "2": [],
       "3": [
          {
-            "string": "L0A45",
-            "subject": "Bioinformatica",
-            "classroom": "B0.201"
+            "classroom": "C1.112",
+            "string": "W0B8",
+            "subject": "Autonomous Agents 2"
          }
       ]
    }

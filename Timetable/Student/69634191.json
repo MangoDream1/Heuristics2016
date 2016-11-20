@@ -1,20 +1,20 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "C1.112",
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L1A25",
-            "subject": "Interactie-ontwerp",
-            "classroom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
@@ -28,9 +28,9 @@
       "1": [],
       "2": [
          {
+            "classroom": "A1.10",
             "string": "L0A25",
-            "subject": "Interactie-ontwerp",
-            "classroom": "C0.110"
+            "subject": "Interactie-ontwerp"
          }
       ],
       "3": []

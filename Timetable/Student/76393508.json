@@ -7,25 +7,19 @@
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "string": "W0A22",
-            "subject": "Heuristieken 1",
-            "classroom": "A1.10"
+            "classroom": "C0.110",
+            "string": "L0A44",
+            "subject": "Heuristieken 1"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A44",
-            "subject": "Heuristieken 1",
-            "classroom": "C0.110"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -36,7 +30,13 @@
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "B0.201",
+            "string": "W0A22",
+            "subject": "Heuristieken 1"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

@@ -3,57 +3,57 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "P0A35",
-            "subject": "Compilerbouw",
-            "classroom": "A1.08"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "W0A35",
+            "subject": "Compilerbouw"
+         }
+      ],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "P0A14",
-            "subject": "Compilerbouw (practicum)",
-            "classroom": "B0.201"
+            "classroom": "B0.201",
+            "string": "P0A35",
+            "subject": "Compilerbouw"
          }
       ],
+      "2": [],
       "3": [
          {
+            "classroom": "A1.06",
             "string": "L1A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.04"
+            "subject": "Compilerbouw"
          }
       ]
    },
    "3": {
-      "0": [
-         {
-            "string": "W0A35",
-            "subject": "Compilerbouw",
-            "classroom": "A1.10"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.10",
+            "string": "L0A69",
+            "subject": "Compilerbouw"
+         }
+      ]
    },
    "4": {
       "0": [],
       "1": [
          {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.06"
+            "classroom": "A1.06",
+            "string": "P0B14",
+            "subject": "Compilerbouw (practicum)"
          }
       ],
       "2": [],

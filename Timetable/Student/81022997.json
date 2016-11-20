@@ -2,23 +2,12 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L1A27",
-            "subject": "Data Mining",
-            "classroom": "A1.04"
-         }
-      ],
+      "2": [],
       "3": [
          {
-            "string": "P0A14",
-            "subject": "Project Numerical Recipes",
-            "classroom": "A1.10"
-         },
-         {
-            "string": "W0A16",
-            "subject": "Heuristieken 2",
-            "classroom": "C0.110"
+            "classroom": "B0.201",
+            "string": "L0A32",
+            "subject": "Heuristieken 2"
          }
       ]
    },
@@ -30,50 +19,62 @@
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.08",
+            "string": "P0D16",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "string": "L0A32",
-            "subject": "Heuristieken 2",
-            "classroom": "A1.08"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "string": "P0A9",
-            "subject": "Data Mining",
-            "classroom": "C1.112"
+            "classroom": "A1.10",
+            "string": "L1A27",
+            "subject": "Data Mining"
          }
       ],
       "2": [
          {
-            "string": "L0A27",
-            "subject": "Data Mining",
-            "classroom": "A1.06"
+            "classroom": "C0.110",
+            "string": "W0B9",
+            "subject": "Data Mining"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.08",
+            "string": "P0B9",
+            "subject": "Data Mining"
+         }
+      ]
    },
    "4": {
       "0": [
          {
-            "string": "P0A16",
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "C0.110"
+            "classroom": "C1.112",
+            "string": "P0C14",
+            "subject": "Project Numerical Recipes"
          }
       ],
       "1": [],
       "2": [
          {
-            "string": "W0A9",
-            "subject": "Data Mining",
-            "classroom": "A1.10"
+            "classroom": "A1.10",
+            "string": "L0A27",
+            "subject": "Data Mining"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.08",
+            "string": "W0B16",
+            "subject": "Heuristieken 2"
+         }
+      ]
    }
 }

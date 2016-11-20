@@ -13,6 +13,8 @@ class IterationManager:
         self.students = students
         self.student_dct = {x.getId(): x for x in students}
 
+        self.score_system = ScoreSystem(self.subjects, self.students, self.classrooms)
+
         for student in self.students:
             student.assignSubjectToStudent(self.subject_dct)
 
@@ -31,9 +33,8 @@ class IterationManager:
         for x in self.subjects + self.students + self.classrooms:
             x.clearLectures()
 
-        for x in self.lecture_dct.keys():
-            if type(x) != int:
-                x.assignLecturetoAll()
+        for x in self.lectures:
+            x.assignLecturetoAll()
 
     def addChanges(self, changed_lectures):
         self.iteration_dct[self.i] = {self.lecture_dct[x]:x.getChangingDataDict()
@@ -42,7 +43,7 @@ class IterationManager:
 
         self.resetLectures()
 
-        self.iteration_dct[self.i]["score"] = ScoreSystem(self.subjects, self.students, self.classrooms).score
+        self.iteration_dct[self.i]["score"] = self.score_system.total_score()
 
         return self.iteration_dct
 
@@ -56,7 +57,7 @@ class IterationManager:
 
         compiled_result = {}
         for x in range(base, i+1):
-            for key, data in self.iteration_dct[i].items():
+            for key, data in self.iteration_dct[x].items():
                 if key != "base":
                     compiled_result[key] = data
 
@@ -73,9 +74,9 @@ class IterationManager:
             if index not in ["base", "score"]:
                 lecture = self.lecture_dct[index]
 
-                lecture.day = data["day"]
-                lecture.timeslot = data["timeslot"]
-                lecture.classroom = self.classroom_dct[data["classroom"]]
+                self.lecture_dct[index].day = data["day"]
+                self.lecture_dct[index].timeslot = data["timeslot"]
+                self.lecture_dct[index].classroom = self.classroom_dct[data["classroom"]]
 
         self.resetLectures()
 
@@ -112,6 +113,7 @@ class IterationManager:
             l.day = dct["day"]
             l.timeslot = dct["timeslot"]
             l.students = [self.student_dct[x] for x in dct["students"]]
+            l.group = dct["group"]
 
             lectures.append(l)
 
@@ -120,5 +122,9 @@ class IterationManager:
         self.lecture_dct = dict(self.lecture_dct.items() | dict(reversed(item) for item in self.lecture_dct.items()).items())
 
         self.resetLectures()
+
+        # Adds the new lectures to changes, so that algorithms can work with the loaded data
+        self.addChanges(self.lectures)
+        self.i += 1
 
         return self.lectures

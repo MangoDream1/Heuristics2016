@@ -1,124 +1,122 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "L2A45",
-            "subject": "Bioinformatica",
-            "classroom": "C1.112"
-         }
-      ],
-      "1": [
-         {
-            "string": "L1A45",
-            "subject": "Bioinformatica",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [
-         {
-            "string": "L1A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.06"
-         },
-         {
-            "string": "P0A16",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.10"
-         }
-      ],
-      "3": [
-         {
-            "string": "P0A35",
-            "subject": "Compilerbouw",
-            "classroom": "A1.08"
-         }
-      ]
-   },
-   "1": {
-      "0": [
-         {
-            "string": "L2A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.04"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "string": "W0A15",
-            "subject": "Bioinformatica",
-            "classroom": "A1.08"
-         }
-      ],
-      "3": []
-   },
-   "2": {
       "0": [],
       "1": [],
       "2": [
          {
+            "classroom": "A1.04",
+            "string": "L2A45",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "A1.08",
+            "string": "L1A45",
+            "subject": "Bioinformatica"
+         },
+         {
+            "classroom": "A1.04",
             "string": "L0A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.10"
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "classroom": "C0.110",
+            "string": "W0A35",
+            "subject": "Compilerbouw"
          }
       ],
       "3": [
          {
+            "classroom": "C0.110",
+            "string": "L1A84",
+            "subject": "Kansrekenen 2"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "B0.201",
+            "string": "P0A35",
+            "subject": "Compilerbouw"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "A1.08",
+            "string": "L0A45",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "C1.112",
+            "string": "W0B16",
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "classroom": "A1.06",
             "string": "L1A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.04"
+            "subject": "Compilerbouw"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "string": "W0A35",
-            "subject": "Compilerbouw",
-            "classroom": "A1.10"
+            "classroom": "A1.10",
+            "string": "P0B15",
+            "subject": "Bioinformatica"
+         },
+         {
+            "classroom": "A1.08",
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.08",
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "3": [
          {
-            "string": "W0A16",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.10"
+            "classroom": "A1.10",
+            "string": "L0A69",
+            "subject": "Compilerbouw"
          }
       ]
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "string": "P0A15",
-            "subject": "Bioinformatica",
-            "classroom": "C1.112"
-         },
-         {
-            "string": "L1A84",
-            "subject": "Kansrekenen 2",
-            "classroom": "A1.04"
+            "classroom": "A1.04",
+            "string": "W0B15",
+            "subject": "Bioinformatica"
          }
       ],
-      "1": [
-         {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.06"
-         }
-      ],
-      "2": [],
       "3": [
          {
-            "string": "L0A84",
-            "subject": "Kansrekenen 2",
-            "classroom": "C1.112"
+            "classroom": "A1.06",
+            "string": "P0B16",
+            "subject": "Collectieve Intelligentie"
          },
          {
-            "string": "L0A45",
-            "subject": "Bioinformatica",
-            "classroom": "B0.201"
+            "classroom": "A1.10",
+            "string": "L0A84",
+            "subject": "Kansrekenen 2"
          }
       ]
    }

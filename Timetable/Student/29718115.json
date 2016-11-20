@@ -1,15 +1,26 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "0": [
          {
-            "string": "P0A11",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.04"
+            "classroom": "B0.201",
+            "string": "L1A21",
+            "subject": "Informatie- en organisatieontwerp"
          }
-      ]
+      ],
+      "1": [
+         {
+            "classroom": "A1.08",
+            "string": "L1A21",
+            "subject": "Architectuur en computerorganisatie"
+         },
+         {
+            "classroom": "B0.201",
+            "string": "L0A21",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
+      "2": [],
+      "3": []
    },
    "1": {
       "0": [],
@@ -19,50 +30,38 @@
    },
    "2": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "L0A21",
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "C1.112"
+            "classroom": "A1.06",
+            "string": "P0A11",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ],
-      "2": [],
       "3": []
    },
    "3": {
       "0": [
          {
-            "string": "L1A21",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.04"
+            "classroom": "C1.112",
+            "string": "W0A11",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "L1A21",
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "B0.201"
+            "classroom": "A1.06",
+            "string": "L0A21",
+            "subject": "Architectuur en computerorganisatie"
          }
       ],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A21",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.08"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "W0A11",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.06"
-         }
-      ]
+      "3": []
    }
 }

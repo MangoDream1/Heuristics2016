@@ -58,7 +58,7 @@ class Lecture:
 
     def getChangingDataDict(self):
         # This is the data of the lecture object that changes during algorithm iterations
-        return {"day": self.day, "timeslot": self.timeslot, "classroom": self.classroom.__str__()}
+        return {"day": self.day, "timeslot": self.timeslot, "classroom": self.classroom.getId()}
 
     def toDict(self):
         return {"subject": self.subject.name, "classroom": self.classroom.__str__(),

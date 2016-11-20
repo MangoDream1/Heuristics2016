@@ -1,13 +1,13 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "L0A22",
-            "subject": "Machine Learning",
-            "classroom": "A1.10"
+            "classroom": "A1.04",
+            "string": "P0B34",
+            "subject": "Compilerbouw"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
@@ -15,9 +15,9 @@
       "0": [],
       "1": [
          {
-            "string": "L1A22",
-            "subject": "Machine Learning",
-            "classroom": "A1.04"
+            "classroom": "A1.04",
+            "string": "L0A22",
+            "subject": "Machine Learning"
          }
       ],
       "2": [],
@@ -29,40 +29,40 @@
       "2": [],
       "3": [
          {
+            "classroom": "A1.06",
             "string": "L1A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.04"
+            "subject": "Compilerbouw"
          }
       ]
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "string": "P0A34",
-            "subject": "Compilerbouw",
-            "classroom": "A1.06"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.10",
+            "string": "L0A69",
+            "subject": "Compilerbouw"
+         }
+      ]
    },
    "4": {
       "0": [
          {
-            "string": "W0A34",
-            "subject": "Compilerbouw",
-            "classroom": "B0.201"
+            "classroom": "A1.08",
+            "string": "L1A22",
+            "subject": "Machine Learning"
          }
       ],
-      "1": [
-         {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.06"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.04",
+            "string": "W0B34",
+            "subject": "Compilerbouw"
+         }
+      ]
    }
 }

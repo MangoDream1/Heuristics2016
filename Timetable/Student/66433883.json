@@ -2,26 +2,26 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
       "2": [
          {
-            "string": "P0A19",
-            "subject": "Programmeren in Java 2",
-            "classroom": "C0.110"
+            "classroom": "A1.08",
+            "string": "L0A43",
+            "subject": "Algoritmen en complexiteit"
          }
       ],
       "3": [
          {
-            "string": "L0A43",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.06"
+            "classroom": "A1.08",
+            "string": "P0A22",
+            "subject": "Algoritmen en complexiteit"
          }
       ]
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "2": {
       "0": [],
@@ -33,9 +33,9 @@
       "0": [],
       "1": [
          {
-            "string": "W0A22",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.08"
+            "classroom": "B0.201",
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2"
          }
       ],
       "2": [],
@@ -46,9 +46,9 @@
       "1": [],
       "2": [
          {
-            "string": "P0A22",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.08"
+            "classroom": "A1.08",
+            "string": "W0A22",
+            "subject": "Algoritmen en complexiteit"
          }
       ],
       "3": []

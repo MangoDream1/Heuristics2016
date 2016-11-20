@@ -1,42 +1,48 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [],
+      "0": [
+         {
+            "classroom": "C1.112",
+            "string": "L0A106",
+            "subject": "Calculus 2"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "A1.04",
+            "string": "P0B34",
+            "subject": "Compilerbouw"
+         },
+         {
+            "classroom": "C1.112",
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "B0.201",
+            "string": "P0C12",
+            "subject": "Project Genetic Algorithms"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L1A25",
-            "subject": "Interactie-ontwerp",
-            "classroom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "string": "P0A12",
-            "subject": "Project Genetic Algorithms",
-            "classroom": "A1.04"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "string": "L0A106",
-            "subject": "Calculus 2",
-            "classroom": "A1.08"
-         },
-         {
+            "classroom": "A1.06",
             "string": "L1A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.04"
+            "subject": "Compilerbouw"
          }
       ]
    },
@@ -44,41 +50,36 @@
       "0": [],
       "1": [
          {
-            "string": "P0A34",
-            "subject": "Compilerbouw",
-            "classroom": "A1.06"
+            "classroom": "A1.08",
+            "string": "W0C34",
+            "subject": "Calculus 2"
          }
       ],
       "2": [
          {
+            "classroom": "A1.10",
             "string": "L0A25",
-            "subject": "Interactie-ontwerp",
-            "classroom": "C0.110"
+            "subject": "Interactie-ontwerp"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.10",
+            "string": "L0A69",
+            "subject": "Compilerbouw"
+         }
+      ]
    },
    "4": {
-      "0": [
-         {
-            "string": "W0A34",
-            "subject": "Compilerbouw",
-            "classroom": "B0.201"
-         }
-      ],
-      "1": [
-         {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.06"
-         },
-         {
-            "string": "W0A34",
-            "subject": "Calculus 2",
-            "classroom": "B0.201"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.04",
+            "string": "W0B34",
+            "subject": "Compilerbouw"
+         }
+      ]
    }
 }

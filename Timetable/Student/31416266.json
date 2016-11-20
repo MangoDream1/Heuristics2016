@@ -1,28 +1,12 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A54",
-            "subject": "Lineaire Algebra",
-            "classroom": "C0.110"
-         },
-         {
-            "string": "L1A54",
-            "subject": "Lineaire Algebra",
-            "classroom": "A1.10"
-         },
-         {
-            "string": "P0A19",
-            "subject": "Programmeren in Java 2",
-            "classroom": "B0.201"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "string": "L1A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.06"
+            "classroom": "A1.10",
+            "string": "P0B19",
+            "subject": "Programmeren in Java 2"
          }
       ],
       "3": []
@@ -30,45 +14,63 @@
    "1": {
       "0": [
          {
-            "string": "L2A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.04"
+            "classroom": "A1.06",
+            "string": "L1A54",
+            "subject": "Lineaire Algebra"
          }
       ],
       "1": [],
       "2": [
          {
-            "string": "W0A16",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "C1.112"
+            "classroom": "A1.04",
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.10",
+            "string": "P0A16",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "string": "L0A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.10"
+            "classroom": "C0.110",
+            "string": "W0A16",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.08",
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.08",
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [
          {
-            "string": "P0A16",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.10"
+            "classroom": "A1.04",
+            "string": "L0A54",
+            "subject": "Lineaire Algebra"
          }
       ],
       "1": [],

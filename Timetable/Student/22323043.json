@@ -1,103 +1,103 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "W0A9",
-            "subject": "Data Mining",
-            "classroom": "A1.04"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "string": "W0A22",
-            "subject": "Heuristieken 1",
-            "classroom": "A1.08"
+            "classroom": "A1.10",
+            "string": "W0C9",
+            "subject": "Data Mining"
          }
       ],
       "2": [
          {
-            "string": "L1A27",
-            "subject": "Data Mining",
-            "classroom": "A1.04"
+            "classroom": "A1.06",
+            "string": "W0B19",
+            "subject": "Technology for games"
          }
       ],
       "3": [
          {
-            "string": "W0A19",
-            "subject": "Technology for games",
-            "classroom": "A1.06"
+            "classroom": "C1.112",
+            "string": "P0B37",
+            "subject": "Software engineering"
          }
       ]
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "W0A37",
-            "subject": "Software engineering",
-            "classroom": "A1.08"
+            "classroom": "C0.110",
+            "string": "L0A44",
+            "subject": "Heuristieken 1"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "L0A44",
-            "subject": "Heuristieken 1",
-            "classroom": "C0.110"
+            "classroom": "A1.04",
+            "string": "L1A38",
+            "subject": "Technology for games"
          }
       ],
-      "2": [
-         {
-            "string": "L0A75",
-            "subject": "Software engineering",
-            "classroom": "C1.112"
-         },
-         {
-            "string": "L0A38",
-            "subject": "Technology for games",
-            "classroom": "A1.08"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": [
          {
-            "string": "P0A9",
-            "subject": "Data Mining",
-            "classroom": "C0.110"
+            "classroom": "C0.110",
+            "string": "W0B22",
+            "subject": "Heuristieken 1"
          }
       ]
    },
    "3": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "string": "L1A27",
+            "subject": "Data Mining"
+         },
+         {
+            "classroom": "C0.110",
+            "string": "L0A38",
+            "subject": "Technology for games"
+         }
+      ],
       "2": [
          {
-            "string": "L0A27",
-            "subject": "Data Mining",
-            "classroom": "A1.06"
+            "classroom": "A1.06",
+            "string": "W0B37",
+            "subject": "Software engineering"
          }
       ],
       "3": [
          {
-            "string": "L1A38",
-            "subject": "Technology for games",
-            "classroom": "A1.08"
+            "classroom": "B0.201",
+            "string": "P0C9",
+            "subject": "Data Mining"
          }
       ]
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "string": "P0A37",
-            "subject": "Software engineering",
-            "classroom": "A1.08"
+            "classroom": "C1.112",
+            "string": "L0A75",
+            "subject": "Software engineering"
          }
-      ]
+      ],
+      "2": [
+         {
+            "classroom": "A1.10",
+            "string": "L0A27",
+            "subject": "Data Mining"
+         }
+      ],
+      "3": []
    }
 }

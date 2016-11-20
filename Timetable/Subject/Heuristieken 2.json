@@ -5,14 +5,20 @@
       "2": [],
       "3": [
          {
-            "string": "W0A16",
-            "subject": "Heuristieken 2",
-            "classroom": "C0.110"
+            "classroom": "B0.201",
+            "string": "L0A32",
+            "subject": "Heuristieken 2"
          }
       ]
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.04",
+            "string": "W0A16",
+            "subject": "Heuristieken 2"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -20,23 +26,11 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "W0A16",
-            "subject": "Heuristieken 2",
-            "classroom": "A1.04"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "string": "L0A32",
-            "subject": "Heuristieken 2",
-            "classroom": "A1.08"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -45,6 +39,12 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.08",
+            "string": "W0B16",
+            "subject": "Heuristieken 2"
+         }
+      ]
    }
 }

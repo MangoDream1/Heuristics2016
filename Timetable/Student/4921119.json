@@ -1,27 +1,16 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A54",
-            "subject": "Lineaire Algebra",
-            "classroom": "C0.110"
-         },
-         {
-            "string": "L1A54",
-            "subject": "Lineaire Algebra",
-            "classroom": "A1.10"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "1": {
       "0": [
          {
-            "string": "P0A19",
-            "subject": "Programmeren in Java 2",
-            "classroom": "C1.112"
+            "classroom": "A1.06",
+            "string": "L1A54",
+            "subject": "Lineaire Algebra"
          }
       ],
       "1": [],
@@ -29,38 +18,50 @@
       "3": []
    },
    "2": {
+      "0": [
+         {
+            "classroom": "B0.201",
+            "string": "W0B36",
+            "subject": "Databases 2"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "C1.112",
+            "string": "P0D19",
+            "subject": "Programmeren in Java 2"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "3": {
       "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "W0A36",
-            "subject": "Databases 2",
-            "classroom": "A1.10"
-         }
-      ]
-   },
-   "3": {
-      "0": [
-         {
+            "classroom": "A1.04",
             "string": "L0A49",
-            "subject": "Analysemethoden en -technieken",
-            "classroom": "C0.110"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "L0A72",
-            "subject": "Databases 2",
-            "classroom": "C0.110"
+            "subject": "Analysemethoden en -technieken"
          }
       ]
    },
    "4": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "classroom": "A1.04",
+            "string": "L0A54",
+            "subject": "Lineaire Algebra"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "string": "L0A72",
+            "subject": "Databases 2"
+         }
+      ],
       "2": [],
       "3": []
    }

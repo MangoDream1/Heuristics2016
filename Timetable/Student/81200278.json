@@ -1,111 +1,116 @@
 {
    "0": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "C1.112",
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "A1.04",
+            "string": "L2A45",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "B0.201",
+            "string": "L0A32",
+            "subject": "Heuristieken 2"
+         }
+      ]
+   },
+   "1": {
       "0": [
          {
-            "string": "L2A45",
-            "subject": "Bioinformatica",
-            "classroom": "C1.112"
+            "classroom": "A1.04",
+            "string": "W0A16",
+            "subject": "Heuristieken 2"
          }
       ],
       "1": [
          {
-            "string": "L1A45",
-            "subject": "Bioinformatica",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [
-         {
-            "string": "L1A27",
-            "subject": "Data Mining",
-            "classroom": "A1.04"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "string": "P0A15",
-            "subject": "Bioinformatica",
-            "classroom": "A1.06"
-         },
-         {
-            "string": "L1A25",
-            "subject": "Interactie-ontwerp",
-            "classroom": "B0.201"
-         },
-         {
+            "classroom": "C1.112",
             "string": "W0A9",
-            "subject": "Data Mining",
-            "classroom": "A1.04"
+            "subject": "Data Mining"
          }
       ],
-      "3": []
+      "2": [
+         {
+            "classroom": "A1.08",
+            "string": "L1A45",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "A1.10",
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ]
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "string": "W0A15",
+            "subject": "Bioinformatica"
+         }
+      ],
       "2": [
          {
-            "string": "W0A16",
-            "subject": "Heuristieken 2",
-            "classroom": "A1.04"
+            "classroom": "A1.08",
+            "string": "L0A45",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "B0.201",
+            "string": "P0A9",
+            "subject": "Data Mining"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "string": "L1A27",
+            "subject": "Data Mining"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "A1.10",
+            "string": "L0A25",
+            "subject": "Interactie-ontwerp"
          }
       ],
       "3": []
    },
-   "3": {
+   "4": {
       "0": [
          {
-            "string": "L0A32",
-            "subject": "Heuristieken 2",
-            "classroom": "A1.08"
+            "classroom": "A1.06",
+            "string": "P0A15",
+            "subject": "Bioinformatica"
          }
       ],
       "1": [],
       "2": [
          {
-            "string": "P0A9",
-            "subject": "Data Mining",
-            "classroom": "C1.112"
-         },
-         {
+            "classroom": "A1.10",
             "string": "L0A27",
-            "subject": "Data Mining",
-            "classroom": "A1.06"
-         },
-         {
-            "string": "L0A25",
-            "subject": "Interactie-ontwerp",
-            "classroom": "C0.110"
+            "subject": "Data Mining"
          }
       ],
-      "3": [
-         {
-            "string": "P0A16",
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "B0.201"
-         },
-         {
-            "string": "W0A15",
-            "subject": "Bioinformatica",
-            "classroom": "A1.04"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "L0A45",
-            "subject": "Bioinformatica",
-            "classroom": "B0.201"
-         }
-      ]
+      "3": []
    }
 }

@@ -42,7 +42,6 @@ class ScoreSystem:
 		else:
 			return 0
 
-
 	def classroom_score(self, classroom_object):
 		classroom_score = 0
 
@@ -118,7 +117,8 @@ class ScoreSystem:
 			if timeslot != empty_day:
 				nFullDays += 1
 
-		# Voor ieder vak van x activiteiten geldt dat ze 10 maluspunten opleveren als ze op x-1 dagen geroosterd zijn, 20 voor x-2 en 30 voor x-3.
+		# Voor ieder vak van x activiteiten geldt dat ze 10 maluspunten opleveren
+		# als ze op x-1 dagen geroosterd zijn, 20 voor x-2 en 30 voor x-3.
 
 		if nUniqueLectures - 1 == nFullDays:
 			subject_score -= 10

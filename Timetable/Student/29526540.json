@@ -1,42 +1,42 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "L2A45",
-            "subject": "Bioinformatica",
-            "classroom": "C1.112"
-         }
-      ],
-      "1": [
-         {
-            "string": "L1A45",
-            "subject": "Bioinformatica",
-            "classroom": "A1.04"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [
          {
-            "string": "P0A18",
-            "subject": "Moderne Databases",
-            "classroom": "A1.08"
+            "classroom": "A1.04",
+            "string": "L2A45",
+            "subject": "Bioinformatica"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "classroom": "C0.110",
+            "string": "W0B18",
+            "subject": "Moderne Databases"
+         }
+      ]
    },
    "1": {
       "0": [
          {
-            "string": "W0A18",
-            "subject": "Moderne Databases",
-            "classroom": "B0.201"
+            "classroom": "C1.112",
+            "string": "W0A36",
+            "subject": "Databases 2"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "classroom": "B0.201",
+            "string": "P0B18",
+            "subject": "Moderne Databases"
+         }
+      ],
       "2": [
          {
-            "string": "W0A15",
-            "subject": "Bioinformatica",
-            "classroom": "A1.08"
+            "classroom": "A1.08",
+            "string": "L1A45",
+            "subject": "Bioinformatica"
          }
       ],
       "3": []
@@ -46,47 +46,46 @@
       "1": [],
       "2": [
          {
-            "string": "W0A36",
-            "subject": "Databases 2",
-            "classroom": "C0.110"
+            "classroom": "A1.08",
+            "string": "L0A45",
+            "subject": "Bioinformatica"
          }
       ],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "L0A72",
-            "subject": "Databases 2",
-            "classroom": "C0.110"
-         }
-      ]
-   },
-   "4": {
       "0": [
          {
-            "string": "P0A15",
-            "subject": "Bioinformatica",
-            "classroom": "C1.112"
+            "classroom": "A1.10",
+            "string": "P0B15",
+            "subject": "Bioinformatica"
          }
       ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
       "1": [
          {
-            "string": "L0A54",
-            "subject": "Moderne Databases",
-            "classroom": "A1.10"
+            "classroom": "A1.10",
+            "string": "L0A72",
+            "subject": "Databases 2"
          }
       ],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "L0A45",
-            "subject": "Bioinformatica",
-            "classroom": "B0.201"
+            "classroom": "A1.04",
+            "string": "W0B15",
+            "subject": "Bioinformatica"
+         },
+         {
+            "classroom": "C1.112",
+            "string": "L0A54",
+            "subject": "Moderne Databases"
          }
-      ]
+      ],
+      "3": []
    }
 }

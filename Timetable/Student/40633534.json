@@ -2,35 +2,36 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "B0.201",
+            "string": "P0C12",
+            "subject": "Project Genetic Algorithms"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "L0A20",
-            "subject": "Advanced Heuristics",
-            "classroom": "B0.201"
-         }
-      ]
-   },
-   "2": {
-      "0": [],
       "1": [
          {
-            "string": "P0A12",
-            "subject": "Project Genetic Algorithms",
-            "classroom": "A1.04"
-         },
-         {
-            "string": "P0A10",
-            "subject": "Advanced Heuristics",
-            "classroom": "B0.201"
+            "classroom": "A1.10",
+            "string": "L0A20",
+            "subject": "Advanced Heuristics"
          }
       ],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "classroom": "A1.06",
+            "string": "P0B10",
+            "subject": "Advanced Heuristics"
+         }
+      ],
+      "1": [],
       "2": [],
       "3": []
    },

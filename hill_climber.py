@@ -60,7 +60,7 @@ def simple_hill_climber(im, noProgressCounterLimit, classroomWeigth, timeslotWei
     best_iteration = max([(i, im.iteration_dct[i]["score"]) for i in im.iteration_dct.keys()], key=itemgetter(1))
     print("Best iteration: %s, Score: %s" % (best_iteration[0], best_iteration[1]))
 
-    im.lecture_dct = im.applyChanges(im.compileChanges(best_iteration[0]))
+    im.applyChanges(im.compileChanges(best_iteration[0]))
 
     im.exportLectures("HC%snPl%sc%.1ft%.1fd%.1f" % (best_iteration[1], noProgressCounterLimit, classroomWeigth, timeslotWeigth, dayWeigth))
 

@@ -2,105 +2,108 @@
    "0": {
       "0": [
          {
-            "string": "L0A22",
-            "subject": "Autonomous Agents 2",
-            "classroom": "B0.201"
+            "classroom": "A1.06",
+            "string": "W0A17",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "C0.110",
+            "string": "P0A38",
+            "subject": "Software engineering"
+         }
+      ],
       "2": [],
       "3": [
          {
-            "string": "W0A22",
-            "subject": "Heuristieken 1",
-            "classroom": "A1.10"
-         },
-         {
-            "string": "L1A22",
-            "subject": "Autonomous Agents 2",
-            "classroom": "C1.112"
+            "classroom": "A1.04",
+            "string": "P0A8",
+            "subject": "Autonomous Agents 2"
          }
       ]
    },
-   "2": {
+   "1": {
       "0": [],
       "1": [
          {
+            "classroom": "C0.110",
             "string": "L0A44",
-            "subject": "Heuristieken 1",
-            "classroom": "C0.110"
-         },
-         {
-            "string": "P0A38",
-            "subject": "Software engineering",
-            "classroom": "A1.08"
+            "subject": "Heuristieken 1"
          }
       ],
       "2": [
          {
-            "string": "L0A75",
-            "subject": "Software engineering",
-            "classroom": "C1.112"
+            "classroom": "A1.10",
+            "string": "L1A22",
+            "subject": "Autonomous Agents 2"
          }
       ],
-      "3": [
+      "3": []
+   },
+   "2": {
+      "0": [
          {
-            "string": "W0A8",
-            "subject": "Autonomous Agents 2",
-            "classroom": "C1.112"
+            "classroom": "A1.08",
+            "string": "W0A38",
+            "subject": "Software engineering"
          }
-      ]
+      ],
+      "1": [],
+      "2": [
+         {
+            "classroom": "C1.112",
+            "string": "L1A51",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
+      "3": []
    },
    "3": {
       "0": [
          {
-            "string": "L0A49",
-            "subject": "Analysemethoden en -technieken",
-            "classroom": "C0.110"
+            "classroom": "B0.201",
+            "string": "L0A22",
+            "subject": "Autonomous Agents 2"
          },
          {
-            "string": "W0A17",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.06"
+            "classroom": "A1.04",
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.04",
+            "string": "W0A8",
+            "subject": "Autonomous Agents 2"
+         }
+      ],
       "3": [
          {
-            "string": "W0A38",
-            "subject": "Software engineering",
-            "classroom": "A1.06"
+            "classroom": "A1.04",
+            "string": "L0A49",
+            "subject": "Analysemethoden en -technieken"
          }
       ]
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "string": "P0A8",
-            "subject": "Autonomous Agents 2",
-            "classroom": "B0.201"
-         },
-         {
-            "string": "L0A51",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.04"
+            "classroom": "B0.201",
+            "string": "W0A22",
+            "subject": "Heuristieken 1"
          }
       ],
-      "3": [
+      "1": [
          {
-            "string": "L1A51",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.10"
+            "classroom": "C1.112",
+            "string": "L0A75",
+            "subject": "Software engineering"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    }
 }

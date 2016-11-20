@@ -2,35 +2,36 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.08",
+            "string": "L0A43",
+            "subject": "Algoritmen en complexiteit"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "W0A21",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.04"
-         },
-         {
-            "string": "L0A43",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.06"
-         }
-      ]
+      "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "B0.201",
+            "string": "W0B36",
+            "subject": "Databases 2"
+         }
+      ],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "W0A36",
-            "subject": "Databases 2",
-            "classroom": "A1.10"
+            "classroom": "A1.10",
+            "string": "P0B21",
+            "subject": "Algoritmen en complexiteit"
          }
       ]
    },
@@ -40,22 +41,22 @@
       "2": [],
       "3": [
          {
-            "string": "L0A72",
-            "subject": "Databases 2",
-            "classroom": "C0.110"
+            "classroom": "A1.06",
+            "string": "W0B21",
+            "subject": "Algoritmen en complexiteit"
          }
       ]
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "P0A21",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.06"
+            "classroom": "A1.10",
+            "string": "L0A72",
+            "subject": "Databases 2"
          }
       ],
+      "2": [],
       "3": []
    }
 }

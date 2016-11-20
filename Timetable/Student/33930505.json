@@ -2,67 +2,67 @@
    "0": {
       "0": [
          {
-            "string": "L2A45",
-            "subject": "Bioinformatica",
-            "classroom": "C1.112"
-         }
-      ],
-      "1": [
-         {
-            "string": "L1A45",
-            "subject": "Bioinformatica",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "string": "P0A16",
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "A1.10"
+            "classroom": "A1.04",
+            "string": "P0B16",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ],
       "1": [],
       "2": [
          {
-            "string": "P0A15",
-            "subject": "Bioinformatica",
-            "classroom": "A1.06"
+            "classroom": "A1.04",
+            "string": "L2A45",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "A1.08",
+            "string": "L1A45",
+            "subject": "Bioinformatica"
          }
       ],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "string": "W0A15",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "A1.08",
+            "string": "L0A45",
+            "subject": "Bioinformatica"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "W0A15",
-            "subject": "Bioinformatica",
-            "classroom": "A1.04"
-         }
-      ]
+      "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.06",
+            "string": "P0A15",
+            "subject": "Bioinformatica"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A45",
-            "subject": "Bioinformatica",
-            "classroom": "B0.201"
-         }
-      ]
+      "3": []
    }
 }

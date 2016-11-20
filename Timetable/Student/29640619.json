@@ -4,98 +4,99 @@
       "1": [],
       "2": [
          {
-            "string": "L1A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.06"
+            "classroom": "C0.110",
+            "string": "P0F15",
+            "subject": "Programmeren in Java 2"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "classroom": "C1.112",
+            "string": "P0B37",
+            "subject": "Software engineering"
+         }
+      ]
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "string": "L2A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.04"
-         },
-         {
-            "string": "W0A37",
-            "subject": "Software engineering",
-            "classroom": "A1.08"
+            "classroom": "A1.04",
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "B0.201",
+            "string": "W0B36",
+            "subject": "Databases 2"
+         }
+      ],
       "1": [
          {
-            "string": "P0A15",
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.06"
+            "classroom": "A1.08",
+            "string": "P0D16",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ],
       "2": [
          {
-            "string": "L0A61",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.10"
-         },
-         {
-            "string": "L0A75",
-            "subject": "Software engineering",
-            "classroom": "C1.112"
+            "classroom": "A1.10",
+            "string": "P0D13",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "3": [
-         {
-            "string": "W0A36",
-            "subject": "Databases 2",
-            "classroom": "A1.10"
-         }
-      ]
+      "3": []
    },
    "3": {
-      "0": [],
-      "1": [
-         {
-            "string": "W0A13",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "string": "L0A72",
-            "subject": "Databases 2",
-            "classroom": "C0.110"
-         },
-         {
-            "string": "P0A13",
-            "subject": "Collectieve Intelligentie",
-            "classroom": "C1.112"
-         }
-      ]
-   },
-   "4": {
       "0": [
          {
-            "string": "P0A16",
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "C0.110"
+            "classroom": "A1.08",
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "P0A37",
-            "subject": "Software engineering",
-            "classroom": "A1.08"
+            "classroom": "A1.08",
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie"
+         },
+         {
+            "classroom": "A1.06",
+            "string": "W0B37",
+            "subject": "Software engineering"
          }
-      ]
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "string": "L0A72",
+            "subject": "Databases 2"
+         },
+         {
+            "classroom": "C1.112",
+            "string": "L0A75",
+            "subject": "Software engineering"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "W0D13",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "3": []
    }
 }

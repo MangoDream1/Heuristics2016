@@ -3,9 +3,9 @@
       "0": [],
       "1": [
          {
-            "string": "W0A22",
-            "subject": "Heuristieken 1",
-            "classroom": "A1.08"
+            "classroom": "A1.08",
+            "string": "L1A21",
+            "subject": "Architectuur en computerorganisatie"
          }
       ],
       "2": [],
@@ -13,54 +13,55 @@
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "C0.110",
+            "string": "L0A44",
+            "subject": "Heuristieken 1"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "C0.110",
+            "string": "L1A84",
+            "subject": "Kansrekenen 2"
+         }
+      ]
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A44",
-            "subject": "Heuristieken 1",
-            "classroom": "C0.110"
-         },
-         {
-            "string": "L0A21",
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "C1.112"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "string": "L1A21",
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "B0.201"
-         }
-      ],
-      "3": []
-   },
-   "4": {
-      "0": [
-         {
-            "string": "L1A84",
-            "subject": "Kansrekenen 2",
-            "classroom": "A1.04"
-         }
-      ],
       "1": [],
       "2": [],
       "3": [
          {
+            "classroom": "C0.110",
+            "string": "W0B22",
+            "subject": "Heuristieken 1"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "string": "L0A21",
+            "subject": "Architectuur en computerorganisatie"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "classroom": "A1.10",
             "string": "L0A84",
-            "subject": "Kansrekenen 2",
-            "classroom": "C1.112"
+            "subject": "Kansrekenen 2"
          }
       ]
    }

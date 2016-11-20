@@ -1,92 +1,90 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "L2A45",
-            "subject": "Bioinformatica",
-            "classroom": "C1.112"
-         }
-      ],
-      "1": [
-         {
-            "string": "L1A45",
-            "subject": "Bioinformatica",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "string": "P0A35",
-            "subject": "Compilerbouw",
-            "classroom": "A1.08"
-         }
-      ]
-   },
-   "1": {
-      "0": [
-         {
-            "string": "P0A12",
-            "subject": "Project Genetic Algorithms",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
-            "string": "W0A15",
-            "subject": "Bioinformatica",
-            "classroom": "A1.08"
+            "classroom": "A1.04",
+            "string": "L2A45",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "A1.08",
+            "string": "L1A45",
+            "subject": "Bioinformatica"
+         },
+         {
+            "classroom": "C0.110",
+            "string": "W0A35",
+            "subject": "Compilerbouw"
          }
       ],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "classroom": "B0.201",
+            "string": "P0A35",
+            "subject": "Compilerbouw"
+         },
+         {
+            "classroom": "A1.06",
+            "string": "P0B12",
+            "subject": "Project Genetic Algorithms"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "A1.08",
+            "string": "L0A45",
+            "subject": "Bioinformatica"
+         }
+      ],
       "3": [
          {
+            "classroom": "A1.06",
             "string": "L1A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.04"
+            "subject": "Compilerbouw"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "string": "W0A35",
-            "subject": "Compilerbouw",
-            "classroom": "A1.10"
+            "classroom": "A1.10",
+            "string": "P0B15",
+            "subject": "Bioinformatica"
          }
       ],
       "1": [],
       "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [
-         {
-            "string": "P0A15",
-            "subject": "Bioinformatica",
-            "classroom": "C1.112"
-         }
-      ],
-      "1": [
-         {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.06"
-         }
-      ],
-      "2": [],
       "3": [
          {
-            "string": "L0A45",
-            "subject": "Bioinformatica",
-            "classroom": "B0.201"
+            "classroom": "A1.10",
+            "string": "L0A69",
+            "subject": "Compilerbouw"
          }
       ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "A1.04",
+            "string": "W0B15",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "3": []
    }
 }
