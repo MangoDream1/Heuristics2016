@@ -1,90 +1,90 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "classroom": "A1.06",
-            "string": "W0A17",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Technology for games",
+            "string": "L1A38",
+            "classroom": "A1.04"
          }
       ],
-      "3": [
-         {
-            "classroom": "C1.112",
-            "string": "L0A49",
-            "subject": "Analysemethoden en -technieken"
-         },
-         {
-            "classroom": "C0.110",
-            "string": "L1A51",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A49",
+            "classroom": "C1.112"
+         }
+      ],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "classroom": "C0.110",
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A51",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Lineaire Algebra",
             "string": "L1A54",
-            "subject": "Lineaire Algebra"
+            "classroom": "C1.112"
          }
       ],
+      "1": [
+         {
+            "subject": "Technology for games",
+            "string": "W0A19",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [],
       "3": [
          {
-            "classroom": "C0.110",
-            "string": "L0A38",
-            "subject": "Technology for games"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51",
+            "classroom": "A1.06"
+         },
+         {
+            "subject": "Lineaire Algebra",
+            "string": "L0A54",
+            "classroom": "A1.08"
          }
       ]
    },
    "3": {
-      "0": [
-         {
-            "classroom": "C0.110",
-            "string": "L0A51",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "classroom": "A1.10",
-            "string": "W0A19",
-            "subject": "Technology for games"
-         }
-      ]
-   },
-   "4": {
       "0": [],
       "1": [],
       "2": [
          {
-            "classroom": "B0.201",
-            "string": "L0A54",
-            "subject": "Lineaire Algebra"
+            "subject": "Technology for games",
+            "string": "L0A38",
+            "classroom": "B0.201"
          }
       ],
-      "3": [
+      "3": []
+   },
+   "4": {
+      "0": [
          {
-            "classroom": "C0.110",
+            "subject": "Project Genetic Algorithms",
             "string": "P0A12",
-            "subject": "Project Genetic Algorithms"
-         },
-         {
-            "classroom": "A1.06",
-            "string": "L1A38",
-            "subject": "Technology for games"
+            "classroom": "A1.08"
          }
-      ]
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0A17",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": []
    }
 }

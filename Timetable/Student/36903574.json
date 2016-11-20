@@ -2,17 +2,17 @@
    "0": {
       "0": [
          {
-            "classroom": "C1.112",
-            "string": "L0A43",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Heuristieken 1",
+            "string": "W0A22",
+            "classroom": "C1.112"
          }
       ],
       "1": [],
       "2": [
          {
-            "classroom": "B0.201",
-            "string": "W0A22",
-            "subject": "Heuristieken 1"
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A21",
+            "classroom": "C0.110"
          }
       ],
       "3": []
@@ -20,9 +20,9 @@
    "1": {
       "0": [
          {
-            "classroom": "A1.10",
-            "string": "P0A21",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0A21",
+            "classroom": "A1.06"
          }
       ],
       "1": [],
@@ -30,56 +30,55 @@
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L1A84",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L0A84",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [
          {
-            "classroom": "A1.04",
+            "subject": "Netwerken en systeembeveiliging",
             "string": "P0A16",
-            "subject": "Netwerken en systeembeveiliging"
+            "classroom": "A1.06"
+         },
+         {
+            "subject": "Heuristieken 1",
+            "string": "L0A44",
+            "classroom": "A1.06"
          }
       ],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "A1.04",
-            "string": "L0A44",
-            "subject": "Heuristieken 1"
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43",
+            "classroom": "A1.06"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [
          {
-            "classroom": "B0.201",
+            "subject": "Programmeren in Java 2",
             "string": "P0A19",
-            "subject": "Programmeren in Java 2"
+            "classroom": "C1.112"
          }
       ],
-      "1": [
-         {
-            "classroom": "A1.08",
-            "string": "L0A84",
-            "subject": "Kansrekenen 2"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "C0.110",
-            "string": "L1A84",
-            "subject": "Kansrekenen 2"
-         },
-         {
-            "classroom": "A1.08",
-            "string": "W0A21",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ]
+      "3": []
    }
 }

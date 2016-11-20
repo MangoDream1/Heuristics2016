@@ -1,107 +1,107 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "C0.110",
-            "string": "L0A72",
-            "subject": "Databases 2"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "classroom": "A1.06",
-            "string": "W0A17",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
-      "3": [
-         {
-            "classroom": "C0.110",
-            "string": "L1A51",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ]
-   },
-   "1": {
       "0": [],
       "1": [],
       "2": [
          {
-            "classroom": "B0.201",
-            "string": "P0A13",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Collectieve Intelligentie",
+            "string": "W0A13",
+            "classroom": "C1.112"
          }
       ],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L1A61",
+            "classroom": "A1.10"
+         }
+      ],
+      "2": [],
       "3": [
          {
-            "classroom": "C1.112",
-            "string": "L1A61",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Collectieve Intelligentie",
+            "string": "L2A61",
+            "classroom": "B0.201"
          }
       ]
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A51",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "A1.04",
-            "string": "W0A13",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Moderne Databases",
+            "string": "P0A18",
+            "classroom": "C0.110"
          },
          {
-            "classroom": "B0.201",
-            "string": "W0A18",
-            "subject": "Moderne Databases"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51",
+            "classroom": "A1.06"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "classroom": "B0.201",
-            "string": "L0A61",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "classroom": "C0.110",
-            "string": "L0A51",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Moderne Databases",
+            "string": "W0A18",
+            "classroom": "C1.112"
          }
       ],
       "1": [
          {
-            "classroom": "C0.110",
-            "string": "W0A36",
-            "subject": "Databases 2"
+            "subject": "Collectieve Intelligentie",
+            "string": "P0A13",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L0A61",
+            "classroom": "B0.201"
          }
       ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Databases 2",
+            "string": "L0A72",
+            "classroom": "B0.201"
+         }
+      ]
    },
    "4": {
       "0": [
          {
-            "classroom": "A1.08",
-            "string": "L2A61",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0A17",
+            "classroom": "B0.201"
          },
          {
-            "classroom": "C1.112",
+            "subject": "Moderne Databases",
             "string": "L0A54",
-            "subject": "Moderne Databases"
+            "classroom": "A1.08"
          }
       ],
-      "1": [
-         {
-            "classroom": "A1.04",
-            "string": "P0A18",
-            "subject": "Moderne Databases"
-         }
-      ],
-      "2": [],
       "3": []
    }
 }

@@ -1,89 +1,90 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "classroom": "C1.112",
-            "string": "L0A43",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Compilerbouw (practicum)",
+            "string": "P0A12",
+            "classroom": "A1.06"
          }
       ],
-      "1": [],
       "2": [
          {
-            "classroom": "C1.112",
-            "string": "P0A12",
-            "subject": "Compilerbouw (practicum)"
-         },
-         {
-            "classroom": "A1.06",
-            "string": "W0A17",
-            "subject": "Reflectie op de digitale cultuur"
-         },
-         {
-            "classroom": "A1.10",
-            "string": "P0A37",
-            "subject": "Software engineering"
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A21",
+            "classroom": "C0.110"
          }
       ],
-      "3": [
-         {
-            "classroom": "C0.110",
-            "string": "L1A51",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [
          {
-            "classroom": "A1.10",
-            "string": "P0A21",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0A21",
+            "classroom": "A1.06"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "subject": "Software engineering",
+            "string": "W0A37",
+            "classroom": "C1.112"
+         }
+      ],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "classroom": "A1.10",
-            "string": "L0A75",
-            "subject": "Software engineering"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A51",
+            "classroom": "A1.10"
          }
       ],
-      "3": []
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51",
+            "classroom": "A1.06"
+         }
+      ]
    },
    "3": {
       "0": [
          {
-            "classroom": "C0.110",
-            "string": "L0A51",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43",
+            "classroom": "A1.06"
          }
       ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "A1.06",
-            "string": "W0A37",
-            "subject": "Software engineering"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0A17",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Software engineering",
+            "string": "P0A37",
+            "classroom": "A1.10"
+         }
+      ],
       "3": [
          {
-            "classroom": "A1.08",
-            "string": "W0A21",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Software engineering",
+            "string": "L0A75",
+            "classroom": "B0.201"
          }
       ]
    }

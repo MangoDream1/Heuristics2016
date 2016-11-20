@@ -2,9 +2,9 @@
    "0": {
       "0": [
          {
-            "classroom": "A1.10",
+            "subject": "Calculus 2",
             "string": "W0A34",
-            "subject": "Calculus 2"
+            "classroom": "A1.08"
          }
       ],
       "1": [],
@@ -28,9 +28,9 @@
       "1": [],
       "2": [
          {
-            "classroom": "C1.112",
+            "subject": "Calculus 2",
             "string": "L0A106",
-            "subject": "Calculus 2"
+            "classroom": "A1.10"
          }
       ],
       "3": []

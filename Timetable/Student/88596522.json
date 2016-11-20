@@ -1,20 +1,19 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "classroom": "C1.112",
-            "string": "L0A43",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ],
-      "1": [],
-      "2": [
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A22",
+            "classroom": "C0.110"
+         },
          {
-            "classroom": "A1.04",
+            "subject": "Algoritmen en complexiteit",
             "string": "W0A22",
-            "subject": "Algoritmen en complexiteit"
+            "classroom": "A1.08"
          }
       ],
+      "2": [],
       "3": []
    },
    "1": {
@@ -30,26 +29,26 @@
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "classroom": "A1.08",
-            "string": "P0A14",
-            "subject": "Compilerbouw (practicum)"
-         }
-      ]
-   },
-   "4": {
       "0": [
          {
-            "classroom": "B0.201",
-            "string": "P0A22",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43",
+            "classroom": "A1.06"
          }
       ],
       "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Compilerbouw (practicum)",
+            "string": "P0A14",
+            "classroom": "C0.110"
+         }
+      ],
       "2": [],
       "3": []
    }

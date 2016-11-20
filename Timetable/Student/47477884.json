@@ -1,70 +1,68 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "C0.110",
-            "string": "L0A72",
-            "subject": "Databases 2"
-         }
-      ],
-      "1": [
-         {
-            "classroom": "C1.112",
-            "string": "W0A36",
-            "subject": "Databases 2"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "classroom": "A1.06",
+            "subject": "Advanced Heuristics",
             "string": "P0A10",
-            "subject": "Advanced Heuristics"
+            "classroom": "A1.06"
          }
-      ]
+      ],
+      "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Calculus 2",
+            "string": "W0A36",
+            "classroom": "C0.110"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "classroom": "C0.110",
-            "string": "L0A20",
-            "subject": "Advanced Heuristics"
-         }
-      ],
-      "1": [
-         {
-            "classroom": "A1.10",
-            "string": "W0A36",
-            "subject": "Calculus 2"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [
          {
-            "classroom": "C1.112",
+            "subject": "Calculus 2",
             "string": "L0A106",
-            "subject": "Calculus 2"
+            "classroom": "A1.10"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "subject": "Databases 2",
+            "string": "L0A72",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
+         }
+      ]
    },
    "4": {
       "0": [
          {
-            "classroom": "B0.201",
+            "subject": "Programmeren in Java 2",
             "string": "P0A19",
-            "subject": "Programmeren in Java 2"
+            "classroom": "C1.112"
+         },
+         {
+            "subject": "Advanced Heuristics",
+            "string": "L0A20",
+            "classroom": "A1.10"
          }
       ],
       "1": [],

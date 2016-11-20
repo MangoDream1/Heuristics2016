@@ -1,33 +1,22 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "classroom": "C1.112",
-            "string": "L0A43",
-            "subject": "Algoritmen en complexiteit"
-         },
-         {
-            "classroom": "C0.110",
-            "string": "L0A72",
-            "subject": "Databases 2"
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A21",
+            "classroom": "C0.110"
          }
       ],
-      "1": [
-         {
-            "classroom": "C1.112",
-            "string": "W0A36",
-            "subject": "Databases 2"
-         }
-      ],
-      "2": [],
       "3": []
    },
    "1": {
       "0": [
          {
-            "classroom": "A1.10",
-            "string": "P0A21",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0A21",
+            "classroom": "A1.06"
          }
       ],
       "1": [],
@@ -41,27 +30,38 @@
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "4": {
       "0": [
          {
-            "classroom": "B0.201",
-            "string": "P0A19",
-            "subject": "Programmeren in Java 2"
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43",
+            "classroom": "A1.06"
          }
       ],
       "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "A1.08",
-            "string": "W0A21",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Databases 2",
+            "string": "L0A72",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
          }
       ]
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Programmeren in Java 2",
+            "string": "P0A19",
+            "classroom": "C1.112"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

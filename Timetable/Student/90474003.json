@@ -1,27 +1,9 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "C0.110",
-            "string": "L0A72",
-            "subject": "Databases 2"
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
-         {
-            "classroom": "A1.06",
-            "string": "W0A17",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
-      "3": [
-         {
-            "classroom": "C0.110",
-            "string": "L1A51",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "1": {
       "0": [],
@@ -30,33 +12,51 @@
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
       "0": [
          {
-            "classroom": "C0.110",
+            "subject": "Reflectie op de digitale cultuur",
             "string": "L0A51",
-            "subject": "Reflectie op de digitale cultuur"
+            "classroom": "A1.10"
          }
       ],
-      "1": [
-         {
-            "classroom": "C0.110",
-            "string": "W0A36",
-            "subject": "Databases 2"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51",
+            "classroom": "A1.06"
+         }
+      ]
    },
-   "4": {
+   "3": {
       "0": [],
       "1": [],
       "2": [],
+      "3": [
+         {
+            "subject": "Databases 2",
+            "string": "L0A72",
+            "classroom": "B0.201"
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0A17",
+            "classroom": "B0.201"
+         }
+      ],
       "3": []
    }
 }

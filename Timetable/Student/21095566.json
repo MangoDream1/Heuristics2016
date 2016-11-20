@@ -1,26 +1,19 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "C1.112",
-            "string": "L0A43",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "classroom": "C1.112",
-            "string": "W0A38",
-            "subject": "Software engineering"
-         }
-      ],
-      "2": [
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A22",
+            "classroom": "C0.110"
+         },
          {
-            "classroom": "A1.04",
+            "subject": "Algoritmen en complexiteit",
             "string": "W0A22",
-            "subject": "Algoritmen en complexiteit"
+            "classroom": "A1.08"
          }
       ],
+      "2": [],
       "3": []
    },
    "1": {
@@ -32,36 +25,43 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "classroom": "A1.10",
-            "string": "L0A75",
-            "subject": "Software engineering"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43",
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Software engineering",
+            "string": "W0A38",
+            "classroom": "A1.08"
+         }
+      ],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "classroom": "C1.112",
+            "subject": "Software engineering",
             "string": "P0A38",
-            "subject": "Software engineering"
-         },
-         {
-            "classroom": "B0.201",
-            "string": "P0A22",
-            "subject": "Algoritmen en complexiteit"
+            "classroom": "C1.112"
          }
       ],
-      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Software engineering",
+            "string": "L0A75",
+            "classroom": "B0.201"
+         }
+      ]
    }
 }

@@ -2,6 +2,7 @@ from process_data import *
 from flask import *
 import requests
 import json
+from os import listdir
 
 app = Flask(__name__)
 app.config['DEBUG'] = True
@@ -16,8 +17,16 @@ def main():
     _object = findObject(_id)
 
     available_items = {"classrooms": iteration_manager.classrooms,
-    "students": iteration_manager.students, "subjects": iteration_manager.subjects}
+                       "students": iteration_manager.students,
+                       "subjects": iteration_manager.subjects,
+                       "lectures": [x.strip(".json") for x in listdir("Timetable/Lectures")]}
 
+    timetable_id = request.args.get("t", None)
+
+    if timetable_id:
+        iteration_manager.importLectures(timetable_id)
+
+        iteration_manager.exportTimetable()
 
     return render_template("index.html", object=_object, available_items=available_items)
 
@@ -37,7 +46,6 @@ def json():
         return data
     else:
         return jsonify({'result': 'Error'})
-
 
 def findObject(_id):
     if _id:

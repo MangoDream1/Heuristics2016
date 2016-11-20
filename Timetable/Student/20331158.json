@@ -6,24 +6,40 @@
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "classroom": "A1.04",
-            "string": "L0A21",
-            "subject": "Architectuur en computerorganisatie"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L1A21",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Heuristieken 1",
+            "string": "W0A22",
+            "classroom": "A1.04"
+         }
+      ]
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L1A84",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L0A84",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [
          {
-            "classroom": "A1.06",
-            "string": "W0A22",
-            "subject": "Heuristieken 1"
+            "subject": "Heuristieken 1",
+            "string": "L0A44",
+            "classroom": "A1.06"
          }
       ],
       "2": [],
@@ -31,37 +47,19 @@
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.04",
-            "string": "L0A44",
-            "subject": "Heuristieken 1"
-         }
-      ],
-      "2": [
-         {
-            "classroom": "C0.110",
-            "string": "L1A21",
-            "subject": "Architectuur en computerorganisatie"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.08",
-            "string": "L0A84",
-            "subject": "Kansrekenen 2"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "C0.110",
-            "string": "L1A84",
-            "subject": "Kansrekenen 2"
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L0A21",
+            "classroom": "B0.201"
          }
       ]
    }

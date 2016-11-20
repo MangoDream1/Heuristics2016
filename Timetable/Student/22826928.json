@@ -1,83 +1,84 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Bioinformatica",
+            "string": "L2A45",
+            "classroom": "B0.201"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "classroom": "C1.112",
+            "subject": "Bioinformatica",
             "string": "L1A45",
-            "subject": "Bioinformatica"
+            "classroom": "A1.08"
          }
       ],
-      "3": [
-         {
-            "classroom": "A1.04",
-            "string": "P0A19",
-            "subject": "Programmeren in Java 2"
-         },
-         {
-            "classroom": "C0.110",
-            "string": "L1A51",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [
          {
-            "classroom": "C0.110",
-            "string": "P0A15",
-            "subject": "Bioinformatica"
+            "subject": "Bioinformatica",
+            "string": "L0A45",
+            "classroom": "B0.201"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "subject": "Bioinformatica",
+            "string": "P0A15",
+            "classroom": "A1.08"
+         }
+      ],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [
-         {
-            "classroom": "A1.04",
-            "string": "L0A45",
-            "subject": "Bioinformatica"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "3": {
       "0": [
          {
-            "classroom": "C0.110",
+            "subject": "Reflectie op de digitale cultuur",
             "string": "L0A51",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
-      "1": [
-         {
-            "classroom": "C1.112",
-            "string": "L2A45",
-            "subject": "Bioinformatica"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [
-         {
-            "classroom": "A1.04",
-            "string": "W0A17",
-            "subject": "Reflectie op de digitale cultuur"
+            "classroom": "A1.10"
          }
       ],
       "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51",
+            "classroom": "A1.06"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Programmeren in Java 2",
+            "string": "P0A19",
+            "classroom": "B0.201"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0A17",
+            "classroom": "A1.06"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
       "2": [
          {
-            "classroom": "C0.110",
+            "subject": "Bioinformatica",
             "string": "W0A15",
-            "subject": "Bioinformatica"
+            "classroom": "C1.112"
          }
       ],
       "3": []

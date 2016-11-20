@@ -3,17 +3,18 @@
       "0": [],
       "1": [
          {
-            "classroom": "C1.112",
-            "string": "W0A38",
-            "subject": "Software engineering"
-         },
-         {
-            "classroom": "A1.10",
-            "string": "W0A19",
-            "subject": "Technology for games"
+            "subject": "Technology for games",
+            "string": "L1A38",
+            "classroom": "A1.04"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "subject": "Technology for games",
+            "string": "W0A19",
+            "classroom": "A1.04"
+         }
+      ],
       "3": []
    },
    "1": {
@@ -25,42 +26,42 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "classroom": "A1.10",
-            "string": "L0A75",
-            "subject": "Software engineering"
-         }
-      ],
-      "3": [
-         {
-            "classroom": "C0.110",
-            "string": "L0A38",
-            "subject": "Technology for games"
-         }
-      ]
-   },
-   "3": {
-      "0": [],
-      "1": [],
       "2": [],
       "3": []
    },
-   "4": {
-      "0": [
+   "3": {
+      "0": [],
+      "1": [
          {
-            "classroom": "C1.112",
-            "string": "P0A38",
-            "subject": "Software engineering"
+            "subject": "Software engineering",
+            "string": "W0A38",
+            "classroom": "A1.08"
          }
       ],
-      "1": [],
+      "2": [
+         {
+            "subject": "Technology for games",
+            "string": "L0A38",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Software engineering",
+            "string": "P0A38",
+            "classroom": "C1.112"
+         }
+      ],
       "2": [],
       "3": [
          {
-            "classroom": "A1.06",
-            "string": "L1A38",
-            "subject": "Technology for games"
+            "subject": "Software engineering",
+            "string": "L0A75",
+            "classroom": "B0.201"
          }
       ]
    }

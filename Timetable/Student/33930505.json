@@ -1,12 +1,18 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Bioinformatica",
+            "string": "L2A45",
+            "classroom": "B0.201"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "classroom": "C1.112",
+            "subject": "Bioinformatica",
             "string": "L1A45",
-            "subject": "Bioinformatica"
+            "classroom": "A1.08"
          }
       ],
       "3": []
@@ -14,36 +20,30 @@
    "1": {
       "0": [
          {
-            "classroom": "C0.110",
-            "string": "P0A15",
-            "subject": "Bioinformatica"
+            "subject": "Bioinformatica",
+            "string": "L0A45",
+            "classroom": "B0.201"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "subject": "Bioinformatica",
+            "string": "P0A15",
+            "classroom": "A1.08"
+         }
+      ],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.04",
-            "string": "L0A45",
-            "subject": "Bioinformatica"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "classroom": "C1.112",
-            "string": "L2A45",
-            "subject": "Bioinformatica"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -52,16 +52,16 @@
       "1": [],
       "2": [
          {
-            "classroom": "C0.110",
+            "subject": "Bioinformatica",
             "string": "W0A15",
-            "subject": "Bioinformatica"
+            "classroom": "C1.112"
          }
       ],
       "3": [
          {
-            "classroom": "A1.08",
+            "subject": "Netwerken en systeembeveiliging",
             "string": "P0A16",
-            "subject": "Netwerken en systeembeveiliging"
+            "classroom": "A1.06"
          }
       ]
    }

@@ -1,94 +1,94 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "C1.112",
-            "string": "L0A43",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "classroom": "A1.04",
-            "string": "W0A22",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ],
-      "3": [
-         {
-            "classroom": "A1.04",
-            "string": "W0A36",
-            "subject": "Calculus 2"
-         }
-      ]
-   },
-   "1": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "classroom": "C1.112",
-            "string": "L1A61",
-            "subject": "Collectieve Intelligentie"
-         }
-      ]
-   },
-   "2": {
-      "0": [
-         {
-            "classroom": "A1.08",
-            "string": "P0A16",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
       "1": [
          {
-            "classroom": "A1.08",
-            "string": "P0A19",
-            "subject": "Programmeren in Java 2"
+            "subject": "Collectieve Intelligentie",
+            "string": "P0A16",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A22",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0A22",
+            "classroom": "A1.08"
          }
       ],
       "2": [],
       "3": []
    },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L1A61",
+            "classroom": "A1.10"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L2A61",
+            "classroom": "B0.201"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "W0A16",
+            "classroom": "A1.10"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Programmeren in Java 2",
+            "string": "P0A19",
+            "classroom": "C0.110"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Calculus 2",
+            "string": "W0A36",
+            "classroom": "C0.110"
+         }
+      ]
+   },
    "3": {
       "0": [
          {
-            "classroom": "B0.201",
-            "string": "L0A61",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43",
+            "classroom": "A1.06"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L0A61",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [
          {
-            "classroom": "C1.112",
+            "subject": "Calculus 2",
             "string": "L0A106",
-            "subject": "Calculus 2"
-         },
-         {
-            "classroom": "A1.04",
-            "string": "W0A16",
-            "subject": "Collectieve Intelligentie"
+            "classroom": "A1.10"
          }
       ],
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "classroom": "A1.08",
-            "string": "L2A61",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "classroom": "B0.201",
-            "string": "P0A22",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []

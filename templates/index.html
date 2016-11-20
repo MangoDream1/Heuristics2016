@@ -6,6 +6,14 @@
 		<link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/style.css') }}">
 	</head>
 	<body>
+		<!-- Lecture -->
+		<select id="lectures">
+			<option value="">-</option>
+			{% for x in available_items["lectures"] %}
+				<option value="{{ x }}">{{ x }}</option>
+			{% endfor %}
+		</select>
+
 		<!-- Classroom -->
 		<select id="classrooms">
 			<option value="">-</option>
@@ -66,7 +74,7 @@
 
 				Lectures: [
 				{% for x in object.lectures %}
-					<span id="{{ x.__str__() }}">{{ x.subject.name }}: {{ x.__str__() }}</span>
+					<p><span id="{{ x.__str__() }}">{{ x.subject.name }}: {{ x.__str__() }}</span></p>
 				{% endfor %}
 				]
 

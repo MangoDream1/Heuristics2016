@@ -2,13 +2,7 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "classroom": "C0.110",
-            "string": "L0A25",
-            "subject": "Interactie-ontwerp"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
@@ -20,19 +14,25 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "subject": "Interactie-ontwerp",
+            "string": "L0A25",
+            "classroom": "C1.112"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Interactie-ontwerp",
+            "string": "L1A25",
+            "classroom": "A1.04"
+         }
+      ]
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "classroom": "A1.06",
-            "string": "L1A25",
-            "subject": "Interactie-ontwerp"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {
@@ -41,9 +41,9 @@
       "2": [],
       "3": [
          {
-            "classroom": "A1.08",
+            "subject": "Netwerken en systeembeveiliging",
             "string": "P0A16",
-            "subject": "Netwerken en systeembeveiliging"
+            "classroom": "A1.06"
          }
       ]
    }

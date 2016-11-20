@@ -1,7 +1,13 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Technology for games",
+            "string": "L1A38",
+            "classroom": "A1.04"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -12,50 +18,44 @@
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "0": [
          {
-            "classroom": "C0.110",
-            "string": "L0A38",
-            "subject": "Technology for games"
+            "subject": "Kansrekenen 2",
+            "string": "L1A84",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L0A84",
+            "classroom": "A1.10"
          }
-      ]
+      ],
+      "1": [
+         {
+            "subject": "Technology for games",
+            "string": "W0A19",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [],
+      "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "classroom": "A1.10",
-            "string": "W0A19",
-            "subject": "Technology for games"
+            "subject": "Technology for games",
+            "string": "L0A38",
+            "classroom": "B0.201"
          }
-      ]
+      ],
+      "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.08",
-            "string": "L0A84",
-            "subject": "Kansrekenen 2"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "C0.110",
-            "string": "L1A84",
-            "subject": "Kansrekenen 2"
-         },
-         {
-            "classroom": "A1.06",
-            "string": "L1A38",
-            "subject": "Technology for games"
-         }
-      ]
+      "3": []
    }
 }

@@ -1,116 +1,119 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "classroom": "C1.112",
-            "string": "L0A43",
-            "subject": "Algoritmen en complexiteit"
-         },
-         {
-            "classroom": "C0.110",
-            "string": "L0A72",
-            "subject": "Databases 2"
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A21",
+            "classroom": "C0.110"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    },
    "1": {
       "0": [
          {
-            "classroom": "A1.10",
-            "string": "P0A21",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0A21",
+            "classroom": "A1.06"
          },
          {
-            "classroom": "A1.06",
-            "string": "W0A16",
-            "subject": "Heuristieken 2"
+            "subject": "Data Mining",
+            "string": "L1A27",
+            "classroom": "C1.112"
          }
       ],
-      "1": [
-         {
-            "classroom": "B0.201",
-            "string": "L0A32",
-            "subject": "Heuristieken 2"
-         }
-      ],
-      "2": [
-         {
-            "classroom": "C1.112",
-            "string": "L0A22",
-            "subject": "Autonomous Agents 2"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [
-         {
-            "classroom": "C0.110",
-            "string": "W0A36",
-            "subject": "Databases 2"
-         }
-      ],
       "2": [
          {
-            "classroom": "C0.110",
+            "subject": "Autonomous Agents 2",
             "string": "P0A6",
-            "subject": "Autonomous Agents 2"
-         },
-         {
-            "classroom": "C1.112",
-            "string": "P0A9",
-            "subject": "Data Mining"
+            "classroom": "B0.201"
          }
       ],
       "3": [
          {
-            "classroom": "A1.10",
-            "string": "W0A6",
-            "subject": "Autonomous Agents 2"
+            "subject": "Heuristieken 2",
+            "string": "L0A32",
+            "classroom": "A1.04"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Data Mining",
+            "string": "P0A9",
+            "classroom": "A1.08"
          },
          {
-            "classroom": "B0.201",
-            "string": "L1A27",
-            "subject": "Data Mining"
+            "subject": "Data Mining",
+            "string": "W0A9",
+            "classroom": "C0.110"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "W0A6",
+            "classroom": "A1.10"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "L0A22",
+            "classroom": "A1.10"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43",
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Heuristieken 2",
+            "string": "W0A16",
+            "classroom": "A1.06"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Databases 2",
+            "string": "L0A72",
+            "classroom": "B0.201"
          }
       ]
    },
    "4": {
       "0": [
          {
-            "classroom": "A1.04",
-            "string": "L0A27",
-            "subject": "Data Mining"
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "A1.04"
          }
       ],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "classroom": "C0.110",
+            "subject": "Autonomous Agents 2",
             "string": "L1A22",
-            "subject": "Autonomous Agents 2"
+            "classroom": "C0.110"
          }
       ],
+      "2": [],
       "3": [
          {
-            "classroom": "A1.08",
-            "string": "W0A9",
-            "subject": "Data Mining"
-         },
-         {
-            "classroom": "A1.08",
-            "string": "W0A21",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Data Mining",
+            "string": "L0A27",
+            "classroom": "C0.110"
          }
       ]
    }

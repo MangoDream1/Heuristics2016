@@ -1,90 +1,107 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [],
+      "0": [
+         {
+            "subject": "Calculus 2",
+            "string": "W0A34",
+            "classroom": "A1.08"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0A22",
+            "classroom": "A1.08"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Bioinformatica",
+            "string": "L1A45",
+            "classroom": "A1.08"
+         },
+         {
+            "subject": "Data Mining",
+            "string": "P0A9",
+            "classroom": "A1.08"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Bioinformatica",
+            "string": "P0A15",
+            "classroom": "A1.08"
+         }
+      ],
       "2": [],
       "3": []
    },
    "2": {
       "0": [
          {
-            "classroom": "A1.08",
-            "string": "P0A16",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "L1A21",
+            "classroom": "A1.08"
          }
       ],
       "1": [
          {
-            "classroom": "A1.08",
-            "string": "P0A19",
-            "subject": "Programmeren in Java 2"
+            "subject": "Data Mining",
+            "string": "P0A9",
+            "classroom": "A1.08"
          }
       ],
-      "2": [
-         {
-            "classroom": "A1.08",
-            "string": "L0A21",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "A1.08",
-            "string": "P0A14",
-            "subject": "Compilerbouw (practicum)"
+            "subject": "Lineaire Algebra",
+            "string": "L0A54",
+            "classroom": "A1.08"
          }
       ]
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Software engineering",
+            "string": "W0A38",
+            "classroom": "A1.08"
+         },
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "W0A16",
+            "classroom": "A1.08"
+         }
+      ],
+      "2": [],
+      "3": []
    },
    "4": {
       "0": [
          {
-            "classroom": "A1.08",
-            "string": "L2A61",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Project Genetic Algorithms",
+            "string": "P0A12",
+            "classroom": "A1.08"
          }
       ],
-      "1": [
-         {
-            "classroom": "A1.08",
-            "string": "L0A84",
-            "subject": "Kansrekenen 2"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "classroom": "A1.08",
-            "string": "P0A15",
-            "subject": "Project Numerical Recipes"
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "W0A10",
+            "classroom": "A1.08"
+         },
+         {
+            "subject": "Moderne Databases",
+            "string": "L0A54",
+            "classroom": "A1.08"
          }
       ],
-      "3": [
-         {
-            "classroom": "A1.08",
-            "string": "W0A9",
-            "subject": "Data Mining"
-         },
-         {
-            "classroom": "A1.08",
-            "string": "P0A16",
-            "subject": "Netwerken en systeembeveiliging"
-         },
-         {
-            "classroom": "A1.08",
-            "string": "W0A21",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ]
+      "3": []
    }
 }
