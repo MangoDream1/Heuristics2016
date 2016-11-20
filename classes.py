@@ -100,6 +100,12 @@ class Timetable:
     def exportTimetable(self):
         self.fillInTimetable()
 
+        self.jsonDict = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(5)}
+
+        for x in self.timetable.keys():
+            for y in self.timetable[x].keys():
+                self.jsonDict[x][y] = self.timetable[x][y]
+
         for day, timeslot in self.jsonDict.items():
             for key, lectures in timeslot.items():
                 nLectures = [lecture.toDict() for lecture in lectures]
@@ -114,11 +120,9 @@ class Timetable:
 
     def fillInTimetable(self):
         self.timetable = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(5)}
-        self.jsonDict = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(5)}
 
         for lecture in self.lectures:
             self.timetable[lecture.day][lecture.timeslot].append(lecture)
-            self.jsonDict[lecture.day][lecture.timeslot].append(lecture)
 
 class Classroom(Timetable):
     def __init__(self, room_number, capacity):

@@ -3,65 +3,66 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0A38",
+            "subject": "Software engineering",
+            "classroom": "C0.110"
+         }
+      ]
    },
    "1": {
-      "0": [
-         {
-            "subject": "Software engineering",
-            "string": "P0A38",
-            "classroom": "A1.10"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "subject": "Technology for games",
-            "string": "L1A38",
-            "classroom": "A1.04"
+            "string": "L0A75",
+            "subject": "Software engineering",
+            "classroom": "C0.110"
          }
       ],
       "2": [],
       "3": [
          {
-            "subject": "Software engineering",
-            "string": "W0A38",
-            "classroom": "A1.06"
-         },
-         {
+            "string": "L1A38",
             "subject": "Technology for games",
-            "string": "L0A38",
-            "classroom": "A1.04"
+            "classroom": "B0.201"
          }
       ]
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L0A38",
+            "subject": "Technology for games",
+            "classroom": "A1.06"
+         }
+      ],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
+            "string": "W0A38",
             "subject": "Software engineering",
-            "string": "L0A75",
-            "classroom": "A1.04"
+            "classroom": "A1.06"
          }
       ],
-      "2": [
-         {
-            "subject": "Technology for games",
-            "string": "W0A19",
-            "classroom": "B0.201"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "W0A19",
+            "subject": "Technology for games",
+            "classroom": "A1.04"
+         }
+      ],
       "3": []
    }
 }

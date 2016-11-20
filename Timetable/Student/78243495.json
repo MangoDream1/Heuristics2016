@@ -2,47 +2,43 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "P0A20",
-            "classroom": "A1.08"
-         },
-         {
-            "subject": "Moderne Databases",
-            "string": "W0A18",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Software engineering",
-            "string": "P0A38",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [],
       "2": [
          {
-            "subject": "Webprogrammeren en databases",
             "string": "L1A39",
-            "classroom": "A1.06"
-         },
-         {
-            "subject": "Heuristieken 2",
-            "string": "W0A16",
-            "classroom": "A1.06"
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.10"
          }
       ],
       "3": [
          {
+            "string": "P0A18",
+            "subject": "Moderne Databases",
+            "classroom": "C1.112"
+         },
+         {
+            "string": "P0A38",
             "subject": "Software engineering",
-            "string": "W0A38",
-            "classroom": "A1.06"
+            "classroom": "C0.110"
          }
       ]
+   },
+   "1": {
+      "0": [
+         {
+            "string": "W0A20",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "C1.112"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A75",
+            "subject": "Software engineering",
+            "classroom": "C0.110"
+         }
+      ],
+      "2": [],
+      "3": []
    },
    "2": {
       "0": [],
@@ -51,48 +47,55 @@
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Moderne Databases",
-            "string": "P0A18",
-            "classroom": "B0.201"
-         },
-         {
-            "subject": "Software engineering",
-            "string": "L0A75",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "4": {
       "0": [
          {
-            "subject": "Moderne Databases",
-            "string": "L0A54",
+            "string": "W0A38",
+            "subject": "Software engineering",
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [
+         {
+            "string": "P0A20",
+            "subject": "Webprogrammeren en databases",
             "classroom": "A1.10"
          }
       ],
-      "1": [],
       "2": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "L0A39",
-            "classroom": "A1.04"
+            "string": "W0A18",
+            "subject": "Moderne Databases",
+            "classroom": "A1.10"
          }
       ],
       "3": [
          {
+            "string": "L0A32",
+            "subject": "Heuristieken 2",
+            "classroom": "A1.10"
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "string": "L0A39",
             "subject": "Webprogrammeren en databases",
-            "string": "W0A20",
-            "classroom": "A1.06"
+            "classroom": "C0.110"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "L0A54",
+            "subject": "Moderne Databases",
+            "classroom": "C1.112"
          },
          {
+            "string": "W0A16",
             "subject": "Heuristieken 2",
-            "string": "L0A32",
-            "classroom": "C1.112"
+            "classroom": "A1.06"
          }
       ]
    }

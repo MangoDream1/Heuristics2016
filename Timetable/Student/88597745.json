@@ -3,31 +3,31 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Programmeren in Java 2",
-            "string": "P0A19",
-            "classroom": "C0.110"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.08"
+         }
+      ],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0A14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "A1.08"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0A14",
-            "classroom": "A1.04"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],

@@ -1,35 +1,35 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "subject": "Databases 2",
-            "string": "L0A72",
-            "classroom": "C0.110"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Compilerbouw",
-            "string": "L1A69",
-            "classroom": "B0.201"
-         }
-      ]
-   },
-   "1": {
       "0": [
          {
+            "string": "L1A69",
             "subject": "Compilerbouw",
-            "string": "W0A34",
             "classroom": "A1.10"
          }
       ],
       "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [
+         {
+            "string": "P0A34",
+            "subject": "Compilerbouw",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [
+         {
+            "string": "W0A34",
+            "subject": "Compilerbouw",
+            "classroom": "A1.10"
+         }
+      ],
       "2": [
          {
+            "string": "L0A69",
             "subject": "Compilerbouw",
-            "string": "P0A34",
             "classroom": "C1.112"
          }
       ],
@@ -38,25 +38,25 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "W0A36",
+            "subject": "Databases 2",
+            "classroom": "A1.04"
+         }
+      ],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
+            "string": "L0A72",
             "subject": "Databases 2",
-            "string": "W0A36",
-            "classroom": "B0.201"
+            "classroom": "A1.04"
          }
       ],
-      "2": [
-         {
-            "subject": "Compilerbouw",
-            "string": "L0A69",
-            "classroom": "A1.08"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "4": {

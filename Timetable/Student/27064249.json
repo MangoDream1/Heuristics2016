@@ -2,31 +2,32 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L1A39",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.10"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [
          {
+            "string": "W0A20",
             "subject": "Webprogrammeren en databases",
-            "string": "P0A20",
-            "classroom": "A1.08"
-         },
-         {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "B0.201"
+            "classroom": "C1.112"
          }
       ],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "L1A39",
-            "classroom": "A1.06"
+            "string": "W0A36",
+            "subject": "Calculus 2",
+            "classroom": "A1.10"
          }
-      ],
-      "3": []
+      ]
    },
    "2": {
       "0": [],
@@ -34,44 +35,45 @@
       "2": [],
       "3": [
          {
+            "string": "P0A10",
             "subject": "Advanced Heuristics",
-            "string": "L0A20",
-            "classroom": "B0.201"
+            "classroom": "A1.06"
          }
       ]
    },
    "3": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "L0A106",
+            "subject": "Calculus 2",
+            "classroom": "A1.08"
+         }
+      ],
+      "1": [
+         {
+            "string": "P0A20",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.10"
+         }
+      ],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "B0.201"
-         },
-         {
-            "subject": "Advanced Heuristics",
-            "string": "P0A10",
+            "string": "L0A39",
+            "subject": "Webprogrammeren en databases",
             "classroom": "C0.110"
          }
       ],
-      "2": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "L0A39",
-            "classroom": "A1.04"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "W0A20",
-            "classroom": "A1.06"
+            "string": "L0A20",
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.08"
          }
       ]
    }

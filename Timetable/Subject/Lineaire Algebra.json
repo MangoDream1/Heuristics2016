@@ -6,10 +6,16 @@
       "3": []
    },
    "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
       "0": [
          {
-            "subject": "Lineaire Algebra",
             "string": "L1A54",
+            "subject": "Lineaire Algebra",
             "classroom": "A1.06"
          }
       ],
@@ -17,22 +23,16 @@
       "2": [],
       "3": []
    },
-   "2": {
+   "3": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [
+      "2": [
          {
-            "subject": "Lineaire Algebra",
             "string": "L0A54",
-            "classroom": "A1.04"
+            "subject": "Lineaire Algebra",
+            "classroom": "C0.110"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    },
    "4": {

@@ -1,11 +1,22 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L0A45",
+            "subject": "Bioinformatica",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [
          {
+            "string": "W0A36",
             "subject": "Databases 2",
-            "string": "L0A72",
+            "classroom": "A1.04"
+         },
+         {
+            "string": "L2A45",
+            "subject": "Bioinformatica",
             "classroom": "C0.110"
          }
       ],
@@ -13,73 +24,61 @@
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [
-         {
-            "subject": "Bioinformatica",
-            "string": "W0A15",
-            "classroom": "A1.06"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Databases 2",
-            "string": "W0A36",
-            "classroom": "C0.110"
-         }
-      ]
-   },
-   "2": {
-      "0": [
-         {
-            "subject": "Bioinformatica",
-            "string": "P0A15",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Advanced Heuristics",
-            "string": "L0A20",
-            "classroom": "B0.201"
-         }
-      ]
-   },
-   "3": {
-      "0": [],
       "1": [
          {
+            "string": "W0A15",
             "subject": "Bioinformatica",
-            "string": "L1A45",
             "classroom": "A1.08"
          }
       ],
       "2": [],
       "3": []
    },
-   "4": {
+   "2": {
       "0": [],
-      "1": [
-         {
-            "subject": "Advanced Heuristics",
-            "string": "P0A10",
-            "classroom": "C0.110"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Bioinformatica",
-            "string": "L2A45",
-            "classroom": "C0.110"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": [
          {
+            "string": "P0A10",
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.06"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "string": "L0A72",
+            "subject": "Databases 2",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "string": "L1A45",
             "subject": "Bioinformatica",
-            "string": "L0A45",
+            "classroom": "A1.08"
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "string": "P0A15",
+            "subject": "Bioinformatica",
             "classroom": "C0.110"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "L0A20",
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.08"
          }
       ]
    }

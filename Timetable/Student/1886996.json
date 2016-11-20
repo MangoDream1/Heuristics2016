@@ -8,13 +8,7 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Heuristieken 2",
-            "string": "W0A16",
-            "classroom": "A1.06"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
@@ -23,9 +17,9 @@
       "2": [],
       "3": [
          {
+            "string": "P0A10",
             "subject": "Advanced Heuristics",
-            "string": "L0A20",
-            "classroom": "B0.201"
+            "classroom": "A1.06"
          }
       ]
    },
@@ -33,23 +27,28 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A32",
+            "subject": "Heuristieken 2",
+            "classroom": "A1.10"
+         }
+      ]
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "subject": "Advanced Heuristics",
-            "string": "P0A10",
-            "classroom": "C0.110"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
+            "string": "W0A16",
             "subject": "Heuristieken 2",
-            "string": "L0A32",
-            "classroom": "C1.112"
+            "classroom": "A1.06"
+         },
+         {
+            "string": "L0A20",
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.08"
          }
       ]
    }

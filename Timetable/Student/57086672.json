@@ -1,56 +1,68 @@
 {
    "0": {
-      "0": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "W0A19",
-            "classroom": "B0.201"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "P0A19",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "1": {
       "0": [],
       "1": [],
       "2": [
          {
-            "subject": "Webprogrammeren en databases",
             "string": "L1A39",
-            "classroom": "A1.06"
-         },
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.10"
+         }
+      ],
+      "3": [
          {
+            "string": "L1A51",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51",
+            "classroom": "A1.10"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "string": "L0A49",
+            "subject": "Analysemethoden en -technieken",
             "classroom": "B0.201"
+         }
+      ],
+      "2": [
+         {
+            "string": "P0A19",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "C0.110"
          }
       ],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51",
-            "classroom": "A1.10"
+            "string": "W0A19",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.08"
          }
       ],
+      "1": [],
       "2": [
          {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A49",
-            "classroom": "A1.06"
+            "string": "W0A17",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "C1.112"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "string": "W0A16",
+            "subject": "Heuristieken 2",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "B0.201"
+         }
+      ]
    },
    "3": {
       "0": [],
@@ -58,33 +70,22 @@
       "2": [],
       "3": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "W0A17",
-            "classroom": "A1.08"
-         },
-         {
+            "string": "L0A32",
             "subject": "Heuristieken 2",
-            "string": "W0A16",
             "classroom": "A1.10"
          }
       ]
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "subject": "Webprogrammeren en databases",
             "string": "L0A39",
-            "classroom": "A1.04"
+            "subject": "Webprogrammeren en databases",
+            "classroom": "C0.110"
          }
       ],
-      "3": [
-         {
-            "subject": "Heuristieken 2",
-            "string": "L0A32",
-            "classroom": "C1.112"
-         }
-      ]
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

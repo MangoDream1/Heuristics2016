@@ -1,38 +1,27 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0A36",
+            "subject": "Calculus 2",
+            "classroom": "A1.08"
+         }
+      ],
       "1": [],
       "2": [
          {
+            "string": "W0A36",
             "subject": "Databases 2",
-            "string": "L0A72",
-            "classroom": "C0.110"
+            "classroom": "A1.04"
          }
       ],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "B0.201"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "B0.201"
-         },
-         {
-            "subject": "Databases 2",
-            "string": "W0A36",
-            "classroom": "C0.110"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
@@ -40,34 +29,45 @@
       "2": [],
       "3": [
          {
+            "string": "P0A10",
             "subject": "Advanced Heuristics",
-            "string": "L0A20",
-            "classroom": "B0.201"
+            "classroom": "A1.06"
          }
       ]
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A72",
+            "subject": "Databases 2",
+            "classroom": "A1.04"
+         },
+         {
+            "string": "L0A106",
+            "subject": "Calculus 2",
+            "classroom": "A1.08"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Programmeren in Java 2",
-            "string": "P0A19",
-            "classroom": "A1.10"
+            "string": "L0A20",
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.08"
          }
       ]
-   },
-   "4": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Advanced Heuristics",
-            "string": "P0A10",
-            "classroom": "C0.110"
-         }
-      ],
-      "2": [],
-      "3": []
    }
 }

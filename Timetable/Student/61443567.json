@@ -2,40 +2,29 @@
    "0": {
       "0": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "W0A19",
-            "classroom": "B0.201"
-         },
-         {
+            "string": "P0A13",
             "subject": "Collectieve Intelligentie",
-            "string": "W0A13",
-            "classroom": "A1.04"
+            "classroom": "A1.10"
          }
       ],
-      "1": [
+      "1": [],
+      "2": [
          {
+            "string": "L1A39",
             "subject": "Webprogrammeren en databases",
-            "string": "P0A19",
-            "classroom": "B0.201"
+            "classroom": "A1.10"
          }
       ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
       "1": [],
       "2": [
          {
+            "string": "P0A19",
             "subject": "Webprogrammeren en databases",
-            "string": "L1A39",
-            "classroom": "A1.06"
+            "classroom": "C0.110"
          }
       ],
       "3": []
@@ -43,60 +32,70 @@
    "2": {
       "0": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A61",
+            "string": "W0A19",
+            "subject": "Webprogrammeren en databases",
             "classroom": "A1.08"
          }
       ],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [
+      "2": [
          {
-            "subject": "Programmeren in Java 2",
-            "string": "P0A15",
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie",
             "classroom": "A1.06"
          }
       ],
+      "3": [
+         {
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.08"
+         },
+         {
+            "string": "W0A16",
+            "subject": "Heuristieken 2",
+            "classroom": "A1.10"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [],
       "2": [],
       "3": [
          {
+            "string": "L0A32",
             "subject": "Heuristieken 2",
-            "string": "W0A16",
             "classroom": "A1.10"
          }
       ]
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Collectieve Intelligentie",
             "string": "L1A61",
-            "classroom": "A1.10"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.06"
+         },
+         {
+            "string": "L0A39",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "P0A15",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.06"
          }
       ],
+      "1": [],
       "2": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "L0A39",
+            "string": "W0A13",
+            "subject": "Collectieve Intelligentie",
             "classroom": "A1.04"
          }
       ],
-      "3": [
-         {
-            "subject": "Heuristieken 2",
-            "string": "L0A32",
-            "classroom": "C1.112"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0A13",
-            "classroom": "A1.06"
-         }
-      ]
+      "3": []
    }
 }

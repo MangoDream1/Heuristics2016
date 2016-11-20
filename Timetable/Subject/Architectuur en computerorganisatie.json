@@ -1,13 +1,7 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L1A21",
-            "classroom": "C0.110"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -26,14 +20,19 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "subject": "Architectuur en computerorganisatie",
             "string": "L0A21",
+            "subject": "Architectuur en computerorganisatie",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "L1A21",
+            "subject": "Architectuur en computerorganisatie",
             "classroom": "A1.10"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
       "0": [],

@@ -1,32 +1,26 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "subject": "Machine Learning",
-            "string": "L1A22",
-            "classroom": "A1.10"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L1A22",
+            "subject": "Machine Learning",
+            "classroom": "C0.110"
+         }
+      ],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Machine Learning",
-            "string": "L0A22",
-            "classroom": "A1.04"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
@@ -38,7 +32,13 @@
    "4": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L0A22",
+            "subject": "Machine Learning",
+            "classroom": "A1.08"
+         }
+      ],
       "3": []
    }
 }

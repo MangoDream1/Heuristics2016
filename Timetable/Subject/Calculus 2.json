@@ -1,55 +1,55 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0A36",
+            "subject": "Calculus 2",
+            "classroom": "A1.08"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "B0.201"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Calculus 2",
             "string": "W0A36",
-            "classroom": "B0.201"
+            "subject": "Calculus 2",
+            "classroom": "A1.10"
          }
       ]
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "subject": "Calculus 2",
             "string": "W0A34",
-            "classroom": "C1.112"
+            "subject": "Calculus 2",
+            "classroom": "A1.08"
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A106",
+            "subject": "Calculus 2",
+            "classroom": "A1.08"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "B0.201"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    }

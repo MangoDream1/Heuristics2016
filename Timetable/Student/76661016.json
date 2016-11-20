@@ -2,84 +2,83 @@
    "0": {
       "0": [
          {
-            "subject": "Interactie-ontwerp",
-            "string": "L1A25",
-            "classroom": "A1.06"
+            "string": "L1A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.10"
          }
       ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Compilerbouw",
-            "string": "L1A69",
-            "classroom": "B0.201"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [
          {
+            "string": "P0A34",
             "subject": "Compilerbouw",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [
+         {
             "string": "W0A34",
+            "subject": "Compilerbouw",
             "classroom": "A1.10"
          },
          {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "B0.201"
+            "string": "L0A25",
+            "subject": "Interactie-ontwerp",
+            "classroom": "C0.110"
          }
       ],
-      "1": [],
       "2": [
          {
+            "string": "L0A69",
             "subject": "Compilerbouw",
-            "string": "P0A34",
             "classroom": "C1.112"
          }
       ],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0A34",
+            "subject": "Calculus 2",
+            "classroom": "A1.08"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "subject": "Calculus 2",
-            "string": "W0A34",
-            "classroom": "C1.112"
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp",
+            "classroom": "A1.08"
          }
       ],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "subject": "Compilerbouw",
-            "string": "L0A69",
+            "string": "L0A106",
+            "subject": "Calculus 2",
             "classroom": "A1.08"
+         },
+         {
+            "string": "P0A12",
+            "subject": "Project Genetic Algorithms",
+            "classroom": "C1.112"
          }
       ],
-      "3": [
-         {
-            "subject": "Interactie-ontwerp",
-            "string": "L0A25",
-            "classroom": "A1.06"
-         }
-      ]
+      "1": [],
+      "2": [],
+      "3": []
    },
    "4": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Project Genetic Algorithms",
-            "string": "P0A12",
-            "classroom": "A1.06"
-         }
-      ]
+      "3": []
    }
 }

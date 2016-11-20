@@ -1,80 +1,79 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61",
-            "classroom": "C1.112"
-         }
-      ]
-   },
-   "1": {
       "0": [
          {
+            "string": "W0A36",
             "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "B0.201"
+            "classroom": "A1.08"
          }
       ],
       "1": [],
       "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "string": "W0A16",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [
+         {
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.06"
+         }
+      ],
       "3": [
          {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "B0.201"
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.08"
          }
       ]
    },
-   "2": {
+   "3": {
       "0": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A61",
+            "string": "L0A106",
+            "subject": "Calculus 2",
             "classroom": "A1.08"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.06"
+         },
+         {
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.10"
          }
       ],
       "1": [],
       "2": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0A16",
-            "classroom": "C0.110"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Collectieve Intelligentie",
             "string": "P0A16",
-            "classroom": "A1.06"
-         }
-      ]
-   },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Programmeren in Java 2",
-            "string": "P0A19",
-            "classroom": "A1.10"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
-      "1": [
-         {
             "subject": "Collectieve Intelligentie",
-            "string": "L1A61",
-            "classroom": "A1.10"
+            "classroom": "A1.08"
          }
       ],
-      "2": [],
       "3": []
    }
 }

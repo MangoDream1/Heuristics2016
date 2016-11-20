@@ -5,74 +5,74 @@
       "2": [],
       "3": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0A16",
-            "classroom": "A1.08"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61",
+            "string": "P0A18",
+            "subject": "Moderne Databases",
             "classroom": "C1.112"
          }
       ]
    },
    "1": {
-      "0": [
-         {
-            "subject": "Moderne Databases",
-            "string": "W0A18",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0A16",
-            "classroom": "C1.112"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "subject": "Collectieve Intelligentie",
             "string": "L2A61",
-            "classroom": "A1.08"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.06"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0A16",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "3": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
+            "string": "W0A16",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "W0A18",
             "subject": "Moderne Databases",
-            "string": "P0A18",
-            "classroom": "B0.201"
+            "classroom": "A1.10"
          }
       ],
-      "2": [],
       "3": []
    },
    "4": {
       "0": [
          {
-            "subject": "Moderne Databases",
-            "string": "L0A54",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Collectieve Intelligentie",
             "string": "L1A61",
-            "classroom": "A1.10"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.06"
          }
       ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A54",
+            "subject": "Moderne Databases",
+            "classroom": "C1.112"
+         }
+      ]
    }
 }

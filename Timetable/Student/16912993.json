@@ -9,19 +9,19 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "A1.06"
+         }
+      ]
    },
    "2": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0A16",
-            "classroom": "A1.10"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],

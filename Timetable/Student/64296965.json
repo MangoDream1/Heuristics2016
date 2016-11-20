@@ -4,85 +4,85 @@
       "1": [],
       "2": [
          {
+            "string": "W0A36",
             "subject": "Databases 2",
-            "string": "L0A72",
-            "classroom": "C0.110"
+            "classroom": "A1.04"
          }
       ],
-      "3": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0A16",
-            "classroom": "A1.08"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0A16",
-            "classroom": "C1.112"
+            "string": "L0A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.10"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "subject": "Databases 2",
-            "string": "W0A36",
-            "classroom": "C0.110"
+            "string": "L0A49",
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "B0.201"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "2": {
-      "0": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A61",
-            "classroom": "A1.08"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A49",
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie",
             "classroom": "A1.06"
          }
       ],
       "3": [
          {
-            "subject": "Kansrekenen 2",
-            "string": "L1A84",
-            "classroom": "C0.110"
+            "string": "P0A16",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.08"
          }
       ]
    },
    "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "0": [
          {
-            "subject": "Kansrekenen 2",
-            "string": "L0A84",
+            "string": "L0A72",
+            "subject": "Databases 2",
             "classroom": "A1.04"
          }
-      ]
+      ],
+      "1": [],
+      "2": [
+         {
+            "string": "W0A16",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.10"
+         }
+      ],
+      "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L1A61",
-            "classroom": "A1.10"
+            "string": "L1A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.08"
          }
       ],
       "2": [],

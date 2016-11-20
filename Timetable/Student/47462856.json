@@ -3,34 +3,35 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "W0A18",
+            "subject": "Moderne Databases",
+            "classroom": "A1.06"
+         }
+      ]
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "subject": "Moderne Databases",
-            "string": "W0A18",
-            "classroom": "C0.110"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Kansrekenen 2",
-            "string": "L1A84",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Moderne Databases",
             "string": "P0A18",
-            "classroom": "B0.201"
+            "subject": "Moderne Databases",
+            "classroom": "C1.112"
          }
       ]
    },
@@ -38,24 +39,24 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L0A84",
-            "classroom": "A1.04"
-         }
-      ]
+      "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Moderne Databases",
-            "string": "L0A54",
-            "classroom": "A1.10"
+            "string": "L1A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.08"
          }
       ],
-      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A54",
+            "subject": "Moderne Databases",
+            "classroom": "C1.112"
+         }
+      ]
    }
 }

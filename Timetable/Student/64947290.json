@@ -1,17 +1,16 @@
 {
    "0": {
-      "0": [
-         {
-            "subject": "Algoritmen en complexiteit",
-            "string": "W0A21",
-            "classroom": "B0.201"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
+            "string": "W0A36",
             "subject": "Databases 2",
-            "string": "L0A72",
+            "classroom": "A1.04"
+         },
+         {
+            "string": "W0A21",
+            "subject": "Algoritmen en complexiteit",
             "classroom": "C0.110"
          }
       ],
@@ -21,13 +20,7 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Databases 2",
-            "string": "W0A36",
-            "classroom": "C0.110"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
@@ -36,30 +29,37 @@
       "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A72",
+            "subject": "Databases 2",
+            "classroom": "A1.04"
+         },
+         {
+            "string": "P0A21",
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Programmeren in Java 2",
-            "string": "P0A19",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Algoritmen en complexiteit",
-            "string": "L0A43",
-            "classroom": "A1.08"
-         },
-         {
-            "subject": "Algoritmen en complexiteit",
-            "string": "P0A21",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    },
    "4": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.10"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A43",
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.04"
+         }
+      ],
       "2": [],
       "3": []
    }

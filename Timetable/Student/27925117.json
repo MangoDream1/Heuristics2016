@@ -1,45 +1,21 @@
 {
    "0": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L1A21",
-            "classroom": "C0.110"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Project Genetic Algorithms",
-            "string": "P0A12",
-            "classroom": "C1.112"
-         }
-      ]
-   },
-   "1": {
       "0": [
          {
+            "string": "W0A36",
             "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "B0.201"
+            "classroom": "A1.08"
          }
       ],
       "1": [],
-      "2": [
-         {
-            "subject": "Heuristieken 2",
-            "string": "W0A16",
-            "classroom": "A1.06"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "B0.201"
-         }
-      ]
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "2": {
       "0": [],
@@ -48,26 +24,48 @@
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L0A21",
-            "classroom": "A1.10"
+            "string": "L0A106",
+            "subject": "Calculus 2",
+            "classroom": "A1.08"
          }
       ],
-      "3": []
-   },
-   "4": {
-      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Heuristieken 2",
             "string": "L0A32",
+            "subject": "Heuristieken 2",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "L0A21",
+            "subject": "Architectuur en computerorganisatie",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "L1A21",
+            "subject": "Architectuur en computerorganisatie",
+            "classroom": "A1.10"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "string": "P0A12",
+            "subject": "Project Genetic Algorithms",
             "classroom": "C1.112"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "W0A16",
+            "subject": "Heuristieken 2",
+            "classroom": "A1.06"
          }
       ]
    }

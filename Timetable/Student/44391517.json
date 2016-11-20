@@ -2,31 +2,31 @@
    "0": {
       "0": [
          {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0A14",
-            "classroom": "B0.201"
+            "string": "L1A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.10"
          }
       ],
       "1": [
          {
+            "string": "P0A35",
             "subject": "Compilerbouw",
-            "string": "W0A35",
-            "classroom": "A1.10"
+            "classroom": "A1.08"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "subject": "Compilerbouw",
-            "string": "L1A69",
-            "classroom": "B0.201"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L0A69",
+            "subject": "Compilerbouw",
+            "classroom": "C1.112"
+         }
+      ],
       "3": []
    },
    "2": {
@@ -38,28 +38,28 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Compilerbouw",
-            "string": "L0A69",
-            "classroom": "A1.08"
-         }
-      ],
+      "2": [],
       "3": [
          {
-            "subject": "Programmeren in Java 2",
-            "string": "P0A19",
-            "classroom": "A1.10"
+            "string": "P0A14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "C0.110"
          }
       ]
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [
          {
+            "string": "W0A35",
             "subject": "Compilerbouw",
-            "string": "P0A35",
-            "classroom": "A1.10"
+            "classroom": "A1.04"
          }
       ],
       "2": [],

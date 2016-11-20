@@ -2,73 +2,73 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L1A39",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.10"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [
          {
+            "string": "W0A20",
             "subject": "Webprogrammeren en databases",
-            "string": "P0A20",
-            "classroom": "A1.08"
+            "classroom": "C1.112"
          }
       ],
-      "1": [
-         {
-            "subject": "Technology for games",
-            "string": "L1A38",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "L1A39",
-            "classroom": "A1.06"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": [
          {
+            "string": "L1A38",
             "subject": "Technology for games",
-            "string": "L0A38",
-            "classroom": "A1.04"
+            "classroom": "B0.201"
          }
       ]
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L0A38",
+            "subject": "Technology for games",
+            "classroom": "A1.06"
+         }
+      ],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Technology for games",
-            "string": "W0A19",
-            "classroom": "B0.201"
+            "string": "P0A20",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.10"
          }
       ],
+      "2": [],
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A39",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "C0.110"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "L0A39",
+            "string": "W0A19",
+            "subject": "Technology for games",
             "classroom": "A1.04"
          }
       ],
-      "3": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "W0A20",
-            "classroom": "A1.06"
-         }
-      ]
+      "3": []
    }
 }

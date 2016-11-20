@@ -9,24 +9,25 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [],
       "3": [
          {
-            "subject": "Netwerken en systeembeveiliging",
             "string": "P0A16",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0A14",
-            "classroom": "A1.04"
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "A1.06"
          }
       ]
+   },
+   "2": {
+      "0": [
+         {
+            "string": "P0A14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "A1.08"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "3": {
       "0": [],

@@ -7,20 +7,20 @@
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L0A49",
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A49",
-            "classroom": "A1.06"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {

@@ -9,34 +9,34 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "A1.06"
+         }
+      ]
    },
    "2": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0A16",
-            "classroom": "A1.10"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Programmeren in Java 2",
-            "string": "P0A19",
-            "classroom": "A1.10"
-         }
-      ]
+      "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

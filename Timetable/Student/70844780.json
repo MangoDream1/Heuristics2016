@@ -3,50 +3,49 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51",
-            "classroom": "B0.201"
-         }
-      ],
       "3": [
          {
+            "string": "L1A51",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "W0A17",
             "classroom": "A1.10"
          }
       ]
    },
-   "2": {
+   "1": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51",
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging",
             "classroom": "A1.10"
          }
       ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Advanced Heuristics",
-            "string": "L0A20",
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur",
             "classroom": "B0.201"
+         },
+         {
+            "string": "P0A10",
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.06"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0A16",
-            "classroom": "A1.06"
+            "string": "W0A17",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "B0.201"
          }
       ],
       "1": [],
@@ -55,14 +54,14 @@
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "subject": "Advanced Heuristics",
-            "string": "P0A10",
-            "classroom": "C0.110"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A20",
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.08"
+         }
+      ]
    }
 }

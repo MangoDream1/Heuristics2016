@@ -1,45 +1,84 @@
 {
    "0": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Machine Learning",
-            "string": "L1A22",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Bioinformatica",
-            "string": "W0A15",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Compilerbouw",
-            "string": "W0A35",
-            "classroom": "A1.10"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "1": {
       "0": [
          {
+            "string": "L1A69",
             "subject": "Compilerbouw",
-            "string": "W0A34",
             "classroom": "A1.10"
          },
          {
-            "subject": "Software engineering",
-            "string": "P0A38",
+            "string": "P0A13",
+            "subject": "Collectieve Intelligentie",
             "classroom": "A1.10"
          }
       ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L1A39",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "P0A10",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.10"
+         }
+      ],
       "3": [
          {
+            "string": "L1A51",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "W0A17",
+            "classroom": "A1.10"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "string": "P0A14",
+            "subject": "Compilerbouw (practicum)",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "L0A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "A1.10"
+         }
+      ],
+      "1": [
+         {
+            "string": "W0A34",
+            "subject": "Compilerbouw",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "P0A37",
+            "subject": "Software engineering",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "P0A14",
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.10"
+         }
+      ],
+      "2": [
+         {
+            "string": "P0A18",
+            "subject": "Moderne Databases",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "A1.10"
+         }
+      ],
+      "3": [
+         {
+            "string": "W0A36",
+            "subject": "Calculus 2",
             "classroom": "A1.10"
          }
       ]
@@ -47,46 +86,72 @@
    "2": {
       "0": [
          {
-            "subject": "Bioinformatica",
-            "string": "P0A15",
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging",
             "classroom": "A1.10"
          }
       ],
-      "1": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51",
-            "classroom": "A1.10"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Netwerken en systeembeveiliging",
+            "string": "W0A16",
+            "subject": "Heuristieken 2",
+            "classroom": "A1.10"
+         },
+         {
             "string": "P0A16",
+            "subject": "Collectieve Intelligentie",
             "classroom": "A1.10"
          }
       ]
    },
    "3": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "P0A21",
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.10"
+         }
+      ],
+      "1": [
+         {
+            "string": "P0A20",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.10"
+         }
+      ],
       "2": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L0A21",
+            "string": "W0A16",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "W0A18",
+            "subject": "Moderne Databases",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "W0A19",
+            "subject": "Technology for games",
             "classroom": "A1.10"
          }
       ],
       "3": [
          {
-            "subject": "Programmeren in Java 2",
-            "string": "P0A19",
+            "string": "L0A32",
+            "subject": "Heuristieken 2",
             "classroom": "A1.10"
          },
          {
-            "subject": "Heuristieken 2",
-            "string": "W0A16",
+            "string": "P0A15",
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "L1A21",
+            "subject": "Architectuur en computerorganisatie",
             "classroom": "A1.10"
          }
       ]
@@ -94,38 +159,23 @@
    "4": {
       "0": [
          {
-            "subject": "Moderne Databases",
-            "string": "L0A54",
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2",
             "classroom": "A1.10"
          }
       ],
       "1": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L1A61",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Project Numerical Recipes",
-            "string": "P0A14",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Compilerbouw",
-            "string": "P0A35",
-            "classroom": "A1.10"
-         },
-         {
+            "string": "L0A22",
             "subject": "Autonomous Agents 2",
-            "string": "W0A8",
             "classroom": "A1.10"
          }
       ],
       "2": [],
       "3": [
          {
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0A12",
+            "string": "W0A8",
+            "subject": "Autonomous Agents 2",
             "classroom": "A1.10"
          }
       ]

@@ -1,29 +1,40 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Compilerbouw",
-            "string": "L1A69",
-            "classroom": "B0.201"
-         }
-      ]
-   },
-   "1": {
       "0": [
          {
+            "string": "L1A69",
             "subject": "Compilerbouw",
-            "string": "W0A34",
             "classroom": "A1.10"
          }
       ],
       "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [
+         {
+            "string": "P0A34",
+            "subject": "Compilerbouw",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [
+         {
+            "string": "W0A34",
+            "subject": "Compilerbouw",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "P0A14",
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.10"
+         }
+      ],
       "2": [
          {
+            "string": "L0A69",
             "subject": "Compilerbouw",
-            "string": "P0A34",
             "classroom": "C1.112"
          }
       ],
@@ -37,31 +48,19 @@
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Programmeren in Java 2",
-            "string": "P0A15",
-            "classroom": "A1.06"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Compilerbouw",
-            "string": "L0A69",
-            "classroom": "A1.08"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Project Numerical Recipes",
-            "string": "P0A14",
-            "classroom": "A1.10"
+            "string": "P0A15",
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.06"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    }

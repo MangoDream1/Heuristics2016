@@ -3,64 +3,62 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "subject": "Software engineering",
-            "string": "P0A38",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51",
-            "classroom": "B0.201"
-         }
-      ],
       "3": [
          {
+            "string": "L1A51",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "W0A17",
             "classroom": "A1.10"
          },
          {
+            "string": "P0A38",
             "subject": "Software engineering",
-            "string": "W0A38",
-            "classroom": "A1.06"
+            "classroom": "C0.110"
          }
       ]
    },
-   "2": {
+   "1": {
       "0": [],
       "1": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51",
-            "classroom": "A1.10"
+            "string": "L0A75",
+            "subject": "Software engineering",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "L0A49",
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "B0.201"
          }
       ],
-      "2": [
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
          {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A49",
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "B0.201"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "string": "W0A17",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "B0.201"
+         },
+         {
+            "string": "W0A38",
+            "subject": "Software engineering",
             "classroom": "A1.06"
          }
       ],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Software engineering",
-            "string": "L0A75",
-            "classroom": "A1.04"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },

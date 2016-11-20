@@ -1,27 +1,27 @@
 {
    "0": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "W0A36",
+            "subject": "Calculus 2",
+            "classroom": "A1.08"
+         }
+      ],
+      "1": [
+         {
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "C1.112"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "B0.201"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "B0.201"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
@@ -30,7 +30,13 @@
       "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A106",
+            "subject": "Calculus 2",
+            "classroom": "A1.08"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -38,13 +44,7 @@
    "4": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Programmeren in Java 2",
-            "string": "P0A19",
-            "classroom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": []
    }
 }
