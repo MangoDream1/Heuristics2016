@@ -1,7 +1,19 @@
 {
    "0": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "classroom": "B0.201",
+            "string": "P0C12",
+            "subject": "Compilerbouw (practicum)"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "string": "W0C17",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
       "2": [
          {
             "classroom": "A1.08",
@@ -20,13 +32,7 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "classroom": "C1.112",
-            "string": "W0C17",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
@@ -55,7 +61,13 @@
             "subject": "Reflectie op de digitale cultuur"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "classroom": "C1.112",
+            "string": "W0B21",
+            "subject": "Algoritmen en complexiteit"
+         }
+      ],
       "2": [
          {
             "classroom": "A1.06",
@@ -63,22 +75,10 @@
             "subject": "Software engineering"
          }
       ],
-      "3": [
-         {
-            "classroom": "A1.06",
-            "string": "W0B21",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ]
+      "3": []
    },
    "4": {
-      "0": [
-         {
-            "classroom": "C0.110",
-            "string": "P0C12",
-            "subject": "Compilerbouw (practicum)"
-         }
-      ],
+      "0": [],
       "1": [
          {
             "classroom": "C1.112",

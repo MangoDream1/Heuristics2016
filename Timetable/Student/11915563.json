@@ -1,6 +1,12 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.04",
+            "string": "P0A35",
+            "subject": "Compilerbouw"
+         }
+      ],
       "1": [
          {
             "classroom": "C0.110",
@@ -21,11 +27,6 @@
       "0": [],
       "1": [],
       "2": [
-         {
-            "classroom": "A1.10",
-            "string": "L1A22",
-            "subject": "Autonomous Agents 2"
-         },
          {
             "classroom": "C0.110",
             "string": "W0A35",
@@ -50,9 +51,9 @@
       ],
       "1": [
          {
-            "classroom": "B0.201",
-            "string": "P0A35",
-            "subject": "Compilerbouw"
+            "classroom": "A1.06",
+            "string": "L1A22",
+            "subject": "Autonomous Agents 2"
          }
       ],
       "2": [],

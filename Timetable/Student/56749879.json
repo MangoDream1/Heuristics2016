@@ -1,7 +1,13 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "string": "W0A36",
+            "subject": "Databases 2"
+         }
+      ],
       "2": [
          {
             "classroom": "A1.04",
@@ -12,13 +18,7 @@
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "classroom": "C1.112",
-            "string": "W0A36",
-            "subject": "Databases 2"
-         }
-      ],
+      "0": [],
       "1": [
          {
             "classroom": "C0.110",

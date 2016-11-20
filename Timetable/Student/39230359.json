@@ -2,8 +2,8 @@
    "0": {
       "0": [
          {
-            "classroom": "C0.110",
-            "string": "P0B19",
+            "classroom": "A1.08",
+            "string": "W0B19",
             "subject": "Webprogrammeren en databases"
          }
       ],
@@ -20,11 +20,6 @@
             "classroom": "C0.110",
             "string": "L1A84",
             "subject": "Kansrekenen 2"
-         },
-         {
-            "classroom": "A1.08",
-            "string": "W0B19",
-            "subject": "Webprogrammeren en databases"
          }
       ]
    },

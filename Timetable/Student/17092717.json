@@ -2,8 +2,8 @@
    "0": {
       "0": [
          {
-            "classroom": "C0.110",
-            "string": "P0B19",
+            "classroom": "A1.08",
+            "string": "W0B19",
             "subject": "Webprogrammeren en databases"
          }
       ],
@@ -17,20 +17,14 @@
       "2": [],
       "3": [
          {
-            "classroom": "A1.08",
-            "string": "W0B19",
-            "subject": "Webprogrammeren en databases"
+            "classroom": "A1.04",
+            "string": "W0B36",
+            "subject": "Databases 2"
          }
       ]
    },
    "2": {
-      "0": [
-         {
-            "classroom": "B0.201",
-            "string": "W0B36",
-            "subject": "Databases 2"
-         }
-      ],
+      "0": [],
       "1": [
          {
             "classroom": "C0.110",

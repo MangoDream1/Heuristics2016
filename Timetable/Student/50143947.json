@@ -1,6 +1,12 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.10",
+            "string": "L1A27",
+            "subject": "Data Mining"
+         }
+      ],
       "1": [
          {
             "classroom": "C0.110",
@@ -25,23 +31,12 @@
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "classroom": "C1.112",
-            "string": "W0A9",
-            "subject": "Data Mining"
-         }
-      ],
+      "1": [],
       "2": [
          {
             "classroom": "A1.04",
             "string": "L0A61",
             "subject": "Collectieve Intelligentie"
-         },
-         {
-            "classroom": "A1.06",
-            "string": "P0A14",
-            "subject": "Compilerbouw (practicum)"
          }
       ],
       "3": []
@@ -86,7 +81,7 @@
       "1": [
          {
             "classroom": "A1.10",
-            "string": "L1A27",
+            "string": "W0A9",
             "subject": "Data Mining"
          }
       ],
@@ -97,7 +92,13 @@
             "subject": "Collectieve Intelligentie"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.06",
+            "string": "P0A14",
+            "subject": "Compilerbouw (practicum)"
+         }
+      ]
    },
    "4": {
       "0": [],

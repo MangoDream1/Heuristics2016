@@ -1,20 +1,20 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
             "classroom": "A1.10",
-            "string": "W0C9",
+            "string": "L1A27",
             "subject": "Data Mining"
          }
       ],
-      "2": [
+      "1": [
          {
             "classroom": "A1.10",
-            "string": "P0B19",
-            "subject": "Programmeren in Java 2"
+            "string": "W0C17",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
+      "2": [],
       "3": [
          {
             "classroom": "A1.10",
@@ -27,29 +27,29 @@
       "0": [
          {
             "classroom": "A1.10",
-            "string": "W0C6",
-            "subject": "Autonomous Agents 2"
+            "string": "W0B9",
+            "subject": "Data Mining"
          }
       ],
       "1": [
          {
             "classroom": "A1.10",
-            "string": "L0A20",
-            "subject": "Advanced Heuristics"
+            "string": "W0A20",
+            "subject": "Webprogrammeren en databases"
          }
       ],
       "2": [
          {
             "classroom": "A1.10",
-            "string": "L1A22",
+            "string": "P0C6",
             "subject": "Autonomous Agents 2"
          }
       ],
       "3": [
          {
             "classroom": "A1.10",
-            "string": "P0A16",
-            "subject": "Netwerken en systeembeveiliging"
+            "string": "P0A18",
+            "subject": "Moderne Databases"
          }
       ]
    },
@@ -64,8 +64,8 @@
       "1": [
          {
             "classroom": "A1.10",
-            "string": "W0A15",
-            "subject": "Bioinformatica"
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ],
       "2": [
@@ -94,7 +94,7 @@
       "1": [
          {
             "classroom": "A1.10",
-            "string": "L1A27",
+            "string": "W0A9",
             "subject": "Data Mining"
          }
       ],

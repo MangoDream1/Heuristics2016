@@ -19,13 +19,14 @@
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "classroom": "A1.10",
-            "string": "L1A22",
-            "subject": "Autonomous Agents 2"
-         },
+            "classroom": "A1.06",
+            "string": "W0A15",
+            "subject": "Bioinformatica"
+         }
+      ],
+      "2": [
          {
             "classroom": "A1.08",
             "string": "L1A45",
@@ -44,9 +45,9 @@
       ],
       "1": [
          {
-            "classroom": "A1.10",
-            "string": "W0A15",
-            "subject": "Bioinformatica"
+            "classroom": "A1.06",
+            "string": "L1A22",
+            "subject": "Autonomous Agents 2"
          }
       ],
       "2": [

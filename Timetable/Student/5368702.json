@@ -1,6 +1,12 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.04",
+            "string": "P0A35",
+            "subject": "Compilerbouw"
+         }
+      ],
       "1": [
          {
             "classroom": "C1.112",
@@ -31,13 +37,7 @@
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "classroom": "B0.201",
-            "string": "P0A35",
-            "subject": "Compilerbouw"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {

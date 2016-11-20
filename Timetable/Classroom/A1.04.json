@@ -3,8 +3,8 @@
       "0": [
          {
             "classroom": "A1.04",
-            "string": "P0B16",
-            "subject": "Netwerken en systeembeveiliging"
+            "string": "P0A35",
+            "subject": "Compilerbouw"
          }
       ],
       "1": [
@@ -54,8 +54,8 @@
       "3": [
          {
             "classroom": "A1.04",
-            "string": "P0A14",
-            "subject": "Zoeken, sturen en bewegen"
+            "string": "W0B36",
+            "subject": "Databases 2"
          }
       ]
    },

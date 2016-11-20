@@ -1,6 +1,12 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.04",
+            "string": "P0A35",
+            "subject": "Compilerbouw"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -31,13 +37,7 @@
             "subject": "Technology for games"
          }
       ],
-      "1": [
-         {
-            "classroom": "B0.201",
-            "string": "P0A35",
-            "subject": "Compilerbouw"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
@@ -76,16 +76,16 @@
       "1": [
          {
             "classroom": "C0.110",
-            "string": "W0A19",
-            "subject": "Technology for games"
+            "string": "P0A15",
+            "subject": "Project Numerical Recipes"
          }
       ],
       "2": [],
       "3": [
          {
-            "classroom": "C0.110",
-            "string": "P0A15",
-            "subject": "Project Numerical Recipes"
+            "classroom": "B0.201",
+            "string": "W0A19",
+            "subject": "Technology for games"
          }
       ]
    }

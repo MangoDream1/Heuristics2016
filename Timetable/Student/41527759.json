@@ -43,7 +43,13 @@
    },
    "3": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "C1.112",
+            "string": "W0B21",
+            "subject": "Algoritmen en complexiteit"
+         }
+      ],
       "2": [
          {
             "classroom": "A1.06",
@@ -51,13 +57,7 @@
             "subject": "Software engineering"
          }
       ],
-      "3": [
-         {
-            "classroom": "A1.06",
-            "string": "W0B21",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],

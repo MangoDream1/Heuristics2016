@@ -1,12 +1,6 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "A1.04",
-            "string": "P0B16",
-            "subject": "Netwerken en systeembeveiliging"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
@@ -19,7 +13,13 @@
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "string": "W0A15",
+            "subject": "Bioinformatica"
+         }
+      ],
       "2": [
          {
             "classroom": "A1.08",
@@ -33,9 +33,9 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.10",
-            "string": "W0A15",
-            "subject": "Bioinformatica"
+            "classroom": "B0.201",
+            "string": "P0B16",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ],
       "2": [

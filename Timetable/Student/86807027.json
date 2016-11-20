@@ -15,11 +15,6 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.10",
-            "string": "L0A20",
-            "subject": "Advanced Heuristics"
-         },
-         {
             "classroom": "C0.110",
             "string": "L0A44",
             "subject": "Heuristieken 1"
@@ -29,7 +24,13 @@
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.06",
+            "string": "L0A20",
+            "subject": "Advanced Heuristics"
+         }
+      ],
       "1": [],
       "2": [],
       "3": [
@@ -62,18 +63,18 @@
       ],
       "1": [
          {
+            "classroom": "C0.110",
+            "string": "P0A15",
+            "subject": "Project Numerical Recipes"
+         }
+      ],
+      "2": [
+         {
             "classroom": "B0.201",
             "string": "P0A10",
             "subject": "Advanced Heuristics"
          }
       ],
-      "2": [],
-      "3": [
-         {
-            "classroom": "C0.110",
-            "string": "P0A15",
-            "subject": "Project Numerical Recipes"
-         }
-      ]
+      "3": []
    }
 }

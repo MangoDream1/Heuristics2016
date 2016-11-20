@@ -1,14 +1,20 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "A1.08",
+            "classroom": "A1.04",
+            "string": "P0A35",
+            "subject": "Compilerbouw"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "classroom": "B0.201",
             "string": "L1A21",
             "subject": "Architectuur en computerorganisatie"
          }
       ],
-      "2": [],
       "3": []
    },
    "1": {
@@ -31,13 +37,7 @@
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "classroom": "B0.201",
-            "string": "P0A35",
-            "subject": "Compilerbouw"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {

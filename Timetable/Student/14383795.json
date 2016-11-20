@@ -8,13 +8,7 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "classroom": "A1.06",
-            "string": "P0A14",
-            "subject": "Compilerbouw (practicum)"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
@@ -39,18 +33,24 @@
          }
       ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.06",
+            "string": "P0A14",
+            "subject": "Compilerbouw (practicum)"
+         }
+      ]
    },
    "4": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [],
+      "3": [
          {
-            "classroom": "C0.110",
+            "classroom": "B0.201",
             "string": "W0A19",
             "subject": "Technology for games"
          }
-      ],
-      "2": [],
-      "3": []
+      ]
    }
 }

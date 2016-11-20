@@ -80,4 +80,4 @@ if input("Do you want to start from a previously made timetable [Y/N]: ").lower(
     iteration_manager.exportTimetable()
     startRandom = False
 
-swap_hill_climber(iteration_manager, 1000, startRandom=startRandom)
+swap_hill_climber(iteration_manager, 100000, startRandom=startRandom)

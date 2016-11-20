@@ -1,8 +1,14 @@
 {
    "0": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
       "0": [
          {
-            "classroom": "A1.06",
+            "classroom": "C1.112",
             "string": "W0A17",
             "subject": "Reflectie op de digitale cultuur"
          }
@@ -11,27 +17,21 @@
       "2": [],
       "3": []
    },
-   "1": {
-      "0": [],
-      "1": [
+   "2": {
+      "0": [
          {
-            "classroom": "A1.10",
+            "classroom": "A1.06",
             "string": "L0A20",
             "subject": "Advanced Heuristics"
          }
       ],
-      "2": [],
-      "3": [
+      "1": [
          {
             "classroom": "A1.10",
             "string": "P0A16",
             "subject": "Netwerken en systeembeveiliging"
          }
-      ]
-   },
-   "2": {
-      "0": [],
-      "1": [],
+      ],
       "2": [
          {
             "classroom": "C1.112",
@@ -55,14 +55,14 @@
    },
    "4": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
             "classroom": "B0.201",
             "string": "P0A10",
             "subject": "Advanced Heuristics"
          }
       ],
-      "2": [],
       "3": []
    }
 }

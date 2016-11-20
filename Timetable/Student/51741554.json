@@ -21,13 +21,7 @@
             "subject": "Collectieve Intelligentie"
          }
       ],
-      "3": [
-         {
-            "classroom": "A1.10",
-            "string": "P0A16",
-            "subject": "Netwerken en systeembeveiliging"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [
@@ -37,7 +31,13 @@
             "subject": "Collectieve Intelligentie"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ],
       "2": [
          {
             "classroom": "C0.110",

@@ -2,17 +2,18 @@
    "0": {
       "0": [
          {
-            "classroom": "C0.110",
-            "string": "P0C16",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "classroom": "C0.110",
-            "string": "P0B19",
+            "classroom": "A1.08",
+            "string": "W0B19",
             "subject": "Webprogrammeren en databases"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.08",
+            "string": "W0C16",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -28,9 +29,9 @@
       ],
       "3": [
          {
-            "classroom": "A1.08",
-            "string": "W0B19",
-            "subject": "Webprogrammeren en databases"
+            "classroom": "A1.04",
+            "string": "W0B36",
+            "subject": "Databases 2"
          }
       ]
    },
@@ -38,8 +39,8 @@
       "0": [
          {
             "classroom": "B0.201",
-            "string": "W0B36",
-            "subject": "Databases 2"
+            "string": "P0C16",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "1": [
@@ -68,13 +69,7 @@
             "subject": "Collectieve Intelligentie"
          }
       ],
-      "3": [
-         {
-            "classroom": "C0.110",
-            "string": "W0C16",
-            "subject": "Collectieve Intelligentie"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [

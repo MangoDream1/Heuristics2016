@@ -1,12 +1,6 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "A1.04",
-            "string": "P0B16",
-            "subject": "Netwerken en systeembeveiliging"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -15,17 +9,17 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "A1.04",
-            "string": "P0A14",
-            "subject": "Zoeken, sturen en bewegen"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "B0.201",
+            "string": "P0B16",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ],
       "2": [],
       "3": []
    },

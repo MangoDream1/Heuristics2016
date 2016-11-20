@@ -1,17 +1,6 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "C0.110",
-            "string": "P0C16",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "classroom": "C0.110",
-            "string": "P0B19",
-            "subject": "Webprogrammeren en databases"
-         }
-      ],
+      "0": [],
       "1": [
          {
             "classroom": "C0.110",
@@ -38,7 +27,7 @@
       "0": [
          {
             "classroom": "C0.110",
-            "string": "W0C18",
+            "string": "L0A54",
             "subject": "Moderne Databases"
          }
       ],
@@ -106,15 +95,15 @@
       "2": [
          {
             "classroom": "C0.110",
-            "string": "W0B9",
-            "subject": "Data Mining"
+            "string": "W0C6",
+            "subject": "Autonomous Agents 2"
          }
       ],
       "3": [
          {
             "classroom": "C0.110",
-            "string": "W0C16",
-            "subject": "Collectieve Intelligentie"
+            "string": "P0C15",
+            "subject": "Bioinformatica"
          }
       ]
    },
@@ -122,15 +111,15 @@
       "0": [
          {
             "classroom": "C0.110",
-            "string": "P0C12",
-            "subject": "Compilerbouw (practicum)"
+            "string": "L1A21",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ],
       "1": [
          {
             "classroom": "C0.110",
-            "string": "W0A19",
-            "subject": "Technology for games"
+            "string": "P0A15",
+            "subject": "Project Numerical Recipes"
          }
       ],
       "2": [
@@ -140,12 +129,6 @@
             "subject": "Collectieve Intelligentie"
          }
       ],
-      "3": [
-         {
-            "classroom": "C0.110",
-            "string": "P0A15",
-            "subject": "Project Numerical Recipes"
-         }
-      ]
+      "3": []
    }
 }

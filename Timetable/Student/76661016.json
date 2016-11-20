@@ -19,18 +19,18 @@
             "subject": "Interactie-ontwerp"
          }
       ],
-      "2": [
-         {
-            "classroom": "B0.201",
-            "string": "P0C12",
-            "subject": "Project Genetic Algorithms"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.08",
+            "string": "P0C12",
+            "subject": "Project Genetic Algorithms"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -47,14 +47,14 @@
       ]
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "A1.08",
+            "classroom": "A1.06",
             "string": "W0C34",
             "subject": "Calculus 2"
          }
       ],
+      "1": [],
       "2": [
          {
             "classroom": "A1.10",

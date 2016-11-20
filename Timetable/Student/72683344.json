@@ -1,33 +1,33 @@
 {
    "0": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "classroom": "A1.08",
+            "classroom": "B0.201",
             "string": "L1A21",
             "subject": "Architectuur en computerorganisatie"
          }
       ],
-      "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [],
+      "3": [
          {
-            "classroom": "A1.10",
-            "string": "L0A20",
+            "classroom": "A1.06",
+            "string": "P0B10",
             "subject": "Advanced Heuristics"
          }
-      ],
-      "2": [],
-      "3": []
+      ]
    },
    "2": {
       "0": [
          {
             "classroom": "A1.06",
-            "string": "P0B10",
+            "string": "L0A20",
             "subject": "Advanced Heuristics"
          }
       ],

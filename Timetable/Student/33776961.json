@@ -2,26 +2,32 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [
          {
-            "classroom": "A1.10",
+            "classroom": "C0.110",
+            "string": "L0A54",
+            "subject": "Moderne Databases"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "C1.112",
             "string": "P0B19",
             "subject": "Programmeren in Java 2"
          }
       ],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [
+      "2": [],
+      "3": [
          {
-            "classroom": "A1.06",
+            "classroom": "A1.10",
             "string": "P0A18",
             "subject": "Moderne Databases"
          }
-      ],
-      "2": [],
-      "3": []
+      ]
    },
    "2": {
       "0": [],
@@ -57,11 +63,6 @@
       "0": [],
       "1": [],
       "2": [
-         {
-            "classroom": "C1.112",
-            "string": "L0A54",
-            "subject": "Moderne Databases"
-         },
          {
             "classroom": "A1.06",
             "string": "W0B17",

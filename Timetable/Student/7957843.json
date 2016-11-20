@@ -1,6 +1,12 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.04",
+            "string": "P0A35",
+            "subject": "Compilerbouw"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -15,21 +21,15 @@
             "subject": "Compilerbouw"
          }
       ],
-      "3": [
-         {
-            "classroom": "A1.10",
-            "string": "P0A16",
-            "subject": "Netwerken en systeembeveiliging"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
       "1": [
          {
-            "classroom": "B0.201",
-            "string": "P0A35",
-            "subject": "Compilerbouw"
+            "classroom": "A1.10",
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ],
       "2": [],
@@ -55,14 +55,14 @@
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
             "classroom": "C0.110",
             "string": "P0A15",
             "subject": "Project Numerical Recipes"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    }
 }

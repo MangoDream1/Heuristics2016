@@ -13,7 +13,13 @@
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "string": "W0A15",
+            "subject": "Bioinformatica"
+         }
+      ],
       "2": [
          {
             "classroom": "A1.08",
@@ -25,13 +31,7 @@
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.10",
-            "string": "W0A15",
-            "subject": "Bioinformatica"
-         }
-      ],
+      "1": [],
       "2": [
          {
             "classroom": "A1.08",
@@ -61,14 +61,14 @@
             "subject": "Bioinformatica"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
             "classroom": "C0.110",
             "string": "P0A15",
             "subject": "Project Numerical Recipes"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    }
 }

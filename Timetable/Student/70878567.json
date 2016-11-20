@@ -2,17 +2,12 @@
    "0": {
       "0": [
          {
-            "classroom": "B0.201",
-            "string": "L1A21",
-            "subject": "Informatie- en organisatieontwerp"
+            "classroom": "A1.10",
+            "string": "L1A27",
+            "subject": "Data Mining"
          }
       ],
       "1": [
-         {
-            "classroom": "A1.10",
-            "string": "W0C9",
-            "subject": "Data Mining"
-         },
          {
             "classroom": "B0.201",
             "string": "L0A21",
@@ -35,7 +30,13 @@
       ]
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.08",
+            "string": "P0C9",
+            "subject": "Data Mining"
+         }
+      ],
       "1": [],
       "2": [
          {
@@ -66,24 +67,24 @@
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.10",
-            "string": "L1A27",
-            "subject": "Data Mining"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "B0.201",
-            "string": "P0C9",
-            "subject": "Data Mining"
+            "classroom": "C0.110",
+            "string": "P0C15",
+            "subject": "Bioinformatica"
          }
       ]
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "C0.110",
+            "string": "L1A21",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
       "1": [
          {
             "classroom": "A1.08",
@@ -100,9 +101,9 @@
       ],
       "3": [
          {
-            "classroom": "B0.201",
-            "string": "P0C15",
-            "subject": "Bioinformatica"
+            "classroom": "A1.06",
+            "string": "W0C9",
+            "subject": "Data Mining"
          }
       ]
    }

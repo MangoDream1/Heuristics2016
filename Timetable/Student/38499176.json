@@ -1,20 +1,8 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "A1.04",
-            "string": "P0B16",
-            "subject": "Netwerken en systeembeveiliging"
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
-         {
-            "classroom": "A1.10",
-            "string": "P0B19",
-            "subject": "Programmeren in Java 2"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
@@ -25,14 +13,14 @@
             "subject": "Lineaire Algebra"
          }
       ],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "classroom": "A1.06",
-            "string": "P0A14",
-            "subject": "Compilerbouw (practicum)"
+            "classroom": "C1.112",
+            "string": "P0B19",
+            "subject": "Programmeren in Java 2"
          }
       ],
+      "2": [],
       "3": [
          {
             "classroom": "C0.110",
@@ -43,7 +31,13 @@
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "B0.201",
+            "string": "P0B16",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -51,7 +45,13 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.06",
+            "string": "P0A14",
+            "subject": "Compilerbouw (practicum)"
+         }
+      ]
    },
    "4": {
       "0": [

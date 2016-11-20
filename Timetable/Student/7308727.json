@@ -1,13 +1,13 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "classroom": "C0.110",
-            "string": "P0C16",
+            "classroom": "A1.08",
+            "string": "W0C16",
             "subject": "Collectieve Intelligentie"
          }
       ],
-      "1": [],
       "2": [
          {
             "classroom": "A1.04",
@@ -18,13 +18,7 @@
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "classroom": "A1.08",
-            "string": "P0C16",
-            "subject": "Netwerken en systeembeveiliging"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
@@ -41,7 +35,13 @@
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "B0.201",
+            "string": "P0C16",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "1": [],
       "2": [
          {
@@ -81,9 +81,9 @@
       ],
       "3": [
          {
-            "classroom": "C0.110",
-            "string": "W0C16",
-            "subject": "Collectieve Intelligentie"
+            "classroom": "B0.201",
+            "string": "P0C16",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ]
    },

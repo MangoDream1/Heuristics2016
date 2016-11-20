@@ -20,13 +20,7 @@
             "subject": "Heuristieken 1"
          }
       ],
-      "2": [
-         {
-            "classroom": "A1.06",
-            "string": "P0A14",
-            "subject": "Compilerbouw (practicum)"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
@@ -39,7 +33,13 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.06",
+            "string": "P0A14",
+            "subject": "Compilerbouw (practicum)"
+         }
+      ]
    },
    "4": {
       "0": [

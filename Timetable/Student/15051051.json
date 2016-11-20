@@ -21,7 +21,7 @@
       "0": [
          {
             "classroom": "C0.110",
-            "string": "W0C18",
+            "string": "L0A54",
             "subject": "Moderne Databases"
          }
       ],
@@ -63,7 +63,13 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "C0.110",
+            "string": "P0C15",
+            "subject": "Bioinformatica"
+         }
+      ]
    },
    "4": {
       "0": [
@@ -77,16 +83,10 @@
       "2": [
          {
             "classroom": "C1.112",
-            "string": "L0A54",
+            "string": "W0C18",
             "subject": "Moderne Databases"
          }
       ],
-      "3": [
-         {
-            "classroom": "B0.201",
-            "string": "P0C15",
-            "subject": "Bioinformatica"
-         }
-      ]
+      "3": []
    }
 }

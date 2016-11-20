@@ -19,7 +19,13 @@
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "string": "W0A15",
+            "subject": "Bioinformatica"
+         }
+      ],
       "2": [
          {
             "classroom": "A1.08",
@@ -43,13 +49,7 @@
             "subject": "Software engineering"
          }
       ],
-      "1": [
-         {
-            "classroom": "A1.10",
-            "string": "W0A15",
-            "subject": "Bioinformatica"
-         }
-      ],
+      "1": [],
       "2": [
          {
             "classroom": "A1.08",

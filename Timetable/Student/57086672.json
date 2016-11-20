@@ -2,12 +2,18 @@
    "0": {
       "0": [
          {
-            "classroom": "C0.110",
-            "string": "P0B19",
+            "classroom": "A1.08",
+            "string": "W0B19",
             "subject": "Webprogrammeren en databases"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "string": "W0C17",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
       "2": [],
       "3": [
          {
@@ -20,20 +26,8 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "classroom": "C1.112",
-            "string": "W0C17",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
-      "3": [
-         {
-            "classroom": "A1.08",
-            "string": "W0B19",
-            "subject": "Webprogrammeren en databases"
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "2": {
       "0": [],

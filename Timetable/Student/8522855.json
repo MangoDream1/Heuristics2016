@@ -26,17 +26,18 @@
             "classroom": "C0.110",
             "string": "L1A84",
             "subject": "Kansrekenen 2"
-         },
-         {
-            "classroom": "A1.10",
-            "string": "P0A16",
-            "subject": "Netwerken en systeembeveiliging"
          }
       ]
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ],
       "2": [
          {
             "classroom": "A1.04",

@@ -1,12 +1,24 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.10",
+            "string": "L1A27",
+            "subject": "Data Mining"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.10",
+            "string": "W0B9",
+            "subject": "Data Mining"
+         }
+      ],
       "1": [
          {
             "classroom": "C0.110",
@@ -25,20 +37,8 @@
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.10",
-            "string": "L1A27",
-            "subject": "Data Mining"
-         }
-      ],
-      "2": [
-         {
-            "classroom": "C0.110",
-            "string": "W0B9",
-            "subject": "Data Mining"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": [
          {
             "classroom": "A1.08",

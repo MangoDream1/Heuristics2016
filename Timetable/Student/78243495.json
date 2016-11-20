@@ -23,21 +23,26 @@
             "classroom": "A1.04",
             "string": "W0A16",
             "subject": "Heuristieken 2"
+         },
+         {
+            "classroom": "C0.110",
+            "string": "L0A54",
+            "subject": "Moderne Databases"
          }
       ],
       "1": [
          {
-            "classroom": "A1.06",
-            "string": "P0A18",
-            "subject": "Moderne Databases"
+            "classroom": "A1.10",
+            "string": "W0A20",
+            "subject": "Webprogrammeren en databases"
          }
       ],
       "2": [],
       "3": [
          {
-            "classroom": "A1.06",
-            "string": "W0A20",
-            "subject": "Webprogrammeren en databases"
+            "classroom": "A1.10",
+            "string": "P0A18",
+            "subject": "Moderne Databases"
          }
       ]
    },
@@ -69,13 +74,7 @@
             "subject": "Moderne Databases"
          }
       ],
-      "3": [
-         {
-            "classroom": "C1.112",
-            "string": "P0A20",
-            "subject": "Webprogrammeren en databases"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [
@@ -92,13 +91,7 @@
             "subject": "Software engineering"
          }
       ],
-      "2": [
-         {
-            "classroom": "C1.112",
-            "string": "L0A54",
-            "subject": "Moderne Databases"
-         }
-      ],
+      "2": [],
       "3": []
    }
 }

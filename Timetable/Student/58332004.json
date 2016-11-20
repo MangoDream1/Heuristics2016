@@ -1,41 +1,34 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "B0.201",
-            "string": "L1A21",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ],
+      "0": [],
       "1": [
+         {
+            "classroom": "A1.06",
+            "string": "W0A36",
+            "subject": "Databases 2"
+         },
          {
             "classroom": "B0.201",
             "string": "L0A21",
             "subject": "Informatie- en organisatieontwerp"
          }
       ],
-      "2": [
-         {
-            "classroom": "A1.10",
-            "string": "P0B19",
-            "subject": "Programmeren in Java 2"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [
          {
-            "classroom": "C1.112",
-            "string": "W0A36",
-            "subject": "Databases 2"
+            "classroom": "C0.110",
+            "string": "L0A54",
+            "subject": "Moderne Databases"
          }
       ],
       "1": [
          {
-            "classroom": "A1.06",
-            "string": "P0A18",
-            "subject": "Moderne Databases"
+            "classroom": "C1.112",
+            "string": "P0B19",
+            "subject": "Programmeren in Java 2"
          }
       ],
       "2": [],
@@ -44,6 +37,11 @@
             "classroom": "C0.110",
             "string": "L1A84",
             "subject": "Kansrekenen 2"
+         },
+         {
+            "classroom": "A1.10",
+            "string": "P0A18",
+            "subject": "Moderne Databases"
          }
       ]
    },
@@ -78,7 +76,13 @@
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "C0.110",
+            "string": "L1A21",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
       "1": [
          {
             "classroom": "A1.10",
@@ -86,13 +90,7 @@
             "subject": "Databases 2"
          }
       ],
-      "2": [
-         {
-            "classroom": "C1.112",
-            "string": "L0A54",
-            "subject": "Moderne Databases"
-         }
-      ],
+      "2": [],
       "3": [
          {
             "classroom": "A1.10",
