@@ -1,12 +1,24 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Interactie-ontwerp",
+            "string": "L1A25",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Calculus 2",
+            "string": "L0A106",
+            "classroom": "B0.201"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -14,41 +26,30 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Interactie-ontwerp",
-            "string": "L0A25",
-            "classroom": "C1.112"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Interactie-ontwerp",
-            "string": "L1A25",
-            "classroom": "A1.04"
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "A1.10"
+            "subject": "Interactie-ontwerp",
+            "string": "L0A25",
+            "classroom": "A1.06"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Calculus 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [],
       "3": []
    }

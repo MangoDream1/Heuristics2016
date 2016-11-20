@@ -4,21 +4,84 @@
          {
             "subject": "Webprogrammeren en databases",
             "string": "W0A19",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0A14",
+            "classroom": "B0.201"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "P0A19",
+            "classroom": "B0.201"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Databases 2",
+            "string": "L0A72",
             "classroom": "C0.110"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L0A61",
+            "classroom": "C1.112"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "L1A39",
+            "classroom": "A1.06"
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "P0A16",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L2A61",
+            "classroom": "A1.08"
          }
       ],
       "1": [],
       "2": [],
       "3": []
    },
-   "1": {
-      "0": [
+   "3": {
+      "0": [],
+      "1": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "P0A19",
-            "classroom": "C0.110"
+            "subject": "Collectieve Intelligentie",
+            "string": "W0A16",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
          }
       ],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
       "1": [
          {
             "subject": "Collectieve Intelligentie",
@@ -26,76 +89,13 @@
             "classroom": "A1.10"
          }
       ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A61",
-            "classroom": "B0.201"
-         }
-      ]
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0A16",
-            "classroom": "A1.10"
-         }
-      ]
-   },
-   "3": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "L1A39",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0A16",
-            "classroom": "A1.08"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Databases 2",
-            "string": "L0A72",
-            "classroom": "B0.201"
-         }
-      ]
-   },
-   "4": {
-      "0": [
+      "2": [
          {
             "subject": "Webprogrammeren en databases",
             "string": "L0A39",
-            "classroom": "B0.201"
-         },
-         {
-            "subject": "Databases 2",
-            "string": "W0A36",
             "classroom": "A1.04"
          }
       ],
-      "1": [
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0A14",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [],
       "3": []
    }
 }

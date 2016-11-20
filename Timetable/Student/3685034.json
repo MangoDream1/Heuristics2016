@@ -5,49 +5,50 @@
          {
             "subject": "Machine Learning",
             "string": "L1A22",
-            "classroom": "B0.201"
+            "classroom": "A1.10"
          }
       ],
-      "2": [
-         {
-            "subject": "Project Numerical Recipes",
-            "string": "P0A15",
-            "classroom": "C1.112"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [
+      "2": [
          {
             "subject": "Reflectie op de digitale cultuur",
             "string": "L0A51",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L1A84",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L0A84",
-            "classroom": "A1.10"
+            "classroom": "B0.201"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
          {
             "subject": "Reflectie op de digitale cultuur",
             "string": "L1A51",
-            "classroom": "A1.06"
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Project Numerical Recipes",
+            "string": "P0A15",
+            "classroom": "B0.201"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Machine Learning",
+            "string": "L0A22",
+            "classroom": "A1.04"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L1A84",
+            "classroom": "C0.110"
          }
       ]
    },
@@ -55,23 +56,24 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L0A84",
+            "classroom": "A1.04"
+         }
+      ]
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "subject": "Machine Learning",
-            "string": "L0A22",
-            "classroom": "B0.201"
-         },
+      "1": [],
+      "2": [
          {
             "subject": "Reflectie op de digitale cultuur",
             "string": "W0A17",
-            "classroom": "A1.10"
+            "classroom": "C0.110"
          }
       ],
-      "2": [],
       "3": []
    }
 }

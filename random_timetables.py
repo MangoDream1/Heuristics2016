@@ -1,5 +1,4 @@
 from process_data import *
-from score_system import *
 from iteration_manager import *
 from random import randint, choice
 from operator import itemgetter

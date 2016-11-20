@@ -3,18 +3,18 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Programmeren in Java 2",
+            "string": "P0A19",
+            "classroom": "C0.110"
+         }
+      ]
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A49",
-            "classroom": "C1.112"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
@@ -22,9 +22,9 @@
       "1": [],
       "2": [
          {
-            "subject": "Programmeren in Java 2",
-            "string": "P0A19",
-            "classroom": "C0.110"
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A49",
+            "classroom": "A1.06"
          }
       ],
       "3": []

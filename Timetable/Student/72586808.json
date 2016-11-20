@@ -8,20 +8,26 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A49",
-            "classroom": "C1.112"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A49",
+            "classroom": "A1.06"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0A16",
+            "classroom": "A1.10"
+         }
+      ]
    },
    "3": {
       "0": [],
@@ -33,12 +39,6 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0A16",
-            "classroom": "A1.06"
-         }
-      ]
+      "3": []
    }
 }

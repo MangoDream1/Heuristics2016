@@ -4,11 +4,6 @@
       "1": [
          {
             "subject": "Algoritmen en complexiteit",
-            "string": "P0A22",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Algoritmen en complexiteit",
             "string": "W0A22",
             "classroom": "A1.08"
          }
@@ -17,54 +12,59 @@
       "3": []
    },
    "1": {
+      "0": [
+         {
+            "subject": "Calculus 2",
+            "string": "L0A106",
+            "classroom": "B0.201"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Calculus 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
+         }
+      ]
+   },
+   "2": {
       "0": [],
       "1": [],
       "2": [],
       "3": []
    },
-   "2": {
-      "0": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "C0.110"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
    "3": {
-      "0": [
-         {
-            "subject": "Algoritmen en complexiteit",
-            "string": "L0A43",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "A1.10"
+            "subject": "Compilerbouw (practicum)",
+            "string": "P0A14",
+            "classroom": "B0.201"
          }
       ],
-      "3": []
-   },
-   "4": {
-      "0": [
+      "3": [
          {
             "subject": "Programmeren in Java 2",
             "string": "P0A19",
-            "classroom": "C1.112"
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43",
+            "classroom": "A1.08"
          }
-      ],
+      ]
+   },
+   "4": {
+      "0": [],
       "1": [
          {
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0A14",
-            "classroom": "C0.110"
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A22",
+            "classroom": "A1.06"
          }
       ],
       "2": [],

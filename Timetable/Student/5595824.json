@@ -6,18 +6,24 @@
       "3": [
          {
             "subject": "Compilerbouw",
-            "string": "P0A34",
-            "classroom": "C0.110"
+            "string": "L1A69",
+            "classroom": "B0.201"
          }
       ]
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Compilerbouw",
+            "string": "W0A34",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A49",
+            "subject": "Compilerbouw",
+            "string": "P0A34",
             "classroom": "C1.112"
          }
       ],
@@ -28,27 +34,21 @@
       "1": [],
       "2": [
          {
-            "subject": "Compilerbouw",
-            "string": "L1A69",
-            "classroom": "C1.112"
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A49",
+            "classroom": "A1.06"
          }
       ],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Compilerbouw",
-            "string": "L0A69",
-            "classroom": "C1.112"
-         }
-      ],
+      "1": [],
       "2": [
          {
             "subject": "Compilerbouw",
-            "string": "W0A34",
-            "classroom": "A1.04"
+            "string": "L0A69",
+            "classroom": "A1.08"
          }
       ],
       "3": []

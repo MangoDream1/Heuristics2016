@@ -1,6 +1,12 @@
 {
    "0": {
       "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
       "1": [
          {
             "subject": "Technology for games",
@@ -9,47 +15,40 @@
          }
       ],
       "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [
+      "3": [
          {
-            "subject": "Project Numerical Recipes",
-            "string": "P0A14",
-            "classroom": "C0.110"
+            "subject": "Technology for games",
+            "string": "L0A38",
+            "classroom": "A1.04"
          }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
+      ]
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "subject": "Technology for games",
-            "string": "W0A19",
-            "classroom": "A1.04"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Technology for games",
-            "string": "L0A38",
-            "classroom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Technology for games",
+            "string": "W0A19",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Project Numerical Recipes",
+            "string": "P0A14",
+            "classroom": "A1.10"
+         }
+      ],
       "2": [],
       "3": []
    }

@@ -5,80 +5,82 @@
          {
             "subject": "Machine Learning",
             "string": "L1A22",
-            "classroom": "B0.201"
+            "classroom": "A1.10"
          }
       ],
       "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [],
       "3": [
          {
-            "subject": "Project Genetic Algorithms",
-            "string": "P0A12",
-            "classroom": "A1.10"
+            "subject": "Programmeren in Java 2",
+            "string": "P0A19",
+            "classroom": "C0.110"
          }
       ]
    },
-   "2": {
+   "1": {
       "0": [
          {
-            "subject": "Kansrekenen 2",
-            "string": "L1A84",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L0A84",
+            "subject": "Software engineering",
+            "string": "P0A38",
             "classroom": "A1.10"
          }
       ],
       "1": [],
       "2": [
          {
-            "subject": "Programmeren in Java 2",
-            "string": "P0A19",
-            "classroom": "C0.110"
+            "subject": "Project Genetic Algorithms",
+            "string": "P0A12",
+            "classroom": "A1.06"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "subject": "Software engineering",
+            "string": "W0A38",
+            "classroom": "A1.06"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Machine Learning",
+            "string": "L0A22",
+            "classroom": "A1.04"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L1A84",
+            "classroom": "C0.110"
+         }
+      ]
    },
    "3": {
       "0": [],
       "1": [
          {
             "subject": "Software engineering",
-            "string": "W0A38",
-            "classroom": "A1.08"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Software engineering",
-            "string": "P0A38",
-            "classroom": "C1.112"
-         },
-         {
-            "subject": "Machine Learning",
-            "string": "L0A22",
-            "classroom": "B0.201"
+            "string": "L0A75",
+            "classroom": "A1.04"
          }
       ],
       "2": [],
       "3": [
          {
-            "subject": "Software engineering",
-            "string": "L0A75",
-            "classroom": "B0.201"
+            "subject": "Kansrekenen 2",
+            "string": "L0A84",
+            "classroom": "A1.04"
          }
       ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

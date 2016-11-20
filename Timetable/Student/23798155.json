@@ -5,7 +5,12 @@
          {
             "subject": "Machine Learning",
             "string": "L1A22",
-            "classroom": "B0.201"
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L1A21",
+            "classroom": "C0.110"
          }
       ],
       "2": [],
@@ -14,60 +19,54 @@
    "1": {
       "0": [],
       "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
       "2": [
+         {
+            "subject": "Machine Learning",
+            "string": "L0A22",
+            "classroom": "A1.04"
+         },
          {
             "subject": "Analysemethoden en -technieken",
             "string": "L0A49",
-            "classroom": "C1.112"
+            "classroom": "A1.06"
          }
       ],
       "3": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L1A21",
-            "classroom": "A1.10"
-         }
-      ]
-   },
-   "2": {
-      "0": [
-         {
             "subject": "Kansrekenen 2",
             "string": "L1A84",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L0A84",
-            "classroom": "A1.10"
+            "classroom": "C0.110"
          }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
+      ]
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Machine Learning",
-            "string": "L0A22",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [],
-      "3": [
+      "2": [
          {
             "subject": "Architectuur en computerorganisatie",
             "string": "L0A21",
-            "classroom": "B0.201"
+            "classroom": "A1.10"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L0A84",
+            "classroom": "A1.04"
          }
       ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

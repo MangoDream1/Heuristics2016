@@ -1,46 +1,48 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Heuristieken 2",
-            "string": "W0A16",
-            "classroom": "A1.04"
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L1A21",
+            "classroom": "C0.110"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
       "2": [],
       "3": [
          {
             "subject": "Project Genetic Algorithms",
             "string": "P0A12",
-            "classroom": "B0.201"
-         },
+            "classroom": "C1.112"
+         }
+      ]
+   },
+   "1": {
+      "0": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L1A21",
-            "classroom": "A1.10"
-         },
+            "subject": "Calculus 2",
+            "string": "L0A106",
+            "classroom": "B0.201"
+         }
+      ],
+      "1": [],
+      "2": [
          {
             "subject": "Heuristieken 2",
-            "string": "L0A32",
-            "classroom": "A1.04"
+            "string": "W0A16",
+            "classroom": "A1.06"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Calculus 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
          }
       ]
    },
    "2": {
-      "0": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "C0.110"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -50,8 +52,8 @@
       "1": [],
       "2": [
          {
-            "subject": "Calculus 2",
-            "string": "L0A106",
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L0A21",
             "classroom": "A1.10"
          }
       ],
@@ -63,9 +65,9 @@
       "2": [],
       "3": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L0A21",
-            "classroom": "B0.201"
+            "subject": "Heuristieken 2",
+            "string": "L0A32",
+            "classroom": "C1.112"
          }
       ]
    }

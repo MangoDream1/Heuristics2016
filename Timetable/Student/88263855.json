@@ -8,13 +8,7 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Programmeren in Java 2",
-            "string": "P0A19",
-            "classroom": "C0.110"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
@@ -32,7 +26,13 @@
    "4": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Programmeren in Java 2",
+            "string": "P0A19",
+            "classroom": "B0.201"
+         }
+      ],
       "3": []
    }
 }

@@ -1,55 +1,49 @@
 {
    "0": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Bioinformatica",
+            "string": "W0A15",
+            "classroom": "A1.06"
+         }
+      ],
+      "3": []
+   },
+   "2": {
       "0": [
          {
             "subject": "Bioinformatica",
-            "string": "L2A45",
-            "classroom": "B0.201"
+            "string": "P0A15",
+            "classroom": "A1.10"
          }
       ],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0A14",
+            "classroom": "A1.04"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [
          {
             "subject": "Bioinformatica",
             "string": "L1A45",
             "classroom": "A1.08"
          }
       ],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "subject": "Bioinformatica",
-            "string": "L0A45",
-            "classroom": "B0.201"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Bioinformatica",
-            "string": "P0A15",
-            "classroom": "A1.08"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0A14",
-            "classroom": "C1.112"
-         }
-      ],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [],
       "2": [],
       "3": []
    },
@@ -59,10 +53,16 @@
       "2": [
          {
             "subject": "Bioinformatica",
-            "string": "W0A15",
-            "classroom": "C1.112"
+            "string": "L2A45",
+            "classroom": "C0.110"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "subject": "Bioinformatica",
+            "string": "L0A45",
+            "classroom": "C0.110"
+         }
+      ]
    }
 }

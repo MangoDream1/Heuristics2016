@@ -4,11 +4,6 @@
       "1": [
          {
             "subject": "Algoritmen en complexiteit",
-            "string": "P0A22",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Algoritmen en complexiteit",
             "string": "W0A22",
             "classroom": "A1.08"
          }
@@ -29,20 +24,26 @@
       "3": []
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
          {
             "subject": "Algoritmen en complexiteit",
             "string": "L0A43",
-            "classroom": "A1.06"
+            "classroom": "A1.08"
          }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
+      ]
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A22",
+            "classroom": "A1.06"
+         }
+      ],
       "2": [],
       "3": []
    }

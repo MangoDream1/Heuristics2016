@@ -3,59 +3,60 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A49",
-            "classroom": "C1.112"
-         }
-      ],
       "3": [
-         {
-            "subject": "Heuristieken 1",
-            "string": "W0A22",
-            "classroom": "A1.04"
-         }
-      ]
-   },
-   "2": {
-      "0": [
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L1A84",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L0A84",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Heuristieken 1",
-            "string": "L0A44",
-            "classroom": "A1.06"
-         },
          {
             "subject": "Programmeren in Java 2",
             "string": "P0A19",
             "classroom": "C1.112"
          }
-      ],
-      "2": [],
-      "3": []
+      ]
    },
-   "3": {
+   "1": {
       "0": [],
       "1": [],
       "2": [],
       "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Heuristieken 1",
+            "string": "W0A22",
+            "classroom": "A1.06"
+         },
+         {
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A49",
+            "classroom": "A1.06"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L1A84",
+            "classroom": "C0.110"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Heuristieken 1",
+            "string": "L0A44",
+            "classroom": "A1.04"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L0A84",
+            "classroom": "A1.04"
+         }
+      ]
    },
    "4": {
       "0": [],

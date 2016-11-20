@@ -2,9 +2,32 @@
    "0": {
       "0": [
          {
-            "subject": "Heuristieken 1",
-            "string": "W0A22",
-            "classroom": "C1.112"
+            "subject": "Autonomous Agents 2",
+            "string": "W0A8",
+            "classroom": "A1.04"
+         },
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "W0A10",
+            "classroom": "C0.110"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "P0A10",
+            "classroom": "A1.04"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "L0A22",
+            "classroom": "C0.110"
          }
       ],
       "1": [
@@ -12,70 +35,58 @@
             "subject": "Technology for games",
             "string": "L1A38",
             "classroom": "A1.04"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L0A21",
-            "classroom": "C0.110"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L1A21",
-            "classroom": "A1.08"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0A16",
-            "classroom": "A1.06"
-         },
-         {
-            "subject": "Technology for games",
-            "string": "W0A19",
-            "classroom": "A1.04"
          },
          {
             "subject": "Heuristieken 1",
-            "string": "L0A44",
-            "classroom": "A1.06"
+            "string": "W0A22",
+            "classroom": "C1.112"
          }
       ],
       "2": [],
       "3": [
          {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "P0A10",
-            "classroom": "C0.110"
+            "subject": "Autonomous Agents 2",
+            "string": "P0A8",
+            "classroom": "A1.06"
          },
          {
-            "subject": "Autonomous Agents 2",
-            "string": "L0A22",
-            "classroom": "A1.10"
+            "subject": "Technology for games",
+            "string": "L0A38",
+            "classroom": "A1.04"
+         },
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0A16",
+            "classroom": "A1.08"
          }
       ]
    },
-   "3": {
+   "2": {
       "0": [],
       "1": [],
       "2": [
          {
-            "subject": "Technology for games",
-            "string": "L0A38",
-            "classroom": "B0.201"
+            "subject": "Autonomous Agents 2",
+            "string": "L1A22",
+            "classroom": "C1.112"
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "L1A21",
+            "classroom": "C1.112"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Heuristieken 1",
+            "string": "L0A44",
+            "classroom": "A1.04"
          }
       ],
       "3": []
@@ -84,28 +95,17 @@
       "0": [],
       "1": [
          {
-            "subject": "Autonomous Agents 2",
-            "string": "L1A22",
-            "classroom": "C0.110"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Autonomous Agents 2",
-            "string": "P0A8",
+            "subject": "Technology for games",
+            "string": "W0A19",
             "classroom": "B0.201"
          },
          {
-            "subject": "Autonomous Agents 2",
-            "string": "W0A8",
-            "classroom": "A1.10"
-         },
-         {
             "subject": "Informatie- en organisatieontwerp",
-            "string": "W0A10",
-            "classroom": "A1.08"
+            "string": "L0A21",
+            "classroom": "A1.04"
          }
       ],
+      "2": [],
       "3": []
    }
 }

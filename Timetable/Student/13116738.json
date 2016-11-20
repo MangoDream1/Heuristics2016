@@ -1,22 +1,33 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0A14",
+            "classroom": "B0.201"
+         },
          {
             "subject": "Informatie- en organisatieontwerp",
-            "string": "L0A21",
+            "string": "W0A10",
             "classroom": "C0.110"
          }
       ],
-      "3": []
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "P0A10",
+            "classroom": "A1.04"
+         }
+      ]
    },
    "1": {
       "0": [
          {
             "subject": "Data Mining",
             "string": "L1A27",
-            "classroom": "C1.112"
+            "classroom": "A1.08"
          }
       ],
       "1": [],
@@ -24,62 +35,51 @@
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L1A21",
-            "classroom": "A1.08"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Data Mining",
-            "string": "P0A9",
-            "classroom": "A1.08"
-         },
+      "0": [],
+      "1": [],
+      "2": [
          {
             "subject": "Data Mining",
             "string": "W0A9",
-            "classroom": "C0.110"
+            "classroom": "A1.08"
          }
       ],
-      "2": [],
       "3": [
          {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "P0A10",
-            "classroom": "C0.110"
+            "subject": "Data Mining",
+            "string": "P0A9",
+            "classroom": "B0.201"
          }
       ]
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "L1A21",
+            "classroom": "C1.112"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0A14",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "W0A10",
-            "classroom": "A1.08"
-         }
-      ],
-      "3": [
+      "0": [
          {
             "subject": "Data Mining",
             "string": "L0A27",
-            "classroom": "C0.110"
+            "classroom": "A1.08"
          }
-      ]
+      ],
+      "1": [
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "L0A21",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [],
+      "3": []
    }
 }

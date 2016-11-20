@@ -1,23 +1,82 @@
 {
    "0": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
+         {
+            "subject": "Databases 2",
+            "string": "L0A72",
+            "classroom": "C0.110"
+         }
+      ],
+      "3": [
          {
             "subject": "Collectieve Intelligentie",
-            "string": "P0A16",
+            "string": "L0A61",
+            "classroom": "C1.112"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A51",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "C0.110"
+         }
+      ]
+   },
+   "2": {
+      "0": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L2A61",
+            "classroom": "A1.08"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51",
             "classroom": "A1.10"
+         },
+         {
+            "subject": "Project Numerical Recipes",
+            "string": "P0A15",
+            "classroom": "B0.201"
          }
       ],
       "2": [
          {
-            "subject": "Project Numerical Recipes",
-            "string": "P0A15",
-            "classroom": "C1.112"
+            "subject": "Collectieve Intelligentie",
+            "string": "W0A16",
+            "classroom": "C0.110"
          }
       ],
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "P0A16",
+            "classroom": "A1.06"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
       "3": []
    },
-   "1": {
+   "4": {
       "0": [],
       "1": [
          {
@@ -26,72 +85,13 @@
             "classroom": "A1.10"
          }
       ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A61",
-            "classroom": "B0.201"
-         }
-      ]
-   },
-   "2": {
-      "0": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0A16",
-            "classroom": "A1.10"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51",
-            "classroom": "A1.06"
-         }
-      ]
-   },
-   "3": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Databases 2",
-            "string": "L0A72",
-            "classroom": "B0.201"
-         },
-         {
-            "subject": "Databases 2",
-            "string": "W0A36",
-            "classroom": "B0.201"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
-      "1": [
+      "2": [
          {
             "subject": "Reflectie op de digitale cultuur",
             "string": "W0A17",
-            "classroom": "A1.10"
+            "classroom": "C0.110"
          }
       ],
-      "2": [],
       "3": []
    }
 }

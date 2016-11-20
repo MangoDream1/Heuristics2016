@@ -1,66 +1,67 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L0A21",
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L1A21",
             "classroom": "C0.110"
          }
       ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
       "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
       "3": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L1A21",
-            "classroom": "A1.10"
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "P0A11",
+            "classroom": "A1.06"
          }
       ]
    },
-   "2": {
+   "3": {
       "0": [
          {
             "subject": "Informatie- en organisatieontwerp",
             "string": "L1A21",
-            "classroom": "A1.08"
-         },
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "P0A11",
-            "classroom": "A1.10"
+            "classroom": "C1.112"
          }
       ],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L0A21",
+            "classroom": "A1.10"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "L0A21",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [],
+      "3": [
          {
             "subject": "Informatie- en organisatieontwerp",
             "string": "W0A11",
-            "classroom": "A1.06"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L0A21",
-            "classroom": "B0.201"
+            "classroom": "A1.08"
          }
       ]
    }

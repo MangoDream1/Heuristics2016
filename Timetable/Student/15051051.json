@@ -1,91 +1,92 @@
 {
    "0": {
-      "0": [
-         {
-            "subject": "Bioinformatica",
-            "string": "L2A45",
-            "classroom": "B0.201"
-         }
-      ],
+      "0": [],
       "1": [
          {
             "subject": "Machine Learning",
             "string": "L1A22",
+            "classroom": "A1.10"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Bioinformatica",
+            "string": "P0A15",
             "classroom": "B0.201"
          }
       ],
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "subject": "Moderne Databases",
+            "string": "W0A18",
+            "classroom": "C0.110"
+         }
+      ],
+      "1": [],
       "2": [
+         {
+            "subject": "Machine Learning",
+            "string": "L0A22",
+            "classroom": "A1.04"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Moderne Databases",
+            "string": "P0A18",
+            "classroom": "B0.201"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [
          {
             "subject": "Bioinformatica",
             "string": "L1A45",
             "classroom": "A1.08"
          }
       ],
-      "3": [
-         {
-            "subject": "Bioinformatica",
-            "string": "P0A15",
-            "classroom": "A1.06"
-         }
-      ]
-   },
-   "1": {
-      "0": [
-         {
-            "subject": "Bioinformatica",
-            "string": "L0A45",
-            "classroom": "B0.201"
-         },
+      "2": [
          {
             "subject": "Bioinformatica",
             "string": "W0A15",
-            "classroom": "A1.04"
+            "classroom": "A1.06"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Moderne Databases",
-            "string": "P0A18",
-            "classroom": "C0.110"
-         }
-      ]
-   },
-   "3": {
-      "0": [
-         {
-            "subject": "Moderne Databases",
-            "string": "W0A18",
-            "classroom": "C1.112"
-         }
-      ],
-      "1": [],
-      "2": [],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Machine Learning",
-            "string": "L0A22",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [
+      "0": [
          {
             "subject": "Moderne Databases",
             "string": "L0A54",
-            "classroom": "A1.08"
+            "classroom": "A1.10"
          }
       ],
-      "3": []
+      "1": [],
+      "2": [
+         {
+            "subject": "Bioinformatica",
+            "string": "L2A45",
+            "classroom": "C0.110"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Bioinformatica",
+            "string": "L0A45",
+            "classroom": "C0.110"
+         }
+      ]
    }
 }

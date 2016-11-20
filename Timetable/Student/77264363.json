@@ -1,6 +1,12 @@
 {
    "0": {
       "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
       "1": [
          {
             "subject": "Technology for games",
@@ -8,20 +14,14 @@
             "classroom": "A1.04"
          }
       ],
-      "2": [
+      "2": [],
+      "3": [
          {
             "subject": "Technology for games",
-            "string": "W0A19",
+            "string": "L0A38",
             "classroom": "A1.04"
          }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
+      ]
    },
    "2": {
       "0": [],
@@ -35,7 +35,7 @@
       "2": [
          {
             "subject": "Technology for games",
-            "string": "L0A38",
+            "string": "W0A19",
             "classroom": "B0.201"
          }
       ],

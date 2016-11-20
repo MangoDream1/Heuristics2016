@@ -1,7 +1,13 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L1A21",
+            "classroom": "C0.110"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -9,29 +15,34 @@
       "0": [
          {
             "subject": "Webprogrammeren en databases",
-            "string": "W0A20",
+            "string": "P0A20",
+            "classroom": "A1.08"
+         },
+         {
+            "subject": "Software engineering",
+            "string": "P0A38",
             "classroom": "A1.10"
          }
       ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "L1A39",
+            "classroom": "A1.06"
+         }
+      ],
       "3": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L1A21",
-            "classroom": "A1.10"
+            "subject": "Software engineering",
+            "string": "W0A38",
+            "classroom": "A1.06"
          }
       ]
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "P0A20",
-            "classroom": "A1.06"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -39,45 +50,35 @@
       "0": [],
       "1": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "L1A39",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Software engineering",
-            "string": "W0A38",
-            "classroom": "A1.08"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "L0A39",
-            "classroom": "B0.201"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Software engineering",
-            "string": "P0A38",
-            "classroom": "C1.112"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
             "subject": "Software engineering",
             "string": "L0A75",
-            "classroom": "B0.201"
-         },
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [
          {
             "subject": "Architectuur en computerorganisatie",
             "string": "L0A21",
-            "classroom": "B0.201"
+            "classroom": "A1.10"
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "L0A39",
+            "classroom": "A1.04"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "W0A20",
+            "classroom": "A1.06"
          }
       ]
    }

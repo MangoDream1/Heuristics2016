@@ -1,18 +1,95 @@
 {
    "0": {
+      "0": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "W0A13",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Databases 2",
+            "string": "L0A72",
+            "classroom": "C0.110"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L0A61",
+            "classroom": "C1.112"
+         }
+      ]
+   },
+   "1": {
       "0": [],
       "1": [],
       "2": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0A13",
-            "classroom": "C1.112"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A51",
+            "classroom": "B0.201"
          }
       ],
       "3": []
    },
-   "1": {
+   "2": {
+      "0": [
+         {
+            "subject": "Moderne Databases",
+            "string": "W0A18",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L2A61",
+            "classroom": "A1.08"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51",
+            "classroom": "A1.10"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Moderne Databases",
+            "string": "P0A18",
+            "classroom": "B0.201"
+         }
+      ]
+   },
+   "3": {
       "0": [],
+      "1": [
+         {
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0A17",
+            "classroom": "A1.08"
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Moderne Databases",
+            "string": "L0A54",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [
          {
             "subject": "Collectieve Intelligentie",
@@ -24,84 +101,9 @@
       "3": [
          {
             "subject": "Collectieve Intelligentie",
-            "string": "L2A61",
-            "classroom": "B0.201"
-         }
-      ]
-   },
-   "2": {
-      "0": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Moderne Databases",
-            "string": "P0A18",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51",
+            "string": "P0A13",
             "classroom": "A1.06"
          }
       ]
-   },
-   "3": {
-      "0": [
-         {
-            "subject": "Moderne Databases",
-            "string": "W0A18",
-            "classroom": "C1.112"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0A13",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Databases 2",
-            "string": "L0A72",
-            "classroom": "B0.201"
-         }
-      ]
-   },
-   "4": {
-      "0": [
-         {
-            "subject": "Databases 2",
-            "string": "W0A36",
-            "classroom": "A1.04"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "W0A17",
-            "classroom": "B0.201"
-         },
-         {
-            "subject": "Moderne Databases",
-            "string": "L0A54",
-            "classroom": "A1.08"
-         }
-      ],
-      "3": []
    }
 }

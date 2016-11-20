@@ -1,18 +1,66 @@
 {
    "0": {
       "0": [],
+      "1": [
+         {
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L1A21",
+            "classroom": "C0.110"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "W0A16",
+            "classroom": "A1.08"
+         },
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L0A61",
+            "classroom": "C1.112"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "P0A16",
+            "classroom": "C1.112"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
-   "1": {
-      "0": [],
-      "1": [
+   "2": {
+      "0": [
          {
             "subject": "Collectieve Intelligentie",
-            "string": "P0A16",
+            "string": "L2A61",
+            "classroom": "A1.08"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L0A21",
             "classroom": "A1.10"
-         },
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [
          {
             "subject": "Collectieve Intelligentie",
             "string": "L1A61",
@@ -20,52 +68,6 @@
          }
       ],
       "2": [],
-      "3": [
-         {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L1A21",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A61",
-            "classroom": "B0.201"
-         }
-      ]
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [],
       "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L0A21",
-            "classroom": "B0.201"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0A16",
-            "classroom": "C0.110"
-         }
-      ]
    }
 }

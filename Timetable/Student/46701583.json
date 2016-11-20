@@ -3,14 +3,9 @@
       "0": [],
       "1": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "string": "P0A22",
-            "classroom": "C0.110"
-         },
-         {
             "subject": "Machine Learning",
             "string": "L1A22",
-            "classroom": "B0.201"
+            "classroom": "A1.10"
          },
          {
             "subject": "Algoritmen en complexiteit",
@@ -22,60 +17,64 @@
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Calculus 2",
+            "string": "L0A106",
+            "classroom": "B0.201"
+         }
+      ],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
             "subject": "Project Genetic Algorithms",
             "string": "P0A12",
-            "classroom": "A1.10"
+            "classroom": "A1.06"
          }
-      ]
+      ],
+      "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "C0.110"
-         }
-      ]
-   },
-   "3": {
-      "0": [
-         {
-            "subject": "Algoritmen en complexiteit",
-            "string": "L0A43",
-            "classroom": "A1.06"
-         }
-      ],
-      "1": [
+            "subject": "Machine Learning",
+            "string": "L0A22",
+            "classroom": "A1.04"
+         },
          {
             "subject": "Programmeren in Java 2",
             "string": "P0A19",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "A1.10"
+            "classroom": "C0.110"
          }
       ],
       "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "4": {
       "0": [],
       "1": [
          {
-            "subject": "Machine Learning",
-            "string": "L0A22",
+            "subject": "Calculus 2",
+            "string": "W0A36",
             "classroom": "B0.201"
+         },
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A22",
+            "classroom": "A1.06"
          }
       ],
       "2": [],

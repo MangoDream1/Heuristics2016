@@ -4,26 +4,26 @@
       "1": [
          {
             "subject": "Algoritmen en complexiteit",
-            "string": "P0A22",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Algoritmen en complexiteit",
             "string": "W0A22",
             "classroom": "A1.08"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "subject": "Autonomous Agents 2",
-            "string": "W0A8",
-            "classroom": "B0.201"
-         }
-      ]
+      "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Calculus 2",
+            "string": "L0A106",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "L0A22",
+            "classroom": "C0.110"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -33,45 +33,28 @@
       "1": [],
       "2": [
          {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0A14",
+            "subject": "Autonomous Agents 2",
+            "string": "L1A22",
             "classroom": "C1.112"
          }
       ],
       "3": [
          {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Autonomous Agents 2",
-            "string": "L0A22",
-            "classroom": "A1.10"
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0A14",
+            "classroom": "A1.04"
          }
       ]
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
          {
             "subject": "Algoritmen en complexiteit",
             "string": "L0A43",
-            "classroom": "A1.06"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "A1.10"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Autonomous Agents 2",
-            "string": "P0A8",
-            "classroom": "C0.110"
+            "classroom": "A1.08"
          }
       ]
    },
@@ -79,12 +62,28 @@
       "0": [],
       "1": [
          {
+            "subject": "Calculus 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A22",
+            "classroom": "A1.06"
+         },
+         {
             "subject": "Autonomous Agents 2",
-            "string": "L1A22",
-            "classroom": "C0.110"
+            "string": "W0A8",
+            "classroom": "A1.10"
          }
       ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "P0A8",
+            "classroom": "C1.112"
+         }
+      ]
    }
 }

@@ -10,58 +10,58 @@
       "1": [],
       "2": [
          {
-            "subject": "Advanced Heuristics",
-            "string": "P0A10",
-            "classroom": "A1.06"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0A16",
-            "classroom": "B0.201"
-         }
-      ]
-   },
-   "2": {
-      "0": [
-         {
             "subject": "Reflectie op de digitale cultuur",
             "string": "L0A51",
-            "classroom": "A1.10"
+            "classroom": "B0.201"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51",
-            "classroom": "A1.06"
-         }
-      ]
-   },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [],
       "3": [
          {
             "subject": "Reflectie op de digitale cultuur",
             "string": "W0A17",
-            "classroom": "A1.06"
+            "classroom": "A1.10"
          }
       ]
    },
-   "4": {
-      "0": [
+   "2": {
+      "0": [],
+      "1": [
          {
-            "subject": "Advanced Heuristics",
-            "string": "L0A20",
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51",
             "classroom": "A1.10"
          }
       ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Advanced Heuristics",
+            "string": "L0A20",
+            "classroom": "B0.201"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0A16",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Advanced Heuristics",
+            "string": "P0A10",
+            "classroom": "C0.110"
+         }
+      ],
       "2": [],
       "3": []
    }

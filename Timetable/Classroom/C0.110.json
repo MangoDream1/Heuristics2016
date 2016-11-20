@@ -2,34 +2,34 @@
    "0": {
       "0": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "W0A19",
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "W0A10",
             "classroom": "C0.110"
          }
       ],
       "1": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "string": "P0A22",
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L1A21",
             "classroom": "C0.110"
          }
       ],
       "2": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "string": "P0A21",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L0A21",
+            "subject": "Databases 2",
+            "string": "L0A72",
             "classroom": "C0.110"
          }
       ],
       "3": [
          {
-            "subject": "Compilerbouw",
-            "string": "P0A34",
+            "subject": "Programmeren in Java 2",
+            "string": "P0A19",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Advanced Heuristics",
+            "string": "P0A10",
             "classroom": "C0.110"
          }
       ]
@@ -37,28 +37,27 @@
    "1": {
       "0": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "P0A19",
+            "subject": "Data Mining",
+            "string": "P0A9",
             "classroom": "C0.110"
          },
          {
-            "subject": "Project Numerical Recipes",
-            "string": "P0A14",
+            "subject": "Moderne Databases",
+            "string": "W0A18",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "L0A22",
             "classroom": "C0.110"
          }
       ],
       "1": [],
-      "2": [
-         {
-            "subject": "Programmeren in Java 2",
-            "string": "P0A19",
-            "classroom": "C0.110"
-         }
-      ],
+      "2": [],
       "3": [
          {
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0A14",
+            "subject": "Databases 2",
+            "string": "W0A36",
             "classroom": "C0.110"
          }
       ]
@@ -66,57 +65,45 @@
    "2": {
       "0": [
          {
-            "subject": "Calculus 2",
-            "string": "W0A36",
+            "subject": "Moderne Databases",
+            "string": "W0A18",
             "classroom": "C0.110"
          }
       ],
-      "1": [
-         {
-            "subject": "Data Mining",
-            "string": "W0A9",
-            "classroom": "C0.110"
-         }
-      ],
+      "1": [],
       "2": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "W0A16",
+            "classroom": "C0.110"
+         },
          {
             "subject": "Programmeren in Java 2",
             "string": "P0A19",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Moderne Databases",
+            "string": "W0A18",
             "classroom": "C0.110"
          }
       ],
       "3": [
          {
-            "subject": "Moderne Databases",
-            "string": "P0A18",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "P0A10",
+            "subject": "Kansrekenen 2",
+            "string": "L1A84",
             "classroom": "C0.110"
          }
       ]
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0A13",
-            "classroom": "C0.110"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Autonomous Agents 2",
-            "string": "P0A8",
+            "subject": "Compilerbouw (practicum)",
+            "string": "P0A14",
             "classroom": "C0.110"
          }
       ]
@@ -125,32 +112,27 @@
       "0": [],
       "1": [
          {
-            "subject": "Autonomous Agents 2",
-            "string": "L1A22",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0A14",
+            "subject": "Advanced Heuristics",
+            "string": "P0A10",
             "classroom": "C0.110"
          }
       ],
       "2": [
          {
-            "subject": "Compilerbouw",
-            "string": "P0A35",
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0A17",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Bioinformatica",
+            "string": "L2A45",
             "classroom": "C0.110"
          }
       ],
       "3": [
          {
-            "subject": "Data Mining",
-            "string": "L0A27",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0A16",
+            "subject": "Bioinformatica",
+            "string": "L0A45",
             "classroom": "C0.110"
          }
       ]

@@ -2,11 +2,34 @@
    "0": {
       "0": [
          {
-            "subject": "Heuristieken 2",
-            "string": "W0A16",
+            "subject": "Collectieve Intelligentie",
+            "string": "W0A13",
+            "classroom": "A1.04"
+         },
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "W0A8",
             "classroom": "A1.04"
          }
       ],
+      "1": [
+         {
+            "subject": "Project Numerical Recipes",
+            "string": "P0A15",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "P0A10",
+            "classroom": "A1.04"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
       "1": [
          {
             "subject": "Technology for games",
@@ -14,100 +37,91 @@
             "classroom": "A1.04"
          }
       ],
-      "2": [
-         {
-            "subject": "Technology for games",
-            "string": "W0A19",
-            "classroom": "A1.04"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Project Numerical Recipes",
-            "string": "P0A15",
-            "classroom": "A1.04"
-         }
-      ]
-   },
-   "1": {
-      "0": [
-         {
-            "subject": "Bioinformatica",
-            "string": "W0A15",
-            "classroom": "A1.04"
-         }
-      ],
-      "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Heuristieken 2",
-            "string": "L0A32",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Heuristieken 1",
-            "string": "W0A22",
+            "subject": "Technology for games",
+            "string": "L0A38",
             "classroom": "A1.04"
          }
       ]
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Technology for games",
-            "string": "W0A19",
+            "subject": "Autonomous Agents 2",
+            "string": "W0A6",
             "classroom": "A1.04"
          }
       ],
-      "2": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Machine Learning",
+            "string": "L0A22",
+            "classroom": "A1.04"
+         }
+      ],
       "3": [
          {
-            "subject": "Interactie-ontwerp",
-            "string": "L1A25",
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0A14",
             "classroom": "A1.04"
          }
       ]
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Lineaire Algebra",
+            "string": "L0A54",
+            "classroom": "A1.04"
+         }
+      ],
       "1": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "L1A39",
+            "subject": "Software engineering",
+            "string": "L0A75",
             "classroom": "A1.04"
          }
       ],
       "2": [
          {
-            "subject": "Moderne Databases",
-            "string": "W0A18",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Compilerbouw",
-            "string": "W0A34",
+            "subject": "Heuristieken 1",
+            "string": "L0A44",
             "classroom": "A1.04"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L0A84",
+            "classroom": "A1.04"
+         }
+      ]
    },
    "4": {
       "0": [
          {
-            "subject": "Bioinformatica",
-            "string": "P0A15",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Databases 2",
-            "string": "W0A36",
+            "subject": "Data Mining",
+            "string": "W0A9",
             "classroom": "A1.04"
          }
       ],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "L0A21",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "L0A39",
+            "classroom": "A1.04"
+         }
+      ],
       "3": []
    }
 }

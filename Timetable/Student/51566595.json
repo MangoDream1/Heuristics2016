@@ -1,11 +1,17 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0A21",
+            "classroom": "B0.201"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "string": "P0A21",
+            "subject": "Databases 2",
+            "string": "L0A72",
             "classroom": "C0.110"
          }
       ],
@@ -14,106 +20,97 @@
    "1": {
       "0": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "string": "W0A21",
-            "classroom": "A1.06"
-         },
-         {
             "subject": "Data Mining",
             "string": "L1A27",
-            "classroom": "C1.112"
+            "classroom": "A1.08"
+         },
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "L0A22",
+            "classroom": "C0.110"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "W0A6",
+            "classroom": "A1.04"
          }
       ],
       "1": [],
       "2": [
          {
-            "subject": "Autonomous Agents 2",
-            "string": "P0A6",
-            "classroom": "B0.201"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Heuristieken 2",
-            "string": "L0A32",
-            "classroom": "A1.04"
-         }
-      ]
-   },
-   "2": {
-      "0": [],
-      "1": [
-         {
             "subject": "Data Mining",
-            "string": "P0A9",
+            "string": "W0A9",
             "classroom": "A1.08"
          },
          {
-            "subject": "Data Mining",
-            "string": "W0A9",
-            "classroom": "C0.110"
-         }
-      ],
-      "2": [
-         {
             "subject": "Autonomous Agents 2",
-            "string": "W0A6",
-            "classroom": "A1.10"
+            "string": "L1A22",
+            "classroom": "C1.112"
          }
       ],
       "3": [
          {
-            "subject": "Autonomous Agents 2",
-            "string": "L0A22",
-            "classroom": "A1.10"
+            "subject": "Data Mining",
+            "string": "P0A9",
+            "classroom": "B0.201"
          }
       ]
    },
    "3": {
-      "0": [
-         {
-            "subject": "Algoritmen en complexiteit",
-            "string": "L0A43",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "subject": "Heuristieken 2",
-            "string": "W0A16",
-            "classroom": "A1.06"
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
          }
       ],
       "2": [],
       "3": [
          {
-            "subject": "Databases 2",
-            "string": "L0A72",
-            "classroom": "B0.201"
+            "subject": "Heuristieken 2",
+            "string": "W0A16",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43",
+            "classroom": "A1.08"
+         },
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A21",
+            "classroom": "C1.112"
          }
       ]
    },
    "4": {
       "0": [
          {
-            "subject": "Databases 2",
-            "string": "W0A36",
-            "classroom": "A1.04"
-         }
-      ],
-      "1": [
+            "subject": "Data Mining",
+            "string": "L0A27",
+            "classroom": "A1.08"
+         },
          {
             "subject": "Autonomous Agents 2",
-            "string": "L1A22",
-            "classroom": "C0.110"
+            "string": "P0A6",
+            "classroom": "B0.201"
          }
       ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Data Mining",
-            "string": "L0A27",
-            "classroom": "C0.110"
+            "subject": "Heuristieken 2",
+            "string": "L0A32",
+            "classroom": "C1.112"
          }
       ]
    }

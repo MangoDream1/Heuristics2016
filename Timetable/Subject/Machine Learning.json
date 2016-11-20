@@ -5,7 +5,7 @@
          {
             "subject": "Machine Learning",
             "string": "L1A22",
-            "classroom": "B0.201"
+            "classroom": "A1.10"
          }
       ],
       "2": [],
@@ -20,7 +20,13 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Machine Learning",
+            "string": "L0A22",
+            "classroom": "A1.04"
+         }
+      ],
       "3": []
    },
    "3": {
@@ -31,13 +37,7 @@
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "subject": "Machine Learning",
-            "string": "L0A22",
-            "classroom": "B0.201"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    }
