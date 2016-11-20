@@ -1,59 +1,60 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "string": "L1A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.10"
+            "string": "P0A18",
+            "subject": "Moderne Databases",
+            "classroom": "A1.08"
          }
       ],
-      "1": [
+      "3": [
          {
             "string": "P0A35",
             "subject": "Compilerbouw",
             "classroom": "A1.08"
          }
-      ],
-      "2": [],
-      "3": []
+      ]
    },
    "1": {
       "0": [
          {
-            "string": "P0A14",
-            "subject": "Compilerbouw (practicum)",
-            "classroom": "A1.10"
+            "string": "W0A18",
+            "subject": "Moderne Databases",
+            "classroom": "B0.201"
          }
       ],
       "1": [],
-      "2": [
-         {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "C1.112"
-         },
-         {
-            "string": "P0A18",
-            "subject": "Moderne Databases",
-            "classroom": "A1.10"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "W0A18",
-            "subject": "Moderne Databases",
-            "classroom": "C0.110"
+            "string": "P0A14",
+            "subject": "Compilerbouw (practicum)",
+            "classroom": "B0.201"
          }
       ],
-      "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L1A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.04"
+         }
+      ]
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0A35",
+            "subject": "Compilerbouw",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -62,18 +63,17 @@
       "0": [],
       "1": [
          {
-            "string": "W0A35",
+            "string": "L0A54",
+            "subject": "Moderne Databases",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "L0A69",
             "subject": "Compilerbouw",
-            "classroom": "A1.04"
+            "classroom": "A1.06"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "string": "L0A54",
-            "subject": "Moderne Databases",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    }
 }

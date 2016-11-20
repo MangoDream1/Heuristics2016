@@ -7,48 +7,48 @@
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A49",
-            "subject": "Analysemethoden en -technieken",
-            "classroom": "B0.201"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "P0A16",
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "A1.06"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
             "string": "W0A36",
             "subject": "Databases 2",
-            "classroom": "A1.04"
+            "classroom": "A1.10"
          }
-      ],
-      "3": []
+      ]
    },
    "3": {
       "0": [
          {
-            "string": "L0A72",
-            "subject": "Databases 2",
-            "classroom": "A1.04"
+            "string": "L0A49",
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "C0.110"
          }
       ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A72",
+            "subject": "Databases 2",
+            "classroom": "C0.110"
+         }
+      ]
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "C0.110"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

@@ -3,7 +3,7 @@ from iteration_manager import *
 from random import randint, choice, random
 from operator import itemgetter
 
-def simple_hill_climber(noProgressCounterLimit, classroomWeigth, timeslotWeigth, dayWeigth, im, startRandom=True):
+def simple_hill_climber(im, noProgressCounterLimit, classroomWeigth, timeslotWeigth, dayWeigth, startRandom=True):
     print("Starting simple hill climber...")
 
     weight = 1 / (classroomWeigth + timeslotWeigth + dayWeigth)
@@ -62,6 +62,12 @@ def simple_hill_climber(noProgressCounterLimit, classroomWeigth, timeslotWeigth,
 
     im.lecture_dct = im.applyChanges(im.compileChanges(best_iteration[0]))
 
-    im.exportLectures("SHC%snPl%sc%.1ft%.1fd%.1f" % (best_iteration[1], noProgressCounterLimit, classroomWeigth, timeslotWeigth, dayWeigth))
+    im.exportLectures("HC%snPl%sc%.1ft%.1fd%.1f" % (best_iteration[1], noProgressCounterLimit, classroomWeigth, timeslotWeigth, dayWeigth))
 
-simple_hill_climber(100, 1, 1, 1, iteration_manager)
+startRandom = True
+if input("Do you want to start from a previously made timetable [Y/N]: ").lower() == 'y':
+    iteration_manager.importLectures(input("Timetable name: "))
+    iteration_manager.exportTimetable()
+    startRandom = False
+
+simple_hill_climber(iteration_manager, 100, 1, 1, 1, startRandom=startRandom)

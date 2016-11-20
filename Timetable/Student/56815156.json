@@ -1,73 +1,74 @@
 {
    "0": {
-      "0": [],
-      "1": [
-         {
-            "string": "L0A45",
-            "subject": "Bioinformatica",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [
+      "0": [
          {
             "string": "L2A45",
             "subject": "Bioinformatica",
-            "classroom": "C0.110"
+            "classroom": "C1.112"
          }
       ],
-      "3": []
-   },
-   "1": {
-      "0": [],
       "1": [
          {
-            "string": "L0A49",
-            "subject": "Analysemethoden en -technieken",
-            "classroom": "B0.201"
-         },
-         {
-            "string": "W0A15",
+            "string": "L1A45",
             "subject": "Bioinformatica",
-            "classroom": "A1.08"
+            "classroom": "A1.04"
          }
       ],
       "2": [],
       "3": []
    },
-   "2": {
-      "0": [
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "string": "P0A14",
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "A1.08"
+            "string": "P0A15",
+            "subject": "Bioinformatica",
+            "classroom": "A1.06"
          }
       ],
+      "3": []
+   },
+   "2": {
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "string": "L1A45",
-            "subject": "Bioinformatica",
-            "classroom": "A1.08"
-         }
-      ],
-      "3": []
-   },
-   "4": {
       "0": [
          {
-            "string": "P0A15",
-            "subject": "Bioinformatica",
+            "string": "L0A49",
+            "subject": "Analysemethoden en -technieken",
             "classroom": "C0.110"
          }
       ],
+      "1": [
+         {
+            "string": "P0A14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "C0.110"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "W0A15",
+            "subject": "Bioinformatica",
+            "classroom": "A1.04"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A45",
+            "subject": "Bioinformatica",
+            "classroom": "B0.201"
+         }
+      ]
    }
 }

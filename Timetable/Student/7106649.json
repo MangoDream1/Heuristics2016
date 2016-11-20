@@ -9,54 +9,53 @@
       "0": [],
       "1": [],
       "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "W0A16",
+            "subject": "Heuristieken 2",
+            "classroom": "A1.04"
+         },
+         {
+            "string": "L0A38",
+            "subject": "Technology for games",
+            "classroom": "A1.08"
+         }
+      ],
       "3": [
          {
-            "string": "L1A38",
+            "string": "W0A19",
             "subject": "Technology for games",
             "classroom": "B0.201"
          }
       ]
    },
-   "2": {
-      "0": [],
-      "1": [
+   "3": {
+      "0": [
          {
-            "string": "L0A38",
-            "subject": "Technology for games",
-            "classroom": "A1.06"
+            "string": "L0A32",
+            "subject": "Heuristieken 2",
+            "classroom": "A1.08"
          }
       ],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "L0A32",
-            "subject": "Heuristieken 2",
-            "classroom": "A1.10"
+            "string": "L1A38",
+            "subject": "Technology for games",
+            "classroom": "A1.08"
          }
       ]
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "W0A19",
-            "subject": "Technology for games",
-            "classroom": "A1.04"
-         }
-      ],
-      "3": [
-         {
-            "string": "W0A16",
-            "subject": "Heuristieken 2",
-            "classroom": "A1.06"
-         }
-      ]
+      "2": [],
+      "3": []
    }
 }

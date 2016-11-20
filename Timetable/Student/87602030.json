@@ -9,53 +9,54 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "W0A36",
-            "subject": "Calculus 2",
-            "classroom": "A1.10"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [
+      "2": [
+         {
+            "string": "W0A16",
+            "subject": "Heuristieken 2",
+            "classroom": "A1.04"
+         }
+      ],
+      "3": [
          {
             "string": "L0A106",
             "subject": "Calculus 2",
             "classroom": "A1.08"
          }
-      ],
-      "1": [],
-      "2": [],
-      "3": [
+      ]
+   },
+   "3": {
+      "0": [
          {
             "string": "L0A32",
             "subject": "Heuristieken 2",
-            "classroom": "A1.10"
+            "classroom": "A1.08"
          }
-      ]
+      ],
+      "1": [
+         {
+            "string": "W0A36",
+            "subject": "Calculus 2",
+            "classroom": "B0.201"
+         }
+      ],
+      "2": [
+         {
+            "string": "P0A12",
+            "subject": "Project Genetic Algorithms",
+            "classroom": "A1.04"
+         }
+      ],
+      "3": []
    },
    "4": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "W0A16",
-            "subject": "Heuristieken 2",
-            "classroom": "A1.06"
-         },
-         {
-            "string": "P0A12",
-            "subject": "Project Genetic Algorithms",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    }
 }

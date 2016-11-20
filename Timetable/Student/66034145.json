@@ -2,55 +2,43 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "L1A39",
-            "subject": "Webprogrammeren en databases",
-            "classroom": "A1.10"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
+         {
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "L1A39",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.06"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [
          {
             "string": "L0A25",
             "subject": "Interactie-ontwerp",
             "classroom": "C0.110"
          }
       ],
-      "2": [
-         {
-            "string": "P0A19",
-            "subject": "Webprogrammeren en databases",
-            "classroom": "C0.110"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "string": "W0A19",
-            "subject": "Webprogrammeren en databases",
-            "classroom": "A1.08"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "string": "L1A25",
-            "subject": "Interactie-ontwerp",
-            "classroom": "A1.08"
-         }
-      ],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [],
       "3": []
    },
    "4": {
@@ -58,11 +46,23 @@
          {
             "string": "L0A39",
             "subject": "Webprogrammeren en databases",
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [
+         {
+            "string": "W0A19",
+            "subject": "Webprogrammeren en databases",
             "classroom": "C0.110"
          }
       ],
-      "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "P0A19",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "C1.112"
+         }
+      ],
       "3": []
    }
 }

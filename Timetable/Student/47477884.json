@@ -1,18 +1,12 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "W0A36",
-            "subject": "Calculus 2",
-            "classroom": "A1.08"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
             "string": "W0A36",
-            "subject": "Databases 2",
-            "classroom": "A1.04"
+            "subject": "Calculus 2",
+            "classroom": "B0.201"
          }
       ],
       "3": []
@@ -21,53 +15,59 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A20",
+            "subject": "Advanced Heuristics",
+            "classroom": "B0.201"
+         }
+      ]
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "P0A10",
-            "subject": "Advanced Heuristics",
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2",
             "classroom": "A1.06"
-         }
-      ]
-   },
-   "3": {
-      "0": [
-         {
-            "string": "L0A72",
-            "subject": "Databases 2",
-            "classroom": "A1.04"
          },
+         {
+            "string": "W0A36",
+            "subject": "Databases 2",
+            "classroom": "C0.110"
+         }
+      ],
+      "3": [
          {
             "string": "L0A106",
             "subject": "Calculus 2",
             "classroom": "A1.08"
          }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
+      ]
    },
-   "4": {
-      "0": [
-         {
-            "string": "P0A19",
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.10"
-         }
-      ],
+   "3": {
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "L0A20",
-            "subject": "Advanced Heuristics",
-            "classroom": "A1.08"
+            "string": "L0A72",
+            "subject": "Databases 2",
+            "classroom": "C0.110"
          }
       ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "P0A10",
+            "subject": "Advanced Heuristics",
+            "classroom": "C0.110"
+         }
+      ],
+      "3": []
    }
 }

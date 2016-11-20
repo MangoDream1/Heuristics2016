@@ -1,24 +1,100 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "P0A35",
+            "subject": "Compilerbouw",
+            "classroom": "A1.08"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "C0.110"
+         }
+      ],
+      "3": [
+         {
+            "string": "L0A43",
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.06"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "W0A36",
+            "subject": "Databases 2",
+            "classroom": "C0.110"
+         }
+      ],
+      "3": [
          {
             "string": "L1A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.04"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "string": "W0A17",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.06"
+         },
+         {
+            "string": "W0A35",
             "subject": "Compilerbouw",
             "classroom": "A1.10"
          }
       ],
       "1": [
          {
-            "string": "P0A35",
-            "subject": "Compilerbouw",
+            "string": "W0A22",
+            "subject": "Algoritmen en complexiteit",
             "classroom": "A1.08"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "L0A72",
+            "subject": "Databases 2",
+            "classroom": "C0.110"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "string": "L0A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.06"
          }
       ],
       "2": [
          {
-            "string": "W0A36",
-            "subject": "Databases 2",
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur",
             "classroom": "A1.04"
+         },
+         {
+            "string": "P0A22",
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.08"
          }
       ],
       "3": [
@@ -28,80 +104,5 @@
             "classroom": "A1.10"
          }
       ]
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "C1.112"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "string": "P0A22",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "C0.110"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "L0A51",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "B0.201"
-         }
-      ]
-   },
-   "3": {
-      "0": [
-         {
-            "string": "L0A72",
-            "subject": "Databases 2",
-            "classroom": "A1.04"
-         },
-         {
-            "string": "W0A17",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "B0.201"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "P0A19",
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.04"
-         },
-         {
-            "string": "W0A22",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "C1.112"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
-      "1": [
-         {
-            "string": "L0A43",
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.04"
-         },
-         {
-            "string": "W0A35",
-            "subject": "Compilerbouw",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [],
-      "3": []
    }
 }

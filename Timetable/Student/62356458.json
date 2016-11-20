@@ -1,79 +1,79 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A22",
+            "subject": "Autonomous Agents 2",
+            "classroom": "B0.201"
+         }
+      ],
       "1": [],
       "2": [
          {
+            "string": "P0A15",
+            "subject": "Project Numerical Recipes",
+            "classroom": "C0.110"
+         }
+      ],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
             "string": "L1A22",
+            "subject": "Autonomous Agents 2",
+            "classroom": "C1.112"
+         }
+      ]
+   },
+   "2": {
+      "0": [
+         {
+            "string": "P0A8",
             "subject": "Autonomous Agents 2",
             "classroom": "C0.110"
          }
       ],
-      "3": [
+      "1": [
+         {
+            "string": "W0A8",
+            "subject": "Autonomous Agents 2",
+            "classroom": "A1.10"
+         },
          {
             "string": "P0A38",
             "subject": "Software engineering",
-            "classroom": "C0.110"
+            "classroom": "A1.08"
          }
-      ]
-   },
-   "1": {
-      "0": [],
-      "1": [
+      ],
+      "2": [
          {
             "string": "L0A75",
             "subject": "Software engineering",
-            "classroom": "C0.110"
+            "classroom": "C1.112"
          }
       ],
-      "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [],
       "3": []
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
          {
             "string": "W0A38",
             "subject": "Software engineering",
             "classroom": "A1.06"
          }
-      ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "P0A8",
-            "subject": "Autonomous Agents 2",
-            "classroom": "C1.112"
-         },
-         {
-            "string": "P0A15",
-            "subject": "Project Numerical Recipes",
-            "classroom": "A1.10"
-         }
       ]
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A22",
-            "subject": "Autonomous Agents 2",
-            "classroom": "A1.10"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "W0A8",
-            "subject": "Autonomous Agents 2",
-            "classroom": "A1.10"
-         }
-      ]
+      "3": []
    }
 }

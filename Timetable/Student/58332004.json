@@ -1,100 +1,101 @@
 {
    "0": {
+      "0": [
+         {
+            "string": "P0A18",
+            "subject": "Moderne Databases",
+            "classroom": "A1.08"
+         }
+      ],
+      "1": [
+         {
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2",
+            "classroom": "B0.201"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "P0A11",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.04"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "string": "W0A18",
+            "subject": "Moderne Databases",
+            "classroom": "A1.06"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "2": {
       "0": [],
       "1": [],
       "2": [
          {
             "string": "W0A36",
             "subject": "Databases 2",
-            "classroom": "A1.04"
+            "classroom": "C0.110"
          }
       ],
-      "3": [
-         {
-            "string": "L1A21",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "C1.112"
-         },
-         {
-            "string": "P0A18",
-            "subject": "Moderne Databases",
-            "classroom": "C1.112"
-         }
-      ]
-   },
-   "1": {
-      "0": [
-         {
-            "string": "L0A84",
-            "subject": "Kansrekenen 2",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "string": "P0A19",
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.08"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [],
       "3": []
    },
    "3": {
       "0": [
          {
+            "string": "L1A21",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
             "string": "L0A72",
             "subject": "Databases 2",
-            "classroom": "A1.04"
-         }
-      ],
-      "1": [
-         {
-            "string": "P0A11",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [
-         {
-            "string": "W0A11",
-            "subject": "Informatie- en organisatieontwerp",
             "classroom": "C0.110"
-         },
-         {
-            "string": "W0A18",
-            "subject": "Moderne Databases",
-            "classroom": "A1.10"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
-      "0": [],
-      "1": [
-         {
-            "string": "L0A21",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "A1.06"
-         },
+      "0": [
          {
             "string": "L1A84",
             "subject": "Kansrekenen 2",
+            "classroom": "A1.04"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A54",
+            "subject": "Moderne Databases",
+            "classroom": "A1.10"
+         },
+         {
+            "string": "L0A21",
+            "subject": "Informatie- en organisatieontwerp",
             "classroom": "A1.08"
          }
       ],
       "2": [],
       "3": [
          {
-            "string": "L0A54",
-            "subject": "Moderne Databases",
+            "string": "L0A84",
+            "subject": "Kansrekenen 2",
             "classroom": "C1.112"
+         },
+         {
+            "string": "W0A11",
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.06"
          }
       ]
    }

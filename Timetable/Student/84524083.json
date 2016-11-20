@@ -1,96 +1,94 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "L1A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [
-         {
-            "string": "P0A35",
-            "subject": "Compilerbouw",
-            "classroom": "A1.08"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "string": "L1A51",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.10"
-         }
-      ]
-   },
-   "1": {
-      "0": [
-         {
-            "string": "L0A84",
-            "subject": "Kansrekenen 2",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "C1.112"
-         }
-      ],
-      "3": []
-   },
-   "2": {
       "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "L0A51",
+            "string": "W0A17",
             "subject": "Reflectie op de digitale cultuur",
             "classroom": "B0.201"
+         },
+         {
+            "string": "P0A35",
+            "subject": "Compilerbouw",
+            "classroom": "A1.08"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "string": "W0A16",
+            "subject": "Heuristieken 2",
+            "classroom": "A1.04"
+         }
+      ],
+      "3": [
+         {
+            "string": "L1A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.04"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "string": "W0A17",
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "B0.201"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
             "string": "L0A32",
             "subject": "Heuristieken 2",
-            "classroom": "A1.10"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
-      "1": [
-         {
-            "string": "L1A84",
-            "subject": "Kansrekenen 2",
             "classroom": "A1.08"
          },
          {
             "string": "W0A35",
             "subject": "Compilerbouw",
+            "classroom": "A1.10"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "string": "L1A84",
+            "subject": "Kansrekenen 2",
             "classroom": "A1.04"
          }
       ],
-      "2": [],
+      "1": [
+         {
+            "string": "L0A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.06"
+         }
+      ],
+      "2": [
+         {
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.04"
+         }
+      ],
       "3": [
          {
-            "string": "W0A16",
-            "subject": "Heuristieken 2",
-            "classroom": "A1.06"
+            "string": "L0A84",
+            "subject": "Kansrekenen 2",
+            "classroom": "C1.112"
+         },
+         {
+            "string": "L1A51",
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.10"
          }
       ]
    }

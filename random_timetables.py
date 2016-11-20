@@ -9,7 +9,7 @@ def update_progress(workdone, text='Progress:'):
     if workdone == 1:
         print('\n')
 
-def random_timetables(nPlannedIterations, im):
+def random_timetables(im, nPlannedIterations):
     print("Starting random timetables with %s iterations..." % nPlannedIterations)
 
     while im.i != nPlannedIterations:
@@ -41,4 +41,4 @@ def random_timetables(nPlannedIterations, im):
 
     return lecture_dct
 
-random_timetables(10, iteration_manager)
+random_timetables(iteration_manager, 10)

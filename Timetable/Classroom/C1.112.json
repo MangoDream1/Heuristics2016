@@ -1,22 +1,29 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "L2A45",
+            "subject": "Bioinformatica",
+            "classroom": "C1.112"
+         }
+      ],
       "1": [
+         {
+            "string": "P0A18",
+            "subject": "Moderne Databases",
+            "classroom": "C1.112"
+         }
+      ],
+      "2": [
          {
             "string": "P0A19",
             "subject": "Programmeren in Java 2",
             "classroom": "C1.112"
          }
       ],
-      "2": [],
       "3": [
          {
-            "string": "L1A21",
-            "subject": "Informatie- en organisatieontwerp",
-            "classroom": "C1.112"
-         },
-         {
-            "string": "P0A18",
+            "string": "W0A18",
             "subject": "Moderne Databases",
             "classroom": "C1.112"
          }
@@ -25,46 +32,53 @@
    "1": {
       "0": [
          {
-            "string": "W0A20",
-            "subject": "Webprogrammeren en databases",
+            "string": "P0A19",
+            "subject": "Programmeren in Java 2",
             "classroom": "C1.112"
          }
       ],
       "1": [],
       "2": [
          {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "C1.112"
-         },
-         {
-            "string": "W0A9",
-            "subject": "Data Mining",
-            "classroom": "C1.112"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "string": "P0A10",
-            "subject": "Advanced Heuristics",
-            "classroom": "C1.112"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "string": "W0A17",
-            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0A16",
+            "subject": "Collectieve Intelligentie",
             "classroom": "C1.112"
          }
       ],
       "3": [
          {
-            "string": "P0A18",
-            "subject": "Moderne Databases",
+            "string": "L1A22",
+            "subject": "Autonomous Agents 2",
+            "classroom": "C1.112"
+         }
+      ]
+   },
+   "2": {
+      "0": [
+         {
+            "string": "P0A6",
+            "subject": "Autonomous Agents 2",
+            "classroom": "C1.112"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A21",
+            "subject": "Architectuur en computerorganisatie",
+            "classroom": "C1.112"
+         }
+      ],
+      "2": [
+         {
+            "string": "L0A75",
+            "subject": "Software engineering",
+            "classroom": "C1.112"
+         }
+      ],
+      "3": [
+         {
+            "string": "W0A8",
+            "subject": "Autonomous Agents 2",
             "classroom": "C1.112"
          }
       ]
@@ -72,27 +86,29 @@
    "3": {
       "0": [
          {
-            "string": "P0A12",
-            "subject": "Project Genetic Algorithms",
+            "string": "P0A16",
+            "subject": "Netwerken en systeembeveiliging",
             "classroom": "C1.112"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
             "string": "P0A9",
             "subject": "Data Mining",
             "classroom": "C1.112"
-         },
+         }
+      ],
+      "2": [
          {
-            "string": "P0A8",
-            "subject": "Autonomous Agents 2",
+            "string": "P0A9",
+            "subject": "Data Mining",
             "classroom": "C1.112"
-         },
+         }
+      ],
+      "3": [
          {
-            "string": "W0A22",
-            "subject": "Algoritmen en complexiteit",
+            "string": "P0A13",
+            "subject": "Collectieve Intelligentie",
             "classroom": "C1.112"
          }
       ]
@@ -100,28 +116,23 @@
    "4": {
       "0": [
          {
-            "string": "W0A10",
-            "subject": "Informatie- en organisatieontwerp",
+            "string": "P0A15",
+            "subject": "Bioinformatica",
             "classroom": "C1.112"
          }
       ],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "P0A12",
-            "subject": "Project Genetic Algorithms",
+            "string": "P0A19",
+            "subject": "Webprogrammeren en databases",
             "classroom": "C1.112"
          }
       ],
-      "2": [],
       "3": [
          {
-            "string": "L0A54",
-            "subject": "Moderne Databases",
-            "classroom": "C1.112"
-         },
-         {
-            "string": "P0A12",
-            "subject": "Project Genetic Algorithms",
+            "string": "L0A84",
+            "subject": "Kansrekenen 2",
             "classroom": "C1.112"
          }
       ]

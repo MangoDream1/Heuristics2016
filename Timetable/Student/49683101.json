@@ -2,20 +2,20 @@
    "0": {
       "0": [
          {
-            "string": "L1A69",
-            "subject": "Compilerbouw",
+            "string": "L0A22",
+            "subject": "Machine Learning",
             "classroom": "A1.10"
          }
       ],
-      "1": [
+      "1": [],
+      "2": [],
+      "3": [
          {
             "string": "P0A35",
             "subject": "Compilerbouw",
             "classroom": "A1.08"
          }
-      ],
-      "2": [],
-      "3": []
+      ]
    },
    "1": {
       "0": [],
@@ -23,57 +23,58 @@
          {
             "string": "L1A22",
             "subject": "Machine Learning",
-            "classroom": "C0.110"
+            "classroom": "A1.04"
          }
       ],
-      "2": [
-         {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "C1.112"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
             "string": "L0A21",
             "subject": "Architectuur en computerorganisatie",
-            "classroom": "C0.110"
-         },
+            "classroom": "C1.112"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "L1A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.04"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "string": "W0A35",
+            "subject": "Compilerbouw",
+            "classroom": "A1.10"
+         }
+      ],
+      "1": [],
+      "2": [
          {
             "string": "L1A21",
             "subject": "Architectuur en computerorganisatie",
-            "classroom": "A1.10"
+            "classroom": "B0.201"
          }
-      ]
+      ],
+      "3": []
    },
    "4": {
       "0": [],
       "1": [
          {
-            "string": "W0A35",
+            "string": "L0A69",
             "subject": "Compilerbouw",
-            "classroom": "A1.04"
+            "classroom": "A1.06"
          }
       ],
-      "2": [
-         {
-            "string": "L0A22",
-            "subject": "Machine Learning",
-            "classroom": "A1.08"
-         }
-      ],
+      "2": [],
       "3": []
    }
 }

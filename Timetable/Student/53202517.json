@@ -2,112 +2,110 @@
    "0": {
       "0": [
          {
-            "string": "L1A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [
-         {
-            "string": "L0A45",
-            "subject": "Bioinformatica",
-            "classroom": "B0.201"
-         }
-      ],
-      "2": [
-         {
-            "string": "L1A39",
-            "subject": "Webprogrammeren en databases",
-            "classroom": "A1.10"
-         },
-         {
             "string": "L2A45",
             "subject": "Bioinformatica",
-            "classroom": "C0.110"
-         },
-         {
-            "string": "W0A15",
-            "subject": "Bioinformatica",
-            "classroom": "A1.04"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "string": "P0A34",
-            "subject": "Compilerbouw",
-            "classroom": "A1.04"
-         }
-      ],
-      "1": [
-         {
-            "string": "W0A34",
-            "subject": "Compilerbouw",
-            "classroom": "A1.10"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
             "classroom": "C1.112"
-         },
-         {
-            "string": "P0A19",
-            "subject": "Webprogrammeren en databases",
-            "classroom": "C0.110"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "string": "W0A19",
-            "subject": "Webprogrammeren en databases",
-            "classroom": "A1.08"
          }
       ],
       "1": [
          {
-            "string": "P0A15",
+            "string": "L1A45",
             "subject": "Bioinformatica",
-            "classroom": "C0.110"
+            "classroom": "A1.04"
          }
       ],
       "2": [],
       "3": []
    },
-   "3": {
+   "1": {
       "0": [],
       "1": [],
       "2": [
          {
-            "string": "L1A45",
+            "string": "W0A15",
             "subject": "Bioinformatica",
             "classroom": "A1.08"
          }
       ],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
       "3": [
          {
-            "string": "P0A14",
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "C0.110"
+            "string": "L1A39",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.06"
+         },
+         {
+            "string": "L1A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.04"
          }
       ]
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "string": "P0A34",
+            "subject": "Compilerbouw",
+            "classroom": "A1.06"
+         }
+      ],
+      "2": [],
+      "3": []
    },
    "4": {
       "0": [
          {
             "string": "L0A39",
             "subject": "Webprogrammeren en databases",
-            "classroom": "C0.110"
+            "classroom": "A1.06"
+         },
+         {
+            "string": "P0A15",
+            "subject": "Bioinformatica",
+            "classroom": "C1.112"
+         },
+         {
+            "string": "W0A34",
+            "subject": "Compilerbouw",
+            "classroom": "B0.201"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": []
+      "1": [
+         {
+            "string": "W0A19",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "C0.110"
+         },
+         {
+            "string": "L0A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.06"
+         }
+      ],
+      "2": [
+         {
+            "string": "P0A19",
+            "subject": "Webprogrammeren en databases",
+            "classroom": "C1.112"
+         }
+      ],
+      "3": [
+         {
+            "string": "P0A14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "A1.04"
+         },
+         {
+            "string": "L0A45",
+            "subject": "Bioinformatica",
+            "classroom": "B0.201"
+         }
+      ]
    }
 }

@@ -21,18 +21,18 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "P0A14",
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "C0.110"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0A14",
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "A1.04"
+         }
+      ]
    }
 }

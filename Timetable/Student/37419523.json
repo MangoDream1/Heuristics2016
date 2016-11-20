@@ -2,7 +2,13 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "P0A15",
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.06"
+         }
+      ],
       "3": []
    },
    "1": {
@@ -12,13 +18,7 @@
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "string": "P0A15",
-            "subject": "Project Numerical Recipes",
-            "classroom": "A1.08"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []

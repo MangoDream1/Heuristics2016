@@ -1,59 +1,11 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "L1A69",
-            "subject": "Compilerbouw",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "string": "P0A34",
-            "subject": "Compilerbouw",
-            "classroom": "A1.04"
-         }
-      ],
-      "1": [
-         {
-            "string": "W0A34",
-            "subject": "Compilerbouw",
-            "classroom": "A1.10"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A69",
-            "subject": "Compilerbouw",
-            "classroom": "C1.112"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "string": "P0A10",
-            "subject": "Advanced Heuristics",
-            "classroom": "C1.112"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
       "0": [],
       "1": [],
       "2": [],
       "3": []
    },
-   "4": {
+   "1": {
       "0": [],
       "1": [],
       "2": [],
@@ -61,8 +13,56 @@
          {
             "string": "L0A20",
             "subject": "Advanced Heuristics",
-            "classroom": "A1.08"
+            "classroom": "B0.201"
          }
       ]
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "string": "P0A10",
+            "subject": "Advanced Heuristics",
+            "classroom": "B0.201"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "L1A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.04"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "string": "P0A34",
+            "subject": "Compilerbouw",
+            "classroom": "A1.06"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "string": "W0A34",
+            "subject": "Compilerbouw",
+            "classroom": "B0.201"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A69",
+            "subject": "Compilerbouw",
+            "classroom": "A1.06"
+         }
+      ],
+      "2": [],
+      "3": []
    }
 }

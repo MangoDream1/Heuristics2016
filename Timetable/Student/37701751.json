@@ -7,44 +7,45 @@
    },
    "1": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
+         {
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "W0A36",
+            "subject": "Databases 2",
+            "classroom": "A1.10"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [
          {
             "string": "L0A25",
             "subject": "Interactie-ontwerp",
             "classroom": "C0.110"
          }
       ],
-      "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "string": "L1A25",
-            "subject": "Interactie-ontwerp",
-            "classroom": "A1.08"
-         },
-         {
-            "string": "W0A36",
-            "subject": "Databases 2",
-            "classroom": "A1.04"
-         }
-      ],
-      "3": []
-   },
-   "3": {
-      "0": [
+      "3": [
          {
             "string": "L0A72",
             "subject": "Databases 2",
-            "classroom": "A1.04"
+            "classroom": "C0.110"
          }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
+      ]
    },
    "4": {
       "0": [],
