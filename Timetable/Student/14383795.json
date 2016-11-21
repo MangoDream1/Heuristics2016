@@ -6,51 +6,50 @@
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Technology for games",
+            "string": "W0A19",
+            "classroom": "B0.201"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
          {
-            "classroom": "A1.04",
+            "subject": "Compilerbouw (practicum)",
+            "string": "P0A14",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Technology for games",
             "string": "L1A38",
-            "subject": "Technology for games"
+            "classroom": "A1.08"
          }
-      ],
+      ]
+   },
+   "3": {
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
-   "3": {
-      "0": [],
-      "1": [
-         {
-            "classroom": "C0.110",
-            "string": "L0A38",
-            "subject": "Technology for games"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "classroom": "A1.06",
-            "string": "P0A14",
-            "subject": "Compilerbouw (practicum)"
-         }
-      ]
-   },
    "4": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "classroom": "B0.201",
-            "string": "W0A19",
-            "subject": "Technology for games"
+            "subject": "Technology for games",
+            "string": "L0A38",
+            "classroom": "B0.201"
          }
-      ]
+      ],
+      "3": []
    }
 }

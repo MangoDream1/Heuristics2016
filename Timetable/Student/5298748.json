@@ -1,65 +1,58 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "classroom": "A1.04",
-            "string": "L2A45",
-            "subject": "Bioinformatica"
+            "subject": "Bioinformatica",
+            "string": "L0A45",
+            "classroom": "C0.110"
          }
       ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [
          {
-            "classroom": "C1.112",
-            "string": "W0A17",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Bioinformatica",
+            "string": "W0A15",
+            "classroom": "A1.06"
          }
       ],
       "1": [
          {
-            "classroom": "A1.06",
-            "string": "W0A15",
-            "subject": "Bioinformatica"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A51",
+            "classroom": "A1.08"
          }
       ],
-      "2": [
-         {
-            "classroom": "A1.08",
-            "string": "L1A45",
-            "subject": "Bioinformatica"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "classroom": "A1.08",
-            "string": "L0A45",
-            "subject": "Bioinformatica"
+            "subject": "Bioinformatica",
+            "string": "L1A45",
+            "classroom": "A1.06"
          },
          {
-            "classroom": "C1.112",
+            "subject": "Bioinformatica",
+            "string": "L2A45",
+            "classroom": "C1.112"
+         },
+         {
+            "subject": "Reflectie op de digitale cultuur",
             "string": "L1A51",
-            "subject": "Reflectie op de digitale cultuur"
+            "classroom": "C0.110"
          }
-      ],
-      "3": []
+      ]
    },
    "3": {
-      "0": [
-         {
-            "classroom": "A1.04",
-            "string": "L0A51",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -67,13 +60,19 @@
    "4": {
       "0": [
          {
-            "classroom": "A1.06",
+            "subject": "Bioinformatica",
             "string": "P0A15",
-            "subject": "Bioinformatica"
+            "classroom": "A1.04"
          }
       ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0A17",
+            "classroom": "A1.08"
+         }
+      ]
    }
 }

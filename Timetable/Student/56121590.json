@@ -2,20 +2,20 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Databases 2",
+            "string": "W0B36",
+            "classroom": "A1.08"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "A1.04",
-            "string": "W0B36",
-            "subject": "Databases 2"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
@@ -27,21 +27,21 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "B0.201",
-            "string": "P0C16",
-            "subject": "Netwerken en systeembeveiliging"
-         }
-      ]
+      "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Databases 2",
+            "string": "L0A72",
+            "classroom": "B0.201"
+         }
+      ],
       "1": [
          {
-            "classroom": "A1.10",
-            "string": "L0A72",
-            "subject": "Databases 2"
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0C16",
+            "classroom": "A1.10"
          }
       ],
       "2": [],

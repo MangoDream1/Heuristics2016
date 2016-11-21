@@ -39,6 +39,6 @@ def random_timetables(im, nPlannedIterations):
 
     im.exportLectures("RT%si%s" % (best_iteration[1], nPlannedIterations))
 
-    return lecture_dct
+    return im.lecture_dct
 
-random_timetables(iteration_manager, 10)
+random_timetables(iteration_manager, 100)

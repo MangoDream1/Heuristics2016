@@ -2,37 +2,37 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "classroom": "B0.201",
-            "string": "L0A32",
-            "subject": "Heuristieken 2"
+            "subject": "Heuristieken 1",
+            "string": "W0A22",
+            "classroom": "C0.110"
          }
-      ]
+      ],
+      "3": []
    },
    "1": {
-      "0": [
-         {
-            "classroom": "A1.04",
-            "string": "W0A16",
-            "subject": "Heuristieken 2"
-         }
-      ],
-      "1": [
-         {
-            "classroom": "C0.110",
-            "string": "L0A44",
-            "subject": "Heuristieken 1"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Heuristieken 2",
+            "string": "L0A32",
+            "classroom": "C0.110"
+         }
+      ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Heuristieken 1",
+            "string": "L0A44",
+            "classroom": "A1.08"
+         }
+      ],
       "3": []
    },
    "3": {
@@ -42,14 +42,14 @@
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "classroom": "B0.201",
-            "string": "W0A22",
-            "subject": "Heuristieken 1"
+            "subject": "Heuristieken 2",
+            "string": "W0A16",
+            "classroom": "C0.110"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    }

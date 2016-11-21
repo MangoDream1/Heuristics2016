@@ -1,68 +1,68 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Heuristieken 1",
+            "string": "W0B22",
+            "classroom": "C1.112"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [],
+      "3": [
          {
-            "classroom": "C0.110",
-            "string": "L0A44",
-            "subject": "Heuristieken 1"
+            "subject": "Autonomous Agents 2",
+            "string": "L0A22",
+            "classroom": "C0.110"
+         }
+      ]
+   },
+   "2": {
+      "0": [
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "P0C6",
+            "classroom": "B0.201"
          }
       ],
+      "1": [],
       "2": [
          {
-            "classroom": "A1.10",
-            "string": "P0C6",
-            "subject": "Autonomous Agents 2"
+            "subject": "Heuristieken 1",
+            "string": "L0A44",
+            "classroom": "A1.08"
          }
       ],
       "3": []
    },
-   "2": {
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
       "0": [],
       "1": [
          {
-            "classroom": "A1.06",
-            "string": "L1A22",
-            "subject": "Autonomous Agents 2"
+            "subject": "Autonomous Agents 2",
+            "string": "W0C6",
+            "classroom": "B0.201"
          }
       ],
       "2": [],
       "3": [
          {
-            "classroom": "C0.110",
-            "string": "W0B22",
-            "subject": "Heuristieken 1"
+            "subject": "Autonomous Agents 2",
+            "string": "L1A22",
+            "classroom": "B0.201"
          }
       ]
-   },
-   "3": {
-      "0": [
-         {
-            "classroom": "B0.201",
-            "string": "L0A22",
-            "subject": "Autonomous Agents 2"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "classroom": "C0.110",
-            "string": "W0C6",
-            "subject": "Autonomous Agents 2"
-         }
-      ],
-      "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
    }
 }

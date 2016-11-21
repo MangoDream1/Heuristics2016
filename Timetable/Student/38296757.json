@@ -1,23 +1,23 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "C1.112",
-            "string": "L0A106",
-            "subject": "Calculus 2"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Calculus 2",
+            "string": "L0A106",
+            "classroom": "C1.112"
+         }
+      ]
    },
    "1": {
       "0": [],
       "1": [
          {
-            "classroom": "A1.04",
-            "string": "L0A22",
-            "subject": "Machine Learning"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A51",
+            "classroom": "A1.08"
          }
       ],
       "2": [],
@@ -25,50 +25,50 @@
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "classroom": "C1.112",
-            "string": "L1A51",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Machine Learning",
+            "string": "L1A22",
+            "classroom": "C1.112"
          }
       ],
+      "2": [],
       "3": [
          {
-            "classroom": "C1.112",
-            "string": "W0B36",
-            "subject": "Calculus 2"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51",
+            "classroom": "C0.110"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "classroom": "A1.04",
-            "string": "L0A51",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [
-         {
-            "classroom": "A1.08",
-            "string": "L1A22",
-            "subject": "Machine Learning"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0B17",
+            "classroom": "C0.110"
          }
       ],
       "1": [],
       "2": [
          {
-            "classroom": "A1.06",
-            "string": "W0B17",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Machine Learning",
+            "string": "L0A22",
+            "classroom": "A1.10"
          }
       ],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Calculus 2",
+            "string": "W0B36",
+            "classroom": "A1.04"
+         }
+      ],
+      "2": [],
       "3": []
    }
 }

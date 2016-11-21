@@ -1,84 +1,81 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "classroom": "C0.110",
-            "string": "P0A38",
-            "subject": "Software engineering"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "classroom": "A1.08",
-            "string": "L0A43",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Moderne Databases",
+            "string": "L0A54",
+            "classroom": "A1.10"
          }
       ],
       "3": [
          {
-            "classroom": "A1.08",
-            "string": "P0A22",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Software engineering",
+            "string": "W0A38",
+            "classroom": "B0.201"
          }
       ]
    },
    "1": {
       "0": [
          {
-            "classroom": "C0.110",
-            "string": "L0A54",
-            "subject": "Moderne Databases"
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A22",
+            "classroom": "A1.08"
          }
       ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "A1.10",
-            "string": "P0A18",
-            "subject": "Moderne Databases"
-         }
-      ]
+      "3": []
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "classroom": "A1.08",
-            "string": "W0A38",
-            "subject": "Software engineering"
+            "subject": "Moderne Databases",
+            "string": "P0A18",
+            "classroom": "A1.04"
+         },
+         {
+            "subject": "Software engineering",
+            "string": "L0A75",
+            "classroom": "A1.08"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "classroom": "C1.112",
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0A22",
+            "classroom": "A1.08"
+         },
+         {
+            "subject": "Moderne Databases",
             "string": "W0A18",
-            "subject": "Moderne Databases"
+            "classroom": "C1.112"
          }
       ],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "classroom": "C1.112",
-            "string": "L0A75",
-            "subject": "Software engineering"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "classroom": "A1.08",
-            "string": "W0A22",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Software engineering",
+            "string": "P0A38",
+            "classroom": "A1.08"
          }
       ],
       "3": []

@@ -1,80 +1,85 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "A1.06",
-            "string": "W0A36",
-            "subject": "Databases 2"
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0B14",
+            "classroom": "C0.110"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
+      "1": [
+         {
+            "subject": "Advanced Heuristics",
+            "string": "L0A20",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A51",
+            "classroom": "A1.08"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "A1.06",
-            "string": "P0B10",
-            "subject": "Advanced Heuristics"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51",
+            "classroom": "C0.110"
          }
       ]
-   },
-   "2": {
-      "0": [
-         {
-            "classroom": "A1.06",
-            "string": "L0A20",
-            "subject": "Advanced Heuristics"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "classroom": "C1.112",
-            "string": "L1A51",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
-      "3": []
    },
    "3": {
       "0": [
          {
-            "classroom": "A1.04",
-            "string": "L0A51",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0B17",
+            "classroom": "C0.110"
          }
       ],
       "1": [],
-      "2": [],
-      "3": [
-         {
-            "classroom": "B0.201",
-            "string": "P0C16",
-            "subject": "Netwerken en systeembeveiliging"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
-      "1": [
-         {
-            "classroom": "A1.10",
-            "string": "L0A72",
-            "subject": "Databases 2"
-         }
-      ],
       "2": [
          {
-            "classroom": "A1.06",
-            "string": "W0B17",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
          }
       ],
       "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Databases 2",
+            "string": "L0A72",
+            "classroom": "B0.201"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0C16",
+            "classroom": "A1.10"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Advanced Heuristics",
+            "string": "P0B10",
+            "classroom": "B0.201"
+         }
+      ]
    }
 }

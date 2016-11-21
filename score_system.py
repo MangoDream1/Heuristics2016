@@ -77,9 +77,62 @@ class ScoreSystem:
 		student_object.score = student_score
 
 	def subject_score(self, subject_object):
-		subject_score = 0
-
 		subject_object.fillInTimetable()
+
+		def pointsCalculator(nUniqueLectures):
+			malus = 0
+
+
+			if nUniqueLectures == 2:
+				options = [[0, 3], [1, 4]]
+			elif nUniqueLectures == 3:
+				options = [[0, 2, 4]]
+			elif nUniqueLectures == 4:
+				options = [[0, 1, 3, 4]]
+			elif nUniqueLectures == 5:
+				options = [[0, 1, 2, 3, 4]]
+			else:
+				options = [[]]
+
+
+			nSpreadTimetables = [0 for x in range(len(options))]
+
+			nStudents = len(subject_object.students) 
+
+			for student in subject_object.students:
+				
+				nFullDays = 0
+
+				for day, timeslot in student.timetable.items():
+					isFullDay = False
+
+					for lectures in timeslot.values():
+						for lecture in lectures:
+							if lecture.subject == subject_object:
+								isFullDay = True
+
+								for index, option in enumerate(options):
+									if day in option:
+										nSpreadTimetables[index] += 1
+
+				if isFullDay:
+					nFullDays += 1
+
+				if nUniqueLectures - 1 == nFullDays:
+					malus += 10 / nStudents
+				elif nUniqueLectures - 2 == nFullDays:
+					malus += 20 / nStudents
+				elif nUniqueLectures - 3 == nFullDays:
+					malus += 30 / nStudents
+
+			#print(malus)
+			return {"bonus": 20 / nStudents * max(nSpreadTimetables), "malus": malus}
+
+
+		if len(subject_object.getLectures()) > 0:
+			nLectures = max([lecture.group for lecture in subject_object.getLectures()])
+		else:
+			nLectures = 0
 
 		if len(subject_object.getWorkLectures()) > 0:
 			nWorkLectureGroups = max([lecture.group for lecture in subject_object.getWorkLectures()])
@@ -93,38 +146,8 @@ class ScoreSystem:
 
 		nUniqueLectures = len(subject_object.lectures) - nWorkLectureGroups - nPraticaGroups
 
-		empty_day = {y: [] for y in range(NUMBER_OF_SLOTS)}
+		points = pointsCalculator(nUniqueLectures)
 
-		if nUniqueLectures == 2:
-			if subject_object.timetable[0] != empty_day and subject_object.timetable[3] != empty_day:
-				subject_score += 20
-			elif subject_object.timetable[1] != empty_day and subject_object.timetable[4] != empty_day:
-				subject_score += 20
+		subject_object.score = int(points["bonus"] - points["malus"])
 
-		elif nUniqueLectures == 3:
-			if subject_object.timetable[0] != empty_day and subject_object.timetable[2] != empty_day and \
-			   subject_object.timetable[4] != empty_day:
-				subject_score += 20
-
-		elif nUniqueLectures == 4:
-			if subject_object.timetable[0] != empty_day and subject_object.timetable[1] != empty_day and \
-			   subject_object.timetable[3] != empty_day and subject_object.timetable[4] != empty_day:
-				subject_score += 20
-
-		nFullDays = 0
-
-		for day, timeslot in subject_object.timetable.items():
-			if timeslot != empty_day:
-				nFullDays += 1
-
-		# Voor ieder vak van x activiteiten geldt dat ze 10 maluspunten opleveren
-		# als ze op x-1 dagen geroosterd zijn, 20 voor x-2 en 30 voor x-3.
-
-		if nUniqueLectures - 1 == nFullDays:
-			subject_score -= 10
-		elif nUniqueLectures - 2 == nFullDays:
-			subject_score -= 20
-		elif nUniqueLectures - 3 == nFullDays:
-			subject_score -= 30
-
-		subject_object.score = subject_score
+		#print(subject_object.score, int(points["bonus"]), int(points["malus"]))

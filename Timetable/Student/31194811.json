@@ -3,71 +3,71 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.04",
-            "string": "P0B34",
-            "subject": "Compilerbouw"
+            "subject": "Compilerbouw",
+            "string": "L1A69",
+            "classroom": "A1.04"
          }
       ],
-      "2": [
-         {
-            "classroom": "A1.06",
-            "string": "W0B19",
-            "subject": "Technology for games"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Compilerbouw",
+            "string": "L0A69",
+            "classroom": "A1.10"
+         }
+      ],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "classroom": "A1.04",
-            "string": "L1A38",
-            "subject": "Technology for games"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "A1.06",
-            "string": "L1A69",
-            "subject": "Compilerbouw"
+            "subject": "Technology for games",
+            "string": "L1A38",
+            "classroom": "A1.08"
          }
       ]
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "classroom": "C0.110",
-            "string": "L0A38",
-            "subject": "Technology for games"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "classroom": "A1.10",
-            "string": "L0A69",
-            "subject": "Compilerbouw"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "A1.04",
+            "subject": "Compilerbouw",
+            "string": "P0B34",
+            "classroom": "B0.201"
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Compilerbouw",
             "string": "W0B34",
-            "subject": "Compilerbouw"
+            "classroom": "A1.06"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Technology for games",
+            "string": "L0A38",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Technology for games",
+            "string": "W0B19",
+            "classroom": "C1.112"
          }
       ]
    }

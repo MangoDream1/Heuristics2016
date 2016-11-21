@@ -1,15 +1,15 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "classroom": "C1.112",
-            "string": "P0B37",
-            "subject": "Software engineering"
+            "subject": "Software engineering",
+            "string": "W0B37",
+            "classroom": "C0.110"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "1": {
       "0": [],
@@ -19,37 +19,37 @@
    },
    "2": {
       "0": [],
+      "1": [
+         {
+            "subject": "Software engineering",
+            "string": "L0A75",
+            "classroom": "A1.08"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A49",
+            "classroom": "A1.04"
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [
+         {
+            "subject": "Software engineering",
+            "string": "P0B37",
+            "classroom": "C1.112"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "classroom": "A1.06",
-            "string": "W0B37",
-            "subject": "Software engineering"
-         }
-      ],
-      "3": [
-         {
-            "classroom": "A1.04",
-            "string": "L0A49",
-            "subject": "Analysemethoden en -technieken"
-         }
-      ]
-   },
    "4": {
       "0": [],
-      "1": [
-         {
-            "classroom": "C1.112",
-            "string": "L0A75",
-            "subject": "Software engineering"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    }

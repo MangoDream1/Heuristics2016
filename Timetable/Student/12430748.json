@@ -2,13 +2,7 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "classroom": "A1.06",
-            "string": "W0B19",
-            "subject": "Technology for games"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
@@ -20,37 +14,43 @@
    "2": {
       "0": [
          {
-            "classroom": "A1.04",
-            "string": "L1A38",
-            "subject": "Technology for games"
+            "subject": "Project Numerical Recipes",
+            "string": "P0C14",
+            "classroom": "C1.112"
          }
       ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Technology for games",
+            "string": "L1A38",
+            "classroom": "A1.08"
+         }
+      ]
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "classroom": "C0.110",
-            "string": "L0A38",
-            "subject": "Technology for games"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "classroom": "C1.112",
-            "string": "P0C14",
-            "subject": "Project Numerical Recipes"
+            "subject": "Technology for games",
+            "string": "L0A38",
+            "classroom": "B0.201"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Technology for games",
+            "string": "W0B19",
+            "classroom": "C1.112"
+         }
+      ]
    }
 }

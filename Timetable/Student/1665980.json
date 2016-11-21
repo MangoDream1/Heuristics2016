@@ -1,20 +1,14 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "A1.08",
-            "string": "W0C16",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Collectieve Intelligentie",
+            "string": "L1A61",
+            "classroom": "A1.04"
          }
       ],
-      "2": [
-         {
-            "classroom": "A1.08",
-            "string": "L0A43",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "1": {
@@ -22,65 +16,70 @@
       "1": [],
       "2": [
          {
-            "classroom": "A1.04",
-            "string": "L0A61",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Collectieve Intelligentie",
+            "string": "L2A61",
+            "classroom": "A1.08"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "W0C16",
+            "classroom": "A1.06"
+         }
+      ]
    },
    "2": {
       "0": [
          {
-            "classroom": "B0.201",
-            "string": "P0C16",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Collectieve Intelligentie",
+            "string": "L0A61",
+            "classroom": "C0.110"
          }
       ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "A1.10",
-            "string": "P0B21",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [
          {
-            "classroom": "A1.08",
-            "string": "L1A61",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0B21",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0B21",
+            "classroom": "C0.110"
          }
       ],
       "1": [
          {
-            "classroom": "C1.112",
-            "string": "W0B21",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Compilerbouw (practicum)",
+            "string": "P0B14",
+            "classroom": "A1.08"
          }
       ],
       "2": [
          {
-            "classroom": "A1.08",
-            "string": "L2A61",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Collectieve Intelligentie",
+            "string": "P0C16",
+            "classroom": "B0.201"
          }
       ],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "classroom": "A1.06",
-            "string": "P0B14",
-            "subject": "Compilerbouw (practicum)"
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43",
+            "classroom": "C0.110"
          }
       ],
-      "2": [],
       "3": []
    }
 }

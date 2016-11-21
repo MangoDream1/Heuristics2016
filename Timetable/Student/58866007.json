@@ -4,21 +4,15 @@
       "1": [],
       "2": [
          {
-            "classroom": "B0.201",
-            "string": "L1A21",
-            "subject": "Architectuur en computerorganisatie"
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L0A21",
+            "classroom": "C0.110"
          }
       ],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "classroom": "A1.06",
-            "string": "L1A54",
-            "subject": "Lineaire Algebra"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -33,9 +27,9 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.06",
-            "string": "L0A21",
-            "subject": "Architectuur en computerorganisatie"
+            "subject": "Lineaire Algebra",
+            "string": "L1A54",
+            "classroom": "C0.110"
          }
       ],
       "2": [],
@@ -44,9 +38,14 @@
    "4": {
       "0": [
          {
-            "classroom": "A1.04",
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L1A21",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Lineaire Algebra",
             "string": "L0A54",
-            "subject": "Lineaire Algebra"
+            "classroom": "A1.10"
          }
       ],
       "1": [],

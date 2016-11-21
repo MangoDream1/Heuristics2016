@@ -1,13 +1,7 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.10",
-            "string": "W0C17",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -15,49 +9,54 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.08",
-            "string": "P0C12",
-            "subject": "Project Genetic Algorithms"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A51",
+            "classroom": "A1.08"
          }
       ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0C17",
+            "classroom": "A1.10"
+         }
+      ]
    },
    "2": {
       "0": [],
       "1": [
          {
-            "classroom": "A1.08",
+            "subject": "Netwerken en systeembeveiliging",
             "string": "P0D16",
-            "subject": "Netwerken en systeembeveiliging"
+            "classroom": "C1.112"
+         },
+         {
+            "subject": "Project Genetic Algorithms",
+            "string": "P0C12",
+            "classroom": "C0.110"
          }
       ],
       "2": [
          {
-            "classroom": "C1.112",
-            "string": "L1A51",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A49",
+            "classroom": "A1.04"
          }
       ],
-      "3": []
-   },
-   "3": {
-      "0": [
-         {
-            "classroom": "A1.04",
-            "string": "L0A51",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
-      "1": [],
-      "2": [],
       "3": [
          {
-            "classroom": "A1.04",
-            "string": "L0A49",
-            "subject": "Analysemethoden en -technieken"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51",
+            "classroom": "C0.110"
          }
       ]
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "4": {
       "0": [],

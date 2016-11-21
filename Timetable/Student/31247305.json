@@ -1,68 +1,67 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "classroom": "C1.112",
-            "string": "P0B37",
-            "subject": "Software engineering"
+            "subject": "Software engineering",
+            "string": "W0B37",
+            "classroom": "C0.110"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "1": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "C0.110",
-            "string": "L1A84",
-            "subject": "Kansrekenen 2"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Software engineering",
+            "string": "L0A75",
+            "classroom": "A1.08"
+         }
+      ],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "classroom": "A1.06",
-            "string": "W0B37",
-            "subject": "Software engineering"
+            "subject": "Software engineering",
+            "string": "P0B37",
+            "classroom": "C1.112"
          }
       ],
-      "3": [
-         {
-            "classroom": "B0.201",
-            "string": "P0C16",
-            "subject": "Netwerken en systeembeveiliging"
-         }
-      ]
+      "1": [],
+      "2": [],
+      "3": []
    },
    "4": {
       "0": [],
       "1": [
          {
-            "classroom": "C1.112",
-            "string": "L0A75",
-            "subject": "Software engineering"
+            "subject": "Kansrekenen 2",
+            "string": "L0A84",
+            "classroom": "A1.08"
+         },
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0C16",
+            "classroom": "A1.10"
          }
       ],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "classroom": "A1.10",
-            "string": "L0A84",
-            "subject": "Kansrekenen 2"
+            "subject": "Kansrekenen 2",
+            "string": "L1A84",
+            "classroom": "C1.112"
          }
-      ]
+      ],
+      "3": []
    }
 }

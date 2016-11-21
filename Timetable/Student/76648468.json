@@ -1,12 +1,6 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "A1.08",
-            "string": "W0B19",
-            "subject": "Webprogrammeren en databases"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -18,19 +12,31 @@
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "C0.110",
-            "string": "L1A39",
-            "subject": "Webprogrammeren en databases"
+            "subject": "Webprogrammeren en databases",
+            "string": "L0A39",
+            "classroom": "B0.201"
          }
       ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "P0B19",
+            "classroom": "C1.112"
+         }
+      ]
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "L1A39",
+            "classroom": "A1.06"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -38,9 +44,9 @@
    "4": {
       "0": [
          {
-            "classroom": "A1.10",
-            "string": "L0A39",
-            "subject": "Webprogrammeren en databases"
+            "subject": "Webprogrammeren en databases",
+            "string": "W0B19",
+            "classroom": "A1.04"
          }
       ],
       "1": [],

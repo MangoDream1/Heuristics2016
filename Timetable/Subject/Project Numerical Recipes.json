@@ -12,36 +12,36 @@
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "subject": "Project Numerical Recipes",
+            "string": "P0C14",
+            "classroom": "C1.112"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Project Numerical Recipes",
+            "string": "P0B15",
+            "classroom": "C1.112"
+         }
+      ],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.04",
-            "string": "P0B15",
-            "subject": "Project Numerical Recipes"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "classroom": "C1.112",
-            "string": "P0C14",
-            "subject": "Project Numerical Recipes"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "classroom": "C0.110",
+            "subject": "Project Numerical Recipes",
             "string": "P0A15",
-            "subject": "Project Numerical Recipes"
+            "classroom": "A1.04"
          }
       ],
       "2": [],

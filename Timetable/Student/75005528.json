@@ -1,31 +1,25 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.06",
-            "string": "W0A36",
-            "subject": "Databases 2"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "classroom": "A1.06",
-            "string": "L1A54",
-            "subject": "Lineaire Algebra"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Project Numerical Recipes",
+            "string": "P0B15",
+            "classroom": "C1.112"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -33,29 +27,34 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.04",
-            "string": "P0B15",
-            "subject": "Project Numerical Recipes"
+            "subject": "Lineaire Algebra",
+            "string": "L1A54",
+            "classroom": "C0.110"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [
          {
-            "classroom": "A1.04",
-            "string": "L0A54",
-            "subject": "Lineaire Algebra"
-         }
-      ],
-      "1": [
-         {
-            "classroom": "A1.10",
+            "subject": "Databases 2",
             "string": "L0A72",
-            "subject": "Databases 2"
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Lineaire Algebra",
+            "string": "L0A54",
+            "classroom": "A1.10"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    }

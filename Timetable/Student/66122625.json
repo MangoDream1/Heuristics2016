@@ -2,67 +2,67 @@
    "0": {
       "0": [
          {
-            "classroom": "A1.10",
-            "string": "L1A27",
-            "subject": "Data Mining"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "classroom": "A1.10",
+            "subject": "Data Mining",
             "string": "W0B9",
-            "subject": "Data Mining"
+            "classroom": "A1.10"
          }
       ],
       "1": [
          {
-            "classroom": "C0.110",
-            "string": "L0A44",
-            "subject": "Heuristieken 1"
+            "subject": "Data Mining",
+            "string": "P0B9",
+            "classroom": "C0.110"
          }
       ],
+      "2": [
+         {
+            "subject": "Heuristieken 1",
+            "string": "W0A22",
+            "classroom": "C0.110"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Data Mining",
+            "string": "L1A27",
+            "classroom": "A1.10"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Heuristieken 1",
+            "string": "L0A44",
+            "classroom": "A1.08"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
-         {
-            "classroom": "A1.08",
-            "string": "P0B9",
-            "subject": "Data Mining"
-         }
-      ]
-   },
-   "4": {
-      "0": [
-         {
-            "classroom": "B0.201",
-            "string": "W0A22",
-            "subject": "Heuristieken 1"
-         }
-      ],
-      "1": [],
       "2": [
          {
-            "classroom": "A1.10",
+            "subject": "Data Mining",
             "string": "L0A27",
-            "subject": "Data Mining"
+            "classroom": "A1.08"
          }
       ],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
       "3": []
    }
 }

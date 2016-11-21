@@ -1,107 +1,105 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "A1.06",
-            "string": "W0A36",
-            "subject": "Databases 2"
+            "subject": "Collectieve Intelligentie",
+            "string": "L1A61",
+            "classroom": "A1.04"
          }
       ],
+      "1": [],
       "2": [
          {
-            "classroom": "A1.08",
-            "string": "L0A43",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L0A21",
+            "classroom": "C0.110"
          },
          {
-            "classroom": "B0.201",
-            "string": "L1A21",
-            "subject": "Architectuur en computerorganisatie"
+            "subject": "Collectieve Intelligentie",
+            "string": "P0A16",
+            "classroom": "A1.06"
+         }
+      ],
+      "3": []
+   },
+   "1": {
+      "0": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A22",
+            "classroom": "A1.08"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "L2A61",
+            "classroom": "A1.08"
          }
       ],
       "3": [
          {
-            "classroom": "A1.08",
-            "string": "P0A22",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0A16",
+            "classroom": "C0.110"
          }
       ]
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "classroom": "A1.04",
-            "string": "L0A61",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "3": []
    },
    "2": {
       "0": [
          {
-            "classroom": "A1.10",
-            "string": "P0A16",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Collectieve Intelligentie",
+            "string": "L0A61",
+            "classroom": "C0.110"
          }
       ],
-      "1": [
-         {
-            "classroom": "A1.10",
-            "string": "P0A16",
-            "subject": "Netwerken en systeembeveiliging"
-         }
-      ],
-      "2": [
-         {
-            "classroom": "C0.110",
-            "string": "W0A16",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "classroom": "A1.08",
-            "string": "L1A61",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "classroom": "A1.06",
-            "string": "L0A21",
-            "subject": "Architectuur en computerorganisatie"
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0A22",
+            "classroom": "A1.08"
          }
       ],
       "2": [
          {
-            "classroom": "A1.08",
-            "string": "L2A61",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
          }
       ],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "A1.10",
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L1A21",
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Databases 2",
             "string": "L0A72",
-            "subject": "Databases 2"
+            "classroom": "B0.201"
          }
       ],
+      "1": [],
       "2": [
          {
-            "classroom": "A1.08",
-            "string": "W0A22",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "W0A16",
+            "classroom": "A1.04"
          }
       ],
       "3": []

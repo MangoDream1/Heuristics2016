@@ -1,68 +1,67 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
          {
-            "classroom": "C1.112",
+            "subject": "Calculus 2",
             "string": "L0A106",
-            "subject": "Calculus 2"
+            "classroom": "C1.112"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Advanced Heuristics",
+            "string": "L0A20",
+            "classroom": "C0.110"
          }
       ],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "classroom": "A1.06",
-            "string": "P0B10",
-            "subject": "Advanced Heuristics"
-         }
-      ]
-   },
-   "2": {
-      "0": [
-         {
-            "classroom": "A1.06",
-            "string": "L0A20",
-            "subject": "Advanced Heuristics"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "classroom": "C1.112",
-            "string": "W0B36",
-            "subject": "Calculus 2"
-         }
-      ]
-   },
    "3": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "classroom": "B0.201",
-            "string": "P0C16",
-            "subject": "Netwerken en systeembeveiliging"
+            "subject": "Compilerbouw (practicum)",
+            "string": "P0B14",
+            "classroom": "A1.08"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "4": {
       "0": [],
       "1": [
          {
-            "classroom": "A1.06",
-            "string": "P0B14",
-            "subject": "Compilerbouw (practicum)"
+            "subject": "Calculus 2",
+            "string": "W0B36",
+            "classroom": "A1.04"
+         },
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0C16",
+            "classroom": "A1.10"
          }
       ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Advanced Heuristics",
+            "string": "P0B10",
+            "classroom": "B0.201"
+         }
+      ]
    }
 }

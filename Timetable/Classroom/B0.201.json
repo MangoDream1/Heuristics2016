@@ -2,126 +2,152 @@
    "0": {
       "0": [
          {
-            "classroom": "B0.201",
-            "string": "P0C12",
-            "subject": "Compilerbouw (practicum)"
+            "subject": "Collectieve Intelligentie",
+            "string": "W0B16",
+            "classroom": "B0.201"
          }
       ],
       "1": [
          {
-            "classroom": "B0.201",
-            "string": "L0A21",
-            "subject": "Informatie- en organisatieontwerp"
+            "subject": "Moderne Databases",
+            "string": "P0C18",
+            "classroom": "B0.201"
          }
       ],
       "2": [
          {
-            "classroom": "B0.201",
-            "string": "L1A21",
-            "subject": "Architectuur en computerorganisatie"
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "W0B10",
+            "classroom": "B0.201"
          }
       ],
       "3": [
          {
-            "classroom": "B0.201",
-            "string": "L0A32",
-            "subject": "Heuristieken 2"
+            "subject": "Software engineering",
+            "string": "W0A38",
+            "classroom": "B0.201"
          }
       ]
    },
    "1": {
       "0": [
          {
-            "classroom": "B0.201",
-            "string": "W0B16",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Technology for games",
+            "string": "W0A19",
+            "classroom": "B0.201"
          }
       ],
-      "1": [
-         {
-            "classroom": "B0.201",
-            "string": "P0B18",
-            "subject": "Moderne Databases"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "B0.201",
-            "string": "P0B12",
-            "subject": "Project Genetic Algorithms"
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "P0B10",
+            "classroom": "B0.201"
          }
       ]
    },
    "2": {
       "0": [
          {
-            "classroom": "B0.201",
-            "string": "P0C16",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Autonomous Agents 2",
+            "string": "P0C6",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "L0A39",
+            "classroom": "B0.201"
          }
       ],
       "1": [
          {
-            "classroom": "B0.201",
-            "string": "P0B16",
-            "subject": "Netwerken en systeembeveiliging"
+            "subject": "Programmeren in Java 2",
+            "string": "P0D19",
+            "classroom": "B0.201"
          }
       ],
       "2": [],
       "3": [
          {
-            "classroom": "B0.201",
-            "string": "P0A9",
-            "subject": "Data Mining"
+            "subject": "Compilerbouw (practicum)",
+            "string": "P0A14",
+            "classroom": "B0.201"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "classroom": "B0.201",
-            "string": "L0A22",
-            "subject": "Autonomous Agents 2"
+            "subject": "Bioinformatica",
+            "string": "W0C15",
+            "classroom": "B0.201"
          }
       ],
       "1": [
          {
-            "classroom": "B0.201",
-            "string": "P0A19",
-            "subject": "Programmeren in Java 2"
+            "subject": "Bioinformatica",
+            "string": "W0B15",
+            "classroom": "B0.201"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "P0C16",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
+         }
+      ],
       "3": [
          {
-            "classroom": "B0.201",
-            "string": "P0C16",
-            "subject": "Netwerken en systeembeveiliging"
+            "subject": "Compilerbouw",
+            "string": "P0B34",
+            "classroom": "B0.201"
          }
       ]
    },
    "4": {
       "0": [
          {
-            "classroom": "B0.201",
-            "string": "W0A22",
-            "subject": "Heuristieken 1"
+            "subject": "Databases 2",
+            "string": "L0A72",
+            "classroom": "B0.201"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "W0C6",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [
          {
-            "classroom": "B0.201",
-            "string": "P0A10",
-            "subject": "Advanced Heuristics"
+            "subject": "Technology for games",
+            "string": "L0A38",
+            "classroom": "B0.201"
          }
       ],
       "3": [
          {
-            "classroom": "B0.201",
-            "string": "W0A19",
-            "subject": "Technology for games"
+            "subject": "Advanced Heuristics",
+            "string": "P0A10",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Advanced Heuristics",
+            "string": "P0B10",
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "L1A22",
+            "classroom": "B0.201"
          }
       ]
    }

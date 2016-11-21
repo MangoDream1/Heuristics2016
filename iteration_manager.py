@@ -13,14 +13,15 @@ class IterationManager:
         self.students = students
         self.student_dct = {x.getId(): x for x in students}
 
-        self.score_system = ScoreSystem(self.subjects, self.students, self.classrooms)
-
+    
         for student in self.students:
             student.assignSubjectToStudent(self.subject_dct)
 
         # Assign students to lectures
         for subject in self.subjects:
             subject.assignStudentsToLectures()
+
+        self.score_system = ScoreSystem(self.subjects, self.students, self.classrooms)
 
         # Two way dictionary for finding lectures
         self.lectures = [lecture for subject in subjects for lecture in subject.lectures]

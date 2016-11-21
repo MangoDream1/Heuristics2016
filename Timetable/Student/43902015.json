@@ -1,18 +1,12 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "A1.08",
-            "string": "W0B19",
-            "subject": "Webprogrammeren en databases"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
-            "classroom": "A1.08",
-            "string": "L0A43",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Databases 2",
+            "string": "W0B36",
+            "classroom": "A1.08"
          }
       ],
       "3": []
@@ -21,60 +15,69 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "A1.04",
-            "string": "W0B36",
-            "subject": "Databases 2"
-         }
-      ]
+      "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "C0.110",
-            "string": "L1A39",
-            "subject": "Webprogrammeren en databases"
+            "subject": "Webprogrammeren en databases",
+            "string": "L0A39",
+            "classroom": "B0.201"
          }
       ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "A1.10",
-            "string": "P0B21",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Webprogrammeren en databases",
+            "string": "P0B19",
+            "classroom": "C1.112"
          }
       ]
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "C1.112",
+            "subject": "Algoritmen en complexiteit",
             "string": "W0B21",
-            "subject": "Algoritmen en complexiteit"
+            "classroom": "A1.10"
+         },
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0B21",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "L1A39",
+            "classroom": "A1.06"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [
          {
-            "classroom": "A1.10",
-            "string": "L0A39",
-            "subject": "Webprogrammeren en databases"
-         }
-      ],
-      "1": [
-         {
-            "classroom": "A1.10",
+            "subject": "Databases 2",
             "string": "L0A72",
-            "subject": "Databases 2"
+            "classroom": "B0.201"
+         },
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "W0B19",
+            "classroom": "A1.04"
          }
       ],
-      "2": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43",
+            "classroom": "C0.110"
+         }
+      ],
       "3": []
    }
 }
