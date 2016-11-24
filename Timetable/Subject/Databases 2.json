@@ -2,20 +2,26 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Databases 2",
-            "string": "W0B36",
-            "classroom": "A1.08"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0A36",
+            "classroom": "A1.08",
+            "subject": "Databases 2"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "W0B36",
+            "classroom": "A1.04",
+            "subject": "Databases 2"
+         }
+      ]
    },
    "2": {
       "0": [],
@@ -26,24 +32,18 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Databases 2",
-            "string": "W0A36",
-            "classroom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Databases 2",
             "string": "L0A72",
-            "classroom": "B0.201"
+            "classroom": "A1.10",
+            "subject": "Databases 2"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    }

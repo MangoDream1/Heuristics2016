@@ -8,18 +8,18 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "P0D16",
+            "classroom": "A1.06",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0D16",
-            "classroom": "C1.112"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },

@@ -9,10 +9,22 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L1A84",
+            "classroom": "C0.110",
+            "subject": "Kansrekenen 2"
+         }
+      ]
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0E19",
+            "classroom": "C1.112",
+            "subject": "Programmeren in Java 2"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -24,27 +36,15 @@
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
          {
-            "subject": "Programmeren in Java 2",
-            "string": "P0E19",
-            "classroom": "A1.08"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Kansrekenen 2",
             "string": "L0A84",
-            "classroom": "A1.08"
+            "classroom": "A1.10",
+            "subject": "Kansrekenen 2"
          }
-      ],
-      "2": [
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L1A84",
-            "classroom": "C1.112"
-         }
-      ],
-      "3": []
+      ]
    }
 }

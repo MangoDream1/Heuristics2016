@@ -1,45 +1,44 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "subject": "Software engineering",
-            "string": "W0A38",
-            "classroom": "B0.201"
-         }
-      ]
-   },
-   "1": {
-      "0": [
-         {
-            "subject": "Technology for games",
-            "string": "W0A19",
-            "classroom": "B0.201"
+            "string": "P0A38",
+            "classroom": "C0.110",
+            "subject": "Software engineering"
          }
       ],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0A38",
+            "classroom": "A1.08",
+            "subject": "Software engineering"
+         },
+         {
+            "string": "L1A38",
+            "classroom": "A1.04",
+            "subject": "Technology for games"
+         }
+      ],
       "1": [
          {
-            "subject": "Software engineering",
-            "string": "L0A75",
-            "classroom": "A1.08"
+            "string": "L0A38",
+            "classroom": "A1.04",
+            "subject": "Technology for games"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "subject": "Technology for games",
-            "string": "L1A38",
-            "classroom": "A1.08"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [],
@@ -49,19 +48,19 @@
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Software engineering",
-            "string": "P0A38",
-            "classroom": "A1.08"
+            "string": "L0A75",
+            "classroom": "C1.112",
+            "subject": "Software engineering"
          },
          {
-            "subject": "Technology for games",
-            "string": "L0A38",
-            "classroom": "B0.201"
+            "string": "W0A19",
+            "classroom": "B0.201",
+            "subject": "Technology for games"
          }
       ],
+      "2": [],
       "3": []
    }
 }

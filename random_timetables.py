@@ -41,4 +41,4 @@ def random_timetables(im, nPlannedIterations):
 
     return im.lecture_dct
 
-random_timetables(iteration_manager, 100)
+t = random_timetables(iteration_manager, 1)

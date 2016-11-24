@@ -14,15 +14,13 @@ class ScoreSystem:
 	def total_score(self):
 
 		# Map creates iterable, thats why list is used sinds it loops over the iter thus using the function
-		list(map(self.subject_score, self.subject_lst))
 		list(map(self.student_score, self.student_lst))
+		list(map(self.subject_score, self.subject_lst))
 		list(map(self.classroom_score, self.classroom_lst))
 
-		total_subject_score = sum([subject.score for subject in self.subject_lst])
 		total_student_score = sum([student.score for student in self.student_lst])
+		total_subject_score = sum([subject.score for subject in self.subject_lst])
 		total_classroom_score = sum([classroom.score for classroom in self.classroom_lst])
-
-		#print(total_subject_score, total_student_score, total_classroom_score, self.total_valid_score())
 
 		return total_subject_score + total_student_score + total_classroom_score + self.total_valid_score()
 
@@ -149,5 +147,4 @@ class ScoreSystem:
 		nUniqueLectures = len(subject_object.lectures) - nWorkLectureGroups - nPraticaGroups
 
 		points = pointsCalculator(nUniqueLectures)
-
 		subject_object.score = round(points["bonus"] - points["malus"])

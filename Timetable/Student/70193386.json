@@ -7,37 +7,25 @@
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51",
-            "classroom": "A1.08"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "W0C17",
-            "classroom": "A1.10"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
       "1": [],
       "2": [
          {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A49",
-            "classroom": "A1.04"
+            "string": "L1A51",
+            "classroom": "C1.112",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
       "3": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51",
-            "classroom": "C0.110"
+            "string": "L0A51",
+            "classroom": "C1.112",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ]
    },
@@ -48,9 +36,21 @@
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A49",
+            "classroom": "A1.04",
+            "subject": "Analysemethoden en -technieken"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "W0C17",
+            "classroom": "A1.08",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ]
    }
 }

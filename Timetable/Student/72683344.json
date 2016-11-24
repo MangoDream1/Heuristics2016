@@ -4,24 +4,24 @@
       "1": [],
       "2": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L0A21",
-            "classroom": "C0.110"
+            "string": "L1A21",
+            "classroom": "B0.201",
+            "subject": "Architectuur en computerorganisatie"
          }
       ],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "subject": "Advanced Heuristics",
-            "string": "L0A20",
-            "classroom": "C0.110"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "L0A20",
+            "classroom": "A1.06",
+            "subject": "Advanced Heuristics"
+         }
+      ]
    },
    "2": {
       "0": [],
@@ -32,24 +32,24 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "L0A21",
+            "classroom": "C1.112",
+            "subject": "Architectuur en computerorganisatie"
+         }
+      ],
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L1A21",
-            "classroom": "A1.10"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Advanced Heuristics",
             "string": "P0B10",
-            "classroom": "B0.201"
+            "classroom": "A1.04",
+            "subject": "Advanced Heuristics"
          }
       ]
    }

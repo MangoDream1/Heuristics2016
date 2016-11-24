@@ -7,36 +7,37 @@
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "subject": "Advanced Heuristics",
-            "string": "L0A20",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51",
-            "classroom": "A1.08"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0A16",
-            "classroom": "C0.110"
+            "string": "L0A20",
+            "classroom": "A1.06",
+            "subject": "Advanced Heuristics"
          }
       ]
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "string": "P0A16",
+            "classroom": "A1.10",
+            "subject": "Netwerken en systeembeveiliging"
+         }
+      ],
+      "2": [
+         {
+            "string": "L1A51",
+            "classroom": "C1.112",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
       "3": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51",
-            "classroom": "C0.110"
+            "string": "L0A51",
+            "classroom": "C1.112",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ]
    },
@@ -47,19 +48,20 @@
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0A17",
+            "classroom": "B0.201",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
       "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Advanced Heuristics",
             "string": "P0A10",
-            "classroom": "B0.201"
-         },
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "W0A17",
-            "classroom": "A1.08"
+            "classroom": "B0.201",
+            "subject": "Advanced Heuristics"
          }
       ]
    }

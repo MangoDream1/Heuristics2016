@@ -1,31 +1,37 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "0": [
          {
-            "subject": "Calculus 2",
             "string": "L0A106",
-            "classroom": "C1.112"
+            "classroom": "C1.112",
+            "subject": "Calculus 2"
          }
-      ]
-   },
-   "1": {
-      "0": [],
+      ],
       "1": [],
       "2": [],
       "3": []
    },
-   "2": {
-      "0": [],
-      "1": [
+   "1": {
+      "0": [
          {
-            "subject": "Project Numerical Recipes",
-            "string": "P0B15",
-            "classroom": "C1.112"
+            "string": "L1A54",
+            "classroom": "A1.06",
+            "subject": "Lineaire Algebra"
          }
       ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "L1A84",
+            "classroom": "C0.110",
+            "subject": "Kansrekenen 2"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -33,9 +39,9 @@
       "0": [],
       "1": [
          {
-            "subject": "Lineaire Algebra",
-            "string": "L1A54",
-            "classroom": "C0.110"
+            "string": "W0B36",
+            "classroom": "A1.04",
+            "subject": "Calculus 2"
          }
       ],
       "2": [],
@@ -44,30 +50,25 @@
    "4": {
       "0": [
          {
-            "subject": "Lineaire Algebra",
-            "string": "L0A54",
-            "classroom": "A1.10"
+            "string": "P0B15",
+            "classroom": "A1.06",
+            "subject": "Project Numerical Recipes"
          }
       ],
-      "1": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0B36",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L0A84",
-            "classroom": "A1.08"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "subject": "Kansrekenen 2",
-            "string": "L1A84",
-            "classroom": "C1.112"
+            "string": "L0A54",
+            "classroom": "C0.110",
+            "subject": "Lineaire Algebra"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "string": "L0A84",
+            "classroom": "A1.10",
+            "subject": "Kansrekenen 2"
+         }
+      ]
    }
 }

@@ -2,13 +2,19 @@
    "0": {
       "0": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L1A61",
-            "classroom": "A1.04"
+            "string": "P0D13",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "P0F15",
+            "classroom": "C0.110",
+            "subject": "Programmeren in Java 2"
+         }
+      ],
       "3": []
    },
    "1": {
@@ -16,9 +22,9 @@
       "1": [],
       "2": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A61",
-            "classroom": "A1.08"
+            "string": "L0A61",
+            "classroom": "A1.04",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "3": []
@@ -26,59 +32,55 @@
    "2": {
       "0": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61",
-            "classroom": "C0.110"
+            "string": "L1A38",
+            "classroom": "A1.04",
+            "subject": "Technology for games"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "subject": "Technology for games",
-            "string": "L1A38",
-            "classroom": "A1.08"
+            "string": "L0A38",
+            "classroom": "A1.04",
+            "subject": "Technology for games"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "3": {
       "0": [
          {
-            "subject": "Collectieve Intelligentie",
+            "string": "L1A61",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "1": [
+         {
             "string": "W0D13",
-            "classroom": "A1.10"
-         },
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "2": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0D13",
-            "classroom": "C1.112"
-         },
+            "string": "L2A61",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [
          {
-            "subject": "Programmeren in Java 2",
-            "string": "P0F15",
-            "classroom": "C0.110"
+            "string": "W0B19",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
          }
       ],
       "1": [],
       "2": [],
       "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "subject": "Technology for games",
-            "string": "L0A38",
-            "classroom": "B0.201"
-         }
-      ],
-      "3": [
-         {
-            "subject": "Technology for games",
-            "string": "W0B19",
-            "classroom": "C1.112"
-         }
-      ]
    }
 }

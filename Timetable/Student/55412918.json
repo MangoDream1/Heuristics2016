@@ -1,18 +1,24 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A106",
+            "classroom": "C1.112",
+            "subject": "Calculus 2"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    },
    "1": {
-      "0": [],
+      "0": [
+         {
+            "string": "L1A54",
+            "classroom": "A1.06",
+            "subject": "Lineaire Algebra"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -27,30 +33,24 @@
       "0": [],
       "1": [
          {
-            "subject": "Lineaire Algebra",
-            "string": "L1A54",
-            "classroom": "C0.110"
+            "string": "W0B36",
+            "classroom": "A1.04",
+            "subject": "Calculus 2"
          }
       ],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "subject": "Lineaire Algebra",
             "string": "L0A54",
-            "classroom": "A1.10"
+            "classroom": "C0.110",
+            "subject": "Lineaire Algebra"
          }
       ],
-      "1": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0B36",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [],
       "3": []
    }
 }

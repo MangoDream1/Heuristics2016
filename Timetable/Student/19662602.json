@@ -13,13 +13,7 @@
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "subject": "Project Numerical Recipes",
-            "string": "P0B15",
-            "classroom": "C1.112"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -30,7 +24,13 @@
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "P0B15",
+            "classroom": "A1.06",
+            "subject": "Project Numerical Recipes"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

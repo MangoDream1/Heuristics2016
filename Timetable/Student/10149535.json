@@ -1,83 +1,84 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A106",
+            "classroom": "C1.112",
+            "subject": "Calculus 2"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L0A21",
-            "classroom": "C0.110"
+            "string": "L1A21",
+            "classroom": "B0.201",
+            "subject": "Architectuur en computerorganisatie"
          }
       ],
-      "3": [
-         {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [
          {
-            "subject": "Technology for games",
-            "string": "W0A19",
-            "classroom": "B0.201"
+            "string": "L1A54",
+            "classroom": "A1.06",
+            "subject": "Lineaire Algebra"
          }
       ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "A1.04"
-         }
-      ]
+      "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "L1A38",
+            "classroom": "A1.04",
+            "subject": "Technology for games"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A38",
+            "classroom": "A1.04",
+            "subject": "Technology for games"
+         }
+      ],
       "2": [],
       "3": [
          {
-            "subject": "Technology for games",
-            "string": "L1A38",
-            "classroom": "A1.08"
+            "string": "W0A36",
+            "classroom": "A1.08",
+            "subject": "Calculus 2"
          }
       ]
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Lineaire Algebra",
-            "string": "L1A54",
-            "classroom": "C0.110"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [
-         {
-            "subject": "Architectuur en computerorganisatie",
-            "string": "L1A21",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Lineaire Algebra",
-            "string": "L0A54",
-            "classroom": "A1.10"
-         }
-      ],
       "1": [],
       "2": [
          {
-            "subject": "Technology for games",
-            "string": "L0A38",
-            "classroom": "B0.201"
+            "string": "L0A21",
+            "classroom": "C1.112",
+            "subject": "Architectuur en computerorganisatie"
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "string": "W0A19",
+            "classroom": "B0.201",
+            "subject": "Technology for games"
+         }
+      ],
+      "2": [
+         {
+            "string": "L0A54",
+            "classroom": "C0.110",
+            "subject": "Lineaire Algebra"
          }
       ],
       "3": []

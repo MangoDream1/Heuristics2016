@@ -9,7 +9,13 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "string": "P0B12",
+            "classroom": "B0.201",
+            "subject": "Project Genetic Algorithms"
+         }
+      ]
    },
    "2": {
       "0": [],
@@ -19,26 +25,20 @@
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0B14",
-            "classroom": "A1.08"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "subject": "Project Genetic Algorithms",
-            "string": "P0B12",
-            "classroom": "C0.110"
+            "string": "P0B14",
+            "classroom": "A1.06",
+            "subject": "Compilerbouw (practicum)"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    }
 }

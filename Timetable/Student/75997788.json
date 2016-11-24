@@ -1,89 +1,88 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "subject": "Heuristieken 1",
-            "string": "W0A22",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Moderne Databases",
-            "string": "L0A54",
-            "classroom": "A1.10"
+            "string": "L0A106",
+            "classroom": "C1.112",
+            "subject": "Calculus 2"
          }
       ],
-      "3": [
-         {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "C1.112"
-         }
-      ]
+      "1": [],
+      "2": [],
+      "3": []
    },
    "1": {
       "0": [],
       "1": [
          {
-            "subject": "Advanced Heuristics",
-            "string": "L0A20",
-            "classroom": "C0.110"
+            "string": "L0A44",
+            "classroom": "C0.110",
+            "subject": "Heuristieken 1"
          }
       ],
       "2": [],
       "3": [
          {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "A1.04"
+            "string": "L0A20",
+            "classroom": "A1.06",
+            "subject": "Advanced Heuristics"
          }
       ]
    },
    "2": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [],
+      "3": [
          {
-            "subject": "Moderne Databases",
-            "string": "P0A18",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A49",
-            "classroom": "A1.04"
+            "string": "W0A36",
+            "classroom": "A1.08",
+            "subject": "Calculus 2"
          },
          {
-            "subject": "Heuristieken 1",
-            "string": "L0A44",
-            "classroom": "A1.08"
+            "string": "P0A18",
+            "classroom": "B0.201",
+            "subject": "Moderne Databases"
          }
-      ],
-      "3": []
+      ]
    },
    "3": {
       "0": [],
       "1": [
          {
-            "subject": "Moderne Databases",
             "string": "W0A18",
-            "classroom": "C1.112"
+            "classroom": "A1.06",
+            "subject": "Moderne Databases"
          }
       ],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "string": "L0A49",
+            "classroom": "A1.04",
+            "subject": "Analysemethoden en -technieken"
+         }
+      ],
       "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Advanced Heuristics",
             "string": "P0A10",
-            "classroom": "B0.201"
+            "classroom": "B0.201",
+            "subject": "Advanced Heuristics"
+         },
+         {
+            "string": "W0A22",
+            "classroom": "C0.110",
+            "subject": "Heuristieken 1"
+         },
+         {
+            "string": "L0A54",
+            "classroom": "C1.112",
+            "subject": "Moderne Databases"
          }
       ]
    }

@@ -1,49 +1,50 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "0": [
          {
-            "subject": "Calculus 2",
             "string": "L0A106",
-            "classroom": "C1.112"
-         }
-      ]
-   },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Interactie-ontwerp",
-            "string": "L1A25",
-            "classroom": "C1.112"
+            "classroom": "C1.112",
+            "subject": "Calculus 2"
          }
       ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Interactie-ontwerp",
-            "string": "L0A25",
-            "classroom": "C0.110"
-         }
-      ]
+      "3": []
    },
-   "2": {
+   "1": {
       "0": [],
       "1": [],
       "2": [],
       "3": []
    },
-   "3": {
+   "2": {
       "0": [],
       "1": [],
       "2": [],
+      "3": [
+         {
+            "string": "W0A36",
+            "classroom": "A1.08",
+            "subject": "Calculus 2"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "string": "L1A25",
+            "classroom": "C1.112",
+            "subject": "Interactie-ontwerp"
+         }
+      ],
+      "2": [
+         {
+            "string": "L0A25",
+            "classroom": "A1.10",
+            "subject": "Interactie-ontwerp"
+         }
+      ],
       "3": []
    },
    "4": {

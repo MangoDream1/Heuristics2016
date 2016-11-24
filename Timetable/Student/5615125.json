@@ -2,25 +2,14 @@
    "0": {
       "0": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "P0A20",
-            "classroom": "C0.110"
+            "string": "L0A106",
+            "classroom": "C1.112",
+            "subject": "Calculus 2"
          }
       ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "C1.112"
-         },
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "W0A20",
-            "classroom": "A1.10"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
@@ -28,52 +17,58 @@
       "2": [],
       "3": [
          {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "A1.04"
+            "string": "L1A84",
+            "classroom": "C0.110",
+            "subject": "Kansrekenen 2"
          }
       ]
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "L0A39",
-            "classroom": "B0.201"
+            "string": "L1A39",
+            "classroom": "C0.110",
+            "subject": "Webprogrammeren en databases"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "string": "W0A20",
+            "classroom": "B0.201",
+            "subject": "Webprogrammeren en databases"
+         }
+      ],
+      "3": [
+         {
+            "string": "W0A36",
+            "classroom": "A1.08",
+            "subject": "Calculus 2"
+         }
+      ]
    },
    "3": {
-      "0": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "L1A39",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Kansrekenen 2",
+            "string": "L0A39",
+            "classroom": "A1.10",
+            "subject": "Webprogrammeren en databases"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
             "string": "L0A84",
-            "classroom": "A1.08"
+            "classroom": "A1.10",
+            "subject": "Kansrekenen 2"
          }
-      ],
-      "2": [
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L1A84",
-            "classroom": "C1.112"
-         }
-      ],
-      "3": []
+      ]
    }
 }

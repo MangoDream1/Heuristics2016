@@ -7,56 +7,50 @@
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51",
-            "classroom": "A1.08"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "string": "P0B19",
+            "classroom": "A1.06",
+            "subject": "Programmeren in Java 2"
+         }
+      ],
+      "2": [
+         {
+            "string": "L1A51",
+            "classroom": "C1.112",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
       "3": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51",
-            "classroom": "C0.110"
+            "string": "L0A51",
+            "classroom": "C1.112",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ]
    },
    "3": {
-      "0": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "W0B17",
-            "classroom": "C0.110"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0A14",
-            "classroom": "A1.04"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "subject": "Programmeren in Java 2",
-            "string": "P0B19",
-            "classroom": "C0.110"
+            "string": "W0B17",
+            "classroom": "A1.06",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
-      "2": [],
       "3": []
    }
 }

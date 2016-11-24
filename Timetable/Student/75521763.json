@@ -2,127 +2,131 @@
    "0": {
       "0": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L1A61",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Heuristieken 1",
-            "string": "W0B22",
-            "classroom": "C1.112"
+            "string": "P0D13",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "1": [
          {
-            "subject": "Moderne Databases",
-            "string": "P0C18",
-            "classroom": "B0.201"
+            "string": "L0A21",
+            "classroom": "B0.201",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "W0B10",
-            "classroom": "B0.201"
-         },
-         {
-            "subject": "Moderne Databases",
-            "string": "L0A54",
-            "classroom": "A1.10"
+            "string": "L1A21",
+            "classroom": "A1.04",
+            "subject": "Informatie- en organisatieontwerp"
          }
-      ],
-      "3": []
+      ]
    },
    "1": {
       "0": [],
       "1": [
          {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L0A21",
-            "classroom": "C0.110"
+            "string": "L0A44",
+            "classroom": "C0.110",
+            "subject": "Heuristieken 1"
          }
       ],
       "2": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A61",
-            "classroom": "A1.08"
+            "string": "L0A61",
+            "classroom": "A1.04",
+            "subject": "Collectieve Intelligentie"
          },
          {
-            "subject": "Moderne Databases",
-            "string": "W0C18",
-            "classroom": "C0.110"
+            "string": "P0B10",
+            "classroom": "A1.10",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ],
       "3": [
          {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L1A21",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "P0B10",
-            "classroom": "B0.201"
+            "string": "W0B10",
+            "classroom": "C1.112",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ]
    },
    "2": {
       "0": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61",
-            "classroom": "C0.110"
+            "string": "L1A38",
+            "classroom": "A1.04",
+            "subject": "Technology for games"
          }
       ],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Heuristieken 1",
-            "string": "L0A44",
-            "classroom": "A1.08"
+            "string": "L0A38",
+            "classroom": "A1.04",
+            "subject": "Technology for games"
          }
       ],
+      "2": [],
       "3": [
          {
-            "subject": "Technology for games",
-            "string": "L1A38",
-            "classroom": "A1.08"
+            "string": "P0C18",
+            "classroom": "A1.06",
+            "subject": "Moderne Databases"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0D13",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0D13",
-            "classroom": "C1.112"
+            "string": "L1A61",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "string": "W0D13",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "2": [
+         {
+            "string": "L2A61",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "W0B19",
+            "classroom": "C1.112",
+            "subject": "Technology for games"
+         }
+      ],
+      "1": [
+         {
+            "string": "W0B22",
+            "classroom": "A1.04",
+            "subject": "Heuristieken 1"
+         }
+      ],
       "2": [
          {
-            "subject": "Technology for games",
-            "string": "L0A38",
-            "classroom": "B0.201"
+            "string": "W0C18",
+            "classroom": "A1.10",
+            "subject": "Moderne Databases"
          }
       ],
       "3": [
          {
-            "subject": "Technology for games",
-            "string": "W0B19",
-            "classroom": "C1.112"
+            "string": "L0A54",
+            "classroom": "C1.112",
+            "subject": "Moderne Databases"
          }
       ]
    }

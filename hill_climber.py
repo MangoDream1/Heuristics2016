@@ -67,7 +67,6 @@ def simple_hill_climber(im, noProgressCounterLimit, classroomWeigth, timeslotWei
 startRandom = True
 if input("Do you want to start from a previously made timetable [Y/N]: ").lower() == 'y':
     iteration_manager.importLectures(input("Timetable name: "))
-    iteration_manager.exportTimetable()
     startRandom = False
 
 simple_hill_climber(iteration_manager, 100, 1, 1, 1, startRandom=startRandom)

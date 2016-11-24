@@ -2,14 +2,9 @@
    "0": {
       "0": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L1A61",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Heuristieken 1",
-            "string": "W0B22",
-            "classroom": "C1.112"
+            "string": "P0D13",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "1": [],
@@ -18,54 +13,61 @@
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "L0A44",
+            "classroom": "C0.110",
+            "subject": "Heuristieken 1"
+         }
+      ],
       "2": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A61",
-            "classroom": "A1.08"
+            "string": "L0A61",
+            "classroom": "A1.04",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61",
-            "classroom": "C0.110"
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Heuristieken 1",
-            "string": "L0A44",
-            "classroom": "A1.08"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
       "0": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0D13",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0D13",
-            "classroom": "C1.112"
+            "string": "L1A61",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "string": "W0D13",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "2": [
+         {
+            "string": "L2A61",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "string": "W0B22",
+            "classroom": "A1.04",
+            "subject": "Heuristieken 1"
+         }
+      ],
       "2": [],
       "3": []
    }

@@ -1,13 +1,25 @@
 {
    "0": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "string": "L0A106",
+            "classroom": "C1.112",
+            "subject": "Calculus 2"
+         }
+      ],
+      "1": [
+         {
+            "string": "L0A21",
+            "classroom": "B0.201",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
       "2": [],
       "3": [
          {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "C1.112"
+            "string": "L1A21",
+            "classroom": "A1.04",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ]
    },
@@ -15,44 +27,34 @@
       "0": [],
       "1": [
          {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L0A21",
-            "classroom": "C0.110"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L1A21",
-            "classroom": "A1.04"
-         }
-      ]
-   },
-   "2": {
-      "0": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "W0A11",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Informatie- en organisatieontwerp",
             "string": "P0A11",
-            "classroom": "A1.04"
+            "classroom": "C1.112",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
-   "3": {
+   "2": {
       "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "string": "W0A36",
+            "classroom": "A1.08",
+            "subject": "Calculus 2"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "string": "W0A11",
+            "classroom": "C1.112",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

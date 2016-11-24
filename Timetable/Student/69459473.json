@@ -1,62 +1,56 @@
 {
    "0": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "string": "L1A39",
+            "classroom": "C0.110",
+            "subject": "Webprogrammeren en databases"
+         }
+      ],
+      "2": [
+         {
+            "string": "W0A20",
+            "classroom": "B0.201",
+            "subject": "Webprogrammeren en databases"
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
       "0": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "P0A20",
-            "classroom": "C0.110"
+            "string": "L0A39",
+            "classroom": "A1.10",
+            "subject": "Webprogrammeren en databases"
          }
       ],
       "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "W0A20",
-            "classroom": "A1.10"
+            "string": "P0A12",
+            "classroom": "A1.06",
+            "subject": "Project Genetic Algorithms"
          }
       ]
-   },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Project Genetic Algorithms",
-            "string": "P0A12",
-            "classroom": "C0.110"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "L0A39",
-            "classroom": "B0.201"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "L1A39",
-            "classroom": "A1.06"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
    }
 }

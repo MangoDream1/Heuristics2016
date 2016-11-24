@@ -1,14 +1,20 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L1A61",
-            "classroom": "A1.04"
+            "string": "W0C16",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "1": [],
-      "2": [],
+      "2": [
+         {
+            "string": "P0D19",
+            "classroom": "A1.06",
+            "subject": "Programmeren in Java 2"
+         }
+      ],
       "3": []
    },
    "1": {
@@ -16,45 +22,39 @@
       "1": [],
       "2": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A61",
-            "classroom": "A1.08"
+            "string": "L0A61",
+            "classroom": "A1.04",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "3": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0C16",
-            "classroom": "A1.06"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61",
-            "classroom": "C0.110"
+            "string": "P0C16",
+            "classroom": "B0.201",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "1": [
-         {
-            "subject": "Programmeren in Java 2",
-            "string": "P0D19",
-            "classroom": "B0.201"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "string": "L1A61",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0C16",
-            "classroom": "B0.201"
+            "string": "L2A61",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "3": []

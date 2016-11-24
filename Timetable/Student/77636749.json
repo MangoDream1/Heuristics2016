@@ -1,59 +1,66 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "subject": "Technology for games",
-            "string": "W0A19",
-            "classroom": "B0.201"
-         }
-      ],
       "1": [
          {
-            "subject": "Informatie- en organisatieontwerp",
             "string": "L0A21",
-            "classroom": "C0.110"
+            "classroom": "B0.201",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ],
       "2": [],
       "3": [
          {
-            "subject": "Informatie- en organisatieontwerp",
             "string": "L1A21",
-            "classroom": "A1.04"
+            "classroom": "A1.04",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "string": "P0A11",
+            "classroom": "C1.112",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "string": "L1A84",
+            "classroom": "C0.110",
+            "subject": "Kansrekenen 2"
          }
       ]
    },
    "2": {
       "0": [
          {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "W0A11",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "P0A11",
-            "classroom": "A1.04"
+            "string": "L1A38",
+            "classroom": "A1.04",
+            "subject": "Technology for games"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "subject": "Technology for games",
-            "string": "L1A38",
-            "classroom": "A1.08"
+            "string": "L0A38",
+            "classroom": "A1.04",
+            "subject": "Technology for games"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "string": "W0A11",
+            "classroom": "C1.112",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -62,23 +69,18 @@
       "0": [],
       "1": [
          {
-            "subject": "Kansrekenen 2",
+            "string": "W0A19",
+            "classroom": "B0.201",
+            "subject": "Technology for games"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
             "string": "L0A84",
-            "classroom": "A1.08"
+            "classroom": "A1.10",
+            "subject": "Kansrekenen 2"
          }
-      ],
-      "2": [
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L1A84",
-            "classroom": "C1.112"
-         },
-         {
-            "subject": "Technology for games",
-            "string": "L0A38",
-            "classroom": "B0.201"
-         }
-      ],
-      "3": []
+      ]
    }
 }

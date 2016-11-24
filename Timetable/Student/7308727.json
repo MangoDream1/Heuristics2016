@@ -2,102 +2,101 @@
    "0": {
       "0": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L1A61",
-            "classroom": "A1.04"
+            "string": "P0C16",
+            "classroom": "A1.06",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ],
       "1": [
          {
-            "subject": "Bioinformatica",
-            "string": "L0A45",
-            "classroom": "C0.110"
+            "string": "W0C16",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "string": "L2A45",
+            "classroom": "A1.04",
+            "subject": "Bioinformatica"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A61",
-            "classroom": "A1.08"
+            "string": "L1A45",
+            "classroom": "A1.06",
+            "subject": "Bioinformatica"
          }
       ],
-      "3": [
+      "2": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0C16",
-            "classroom": "A1.06"
+            "string": "L0A61",
+            "classroom": "A1.04",
+            "subject": "Collectieve Intelligentie"
          }
-      ]
+      ],
+      "3": []
    },
    "2": {
       "0": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61",
-            "classroom": "C0.110"
+            "string": "P0C16",
+            "classroom": "B0.201",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "1": [
-         {
-            "subject": "Project Numerical Recipes",
-            "string": "P0B15",
-            "classroom": "C1.112"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Bioinformatica",
-            "string": "L1A45",
-            "classroom": "A1.06"
-         },
-         {
-            "subject": "Bioinformatica",
-            "string": "L2A45",
-            "classroom": "C1.112"
-         }
-      ]
+      "3": []
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Bioinformatica",
-            "string": "W0B15",
-            "classroom": "B0.201"
+            "string": "P0B15",
+            "classroom": "A1.10",
+            "subject": "Bioinformatica"
+         },
+         {
+            "string": "L1A61",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
          }
       ],
+      "1": [],
       "2": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0C16",
-            "classroom": "B0.201"
+            "string": "L0A45",
+            "classroom": "A1.06",
+            "subject": "Bioinformatica"
+         },
+         {
+            "string": "L2A61",
+            "classroom": "A1.08",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0C16",
-            "classroom": "A1.10"
+            "string": "P0B15",
+            "classroom": "A1.06",
+            "subject": "Project Numerical Recipes"
          }
       ],
-      "2": [],
-      "3": [
+      "1": [],
+      "2": [
          {
-            "subject": "Bioinformatica",
-            "string": "P0B15",
-            "classroom": "A1.04"
+            "string": "W0B15",
+            "classroom": "A1.04",
+            "subject": "Bioinformatica"
          }
-      ]
+      ],
+      "3": []
    }
 }
