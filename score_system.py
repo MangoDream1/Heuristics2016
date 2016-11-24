@@ -22,6 +22,8 @@ class ScoreSystem:
 		total_student_score = sum([student.score for student in self.student_lst])
 		total_classroom_score = sum([classroom.score for classroom in self.classroom_lst])
 
+		#print(total_subject_score, total_student_score, total_classroom_score, self.total_valid_score())
+
 		return total_subject_score + total_student_score + total_classroom_score + self.total_valid_score()
 
 	def total_valid_score(self):
@@ -82,7 +84,6 @@ class ScoreSystem:
 		def pointsCalculator(nUniqueLectures):
 			malus = 0
 
-
 			if nUniqueLectures == 2:
 				options = [[0, 3], [1, 4]]
 			elif nUniqueLectures == 3:
@@ -94,13 +95,10 @@ class ScoreSystem:
 			else:
 				options = [[]]
 
-
 			nSpreadTimetables = [0 for x in range(len(options))]
-
-			nStudents = len(subject_object.students) 
+			nStudents = len(subject_object.students)
 
 			for student in subject_object.students:
-				
 				nFullDays = 0
 
 				for day, timeslot in student.timetable.items():
@@ -125,8 +123,12 @@ class ScoreSystem:
 				elif nUniqueLectures - 3 == nFullDays:
 					malus += 30 / nStudents
 
-			#print(malus)
-			return {"bonus": 20 / nStudents * max(nSpreadTimetables), "malus": malus}
+			bonus = 0
+
+			if options[0]:
+				bonus = 20 / nStudents * max(nSpreadTimetables) / len(options[0])
+
+			return {"bonus": bonus, "malus": malus}
 
 
 		if len(subject_object.getLectures()) > 0:
@@ -148,6 +150,4 @@ class ScoreSystem:
 
 		points = pointsCalculator(nUniqueLectures)
 
-		subject_object.score = int(points["bonus"] - points["malus"])
-
-		#print(subject_object.score, int(points["bonus"]), int(points["malus"]))
+		subject_object.score = round(points["bonus"] - points["malus"])
