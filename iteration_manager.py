@@ -13,7 +13,7 @@ class IterationManager:
         self.students = students
         self.student_dct = {x.getId(): x for x in students}
 
-    
+
         for student in self.students:
             student.assignSubjectToStudent(self.subject_dct)
 
@@ -84,9 +84,7 @@ class IterationManager:
         return self.lecture_dct
 
     def exportLectures(self, file_name):
-        nLectures = max([x for x in self.lecture_dct if type(x) == int])
-
-        export_dct = [self.lecture_dct[x].toLongDict() for x in range(nLectures)]
+        export_dct = [x.toLongDict() for x in self.lectures]
 
         if not os.path.exists("Timetable/Lectures"):
             os.makedirs("Timetable/Lectures")
