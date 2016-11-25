@@ -1,43 +1,43 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "string": "L0A43",
-            "classroom": "A1.08",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "C0.110",
+            "string": "L0A43"
          }
       ],
+      "1": [
+         {
+            "subject": "Databases 2",
+            "classroom": "C1.112",
+            "string": "W0A36"
+         }
+      ],
+      "2": [],
       "3": []
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "W0A36",
-            "classroom": "A1.08",
-            "subject": "Databases 2"
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.10",
+            "string": "P0C19"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "string": "P0C19",
-            "classroom": "C0.110",
-            "subject": "Programmeren in Java 2"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "P0B21",
-            "classroom": "A1.10",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "B0.201",
+            "string": "W0B21"
          }
       ]
    },
@@ -45,22 +45,22 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Databases 2",
+            "classroom": "C0.110",
+            "string": "L0A72"
+         }
+      ]
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A72",
-            "classroom": "A1.10",
-            "subject": "Databases 2"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "string": "W0B21",
-            "classroom": "C1.112",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.06",
+            "string": "P0B21"
          }
       ],
       "3": []

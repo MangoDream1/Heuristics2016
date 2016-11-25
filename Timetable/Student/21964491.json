@@ -2,135 +2,134 @@
    "0": {
       "0": [
          {
-            "string": "L1A27",
-            "classroom": "A1.10",
-            "subject": "Data Mining"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "C0.110",
+            "string": "L0A43"
          }
       ],
       "1": [
          {
-            "string": "W0C16",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Data Mining",
+            "classroom": "C0.110",
+            "string": "L0A27"
          }
       ],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "string": "L0A43",
-            "classroom": "A1.08",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Bioinformatica",
+            "classroom": "A1.10",
+            "string": "L1A45"
          },
          {
-            "string": "L2A45",
-            "classroom": "A1.04",
-            "subject": "Bioinformatica"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L1A61"
          }
-      ],
-      "3": []
+      ]
    },
    "1": {
       "0": [
          {
-            "string": "W0B9",
-            "classroom": "A1.10",
-            "subject": "Data Mining"
-         }
-      ],
-      "1": [
-         {
-            "string": "L1A45",
-            "classroom": "A1.06",
-            "subject": "Bioinformatica"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A61",
+            "subject": "Collectieve Intelligentie",
             "classroom": "A1.04",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "string": "P0C16",
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie"
+            "string": "W0C16"
          },
          {
-            "string": "P0E19",
+            "subject": "Data Mining",
             "classroom": "C1.112",
-            "subject": "Programmeren in Java 2"
+            "string": "W0B9"
          }
       ],
       "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Bioinformatica",
+            "classroom": "A1.08",
+            "string": "P0C15"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.06",
+            "string": "P0E19"
+         }
+      ],
       "2": [
          {
-            "string": "P0C15",
-            "classroom": "A1.06",
-            "subject": "Bioinformatica"
+            "subject": "Bioinformatica",
+            "classroom": "C1.112",
+            "string": "L2A45"
          }
       ],
       "3": [
          {
-            "string": "P0B21",
-            "classroom": "A1.10",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "B0.201",
+            "string": "W0B21"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "string": "L1A61",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Bioinformatica",
+            "classroom": "A1.04",
+            "string": "W0C15"
          },
          {
-            "string": "L0A27",
-            "classroom": "B0.201",
-            "subject": "Data Mining"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L0A61"
          }
       ],
       "1": [
          {
-            "string": "W0C15",
+            "subject": "Collectieve Intelligentie",
             "classroom": "C0.110",
-            "subject": "Bioinformatica"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A45",
-            "classroom": "A1.06",
-            "subject": "Bioinformatica"
+            "string": "L2A61"
          },
          {
-            "string": "L2A61",
+            "subject": "Data Mining",
             "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
+            "string": "P0B9"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Bioinformatica",
+            "classroom": "A1.10",
+            "string": "L0A45"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.06",
+            "string": "P0B21"
          }
       ],
       "3": [
          {
-            "string": "P0B9",
-            "classroom": "C0.110",
-            "subject": "Data Mining"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.08",
+            "string": "P0C16"
+         },
+         {
+            "subject": "Data Mining",
+            "classroom": "C1.112",
+            "string": "L1A27"
          }
       ]
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "string": "W0B21",
-            "classroom": "C1.112",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ],
-      "3": []
    }
 }

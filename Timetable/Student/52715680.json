@@ -2,26 +2,25 @@
    "0": {
       "0": [
          {
-            "string": "P0C12",
-            "classroom": "B0.201",
-            "subject": "Compilerbouw (practicum)"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "C0.110",
+            "string": "L0A43"
+         },
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.08",
+            "string": "W0C17"
          }
       ],
       "1": [],
       "2": [
          {
-            "string": "L0A43",
-            "classroom": "A1.08",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Software engineering",
+            "classroom": "A1.04",
+            "string": "P0B37"
          }
       ],
-      "3": [
-         {
-            "string": "P0B37",
-            "classroom": "C1.112",
-            "subject": "Software engineering"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
@@ -30,30 +29,31 @@
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "string": "L1A51",
+            "subject": "Compilerbouw (practicum)",
             "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur"
-         },
-         {
-            "string": "W0B37",
-            "classroom": "A1.08",
-            "subject": "Software engineering"
+            "string": "P0C12"
          }
       ],
+      "1": [
+         {
+            "subject": "Software engineering",
+            "classroom": "C0.110",
+            "string": "L0A75"
+         }
+      ],
+      "2": [],
       "3": [
          {
-            "string": "P0B21",
-            "classroom": "A1.10",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "B0.201",
+            "string": "W0B21"
          },
          {
-            "string": "L0A51",
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.10",
+            "string": "L0A51"
          }
       ]
    },
@@ -64,27 +64,26 @@
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "L0A75",
-            "classroom": "C1.112",
-            "subject": "Software engineering"
+            "subject": "Software engineering",
+            "classroom": "B0.201",
+            "string": "W0B37"
          }
       ],
+      "1": [],
       "2": [
          {
-            "string": "W0B21",
-            "classroom": "C1.112",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.06",
+            "string": "P0B21"
+         },
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.10",
+            "string": "L1A51"
          }
       ],
-      "3": [
-         {
-            "string": "W0C17",
-            "classroom": "A1.08",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ]
+      "3": []
    }
 }

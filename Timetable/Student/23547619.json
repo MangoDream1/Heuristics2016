@@ -1,102 +1,105 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "P0B16",
-            "classroom": "A1.06",
-            "subject": "Collectieve Intelligentie"
-         }
-      ]
-   },
-   "1": {
       "0": [
          {
-            "string": "W0B16",
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "string": "L0A61",
+            "subject": "Advanced Heuristics",
             "classroom": "A1.04",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "3": [
-         {
-            "string": "L0A20",
-            "classroom": "A1.06",
-            "subject": "Advanced Heuristics"
-         }
-      ]
-   },
-   "2": {
-      "0": [
-         {
-            "string": "L1A38",
-            "classroom": "A1.04",
-            "subject": "Technology for games"
+            "string": "L0A20"
          }
       ],
       "1": [
          {
-            "string": "L0A38",
+            "subject": "Technology for games",
             "classroom": "A1.04",
-            "subject": "Technology for games"
+            "string": "W0A19"
          }
       ],
       "2": [],
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L1A61"
+         },
+         {
+            "subject": "Interactie-ontwerp",
+            "classroom": "B0.201",
+            "string": "L0A25"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Technology for games",
+            "classroom": "A1.04",
+            "string": "L1A38"
+         },
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "A1.08",
+            "string": "P0B14"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.08",
+            "string": "P0B16"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [
          {
-            "string": "L1A61",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L0A61"
          }
       ],
       "1": [
          {
-            "string": "L1A25",
-            "classroom": "C1.112",
-            "subject": "Interactie-ontwerp"
-         }
-      ],
-      "2": [
-         {
-            "string": "L2A61",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.06",
+            "string": "P0A10"
          },
          {
-            "string": "L0A25",
-            "classroom": "A1.10",
-            "subject": "Interactie-ontwerp"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L2A61"
+         },
+         {
+            "subject": "Interactie-ontwerp",
+            "classroom": "A1.04",
+            "string": "L1A25"
          }
       ],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [],
       "1": [
          {
-            "string": "W0A19",
-            "classroom": "B0.201",
-            "subject": "Technology for games"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.08",
+            "string": "W0B16"
          }
       ],
       "2": [],
       "3": [
          {
-            "string": "P0A10",
-            "classroom": "B0.201",
-            "subject": "Advanced Heuristics"
+            "subject": "Technology for games",
+            "classroom": "A1.10",
+            "string": "L0A38"
          }
       ]
    }

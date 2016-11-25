@@ -4,28 +4,28 @@
       "1": [],
       "2": [
          {
-            "string": "P0D19",
-            "classroom": "A1.06",
-            "subject": "Programmeren in Java 2"
+            "subject": "Databases 2",
+            "classroom": "B0.201",
+            "string": "W0B36"
          }
       ],
       "3": []
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "L1A54",
-            "classroom": "A1.06",
-            "subject": "Lineaire Algebra"
+            "subject": "Lineaire Algebra",
+            "classroom": "C0.110",
+            "string": "L1A54"
          }
       ],
-      "1": [],
       "2": [],
       "3": [
          {
-            "string": "W0B36",
-            "classroom": "A1.04",
-            "subject": "Databases 2"
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "C0.110",
+            "string": "L0A49"
          }
       ]
    },
@@ -39,30 +39,30 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Databases 2",
+            "classroom": "C0.110",
+            "string": "L0A72"
+         }
+      ]
    },
    "4": {
       "0": [
          {
-            "string": "L0A49",
-            "classroom": "A1.04",
-            "subject": "Analysemethoden en -technieken"
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.08",
+            "string": "P0D19"
          }
       ],
       "1": [
          {
-            "string": "L0A72",
-            "classroom": "A1.10",
-            "subject": "Databases 2"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A54",
+            "subject": "Lineaire Algebra",
             "classroom": "C0.110",
-            "subject": "Lineaire Algebra"
+            "string": "L0A54"
          }
       ],
+      "2": [],
       "3": []
    }
 }

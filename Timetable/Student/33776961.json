@@ -1,8 +1,20 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Moderne Databases",
+            "classroom": "B0.201",
+            "string": "W0A18"
+         }
+      ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.08",
+            "string": "W0B17"
+         }
+      ],
       "3": []
    },
    "1": {
@@ -12,61 +24,50 @@
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "P0B19",
-            "classroom": "A1.06",
-            "subject": "Programmeren in Java 2"
+            "subject": "Moderne Databases",
+            "classroom": "A1.04",
+            "string": "P0A18"
          }
       ],
-      "2": [
-         {
-            "string": "L1A51",
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": [
          {
-            "string": "P0A18",
-            "classroom": "B0.201",
-            "subject": "Moderne Databases"
-         },
-         {
-            "string": "L0A51",
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.10",
+            "string": "L0A51"
          }
       ]
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "string": "W0A18",
-            "classroom": "A1.06",
-            "subject": "Moderne Databases"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Moderne Databases",
+            "classroom": "A1.10",
+            "string": "L0A54"
+         }
+      ],
       "2": [
          {
-            "string": "W0B17",
-            "classroom": "A1.06",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.10",
+            "string": "L1A51"
          }
       ],
       "3": [
          {
-            "string": "L0A54",
-            "classroom": "C1.112",
-            "subject": "Moderne Databases"
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.06",
+            "string": "P0B19"
          }
       ]
    }

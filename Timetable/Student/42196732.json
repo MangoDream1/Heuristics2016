@@ -1,66 +1,59 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "W0C16",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "string": "L2A45",
-            "classroom": "A1.04",
-            "subject": "Bioinformatica"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "string": "L1A54",
-            "classroom": "A1.06",
-            "subject": "Lineaire Algebra"
-         }
-      ],
-      "1": [
-         {
-            "string": "L1A45",
-            "classroom": "A1.06",
-            "subject": "Bioinformatica"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A61",
-            "classroom": "A1.04",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Databases 2",
+            "classroom": "B0.201",
+            "string": "W0B36"
          }
       ],
       "3": [
          {
-            "string": "W0B36",
+            "subject": "Bioinformatica",
+            "classroom": "A1.10",
+            "string": "L1A45"
+         },
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L1A61"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "subject": "Collectieve Intelligentie",
             "classroom": "A1.04",
-            "subject": "Databases 2"
+            "string": "W0C16"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Lineaire Algebra",
+            "classroom": "C0.110",
+            "string": "L1A54"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Bioinformatica",
+            "classroom": "A1.08",
+            "string": "P0C15"
          }
       ]
    },
    "2": {
-      "0": [
-         {
-            "string": "P0C16",
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
-            "string": "P0C15",
-            "classroom": "A1.06",
-            "subject": "Bioinformatica"
+            "subject": "Bioinformatica",
+            "classroom": "C1.112",
+            "string": "L2A45"
          }
       ],
       "3": []
@@ -68,48 +61,54 @@
    "3": {
       "0": [
          {
-            "string": "L1A61",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "1": [
-         {
-            "string": "W0C15",
-            "classroom": "C0.110",
-            "subject": "Bioinformatica"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A45",
-            "classroom": "A1.06",
-            "subject": "Bioinformatica"
+            "subject": "Bioinformatica",
+            "classroom": "A1.04",
+            "string": "W0C15"
          },
          {
-            "string": "L2A61",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L0A61"
          }
       ],
-      "3": []
-   },
-   "4": {
-      "0": [],
       "1": [
          {
-            "string": "L0A72",
-            "classroom": "A1.10",
-            "subject": "Databases 2"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A54",
+            "subject": "Collectieve Intelligentie",
             "classroom": "C0.110",
-            "subject": "Lineaire Algebra"
+            "string": "L2A61"
          }
       ],
-      "3": []
+      "2": [],
+      "3": [
+         {
+            "subject": "Databases 2",
+            "classroom": "C0.110",
+            "string": "L0A72"
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Bioinformatica",
+            "classroom": "A1.10",
+            "string": "L0A45"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Lineaire Algebra",
+            "classroom": "C0.110",
+            "string": "L0A54"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.08",
+            "string": "P0C16"
+         }
+      ]
    }
 }

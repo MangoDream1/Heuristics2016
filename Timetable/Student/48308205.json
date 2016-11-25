@@ -1,67 +1,73 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "P0A35",
-            "classroom": "A1.04",
-            "subject": "Compilerbouw"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "string": "L1A69",
+            "subject": "Technology for games",
             "classroom": "A1.04",
-            "subject": "Compilerbouw"
+            "string": "W0A19"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "subject": "Compilerbouw",
+            "classroom": "C1.112",
+            "string": "W0A35"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [
          {
-            "string": "L1A54",
-            "classroom": "A1.06",
-            "subject": "Lineaire Algebra"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "string": "W0A35",
+            "subject": "Compilerbouw",
             "classroom": "C0.110",
-            "subject": "Compilerbouw"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "string": "L1A38",
-            "classroom": "A1.04",
-            "subject": "Technology for games"
+            "string": "L0A69"
          }
       ],
       "1": [
          {
-            "string": "L0A38",
-            "classroom": "A1.04",
-            "subject": "Technology for games"
+            "subject": "Lineaire Algebra",
+            "classroom": "C0.110",
+            "string": "L1A54"
          }
       ],
       "2": [],
       "3": []
    },
-   "3": {
+   "2": {
       "0": [],
+      "1": [
+         {
+            "subject": "Technology for games",
+            "classroom": "A1.04",
+            "string": "L1A38"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Compilerbouw",
+            "classroom": "C0.110",
+            "string": "L1A69"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.10",
+            "string": "P0A15"
+         }
+      ],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "L0A69",
+            "subject": "Compilerbouw",
             "classroom": "A1.10",
-            "subject": "Compilerbouw"
+            "string": "P0A35"
          }
       ]
    },
@@ -69,23 +75,18 @@
       "0": [],
       "1": [
          {
-            "string": "P0A15",
+            "subject": "Lineaire Algebra",
             "classroom": "C0.110",
-            "subject": "Project Numerical Recipes"
-         },
-         {
-            "string": "W0A19",
-            "classroom": "B0.201",
-            "subject": "Technology for games"
+            "string": "L0A54"
          }
       ],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "string": "L0A54",
-            "classroom": "C0.110",
-            "subject": "Lineaire Algebra"
+            "subject": "Technology for games",
+            "classroom": "A1.10",
+            "string": "L0A38"
          }
-      ],
-      "3": []
+      ]
    }
 }

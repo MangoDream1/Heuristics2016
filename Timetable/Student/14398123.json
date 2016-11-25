@@ -1,7 +1,13 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Kansrekenen 2",
+            "classroom": "C0.110",
+            "string": "L1A84"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -9,13 +15,7 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L1A84",
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
@@ -26,30 +26,31 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Kansrekenen 2",
+            "classroom": "C0.110",
+            "string": "L0A84"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
       "1": [
          {
-            "string": "P0B16",
-            "classroom": "A1.08",
-            "subject": "Netwerken en systeembeveiliging"
+            "subject": "Project Genetic Algorithms",
+            "classroom": "A1.04",
+            "string": "P0A12"
          }
       ],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "L0A84",
-            "classroom": "A1.10",
-            "subject": "Kansrekenen 2"
-         },
-         {
-            "string": "P0A12",
-            "classroom": "A1.06",
-            "subject": "Project Genetic Algorithms"
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "C0.110",
+            "string": "P0B16"
          }
-      ]
+      ],
+      "3": []
    }
 }

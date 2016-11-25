@@ -2,132 +2,144 @@
    "0": {
       "0": [
          {
-            "string": "L1A27",
+            "subject": "Heuristieken 1",
             "classroom": "A1.10",
-            "subject": "Data Mining"
+            "string": "L0A44"
          }
       ],
       "1": [
          {
-            "string": "W0B16",
+            "subject": "Moderne Databases",
             "classroom": "A1.10",
-            "subject": "Heuristieken 2"
+            "string": "P0C18"
          }
       ],
       "2": [
          {
-            "string": "P0A8",
+            "subject": "Software engineering",
             "classroom": "A1.10",
-            "subject": "Autonomous Agents 2"
+            "string": "P0A38"
          }
       ],
       "3": [
          {
-            "string": "P0A15",
+            "subject": "Bioinformatica",
             "classroom": "A1.10",
-            "subject": "Bioinformatica"
+            "string": "L1A45"
          }
       ]
    },
    "1": {
       "0": [
          {
-            "string": "W0B9",
+            "subject": "Bioinformatica",
             "classroom": "A1.10",
-            "subject": "Data Mining"
+            "string": "P0A15"
          }
       ],
-      "1": [],
-      "2": [
-         {
-            "string": "P0B10",
-            "classroom": "A1.10",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ],
-      "3": [
-         {
-            "string": "P0C9",
-            "classroom": "A1.10",
-            "subject": "Data Mining"
-         }
-      ]
-   },
-   "2": {
-      "0": [],
       "1": [
          {
-            "string": "P0A16",
+            "subject": "Programmeren in Java 2",
             "classroom": "A1.10",
-            "subject": "Netwerken en systeembeveiliging"
+            "string": "P0C19"
          }
       ],
       "2": [],
       "3": [
          {
-            "string": "P0B21",
+            "subject": "Project Numerical Recipes",
             "classroom": "A1.10",
-            "subject": "Algoritmen en complexiteit"
+            "string": "P0B15"
+         }
+      ]
+   },
+   "2": {
+      "0": [
+         {
+            "subject": "Compilerbouw (practicum)",
+            "classroom": "A1.10",
+            "string": "P0B14"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.10",
+            "string": "P0A16"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.10",
+            "string": "P0A22"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.10",
+            "string": "L0A51"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "string": "P0B15",
+            "subject": "Project Numerical Recipes",
             "classroom": "A1.10",
-            "subject": "Bioinformatica"
+            "string": "P0A15"
          }
       ],
       "1": [
          {
-            "string": "L1A22",
+            "subject": "Informatie- en organisatieontwerp",
             "classroom": "A1.10",
-            "subject": "Autonomous Agents 2"
+            "string": "P0A11"
          }
       ],
       "2": [
          {
-            "string": "L0A25",
+            "subject": "Heuristieken 2",
             "classroom": "A1.10",
-            "subject": "Interactie-ontwerp"
+            "string": "L0A32"
          }
       ],
       "3": [
          {
-            "string": "L0A69",
+            "subject": "Compilerbouw",
             "classroom": "A1.10",
-            "subject": "Compilerbouw"
+            "string": "P0A35"
          }
       ]
    },
    "4": {
       "0": [
          {
-            "string": "L0A39",
+            "subject": "Bioinformatica",
             "classroom": "A1.10",
-            "subject": "Webprogrammeren en databases"
+            "string": "L0A45"
          }
       ],
       "1": [
          {
-            "string": "L0A72",
+            "subject": "Moderne Databases",
             "classroom": "A1.10",
-            "subject": "Databases 2"
+            "string": "L0A54"
          }
       ],
       "2": [
          {
-            "string": "W0C18",
+            "subject": "Reflectie op de digitale cultuur",
             "classroom": "A1.10",
-            "subject": "Moderne Databases"
+            "string": "L1A51"
          }
       ],
       "3": [
          {
-            "string": "L0A84",
+            "subject": "Technology for games",
             "classroom": "A1.10",
-            "subject": "Kansrekenen 2"
+            "string": "L0A38"
          }
       ]
    }

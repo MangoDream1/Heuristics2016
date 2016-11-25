@@ -1,78 +1,78 @@
 {
    "0": {
-      "0": [],
-      "1": [
-         {
-            "string": "L0A21",
-            "classroom": "B0.201",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ],
-      "2": [
-         {
-            "string": "L0A43",
-            "classroom": "A1.08",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ],
-      "3": [
-         {
-            "string": "L1A21",
-            "classroom": "A1.04",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ]
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "string": "P0B10",
-            "classroom": "A1.10",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ],
-      "3": [
-         {
-            "string": "W0B10",
-            "classroom": "C1.112",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ]
-   },
-   "2": {
       "0": [
          {
-            "string": "P0E19",
-            "classroom": "C1.112",
-            "subject": "Programmeren in Java 2"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "C0.110",
+            "string": "L0A43"
          }
       ],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "P0B21",
-            "classroom": "A1.10",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "C1.112",
+            "string": "L1A21"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "C1.112",
+            "string": "L0A21"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.06",
+            "string": "P0E19"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "B0.201",
+            "string": "W0B21"
          }
       ]
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.08",
+            "string": "P0B10"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "C1.112",
+            "string": "W0B10"
+         }
+      ],
       "2": [
          {
-            "string": "W0B21",
-            "classroom": "C1.112",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.06",
+            "string": "P0B21"
          }
       ],
       "3": []

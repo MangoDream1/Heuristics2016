@@ -1,32 +1,44 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "string": "W0B18",
-            "classroom": "C0.110",
-            "subject": "Moderne Databases"
-         }
-      ]
-   },
-   "1": {
       "0": [
          {
-            "string": "L1A54",
+            "subject": "Moderne Databases",
             "classroom": "A1.06",
-            "subject": "Lineaire Algebra"
+            "string": "P0B18"
          }
       ],
       "1": [],
       "2": [],
       "3": []
    },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Lineaire Algebra",
+            "classroom": "C0.110",
+            "string": "L1A54"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
    "2": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "A1.08",
+            "string": "P0B14"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Moderne Databases",
+            "classroom": "A1.04",
+            "string": "W0B18"
+         }
+      ],
       "3": []
    },
    "3": {
@@ -36,27 +48,20 @@
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "P0B18",
+            "subject": "Lineaire Algebra",
             "classroom": "C0.110",
-            "subject": "Moderne Databases"
+            "string": "L0A54"
+         },
+         {
+            "subject": "Moderne Databases",
+            "classroom": "A1.10",
+            "string": "L0A54"
          }
       ],
-      "1": [],
-      "2": [
-         {
-            "string": "L0A54",
-            "classroom": "C0.110",
-            "subject": "Lineaire Algebra"
-         }
-      ],
-      "3": [
-         {
-            "string": "L0A54",
-            "classroom": "C1.112",
-            "subject": "Moderne Databases"
-         }
-      ]
+      "2": [],
+      "3": []
    }
 }

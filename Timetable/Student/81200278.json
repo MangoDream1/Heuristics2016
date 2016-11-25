@@ -1,113 +1,114 @@
 {
    "0": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Data Mining",
+            "classroom": "C0.110",
+            "string": "L0A27"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Bioinformatica",
+            "classroom": "A1.10",
+            "string": "L1A45"
+         },
+         {
+            "subject": "Heuristieken 2",
+            "classroom": "A1.04",
+            "string": "W0A16"
+         },
+         {
+            "subject": "Interactie-ontwerp",
+            "classroom": "B0.201",
+            "string": "L0A25"
+         }
+      ]
+   },
+   "1": {
       "0": [
          {
-            "string": "L1A27",
+            "subject": "Bioinformatica",
             "classroom": "A1.10",
-            "subject": "Data Mining"
+            "string": "P0A15"
          }
       ],
       "1": [],
       "2": [
          {
-            "string": "L2A45",
-            "classroom": "A1.04",
-            "subject": "Bioinformatica"
-         }
-      ],
-      "3": [
-         {
-            "string": "P0A15",
-            "classroom": "A1.10",
-            "subject": "Bioinformatica"
-         },
-         {
-            "string": "L0A32",
-            "classroom": "B0.201",
-            "subject": "Heuristieken 2"
-         }
-      ]
-   },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "string": "L1A45",
+            "subject": "Data Mining",
             "classroom": "A1.06",
-            "subject": "Bioinformatica"
+            "string": "W0A9"
          }
       ],
-      "2": [
-         {
-            "string": "W0A15",
-            "classroom": "A1.08",
-            "subject": "Bioinformatica"
-         }
-      ],
-      "3": [
-         {
-            "string": "P0A9",
-            "classroom": "A1.08",
-            "subject": "Data Mining"
-         }
-      ]
+      "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "P0A16",
-            "classroom": "A1.10",
-            "subject": "Netwerken en systeembeveiliging"
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "C0.110",
+            "string": "P0A16"
          }
       ],
-      "2": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Bioinformatica",
+            "classroom": "C1.112",
+            "string": "L2A45"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [
          {
-            "string": "L0A27",
-            "classroom": "B0.201",
-            "subject": "Data Mining"
+            "subject": "Bioinformatica",
+            "classroom": "A1.04",
+            "string": "W0A15"
          }
       ],
       "1": [
          {
-            "string": "L1A25",
-            "classroom": "C1.112",
-            "subject": "Interactie-ontwerp"
+            "subject": "Interactie-ontwerp",
+            "classroom": "A1.04",
+            "string": "L1A25"
          }
       ],
       "2": [
          {
-            "string": "L0A45",
-            "classroom": "A1.06",
-            "subject": "Bioinformatica"
-         },
-         {
-            "string": "L0A25",
+            "subject": "Heuristieken 2",
             "classroom": "A1.10",
-            "subject": "Interactie-ontwerp"
+            "string": "L0A32"
          }
       ],
       "3": [
          {
-            "string": "W0A9",
+            "subject": "Data Mining",
             "classroom": "A1.08",
-            "subject": "Data Mining"
-         },
-         {
-            "string": "W0A16",
-            "classroom": "C1.112",
-            "subject": "Heuristieken 2"
+            "string": "P0A9"
          }
       ]
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Bioinformatica",
+            "classroom": "A1.10",
+            "string": "L0A45"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Data Mining",
+            "classroom": "C1.112",
+            "string": "L1A27"
+         }
+      ]
    }
 }

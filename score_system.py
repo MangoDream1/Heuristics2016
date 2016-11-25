@@ -49,13 +49,10 @@ class ScoreSystem:
 
 		for day, timeslot in classroom_object.timetable.items():
 			for key, lectures in timeslot.items():
+				nTooManyStudents = sum([len(lecture.students) for lecture in lectures]) - classroom_object.capacity
 
-				if len(lectures) > 1:
-
-					nToManyStudents = sum([len(lecture.students) for lecture in lectures]) - classroom_object.capacity
-
-					if nToManyStudents > 0:
-						classroom_score -= nToManyStudents
+				if nTooManyStudents > 0:
+					classroom_score -= nTooManyStudents
 
 				# For every lecture after 17 hours minus points
 				if key >= 4 and len(lecture) > 0:
@@ -96,23 +93,26 @@ class ScoreSystem:
 			nSpreadTimetables = [0 for x in range(len(options))]
 			nStudents = len(subject_object.students)
 
+			lecture_lst = []
+
 			for student in subject_object.students:
 				nFullDays = 0
 
-				for day, timeslot in student.timetable.items():
-					isFullDay = False
+				lecture_lst.append([l for l in student.lectures
+									if l.subject == subject_object])
 
-					for lectures in timeslot.values():
-						for lecture in lectures:
-							if lecture.subject == subject_object:
-								isFullDay = True
+			for student_lst in lecture_lst:
+				days_dct = {x: False for x in range(5)}
 
-								for index, option in enumerate(options):
-									if day in option:
-										nSpreadTimetables[index] += 1
+				for lecture in student_lst:
+					days_dct[lecture.day] = True
 
-				if isFullDay:
-					nFullDays += 1
+
+					for index, option in enumerate(options):
+						if lecture.day in option:
+							nSpreadTimetables[index] += 1
+
+				nFullDays = sum(days_dct.values())
 
 				if nUniqueLectures - 1 == nFullDays:
 					malus += 10 / nStudents

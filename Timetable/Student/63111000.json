@@ -1,68 +1,68 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Moderne Databases",
+            "classroom": "A1.10",
+            "string": "P0C18"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Machine Learning",
+            "classroom": "A1.06",
+            "string": "L0A22"
+         }
+      ]
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A22",
-            "classroom": "A1.04",
-            "subject": "Machine Learning"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "2": {
       "0": [
          {
-            "string": "P0E19",
-            "classroom": "C1.112",
-            "subject": "Programmeren in Java 2"
+            "subject": "Moderne Databases",
+            "classroom": "A1.06",
+            "string": "W0C18"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "string": "P0C18",
+            "subject": "Programmeren in Java 2",
             "classroom": "A1.06",
-            "subject": "Moderne Databases"
+            "string": "P0E19"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "3": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Machine Learning",
+            "classroom": "B0.201",
+            "string": "L1A22"
+         }
+      ],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "L1A22",
-            "classroom": "A1.08",
-            "subject": "Machine Learning"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "string": "W0C18",
+            "subject": "Moderne Databases",
             "classroom": "A1.10",
-            "subject": "Moderne Databases"
+            "string": "L0A54"
          }
       ],
-      "3": [
-         {
-            "string": "L0A54",
-            "classroom": "C1.112",
-            "subject": "Moderne Databases"
-         }
-      ]
+      "2": [],
+      "3": []
    }
 }

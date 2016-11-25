@@ -8,30 +8,36 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [
-         {
-            "string": "P0A19",
-            "classroom": "B0.201",
-            "subject": "Programmeren in Java 2"
-         }
-      ],
       "2": [
          {
-            "string": "L1A51",
+            "subject": "Reflectie op de digitale cultuur",
             "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur"
+            "string": "W0A17"
          }
       ],
       "3": [
          {
-            "string": "L0A51",
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "C0.110",
+            "string": "L0A49"
+         }
+      ]
+   },
+   "2": {
+      "0": [
+         {
+            "subject": "Programmeren in Java 2",
+            "classroom": "B0.201",
+            "string": "P0A19"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.10",
+            "string": "L0A51"
          }
       ]
    },
@@ -42,20 +48,15 @@
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "string": "L0A49",
-            "classroom": "A1.04",
-            "subject": "Analysemethoden en -technieken"
-         },
-         {
-            "string": "W0A17",
-            "classroom": "B0.201",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.10",
+            "string": "L1A51"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    }
 }

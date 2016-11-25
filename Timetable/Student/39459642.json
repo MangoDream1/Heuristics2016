@@ -1,109 +1,109 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Compilerbouw",
+            "classroom": "C1.112",
+            "string": "P0B34"
+         }
+      ],
       "1": [
          {
-            "string": "L1A69",
-            "classroom": "A1.04",
-            "subject": "Compilerbouw"
+            "subject": "Autonomous Agents 2",
+            "classroom": "B0.201",
+            "string": "L0A22"
          }
       ],
       "2": [
          {
-            "string": "P0F15",
-            "classroom": "C0.110",
-            "subject": "Programmeren in Java 2"
+            "subject": "Databases 2",
+            "classroom": "B0.201",
+            "string": "W0B36"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "subject": "Machine Learning",
+            "classroom": "A1.06",
+            "string": "L0A22"
+         }
+      ]
    },
    "1": {
       "0": [
          {
-            "string": "P0B34",
-            "classroom": "A1.04",
-            "subject": "Compilerbouw"
+            "subject": "Compilerbouw",
+            "classroom": "C0.110",
+            "string": "L0A69"
          }
       ],
-      "1": [
-         {
-            "string": "L0A22",
-            "classroom": "A1.04",
-            "subject": "Machine Learning"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "string": "W0B36",
-            "classroom": "A1.04",
-            "subject": "Databases 2"
+            "subject": "Autonomous Agents 2",
+            "classroom": "C1.112",
+            "string": "L1A22"
          }
       ]
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "string": "W0B34",
-            "classroom": "C1.112",
-            "subject": "Compilerbouw"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "string": "P0C6",
-            "classroom": "A1.04",
-            "subject": "Autonomous Agents 2"
-         }
-      ],
-      "3": []
-   },
-   "3": {
-      "0": [
-         {
-            "string": "L0A22",
+            "subject": "Programmeren in Java 2",
             "classroom": "C0.110",
-            "subject": "Autonomous Agents 2"
-         }
-      ],
-      "1": [
-         {
-            "string": "L1A22",
-            "classroom": "A1.10",
-            "subject": "Autonomous Agents 2"
-         }
-      ],
-      "2": [
-         {
-            "string": "W0C6",
-            "classroom": "C0.110",
-            "subject": "Autonomous Agents 2"
+            "string": "P0F15"
          }
       ],
       "3": [
          {
-            "string": "L0A69",
-            "classroom": "A1.10",
-            "subject": "Compilerbouw"
+            "subject": "Compilerbouw",
+            "classroom": "C0.110",
+            "string": "L1A69"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "subject": "Autonomous Agents 2",
+            "classroom": "B0.201",
+            "string": "P0C6"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Machine Learning",
+            "classroom": "B0.201",
+            "string": "L1A22"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Compilerbouw",
+            "classroom": "C1.112",
+            "string": "W0B34"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Databases 2",
+            "classroom": "C0.110",
+            "string": "L0A72"
          }
       ]
    },
    "4": {
       "0": [
          {
-            "string": "L1A22",
-            "classroom": "A1.08",
-            "subject": "Machine Learning"
+            "subject": "Autonomous Agents 2",
+            "classroom": "C1.112",
+            "string": "W0C6"
          }
       ],
-      "1": [
-         {
-            "string": "L0A72",
-            "classroom": "A1.10",
-            "subject": "Databases 2"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    }

@@ -12,32 +12,32 @@
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "P0A16",
-            "classroom": "A1.10",
-            "subject": "Netwerken en systeembeveiliging"
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "C0.110",
+            "string": "P0A16"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.10",
+            "string": "P0A15"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "string": "P0A15",
-            "classroom": "C0.110",
-            "subject": "Project Numerical Recipes"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    }

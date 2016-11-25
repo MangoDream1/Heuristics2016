@@ -2,91 +2,91 @@
    "0": {
       "0": [
          {
-            "string": "P0D13",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "1": [
-         {
-            "string": "L1A69",
-            "classroom": "A1.04",
-            "subject": "Compilerbouw"
-         }
-      ],
-      "2": [
-         {
-            "string": "P0C12",
+            "subject": "Compilerbouw",
             "classroom": "C1.112",
-            "subject": "Project Genetic Algorithms"
+            "string": "P0B34"
          }
       ],
-      "3": []
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L1A61"
+         }
+      ]
    },
    "1": {
       "0": [
          {
-            "string": "P0B34",
-            "classroom": "A1.04",
-            "subject": "Compilerbouw"
+            "subject": "Compilerbouw",
+            "classroom": "C0.110",
+            "string": "L0A69"
          }
       ],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "string": "L0A61",
+            "subject": "Collectieve Intelligentie",
             "classroom": "A1.04",
-            "subject": "Collectieve Intelligentie"
+            "string": "W0D13"
          }
-      ],
-      "3": []
+      ]
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "string": "W0B34",
-            "classroom": "C1.112",
-            "subject": "Compilerbouw"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [
-         {
-            "string": "L1A61",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "1": [
-         {
-            "string": "W0D13",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "string": "L2A61",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Project Genetic Algorithms",
+            "classroom": "A1.06",
+            "string": "P0C12"
          }
       ],
       "3": [
          {
-            "string": "L0A69",
-            "classroom": "A1.10",
-            "subject": "Compilerbouw"
+            "subject": "Compilerbouw",
+            "classroom": "C0.110",
+            "string": "L1A69"
          }
       ]
+   },
+   "3": {
+      "0": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L0A61"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L2A61"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Compilerbouw",
+            "classroom": "C1.112",
+            "string": "W0B34"
+         }
+      ],
+      "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "B0.201",
+            "string": "P0D13"
+         }
+      ],
       "3": []
    }
 }

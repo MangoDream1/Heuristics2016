@@ -1,33 +1,33 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "string": "L1A21",
-            "classroom": "B0.201",
-            "subject": "Architectuur en computerorganisatie"
+            "subject": "Heuristieken 1",
+            "classroom": "A1.10",
+            "string": "L0A44"
          }
       ],
+      "1": [
+         {
+            "subject": "Kansrekenen 2",
+            "classroom": "C0.110",
+            "string": "L1A84"
+         }
+      ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "L0A44",
-            "classroom": "C0.110",
-            "subject": "Heuristieken 1"
+            "subject": "Architectuur en computerorganisatie",
+            "classroom": "A1.04",
+            "string": "L1A21"
          }
       ],
-      "2": [],
-      "3": [
-         {
-            "string": "L1A84",
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
@@ -40,29 +40,29 @@
       "1": [],
       "2": [
          {
-            "string": "L0A21",
-            "classroom": "C1.112",
-            "subject": "Architectuur en computerorganisatie"
+            "subject": "Kansrekenen 2",
+            "classroom": "C0.110",
+            "string": "L0A84"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "subject": "Heuristieken 1",
+            "classroom": "C1.112",
+            "string": "W0B22"
+         }
+      ]
    },
    "4": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "W0B22",
-            "classroom": "A1.04",
-            "subject": "Heuristieken 1"
+            "subject": "Architectuur en computerorganisatie",
+            "classroom": "C1.112",
+            "string": "L0A21"
          }
       ],
-      "2": [],
-      "3": [
-         {
-            "string": "L0A84",
-            "classroom": "A1.10",
-            "subject": "Kansrekenen 2"
-         }
-      ]
+      "3": []
    }
 }

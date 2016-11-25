@@ -2,41 +2,41 @@
    "0": {
       "0": [
          {
-            "string": "L0A106",
-            "classroom": "C1.112",
-            "subject": "Calculus 2"
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.04",
+            "string": "L0A20"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "subject": "Databases 2",
+            "classroom": "C1.112",
+            "string": "W0A36"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "W0A36",
-            "classroom": "A1.08",
-            "subject": "Databases 2"
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.10",
+            "string": "P0C19"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "L0A20",
-            "classroom": "A1.06",
-            "subject": "Advanced Heuristics"
+            "subject": "Calculus 2",
+            "classroom": "C0.110",
+            "string": "L0A106"
          }
-      ]
+      ],
+      "3": []
    },
    "2": {
-      "0": [
-         {
-            "string": "P0C19",
-            "classroom": "C0.110",
-            "subject": "Programmeren in Java 2"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -45,29 +45,29 @@
       "0": [],
       "1": [
          {
-            "string": "W0B36",
-            "classroom": "A1.04",
-            "subject": "Calculus 2"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [
-         {
-            "string": "L0A72",
-            "classroom": "A1.10",
-            "subject": "Databases 2"
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.06",
+            "string": "P0A10"
          }
       ],
       "2": [],
       "3": [
          {
-            "string": "P0A10",
+            "subject": "Databases 2",
+            "classroom": "C0.110",
+            "string": "L0A72"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "subject": "Calculus 2",
             "classroom": "B0.201",
-            "subject": "Advanced Heuristics"
+            "string": "W0B36"
          }
       ]
    }

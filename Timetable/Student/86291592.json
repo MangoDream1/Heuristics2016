@@ -1,103 +1,104 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "string": "P0A35",
-            "classroom": "A1.04",
-            "subject": "Compilerbouw"
+            "subject": "Compilerbouw",
+            "classroom": "C1.112",
+            "string": "W0A35"
          }
       ],
-      "1": [
-         {
-            "string": "L1A69",
-            "classroom": "A1.04",
-            "subject": "Compilerbouw"
-         }
-      ],
-      "2": [],
       "3": [
          {
-            "string": "P0B16",
-            "classroom": "A1.06",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L1A61"
          }
       ]
    },
    "1": {
       "0": [
          {
-            "string": "W0B16",
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "string": "L0A61",
-            "classroom": "A1.04",
-            "subject": "Collectieve Intelligentie"
-         },
-         {
-            "string": "W0A35",
+            "subject": "Compilerbouw",
             "classroom": "C0.110",
-            "subject": "Compilerbouw"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "string": "P0C19",
-            "classroom": "C0.110",
-            "subject": "Programmeren in Java 2"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [
-         {
-            "string": "L1A61",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "string": "L2A61",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "3": [
-         {
-            "string": "L0A69",
-            "classroom": "A1.10",
-            "subject": "Compilerbouw"
-         }
-      ]
-   },
-   "4": {
-      "0": [
-         {
-            "string": "P0B15",
-            "classroom": "A1.06",
-            "subject": "Project Numerical Recipes"
+            "string": "L0A69"
          }
       ],
       "1": [
          {
-            "string": "P0B16",
-            "classroom": "A1.08",
-            "subject": "Netwerken en systeembeveiliging"
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.10",
+            "string": "P0C19"
          }
       ],
       "2": [],
+      "3": [
+         {
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.10",
+            "string": "P0B15"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.08",
+            "string": "P0B16"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Compilerbouw",
+            "classroom": "C0.110",
+            "string": "L1A69"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L0A61"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L2A61"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Compilerbouw",
+            "classroom": "A1.10",
+            "string": "P0A35"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.08",
+            "string": "W0B16"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "C0.110",
+            "string": "P0B16"
+         }
+      ],
       "3": []
    }
 }

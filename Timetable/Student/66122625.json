@@ -2,30 +2,30 @@
    "0": {
       "0": [
          {
-            "string": "L1A27",
+            "subject": "Heuristieken 1",
             "classroom": "A1.10",
-            "subject": "Data Mining"
+            "string": "L0A44"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "subject": "Data Mining",
+            "classroom": "C0.110",
+            "string": "L0A27"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
       "0": [
          {
-            "string": "W0B9",
-            "classroom": "A1.10",
-            "subject": "Data Mining"
+            "subject": "Data Mining",
+            "classroom": "C1.112",
+            "string": "W0B9"
          }
       ],
-      "1": [
-         {
-            "string": "L0A44",
-            "classroom": "C0.110",
-            "subject": "Heuristieken 1"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -36,20 +36,20 @@
       "3": []
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "L0A27",
-            "classroom": "B0.201",
-            "subject": "Data Mining"
+            "subject": "Data Mining",
+            "classroom": "A1.08",
+            "string": "P0B9"
          }
       ],
-      "1": [],
       "2": [],
       "3": [
          {
-            "string": "P0B9",
-            "classroom": "C0.110",
-            "subject": "Data Mining"
+            "subject": "Heuristieken 1",
+            "classroom": "A1.06",
+            "string": "W0A22"
          }
       ]
    },
@@ -59,9 +59,9 @@
       "2": [],
       "3": [
          {
-            "string": "W0A22",
-            "classroom": "C0.110",
-            "subject": "Heuristieken 1"
+            "subject": "Data Mining",
+            "classroom": "C1.112",
+            "string": "L1A27"
          }
       ]
    }

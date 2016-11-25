@@ -1,37 +1,43 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.08",
+            "string": "W0C17"
+         }
+      ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Databases 2",
+            "classroom": "B0.201",
+            "string": "W0B36"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "W0B36",
-            "classroom": "A1.04",
-            "subject": "Databases 2"
-         }
-      ]
+      "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "string": "L1A51",
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "A1.08",
+            "string": "P0C14"
          }
       ],
+      "1": [],
+      "2": [],
       "3": [
          {
-            "string": "L0A51",
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.10",
+            "string": "L0A51"
          }
       ]
    },
@@ -39,24 +45,24 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Databases 2",
+            "classroom": "C0.110",
+            "string": "L0A72"
+         }
+      ]
    },
    "4": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "L0A72",
+            "subject": "Reflectie op de digitale cultuur",
             "classroom": "A1.10",
-            "subject": "Databases 2"
+            "string": "L1A51"
          }
       ],
-      "2": [],
-      "3": [
-         {
-            "string": "W0C17",
-            "classroom": "A1.08",
-            "subject": "Reflectie op de digitale cultuur"
-         }
-      ]
+      "3": []
    }
 }

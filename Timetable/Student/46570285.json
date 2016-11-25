@@ -2,71 +2,72 @@
    "0": {
       "0": [
          {
-            "string": "L0A106",
-            "classroom": "C1.112",
-            "subject": "Calculus 2"
+            "subject": "Moderne Databases",
+            "classroom": "A1.06",
+            "string": "P0B18"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "string": "W0B18",
+            "subject": "Kansrekenen 2",
             "classroom": "C0.110",
-            "subject": "Moderne Databases"
+            "string": "L1A84"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "L1A84",
+            "subject": "Calculus 2",
             "classroom": "C0.110",
-            "subject": "Kansrekenen 2"
+            "string": "L0A106"
          }
-      ]
+      ],
+      "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Moderne Databases",
+            "classroom": "A1.04",
+            "string": "W0B18"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "W0B36",
-            "classroom": "A1.04",
-            "subject": "Calculus 2"
+            "subject": "Kansrekenen 2",
+            "classroom": "C0.110",
+            "string": "L0A84"
          }
       ],
-      "2": [],
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "P0B18",
-            "classroom": "C0.110",
-            "subject": "Moderne Databases"
+            "subject": "Moderne Databases",
+            "classroom": "A1.10",
+            "string": "L0A54"
          }
       ],
-      "1": [],
       "2": [],
       "3": [
          {
-            "string": "L0A84",
-            "classroom": "A1.10",
-            "subject": "Kansrekenen 2"
-         },
-         {
-            "string": "L0A54",
-            "classroom": "C1.112",
-            "subject": "Moderne Databases"
+            "subject": "Calculus 2",
+            "classroom": "B0.201",
+            "string": "W0B36"
          }
       ]
    }

@@ -1,40 +1,34 @@
 {
    "0": {
-      "0": [
-         {
-            "string": "P0C12",
-            "classroom": "B0.201",
-            "subject": "Compilerbouw (practicum)"
-         }
-      ],
-      "1": [
-         {
-            "string": "W0C16",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "1": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "string": "L0A61",
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L1A61"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "subject": "Collectieve Intelligentie",
             "classroom": "A1.04",
-            "subject": "Collectieve Intelligentie"
+            "string": "W0C16"
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [
          {
-            "string": "P0C16",
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Compilerbouw (practicum)",
+            "classroom": "C1.112",
+            "string": "P0C12"
          }
       ],
       "1": [],
@@ -44,25 +38,31 @@
    "3": {
       "0": [
          {
-            "string": "L1A61",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L0A61"
          }
       ],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "L2A61",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L2A61"
          }
       ],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "A1.08",
+            "string": "P0C16"
+         }
+      ]
    }
 }

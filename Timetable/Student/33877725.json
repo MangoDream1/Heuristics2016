@@ -1,71 +1,77 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.08",
+            "string": "W0B19"
+         }
+      ],
       "2": [
          {
-            "string": "L2A45",
+            "subject": "Software engineering",
             "classroom": "A1.04",
-            "subject": "Bioinformatica"
+            "string": "P0B37"
          }
       ],
       "3": [
          {
-            "string": "P0B37",
-            "classroom": "C1.112",
-            "subject": "Software engineering"
+            "subject": "Bioinformatica",
+            "classroom": "A1.10",
+            "string": "L1A45"
          }
       ]
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "string": "L1A45",
-            "classroom": "A1.06",
-            "subject": "Bioinformatica"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Bioinformatica",
+            "classroom": "A1.08",
+            "string": "P0C15"
+         },
+         {
+            "subject": "Webprogrammeren en databases",
+            "classroom": "B0.201",
+            "string": "L0A39"
+         }
+      ]
    },
    "2": {
       "0": [],
       "1": [
          {
-            "string": "L1A39",
+            "subject": "Software engineering",
             "classroom": "C0.110",
-            "subject": "Webprogrammeren en databases"
+            "string": "L0A75"
          }
       ],
       "2": [
          {
-            "string": "P0C15",
-            "classroom": "A1.06",
-            "subject": "Bioinformatica"
-         },
-         {
-            "string": "W0B37",
-            "classroom": "A1.08",
-            "subject": "Software engineering"
+            "subject": "Bioinformatica",
+            "classroom": "C1.112",
+            "string": "L2A45"
          }
       ],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "W0C15",
-            "classroom": "C0.110",
-            "subject": "Bioinformatica"
+            "subject": "Bioinformatica",
+            "classroom": "A1.04",
+            "string": "W0C15"
          }
       ],
+      "1": [],
       "2": [
          {
-            "string": "L0A45",
-            "classroom": "A1.06",
-            "subject": "Bioinformatica"
+            "subject": "Webprogrammeren en databases",
+            "classroom": "B0.201",
+            "string": "L1A39"
          }
       ],
       "3": []
@@ -73,16 +79,21 @@
    "4": {
       "0": [
          {
-            "string": "L0A39",
+            "subject": "Bioinformatica",
             "classroom": "A1.10",
-            "subject": "Webprogrammeren en databases"
+            "string": "L0A45"
+         },
+         {
+            "subject": "Software engineering",
+            "classroom": "B0.201",
+            "string": "W0B37"
          }
       ],
       "1": [
          {
-            "string": "L0A75",
-            "classroom": "C1.112",
-            "subject": "Software engineering"
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.06",
+            "string": "P0B19"
          }
       ],
       "2": [],

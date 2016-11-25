@@ -1,9 +1,27 @@
 {
    "0": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "subject": "Advanced Heuristics",
+            "classroom": "A1.04",
+            "string": "L0A20"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.08",
+            "string": "W0B19"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Interactie-ontwerp",
+            "classroom": "B0.201",
+            "string": "L0A25"
+         }
+      ]
    },
    "1": {
       "0": [],
@@ -11,21 +29,15 @@
       "2": [],
       "3": [
          {
-            "string": "L0A20",
-            "classroom": "A1.06",
-            "subject": "Advanced Heuristics"
+            "subject": "Webprogrammeren en databases",
+            "classroom": "B0.201",
+            "string": "L0A39"
          }
       ]
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "string": "L1A39",
-            "classroom": "C0.110",
-            "subject": "Webprogrammeren en databases"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -33,36 +45,36 @@
       "0": [],
       "1": [
          {
-            "string": "L1A25",
-            "classroom": "C1.112",
-            "subject": "Interactie-ontwerp"
+            "subject": "Interactie-ontwerp",
+            "classroom": "A1.04",
+            "string": "L1A25"
          }
       ],
       "2": [
          {
-            "string": "L0A25",
-            "classroom": "A1.10",
-            "subject": "Interactie-ontwerp"
+            "subject": "Webprogrammeren en databases",
+            "classroom": "B0.201",
+            "string": "L1A39"
          }
       ],
-      "3": []
-   },
-   "4": {
-      "0": [
-         {
-            "string": "L0A39",
-            "classroom": "A1.10",
-            "subject": "Webprogrammeren en databases"
-         }
-      ],
-      "1": [],
-      "2": [],
       "3": [
          {
-            "string": "P0B10",
+            "subject": "Advanced Heuristics",
             "classroom": "A1.04",
-            "subject": "Advanced Heuristics"
+            "string": "P0B10"
          }
       ]
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "classroom": "A1.06",
+            "string": "P0B19"
+         }
+      ],
+      "2": [],
+      "3": []
    }
 }

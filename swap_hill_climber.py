@@ -13,9 +13,9 @@ def swap_hill_climber(im, noProgressCounterLimit, startRandom):
 
         if im.i == 0 and startRandom:
             for lecture in im.lectures:
-                lecture.day = 0
-                lecture.timeslot = 0
-                lecture.classroom = im.classrooms[0]
+                lecture.day = randint(0, 4)
+                lecture.timeslot = randint(0, 3)
+                lecture.classroom = choice(classrooms)
 
                 changed_lectures.append(lecture)
 

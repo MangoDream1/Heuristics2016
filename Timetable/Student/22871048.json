@@ -1,18 +1,24 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Heuristieken 1",
+            "classroom": "A1.10",
+            "string": "L0A44"
+         }
+      ],
       "1": [
          {
-            "string": "P0A38",
-            "classroom": "C0.110",
-            "subject": "Software engineering"
+            "subject": "Autonomous Agents 2",
+            "classroom": "B0.201",
+            "string": "L0A22"
          }
       ],
       "2": [
          {
-            "string": "P0A8",
+            "subject": "Software engineering",
             "classroom": "A1.10",
-            "subject": "Autonomous Agents 2"
+            "string": "P0A38"
          }
       ],
       "3": []
@@ -21,89 +27,82 @@
       "0": [],
       "1": [
          {
-            "string": "L0A44",
-            "classroom": "C0.110",
-            "subject": "Heuristieken 1"
+            "subject": "Software engineering",
+            "classroom": "A1.04",
+            "string": "W0A38"
          }
       ],
-      "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "string": "W0A38",
-            "classroom": "A1.08",
-            "subject": "Software engineering"
-         }
-      ],
-      "1": [],
       "2": [
          {
-            "string": "L1A51",
+            "subject": "Reflectie op de digitale cultuur",
             "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur"
+            "string": "W0A17"
          }
       ],
       "3": [
          {
-            "string": "L0A51",
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "C0.110",
+            "string": "L0A49"
+         },
+         {
+            "subject": "Autonomous Agents 2",
             "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur"
+            "string": "L1A22"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Software engineering",
+            "classroom": "C0.110",
+            "string": "L0A75"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.10",
+            "string": "L0A51"
          }
       ]
    },
    "3": {
-      "0": [
-         {
-            "string": "L0A22",
-            "classroom": "C0.110",
-            "subject": "Autonomous Agents 2"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "string": "L1A22",
-            "classroom": "A1.10",
-            "subject": "Autonomous Agents 2"
+            "subject": "Autonomous Agents 2",
+            "classroom": "C1.112",
+            "string": "W0A8"
          }
       ],
       "2": [],
       "3": [
          {
-            "string": "W0A8",
-            "classroom": "A1.04",
-            "subject": "Autonomous Agents 2"
+            "subject": "Heuristieken 1",
+            "classroom": "A1.06",
+            "string": "W0A22"
          }
       ]
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "string": "L0A49",
-            "classroom": "A1.04",
-            "subject": "Analysemethoden en -technieken"
+            "subject": "Autonomous Agents 2",
+            "classroom": "A1.08",
+            "string": "P0A8"
          },
          {
-            "string": "W0A17",
-            "classroom": "B0.201",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Reflectie op de digitale cultuur",
+            "classroom": "A1.10",
+            "string": "L1A51"
          }
       ],
-      "1": [
-         {
-            "string": "L0A75",
-            "classroom": "C1.112",
-            "subject": "Software engineering"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "string": "W0A22",
-            "classroom": "C0.110",
-            "subject": "Heuristieken 1"
-         }
-      ]
+      "3": []
    }
 }

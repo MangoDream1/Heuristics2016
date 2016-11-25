@@ -1,91 +1,92 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "P0A38",
-            "classroom": "C0.110",
-            "subject": "Software engineering"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "string": "L2A45",
-            "classroom": "A1.04",
-            "subject": "Bioinformatica"
+            "subject": "Software engineering",
+            "classroom": "A1.10",
+            "string": "P0A38"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "subject": "Bioinformatica",
+            "classroom": "A1.10",
+            "string": "L1A45"
+         }
+      ]
    },
    "1": {
       "0": [],
       "1": [
          {
-            "string": "L1A45",
-            "classroom": "A1.06",
-            "subject": "Bioinformatica"
+            "subject": "Software engineering",
+            "classroom": "A1.04",
+            "string": "W0A38"
          }
       ],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "subject": "Bioinformatica",
+            "classroom": "B0.201",
+            "string": "P0B15"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.10",
+            "string": "P0B15"
+         }
+      ]
    },
    "2": {
       "0": [
          {
-            "string": "W0A38",
-            "classroom": "A1.08",
-            "subject": "Software engineering"
+            "subject": "Compilerbouw (practicum)",
+            "classroom": "A1.10",
+            "string": "P0B14"
          }
       ],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "subject": "Software engineering",
+            "classroom": "C0.110",
+            "string": "L0A75"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Bioinformatica",
+            "classroom": "C1.112",
+            "string": "L2A45"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [
          {
-            "string": "P0B15",
-            "classroom": "A1.10",
-            "subject": "Bioinformatica"
+            "subject": "Bioinformatica",
+            "classroom": "A1.08",
+            "string": "W0B15"
          }
       ],
       "1": [],
-      "2": [
-         {
-            "string": "L0A45",
-            "classroom": "A1.06",
-            "subject": "Bioinformatica"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [
          {
-            "string": "P0B15",
-            "classroom": "A1.06",
-            "subject": "Project Numerical Recipes"
+            "subject": "Bioinformatica",
+            "classroom": "A1.10",
+            "string": "L0A45"
          }
       ],
-      "1": [
-         {
-            "string": "P0B14",
-            "classroom": "A1.06",
-            "subject": "Compilerbouw (practicum)"
-         },
-         {
-            "string": "L0A75",
-            "classroom": "C1.112",
-            "subject": "Software engineering"
-         }
-      ],
-      "2": [
-         {
-            "string": "W0B15",
-            "classroom": "A1.04",
-            "subject": "Bioinformatica"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    }
 }

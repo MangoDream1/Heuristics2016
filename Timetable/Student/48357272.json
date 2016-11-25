@@ -2,78 +2,78 @@
    "0": {
       "0": [
          {
-            "string": "L0A106",
-            "classroom": "C1.112",
-            "subject": "Calculus 2"
+            "subject": "Heuristieken 1",
+            "classroom": "A1.10",
+            "string": "L0A44"
          }
       ],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "P0B37",
-            "classroom": "C1.112",
-            "subject": "Software engineering"
-         }
-      ]
-   },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "string": "L0A44",
-            "classroom": "C0.110",
-            "subject": "Heuristieken 1"
+            "subject": "Software engineering",
+            "classroom": "A1.04",
+            "string": "P0B37"
          }
       ],
-      "2": [],
       "3": []
    },
-   "2": {
+   "1": {
       "0": [],
       "1": [],
       "2": [
          {
-            "string": "W0B37",
-            "classroom": "A1.08",
-            "subject": "Software engineering"
+            "subject": "Calculus 2",
+            "classroom": "C0.110",
+            "string": "L0A106"
          }
       ],
+      "3": [
+         {
+            "subject": "Analysemethoden en -technieken",
+            "classroom": "C0.110",
+            "string": "L0A49"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Software engineering",
+            "classroom": "C0.110",
+            "string": "L0A75"
+         }
+      ],
+      "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "string": "W0B36",
-            "classroom": "A1.04",
-            "subject": "Calculus 2"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Heuristieken 1",
+            "classroom": "A1.06",
+            "string": "W0A22"
+         }
+      ]
    },
    "4": {
       "0": [
          {
-            "string": "L0A49",
-            "classroom": "A1.04",
-            "subject": "Analysemethoden en -technieken"
+            "subject": "Software engineering",
+            "classroom": "B0.201",
+            "string": "W0B37"
          }
       ],
-      "1": [
-         {
-            "string": "L0A75",
-            "classroom": "C1.112",
-            "subject": "Software engineering"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "string": "W0A22",
-            "classroom": "C0.110",
-            "subject": "Heuristieken 1"
+            "subject": "Calculus 2",
+            "classroom": "B0.201",
+            "string": "W0B36"
          }
       ]
    }

@@ -2,85 +2,85 @@
    "0": {
       "0": [
          {
-            "string": "L0A106",
+            "subject": "Compilerbouw",
             "classroom": "C1.112",
-            "subject": "Calculus 2"
-         }
-      ],
-      "1": [
-         {
-            "string": "L1A69",
-            "classroom": "A1.04",
-            "subject": "Compilerbouw"
-         }
-      ],
-      "2": [
-         {
-            "string": "P0C12",
-            "classroom": "C1.112",
-            "subject": "Project Genetic Algorithms"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "string": "P0B34",
-            "classroom": "A1.04",
-            "subject": "Compilerbouw"
+            "string": "P0B34"
          }
       ],
       "1": [],
       "2": [],
+      "3": [
+         {
+            "subject": "Interactie-ontwerp",
+            "classroom": "B0.201",
+            "string": "L0A25"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "subject": "Compilerbouw",
+            "classroom": "C0.110",
+            "string": "L0A69"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Calculus 2",
+            "classroom": "C0.110",
+            "string": "L0A106"
+         }
+      ],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "string": "W0B34",
-            "classroom": "C1.112",
-            "subject": "Compilerbouw"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [
-         {
-            "string": "W0C34",
-            "classroom": "A1.06",
-            "subject": "Calculus 2"
-         }
-      ],
-      "1": [
-         {
-            "string": "L1A25",
-            "classroom": "C1.112",
-            "subject": "Interactie-ontwerp"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "string": "L0A25",
-            "classroom": "A1.10",
-            "subject": "Interactie-ontwerp"
+            "subject": "Project Genetic Algorithms",
+            "classroom": "A1.06",
+            "string": "P0C12"
          }
       ],
       "3": [
          {
-            "string": "L0A69",
-            "classroom": "A1.10",
-            "subject": "Compilerbouw"
+            "subject": "Compilerbouw",
+            "classroom": "C0.110",
+            "string": "L1A69"
          }
       ]
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Interactie-ontwerp",
+            "classroom": "A1.04",
+            "string": "L1A25"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Compilerbouw",
+            "classroom": "C1.112",
+            "string": "W0B34"
+         }
+      ],
+      "3": []
    },
    "4": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Calculus 2",
+            "classroom": "A1.04",
+            "string": "W0C34"
+         }
+      ]
    }
 }

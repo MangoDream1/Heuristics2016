@@ -1,27 +1,27 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [],
       "1": [
          {
-            "string": "L0A22",
-            "classroom": "A1.04",
-            "subject": "Machine Learning"
+            "subject": "Kansrekenen 2",
+            "classroom": "C0.110",
+            "string": "L1A84"
          }
       ],
       "2": [],
       "3": [
          {
-            "string": "L1A84",
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2"
+            "subject": "Machine Learning",
+            "classroom": "A1.06",
+            "string": "L0A22"
          }
       ]
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "2": {
       "0": [],
@@ -31,26 +31,26 @@
    },
    "3": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "subject": "Machine Learning",
+            "classroom": "B0.201",
+            "string": "L1A22"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Kansrekenen 2",
+            "classroom": "C0.110",
+            "string": "L0A84"
+         }
+      ],
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "string": "L1A22",
-            "classroom": "A1.08",
-            "subject": "Machine Learning"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L0A84",
-            "classroom": "A1.10",
-            "subject": "Kansrekenen 2"
-         }
-      ]
+      "3": []
    }
 }

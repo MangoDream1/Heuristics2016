@@ -1,7 +1,13 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Kansrekenen 2",
+            "classroom": "C0.110",
+            "string": "L1A84"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -9,36 +15,30 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "string": "L1A84",
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "string": "P0B19",
-            "classroom": "A1.06",
-            "subject": "Programmeren in Java 2"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "string": "P0A14",
-            "classroom": "A1.04",
-            "subject": "Compilerbouw (practicum)"
+            "subject": "Compilerbouw (practicum)",
+            "classroom": "A1.08",
+            "string": "P0A14"
          }
       ]
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Kansrekenen 2",
+            "classroom": "C0.110",
+            "string": "L0A84"
+         }
+      ],
       "3": []
    },
    "4": {
@@ -47,9 +47,9 @@
       "2": [],
       "3": [
          {
-            "string": "L0A84",
-            "classroom": "A1.10",
-            "subject": "Kansrekenen 2"
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.06",
+            "string": "P0B19"
          }
       ]
    }

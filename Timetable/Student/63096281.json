@@ -7,18 +7,18 @@
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.10",
+            "string": "P0C19"
+         }
+      ],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "string": "P0C19",
-            "classroom": "C0.110",
-            "subject": "Programmeren in Java 2"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []

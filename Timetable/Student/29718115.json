@@ -1,25 +1,13 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "string": "L0A21",
-            "classroom": "B0.201",
-            "subject": "Informatie- en organisatieontwerp"
-         }
-      ],
-      "2": [
-         {
-            "string": "L1A21",
-            "classroom": "B0.201",
-            "subject": "Architectuur en computerorganisatie"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": [
          {
-            "string": "L1A21",
-            "classroom": "A1.04",
-            "subject": "Informatie- en organisatieontwerp"
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "C1.112",
+            "string": "L1A21"
          }
       ]
    },
@@ -27,12 +15,18 @@
       "0": [],
       "1": [
          {
-            "string": "P0A11",
+            "subject": "Informatie- en organisatieontwerp",
             "classroom": "C1.112",
-            "subject": "Informatie- en organisatieontwerp"
+            "string": "L0A21"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "subject": "Architectuur en computerorganisatie",
+            "classroom": "A1.04",
+            "string": "L1A21"
+         }
+      ],
       "3": []
    },
    "2": {
@@ -42,27 +36,33 @@
       "3": []
    },
    "3": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "A1.10",
+            "string": "P0A11"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "4": {
       "0": [
          {
-            "string": "W0A11",
-            "classroom": "C1.112",
-            "subject": "Informatie- en organisatieontwerp"
+            "subject": "Informatie- en organisatieontwerp",
+            "classroom": "C0.110",
+            "string": "W0A11"
          }
       ],
       "1": [],
       "2": [
          {
-            "string": "L0A21",
+            "subject": "Architectuur en computerorganisatie",
             "classroom": "C1.112",
-            "subject": "Architectuur en computerorganisatie"
+            "string": "L0A21"
          }
       ],
-      "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [],
       "3": []
    }
 }

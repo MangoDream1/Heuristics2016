@@ -1,31 +1,31 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "P0D19",
-            "classroom": "A1.06",
-            "subject": "Programmeren in Java 2"
+            "subject": "Kansrekenen 2",
+            "classroom": "C0.110",
+            "string": "L1A84"
          }
       ],
+      "2": [],
       "3": []
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "string": "L1A54",
-            "classroom": "A1.06",
-            "subject": "Lineaire Algebra"
+            "subject": "Lineaire Algebra",
+            "classroom": "C0.110",
+            "string": "L1A54"
          }
       ],
-      "1": [],
       "2": [],
       "3": [
          {
-            "string": "L1A84",
+            "subject": "Analysemethoden en -technieken",
             "classroom": "C0.110",
-            "subject": "Kansrekenen 2"
+            "string": "L0A49"
          }
       ]
    },
@@ -38,31 +38,31 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Kansrekenen 2",
+            "classroom": "C0.110",
+            "string": "L0A84"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [
          {
-            "string": "L0A49",
-            "classroom": "A1.04",
-            "subject": "Analysemethoden en -technieken"
+            "subject": "Programmeren in Java 2",
+            "classroom": "A1.08",
+            "string": "P0D19"
          }
       ],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "string": "L0A54",
+            "subject": "Lineaire Algebra",
             "classroom": "C0.110",
-            "subject": "Lineaire Algebra"
+            "string": "L0A54"
          }
       ],
-      "3": [
-         {
-            "string": "L0A84",
-            "classroom": "A1.10",
-            "subject": "Kansrekenen 2"
-         }
-      ]
+      "2": [],
+      "3": []
    }
 }

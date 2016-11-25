@@ -1,65 +1,60 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "string": "L0A43",
-            "classroom": "A1.08",
-            "subject": "Algoritmen en complexiteit"
-         },
-         {
-            "string": "L1A21",
-            "classroom": "B0.201",
-            "subject": "Architectuur en computerorganisatie"
-         }
-      ],
-      "3": [
-         {
-            "string": "P0A22",
-            "classroom": "A1.08",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ]
-   },
-   "1": {
       "0": [
          {
-            "string": "W0A36",
-            "classroom": "A1.08",
-            "subject": "Databases 2"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "C0.110",
+            "string": "L0A43"
          }
       ],
       "1": [
          {
-            "string": "P0A16",
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Databases 2",
+            "classroom": "C1.112",
+            "string": "W0A36"
          }
       ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L1A61"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [],
       "2": [
          {
-            "string": "L0A61",
+            "subject": "Architectuur en computerorganisatie",
             "classroom": "A1.04",
-            "subject": "Collectieve Intelligentie"
+            "string": "L1A21"
          }
       ],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "classroom": "C0.110",
+            "string": "P0A16"
+         }
+      ],
       "1": [
          {
-            "string": "P0A16",
+            "subject": "Collectieve Intelligentie",
             "classroom": "A1.10",
-            "subject": "Netwerken en systeembeveiliging"
+            "string": "P0A16"
          }
       ],
       "2": [
          {
-            "string": "W0A16",
-            "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.10",
+            "string": "P0A22"
          }
       ],
       "3": []
@@ -67,42 +62,49 @@
    "3": {
       "0": [
          {
-            "string": "L1A61",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L0A61"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "L2A61"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Databases 2",
+            "classroom": "C0.110",
+            "string": "L0A72"
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.04",
+            "string": "W0A22"
          }
       ],
       "1": [],
       "2": [
          {
-            "string": "L0A21",
+            "subject": "Architectuur en computerorganisatie",
             "classroom": "C1.112",
-            "subject": "Architectuur en computerorganisatie"
-         },
-         {
-            "string": "L2A61",
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
+            "string": "L0A21"
          }
       ],
-      "3": []
-   },
-   "4": {
-      "0": [],
-      "1": [
+      "3": [
          {
-            "string": "L0A72",
-            "classroom": "A1.10",
-            "subject": "Databases 2"
+            "subject": "Collectieve Intelligentie",
+            "classroom": "C0.110",
+            "string": "W0A16"
          }
-      ],
-      "2": [
-         {
-            "string": "W0A22",
-            "classroom": "A1.08",
-            "subject": "Algoritmen en complexiteit"
-         }
-      ],
-      "3": []
+      ]
    }
 }

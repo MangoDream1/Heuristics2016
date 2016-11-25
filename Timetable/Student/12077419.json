@@ -2,62 +2,62 @@
    "0": {
       "0": [
          {
-            "string": "P0A35",
-            "classroom": "A1.04",
-            "subject": "Compilerbouw"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "C0.110",
+            "string": "L0A43"
          }
       ],
       "1": [
          {
-            "string": "L1A69",
+            "subject": "Technology for games",
             "classroom": "A1.04",
-            "subject": "Compilerbouw"
+            "string": "W0A19"
          }
       ],
       "2": [
          {
-            "string": "L0A43",
-            "classroom": "A1.08",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Compilerbouw",
+            "classroom": "C1.112",
+            "string": "W0A35"
+         }
+      ],
+      "3": []
+   },
+   "1": {
+      "0": [
+         {
+            "subject": "Compilerbouw",
+            "classroom": "C0.110",
+            "string": "L0A69"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Technology for games",
+            "classroom": "A1.04",
+            "string": "L1A38"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.10",
+            "string": "P0A22"
          }
       ],
       "3": [
          {
-            "string": "P0A22",
-            "classroom": "A1.08",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Compilerbouw",
+            "classroom": "C0.110",
+            "string": "L1A69"
          }
       ]
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "string": "W0A35",
-            "classroom": "C0.110",
-            "subject": "Compilerbouw"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "string": "L1A38",
-            "classroom": "A1.04",
-            "subject": "Technology for games"
-         }
-      ],
-      "1": [
-         {
-            "string": "L0A38",
-            "classroom": "A1.04",
-            "subject": "Technology for games"
-         }
-      ],
-      "2": [],
-      "3": []
    },
    "3": {
       "0": [],
@@ -65,28 +65,28 @@
       "2": [],
       "3": [
          {
-            "string": "L0A69",
+            "subject": "Compilerbouw",
             "classroom": "A1.10",
-            "subject": "Compilerbouw"
+            "string": "P0A35"
          }
       ]
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "W0A19",
-            "classroom": "B0.201",
-            "subject": "Technology for games"
+            "subject": "Algoritmen en complexiteit",
+            "classroom": "A1.04",
+            "string": "W0A22"
          }
       ],
-      "2": [
+      "1": [],
+      "2": [],
+      "3": [
          {
-            "string": "W0A22",
-            "classroom": "A1.08",
-            "subject": "Algoritmen en complexiteit"
+            "subject": "Technology for games",
+            "classroom": "A1.10",
+            "string": "L0A38"
          }
-      ],
-      "3": []
+      ]
    }
 }

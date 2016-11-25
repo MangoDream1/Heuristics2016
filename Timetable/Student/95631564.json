@@ -1,28 +1,28 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "L1A69",
-            "classroom": "A1.04",
-            "subject": "Compilerbouw"
+            "subject": "Compilerbouw",
+            "classroom": "C1.112",
+            "string": "P0B34"
          }
       ],
-      "2": [],
-      "3": [
+      "1": [],
+      "2": [
          {
-            "string": "P0B37",
-            "classroom": "C1.112",
-            "subject": "Software engineering"
+            "subject": "Software engineering",
+            "classroom": "A1.04",
+            "string": "P0B37"
          }
-      ]
+      ],
+      "3": []
    },
    "1": {
       "0": [
          {
-            "string": "P0B34",
-            "classroom": "A1.04",
-            "subject": "Compilerbouw"
+            "subject": "Compilerbouw",
+            "classroom": "C0.110",
+            "string": "L0A69"
          }
       ],
       "1": [],
@@ -33,41 +33,41 @@
       "0": [],
       "1": [
          {
-            "string": "W0B34",
-            "classroom": "C1.112",
-            "subject": "Compilerbouw"
+            "subject": "Software engineering",
+            "classroom": "C0.110",
+            "string": "L0A75"
          }
       ],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "string": "W0B37",
-            "classroom": "A1.08",
-            "subject": "Software engineering"
+            "subject": "Compilerbouw",
+            "classroom": "C0.110",
+            "string": "L1A69"
          }
-      ],
-      "3": []
+      ]
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "L0A69",
-            "classroom": "A1.10",
-            "subject": "Compilerbouw"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
-      "1": [
-         {
-            "string": "L0A75",
+            "subject": "Compilerbouw",
             "classroom": "C1.112",
-            "subject": "Software engineering"
+            "string": "W0B34"
          }
       ],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Software engineering",
+            "classroom": "B0.201",
+            "string": "W0B37"
+         }
+      ],
+      "1": [],
       "2": [],
       "3": []
    }

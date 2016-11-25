@@ -1,68 +1,68 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "string": "L1A69",
-            "classroom": "A1.04",
-            "subject": "Compilerbouw"
+            "subject": "Compilerbouw",
+            "classroom": "C1.112",
+            "string": "P0B34"
          }
       ],
-      "2": [
-         {
-            "string": "P0F15",
-            "classroom": "C0.110",
-            "subject": "Programmeren in Java 2"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [
          {
-            "string": "P0B34",
-            "classroom": "A1.04",
-            "subject": "Compilerbouw"
+            "subject": "Compilerbouw",
+            "classroom": "C0.110",
+            "string": "L0A69"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "subject": "Project Numerical Recipes",
+            "classroom": "A1.06",
+            "string": "P0C14"
+         }
+      ],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "string": "W0B34",
-            "classroom": "C1.112",
-            "subject": "Compilerbouw"
+            "subject": "Programmeren in Java 2",
+            "classroom": "C0.110",
+            "string": "P0F15"
          }
       ],
-      "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Compilerbouw",
+            "classroom": "C0.110",
+            "string": "L1A69"
+         }
+      ]
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "string": "L0A69",
-            "classroom": "A1.10",
-            "subject": "Compilerbouw"
+            "subject": "Compilerbouw",
+            "classroom": "C1.112",
+            "string": "W0B34"
          }
-      ]
+      ],
+      "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "string": "P0C14",
-            "classroom": "B0.201",
-            "subject": "Project Numerical Recipes"
-         }
-      ],
+      "2": [],
       "3": []
    }
 }

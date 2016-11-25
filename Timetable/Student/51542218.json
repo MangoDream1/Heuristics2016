@@ -1,25 +1,30 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Databases 2",
+            "classroom": "C1.112",
+            "string": "W0A36"
+         },
+         {
+            "subject": "Kansrekenen 2",
+            "classroom": "C0.110",
+            "string": "L1A84"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "string": "W0A36",
-            "classroom": "A1.08",
-            "subject": "Databases 2"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "string": "L1A84",
+            "subject": "Analysemethoden en -technieken",
             "classroom": "C0.110",
-            "subject": "Kansrekenen 2"
+            "string": "L0A49"
          }
       ]
    },
@@ -32,31 +37,25 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [
+      "2": [
          {
-            "string": "L0A49",
-            "classroom": "A1.04",
-            "subject": "Analysemethoden en -technieken"
+            "subject": "Kansrekenen 2",
+            "classroom": "C0.110",
+            "string": "L0A84"
          }
       ],
-      "1": [
-         {
-            "string": "L0A72",
-            "classroom": "A1.10",
-            "subject": "Databases 2"
-         }
-      ],
-      "2": [],
       "3": [
          {
-            "string": "L0A84",
-            "classroom": "A1.10",
-            "subject": "Kansrekenen 2"
+            "subject": "Databases 2",
+            "classroom": "C0.110",
+            "string": "L0A72"
          }
       ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

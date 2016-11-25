@@ -2,138 +2,138 @@
    "0": {
       "0": [
          {
-            "string": "P0D13",
+            "subject": "Reflectie op de digitale cultuur",
             "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
+            "string": "W0C17"
          }
       ],
       "1": [
          {
-            "string": "W0C16",
+            "subject": "Webprogrammeren en databases",
             "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
+            "string": "W0B19"
          }
       ],
       "2": [
          {
-            "string": "L0A43",
+            "subject": "Reflectie op de digitale cultuur",
             "classroom": "A1.08",
-            "subject": "Algoritmen en complexiteit"
+            "string": "W0B17"
          }
       ],
       "3": [
          {
-            "string": "P0A22",
+            "subject": "Webprogrammeren en databases",
             "classroom": "A1.08",
-            "subject": "Algoritmen en complexiteit"
+            "string": "P0A20"
          }
       ]
    },
    "1": {
-      "0": [
-         {
-            "string": "W0A36",
-            "classroom": "A1.08",
-            "subject": "Databases 2"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
-            "string": "W0A15",
+            "subject": "Technology for games",
             "classroom": "A1.08",
-            "subject": "Bioinformatica"
+            "string": "W0B19"
          }
       ],
       "3": [
          {
-            "string": "P0A9",
+            "subject": "Bioinformatica",
             "classroom": "A1.08",
-            "subject": "Data Mining"
+            "string": "P0C15"
          }
       ]
    },
    "2": {
       "0": [
          {
-            "string": "W0A38",
+            "subject": "Zoeken, sturen en bewegen",
             "classroom": "A1.08",
-            "subject": "Software engineering"
+            "string": "P0C14"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "classroom": "A1.08",
+            "string": "P0B14"
+         }
+      ],
       "2": [
          {
-            "string": "W0B37",
+            "subject": "Collectieve Intelligentie",
             "classroom": "A1.08",
-            "subject": "Software engineering"
+            "string": "P0B16"
          }
       ],
       "3": [
          {
-            "string": "W0A36",
+            "subject": "Compilerbouw (practicum)",
             "classroom": "A1.08",
-            "subject": "Calculus 2"
+            "string": "P0A14"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "string": "L1A61",
+            "subject": "Bioinformatica",
             "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
+            "string": "W0B15"
          }
       ],
       "1": [
          {
-            "string": "W0D13",
+            "subject": "Data Mining",
             "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
+            "string": "P0B9"
          }
       ],
       "2": [
          {
-            "string": "L2A61",
+            "subject": "Informatie- en organisatieontwerp",
             "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie"
+            "string": "P0B10"
          }
       ],
       "3": [
          {
-            "string": "W0A9",
+            "subject": "Data Mining",
             "classroom": "A1.08",
-            "subject": "Data Mining"
+            "string": "P0A9"
          }
       ]
    },
    "4": {
       "0": [
          {
-            "string": "L1A22",
+            "subject": "Programmeren in Java 2",
             "classroom": "A1.08",
-            "subject": "Machine Learning"
+            "string": "P0D19"
          }
       ],
       "1": [
          {
-            "string": "P0B16",
+            "subject": "Collectieve Intelligentie",
             "classroom": "A1.08",
-            "subject": "Netwerken en systeembeveiliging"
+            "string": "W0B16"
          }
       ],
       "2": [
          {
-            "string": "W0A22",
+            "subject": "Autonomous Agents 2",
             "classroom": "A1.08",
-            "subject": "Algoritmen en complexiteit"
+            "string": "P0A8"
          }
       ],
       "3": [
          {
-            "string": "W0C17",
+            "subject": "Collectieve Intelligentie",
             "classroom": "A1.08",
-            "subject": "Reflectie op de digitale cultuur"
+            "string": "P0C16"
          }
       ]
    }
