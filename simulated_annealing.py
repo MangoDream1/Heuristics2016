@@ -4,9 +4,9 @@ from random import randint, choice, random
 from operator import itemgetter
 from math import exp
 
-def swap_simulated_annealing(im, startRandom, Tmax=25000, 
+def swap_simulated_annealing(im, startRandom, Tmax=25000,
                              Tmin = 10, ding=100):
-    
+
     print("Starting swap simulated annealing...")
 
     temp = Tmax
@@ -17,9 +17,9 @@ def swap_simulated_annealing(im, startRandom, Tmax=25000,
 
         if im.i == 0 and startRandom:
             for lecture in im.lectures:
-                lecture.day = 0
-                lecture.timeslot = 0
-                lecture.classroom = im.classrooms[0]
+                lecture.day = randint(0, 4)
+                lecture.timeslot = randint(0, 3)
+                lecture.classroom = choice(classrooms)
 
                 changed_lectures.append(lecture)
 
@@ -68,7 +68,7 @@ def swap_simulated_annealing(im, startRandom, Tmax=25000,
                     im.createBase()
 
             if acception_rate >= random():
-            
+
                 im.i += 1
                 nIteration += 1
 
@@ -79,7 +79,7 @@ def swap_simulated_annealing(im, startRandom, Tmax=25000,
 
         if temp <= Tmin or im.iteration_dct[im.i-1]["score"] >= 1440:
             break
-    
+
 
     best_iteration = max([(i, im.iteration_dct[i]["score"]) for i in im.iteration_dct.keys()], key=itemgetter(1))
     print("Best iteration: %s, Score: %s" % (best_iteration[0], best_iteration[1]))
