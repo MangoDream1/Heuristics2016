@@ -31,8 +31,10 @@ def random_timetables(im, nPlannedIterations):
         update_progress(im.i/nPlannedIterations)
 
     best_iteration = max([(i, im.iteration_dct[i]["score"]) for i in im.iteration_dct.keys()], key=itemgetter(1))
+    
+    average = sum([im.iteration_dct[i]["score"] for i in im.iteration_dct.keys()]) / nPlannedIterations
 
-    print("Best iteration: %s, Score: %s" % (best_iteration[0], best_iteration[1]))
+    print("Best iteration: %s, Score: %s, Average Score: %s" % (best_iteration[0], best_iteration[1], average))
 
     compiled_changes = im.compileChanges(best_iteration[0])
     im.applyChanges(compiled_changes)
@@ -41,4 +43,4 @@ def random_timetables(im, nPlannedIterations):
 
     return im.lecture_dct
 
-t = random_timetables(iteration_manager, 1)
+random_timetables(iteration_manager, 1000)

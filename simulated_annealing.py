@@ -4,8 +4,8 @@ from random import randint, choice, random
 from operator import itemgetter
 from math import exp
 
-def swap_simulated_annealing(im, startRandom, Tmax=25000,
-                             Tmin = 10, ding=100):
+def swap_simulated_annealing(im, startRandom, Tmax=1000,
+                             Tmin = 1, ding=100):
 
     print("Starting swap simulated annealing...")
 
@@ -57,18 +57,25 @@ def swap_simulated_annealing(im, startRandom, Tmax=25000,
             im.addChanges(changed_lectures)
 
             # Simulated Annealing from here
-            temp -= nIteration / ding
+            temp *= 0.9999
 
-            acception_rate = exp((im.iteration_dct[im.i - 1]["score"] - im.iteration_dct[im.i]["score"]) / temp)
+            acception_rate = exp(-(im.iteration_dct[im.i - 1]["score"] - im.iteration_dct[im.i]["score"]) / temp)
 
-            if nIteration % 100 == 0:
-                    print(im.iteration_dct[im.i]["score"])
-                    print(nIteration / ding)
-                    print(acception_rate)
-                    im.createBase()
+            if nIteration % 100000 == 0:
+                print(im.iteration_dct[im.i]["score"])
+                print(nIteration / ding)
+                print(temp)
+                print(acception_rate)
+                im.createBase()
 
-            if acception_rate >= random():
 
+            r = random()
+
+            if im.iteration_dct[im.i]["score"] > im.iteration_dct[im.i - 1]["score"]:
+                im.i += 1
+                nIteration += 1
+
+            elif acception_rate >= r:
                 im.i += 1
                 nIteration += 1
 
@@ -76,6 +83,10 @@ def swap_simulated_annealing(im, startRandom, Tmax=25000,
                 # Reset to previous state
                 im.applyChanges(im.compileChanges(im.i - 1))
                 nIteration += 1
+
+            if nIteration % 1 == 0:
+                print(str(acception_rate >= r) + " " + str(int(temp)) + " " + str(im.iteration_dct[im.i-1]["score"]))
+
 
         if temp <= Tmin or im.iteration_dct[im.i-1]["score"] >= 1440:
             break

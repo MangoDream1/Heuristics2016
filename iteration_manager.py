@@ -30,6 +30,7 @@ class IterationManager:
 
         self.i = 0
 
+        
     def resetLectures(self):
         for x in self.subjects + self.students + self.classrooms:
             x.clearLectures()
@@ -37,6 +38,7 @@ class IterationManager:
         for x in self.lectures:
             x.assignLecturetoAll()
 
+            
     def addChanges(self, changed_lectures):
         self.iteration_dct[self.i] = {self.lecture_dct[x]:x.getChangingDataDict()
                                     for x in changed_lectures}
@@ -48,7 +50,7 @@ class IterationManager:
 
         return self.iteration_dct
 
-    def compileChanges(self, i):
+    def compileChanges(self, i):    
         # Find nearest base
         base = 0
         for x in reversed(range(i)):
