@@ -4,13 +4,15 @@ from random import randint, choice
 from operator import itemgetter
 
 def update_progress(workdone, text='Progress:'):
-    print("\r{0} [{1:50s}] {2:.1f}%".format(text, '#' * int(workdone * 50), workdone*100), end="", flush=True)
+    print("\r{0} [{1:50s}] {2:.1f}%".format(text, '#' * int(workdone * 50),
+    workdone*100), end="", flush=True)
 
     if workdone == 1:
         print('\n')
 
 def random_timetables(im, nPlannedIterations):
-    print("Starting random timetables with %s iterations..." % nPlannedIterations)
+    print("Starting random timetables with %s iterations..."
+            % nPlannedIterations)
 
     while im.i != nPlannedIterations:
         changed_lectures = []
@@ -30,11 +32,15 @@ def random_timetables(im, nPlannedIterations):
         im.i += 1
         update_progress(im.i/nPlannedIterations)
 
-    best_iteration = max([(i, im.iteration_dct[i]["score"]) for i in im.iteration_dct.keys()], key=itemgetter(1))
-    
-    average = sum([im.iteration_dct[i]["score"] for i in im.iteration_dct.keys()]) / nPlannedIterations
+    best_iteration = max([(i, im.iteration_dct[i]["score"])
+                            for i in im.iteration_dct.keys()],
+                            key=itemgetter(1))
 
-    print("Best iteration: %s, Score: %s, Average Score: %s" % (best_iteration[0], best_iteration[1], average))
+    average = sum([im.iteration_dct[i]["score"]
+                    for i in im.iteration_dct.keys()]) / nPlannedIterations
+
+    print("Best iteration: %s, Score: %s, Average Score: %s" %
+                (best_iteration[0], best_iteration[1], average))
 
     compiled_changes = im.compileChanges(best_iteration[0])
     im.applyChanges(compiled_changes)

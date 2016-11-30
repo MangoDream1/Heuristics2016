@@ -33,7 +33,8 @@ def swap_simulated_annealing(im, startRandom, Tmax=1000,
             rTimeslot = randint(0, 3)
 
             new_location = rClassroom.timetable[rDay][rTimeslot]
-            old_location = rLecture.classroom.timetable[rLecture.day][rLecture.timeslot]
+            old_location = rLecture.classroom.\
+                                    timetable[rLecture.day][rLecture.timeslot]
 
             if new_location == []:
                 new_location.append(rLecture)
@@ -59,9 +60,10 @@ def swap_simulated_annealing(im, startRandom, Tmax=1000,
             # Simulated Annealing from here
             temp *= 0.9999
 
-            acception_rate = exp(-(im.iteration_dct[im.i - 1]["score"] - im.iteration_dct[im.i]["score"]) / temp)
+            acception_rate = exp(-(im.iteration_dct[im.i - 1]["score"] - \
+                                   im.iteration_dct[im.i]["score"]) / temp)
 
-            if nIteration % 100000 == 0:
+            if nIteration % 1000 == 0:
                 print(im.iteration_dct[im.i]["score"])
                 print(nIteration / ding)
                 print(temp)
@@ -71,7 +73,9 @@ def swap_simulated_annealing(im, startRandom, Tmax=1000,
 
             r = random()
 
-            if im.iteration_dct[im.i]["score"] > im.iteration_dct[im.i - 1]["score"]:
+            if im.iteration_dct[im.i]["score"] > \
+               im.iteration_dct[im.i - 1]["score"]:
+
                 im.i += 1
                 nIteration += 1
 
@@ -92,8 +96,12 @@ def swap_simulated_annealing(im, startRandom, Tmax=1000,
             break
 
 
-    best_iteration = max([(i, im.iteration_dct[i]["score"]) for i in im.iteration_dct.keys()], key=itemgetter(1))
-    print("Best iteration: %s, Score: %s" % (best_iteration[0], best_iteration[1]))
+    best_iteration = max([(i, im.iteration_dct[i]["score"])
+                            for i in im.iteration_dct.keys()],
+                            key=itemgetter(1))
+
+    print("Best iteration: %s, Score: %s" % (best_iteration[0],
+                                             best_iteration[1]))
 
     im.applyChanges(im.compileChanges(best_iteration[0]))
 
@@ -101,7 +109,10 @@ def swap_simulated_annealing(im, startRandom, Tmax=1000,
 
 
 startRandom = True
-if input("Do you want to start from a previously made timetable [Y/N]: ").lower() == 'y':
+
+if input("Do you want to start from a "
+         "previously made timetable [Y/N]: ").lower() == 'y':
+
     iteration_manager.importLectures(input("Timetable name: "))
     iteration_manager.exportTimetable()
     startRandom = False

@@ -29,7 +29,8 @@ def swap_hill_climber(im, noProgressCounterLimit, startRandom):
             rTimeslot = randint(0, 3)
 
             new_location = rClassroom.timetable[rDay][rTimeslot]
-            old_location = rLecture.classroom.timetable[rLecture.day][rLecture.timeslot]
+            old_location = rLecture.classroom.\
+                                    timetable[rLecture.day][rLecture.timeslot]
 
             if new_location == []:
                 new_location.append(rLecture)
@@ -52,7 +53,9 @@ def swap_hill_climber(im, noProgressCounterLimit, startRandom):
 
             im.addChanges(changed_lectures)
 
-            if im.iteration_dct[im.i]["score"] > im.iteration_dct[im.i - 1]["score"]:
+            if im.iteration_dct[im.i]["score"] > \
+               im.iteration_dct[im.i - 1]["score"]:
+
                 if im.i % 10 == 0:
                     print(im.iteration_dct[im.i]["score"])
 
@@ -66,16 +69,23 @@ def swap_hill_climber(im, noProgressCounterLimit, startRandom):
                 im.applyChanges(im.compileChanges(im.i - 1))
                 noProgressCounter += 1
 
-    best_iteration = max([(i, im.iteration_dct[i]["score"]) for i in im.iteration_dct.keys()], key=itemgetter(1))
-    print("Best iteration: %s, Score: %s" % (best_iteration[0], best_iteration[1]))
+    best_iteration = max([(i, im.iteration_dct[i]["score"])
+                            for i in im.iteration_dct.keys()],
+                            key=itemgetter(1))
+
+    print("Best iteration: %s, Score: %s" % (best_iteration[0],
+                                             best_iteration[1]))
 
     im.applyChanges(im.compileChanges(best_iteration[0]))
 
-    im.exportLectures("SHC%snPl%s" % (best_iteration[1], noProgressCounterLimit))
+    im.exportLectures("SHC%snPl%s" % (best_iteration[1],
+                                      noProgressCounterLimit))
 
 
 startRandom = True
-if input("Do you want to start from a previously made timetable [Y/N]: ").lower() == 'y':
+if input("Do you want to start from a "
+         "previously made timetable [Y/N]: ").lower() == 'y':
+         
     iteration_manager.importLectures(input("Timetable name: "))
     startRandom = False
 
