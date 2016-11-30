@@ -3,7 +3,8 @@ from iteration_manager import *
 from random import randint, choice, random
 from operator import itemgetter
 
-def simple_hill_climber(im, noProgressCounterLimit, classroomWeigth, timeslotWeigth, dayWeigth, startRandom=True):
+def simple_hill_climber(im, noProgressCounterLimit, classroomWeigth,
+                        timeslotWeigth, dayWeigth, startRandom=True):
     print("Starting simple hill climber...")
 
     weight = 1 / (classroomWeigth + timeslotWeigth + dayWeigth)
@@ -38,13 +39,16 @@ def simple_hill_climber(im, noProgressCounterLimit, classroomWeigth, timeslotWei
             elif r > classroomWeigth and r < (timeslotWeigth + classroomWeigth):
                 # Timeslot
                 lecture.timeslot = randint(0, 3)
-            elif r > (timeslotWeigth + classroomWeigth) and r < (timeslotWeigth + classroomWeigth + dayWeigth):
+            elif r > (timeslotWeigth + classroomWeigth) and \
+                 r < (timeslotWeigth + classroomWeigth + dayWeigth):
+
                 # Day
                 lecture.day = randint(0, 4)
 
             im.addChanges(changed_lectures)
 
-            if im.iteration_dct[im.i]["score"] > im.iteration_dct[im.i - 1]["score"]:
+            if im.iteration_dct[im.i]["score"] > \
+               im.iteration_dct[im.i - 1]["score"]:
                 if im.i % 10 == 0:
                     print(im.iteration_dct[im.i]["score"])
 
@@ -57,15 +61,23 @@ def simple_hill_climber(im, noProgressCounterLimit, classroomWeigth, timeslotWei
                 im.applyChanges(im.compileChanges(im.i - 1))
                 noProgressCounter += 1
 
-    best_iteration = max([(i, im.iteration_dct[i]["score"]) for i in im.iteration_dct.keys()], key=itemgetter(1))
-    print("Best iteration: %s, Score: %s" % (best_iteration[0], best_iteration[1]))
+    best_iteration = max([(i, im.iteration_dct[i]["score"])
+                            for i in im.iteration_dct.keys()],
+                            key=itemgetter(1))
+
+    print("Best iteration: %s, Score: %s" % (best_iteration[0],
+                                             best_iteration[1]))
 
     im.applyChanges(im.compileChanges(best_iteration[0]))
 
-    im.exportLectures("HC%snPl%sc%.1ft%.1fd%.1f" % (best_iteration[1], noProgressCounterLimit, classroomWeigth, timeslotWeigth, dayWeigth))
+    im.exportLectures("HC%snPl%sc%.1ft%.1fd%.1f" %
+                        (best_iteration[1], noProgressCounterLimit,
+                         classroomWeigth, timeslotWeigth, dayWeigth))
 
 startRandom = True
-if input("Do you want to start from a previously made timetable [Y/N]: ").lower() == 'y':
+if input("Do you want to start from a "
+         "previously made timetable [Y/N]: ").lower() == 'y':
+         
     iteration_manager.importLectures(input("Timetable name: "))
     startRandom = False
 
