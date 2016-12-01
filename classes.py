@@ -24,6 +24,8 @@ class Lecture:
         self.group = 0
         self.classroom = None
 
+        self.siblings = []
+
         if maxStud == "nvt":
             self.maxStud = 0
         else:

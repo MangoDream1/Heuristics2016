@@ -13,7 +13,6 @@ class IterationManager:
         self.students = students
         self.student_dct = {x.getId(): x for x in students}
 
-
         for student in self.students:
             student.assignSubjectToStudent(self.subject_dct)
 
@@ -41,7 +40,7 @@ class IterationManager:
 
     def addChanges(self, changed_lectures):
         self.iteration_dct[self.i] = {self.lecture_dct[x]:x.getChangingDataDict()
-                                    for x in changed_lectures}
+                                        for x in changed_lectures}
         self.iteration_dct[self.i]["base"] = False
 
         self.resetLectures()
@@ -103,9 +102,11 @@ class IterationManager:
                      "students":
                         {x.getId(): x.score for x in self.students},
                      "totals":
-                        {"classroom": sum(x.score for x in self.classrooms),
-                         "subjects": sum(x.score for x in self.subjects),
-                         "students": sum(x.score for x in self.students)}
+                        {
+                            "classroom": sum(x.score for x in self.classrooms),
+                            "subjects": sum(x.score for x in self.subjects),
+                            "students": sum(x.score for x in self.students)
+                        }
                     }
 
         if not os.path.exists("Timetable/Scores"):
