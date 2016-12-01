@@ -59,8 +59,8 @@ def swap_simulated_annealing(im, startRandom, Tmax=1000, Tmin = 1):
             # Simulated Annealing from here
             temp *= 0.9999
 
-            acception_rate = exp(-(im.iteration_dct[im.i - 1]["score"] - \
-                                   im.iteration_dct[im.i]["score"]) / temp)
+            acception_rate = exp((im.iteration_dct[im.i]["score"] - \
+                                   im.iteration_dct[im.i - 1]["score"]) / temp)
 
             if nIteration % 1000 == 0:
                 print(im.iteration_dct[im.i]["score"])
