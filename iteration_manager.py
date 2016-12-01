@@ -30,7 +30,7 @@ class IterationManager:
 
         self.i = 0
 
-        
+
     def resetLectures(self):
         for x in self.subjects + self.students + self.classrooms:
             x.clearLectures()
@@ -38,7 +38,7 @@ class IterationManager:
         for x in self.lectures:
             x.assignLecturetoAll()
 
-            
+
     def addChanges(self, changed_lectures):
         self.iteration_dct[self.i] = {self.lecture_dct[x]:x.getChangingDataDict()
                                     for x in changed_lectures}
@@ -50,7 +50,7 @@ class IterationManager:
 
         return self.iteration_dct
 
-    def compileChanges(self, i):    
+    def compileChanges(self, i):
         # Find nearest base
         base = 0
         for x in reversed(range(i)):
@@ -93,6 +93,26 @@ class IterationManager:
 
         with open("Timetable/Lectures/%s.json" % file_name, 'w') as f:
             json.dump(export_dct, f, indent=3)
+
+        self.score_system.total_score()
+
+        score_dct = {"classrooms":
+                        {x.getId(): x.score for x in self.classrooms},
+                     "subjects":
+                        {x.getId(): x.score for x in self.subjects},
+                     "students":
+                        {x.getId(): x.score for x in self.students},
+                     "totals":
+                        {"classroom": sum(x.score for x in self.classrooms),
+                         "subjects": sum(x.score for x in self.subjects),
+                         "students": sum(x.score for x in self.students)}
+                    }
+
+        if not os.path.exists("Timetable/Scores"):
+            os.makedirs("Timetable/Scores")
+
+        with open("Timetable/Scores/%s.json" % file_name, 'w') as f:
+            json.dump(score_dct, f, indent=3)
 
     def exportTimetable(self):
         for x in self.subjects + self.students + self.classrooms:

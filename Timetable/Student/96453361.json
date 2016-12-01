@@ -4,16 +4,16 @@
       "1": [],
       "2": [
          {
-            "classroom": "A1.04",
             "subject": "Algoritmen en complexiteit",
-            "string": "W0B21"
+            "string": "W0B21",
+            "classroom": "A1.04"
          }
       ],
       "3": [
          {
-            "classroom": "A1.10",
             "subject": "Bioinformatica",
-            "string": "L0A45"
+            "string": "L0A45",
+            "classroom": "A1.10"
          }
       ]
    },
@@ -22,27 +22,33 @@
       "1": [],
       "2": [
          {
-            "classroom": "A1.10",
             "subject": "Bioinformatica",
-            "string": "L1A45"
+            "string": "L1A45",
+            "classroom": "A1.10"
          }
       ],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0C14",
+            "classroom": "A1.04"
+         }
+      ],
       "2": [],
       "3": [
          {
-            "classroom": "C1.112",
             "subject": "Algoritmen en complexiteit",
-            "string": "L0A43"
+            "string": "L0A43",
+            "classroom": "C1.112"
          },
          {
-            "classroom": "A1.10",
             "subject": "Bioinformatica",
-            "string": "L2A45"
+            "string": "L2A45",
+            "classroom": "A1.10"
          }
       ]
    },
@@ -51,33 +57,27 @@
       "1": [],
       "2": [
          {
-            "classroom": "C1.112",
             "subject": "Bioinformatica",
-            "string": "W0C15"
+            "string": "W0C15",
+            "classroom": "C1.112"
          }
       ],
-      "3": [
-         {
-            "classroom": "C0.110",
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0C14"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [
          {
-            "classroom": "A1.10",
             "subject": "Algoritmen en complexiteit",
-            "string": "P0B21"
+            "string": "P0B21",
+            "classroom": "A1.10"
          }
       ],
       "1": [],
       "2": [
          {
-            "classroom": "A1.06",
             "subject": "Bioinformatica",
-            "string": "P0C15"
+            "string": "P0C15",
+            "classroom": "A1.06"
          }
       ],
       "3": []

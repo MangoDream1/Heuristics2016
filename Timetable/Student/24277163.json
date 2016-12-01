@@ -4,16 +4,16 @@
       "1": [],
       "2": [
          {
-            "classroom": "B0.201",
             "subject": "Collectieve Intelligentie",
-            "string": "P0D13"
+            "string": "P0D13",
+            "classroom": "B0.201"
          }
       ],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Databases 2",
-            "string": "W0B36"
+            "string": "W0B36",
+            "classroom": "C0.110"
          }
       ]
    },
@@ -21,45 +21,45 @@
       "0": [],
       "1": [
          {
-            "classroom": "B0.201",
             "subject": "Moderne Databases",
-            "string": "W0C18"
+            "string": "W0C18",
+            "classroom": "B0.201"
          }
       ],
       "2": [],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L1A61"
+            "string": "L1A61",
+            "classroom": "C0.110"
          },
          {
-            "classroom": "B0.201",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "W0C17"
+            "string": "W0C17",
+            "classroom": "B0.201"
          }
       ]
    },
    "2": {
       "0": [
          {
-            "classroom": "C1.112",
             "subject": "Moderne Databases",
-            "string": "L0A54"
+            "string": "L0A54",
+            "classroom": "C1.112"
          },
          {
-            "classroom": "A1.10",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51"
+            "string": "L0A51",
+            "classroom": "A1.10"
          }
       ],
       "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L0A61"
+            "string": "L0A61",
+            "classroom": "C0.110"
          }
       ]
    },
@@ -67,41 +67,41 @@
       "0": [],
       "1": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L2A61"
-         }
-      ],
-      "2": [
-         {
-            "classroom": "C0.110",
-            "subject": "Databases 2",
-            "string": "L0A72"
-         }
-      ],
-      "3": []
-   },
-   "4": {
-      "0": [
-         {
-            "classroom": "C0.110",
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51"
-         }
-      ],
-      "1": [
-         {
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie",
-            "string": "W0D13"
+            "string": "L2A61",
+            "classroom": "C0.110"
          }
       ],
       "2": [],
       "3": [
          {
-            "classroom": "A1.10",
+            "subject": "Databases 2",
+            "string": "L0A72",
+            "classroom": "C0.110"
+         }
+      ]
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51",
+            "classroom": "C0.110"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Collectieve Intelligentie",
+            "string": "W0D13",
+            "classroom": "A1.08"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
             "subject": "Moderne Databases",
-            "string": "P0C18"
+            "string": "P0C18",
+            "classroom": "A1.10"
          }
       ]
    }

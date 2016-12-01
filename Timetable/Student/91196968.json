@@ -1,13 +1,7 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "subject": "Data Mining",
-            "string": "W0A9",
-            "classroom": "B0.201"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -44,7 +38,13 @@
             "classroom": "A1.06"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "subject": "Data Mining",
+            "string": "W0A9",
+            "classroom": "B0.201"
+         }
+      ],
       "3": []
    },
    "3": {

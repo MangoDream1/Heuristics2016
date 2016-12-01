@@ -7,7 +7,13 @@
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0A14",
+            "classroom": "A1.10"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -18,6 +24,11 @@
             "subject": "Zoeken, sturen en bewegen",
             "string": "P0B14",
             "classroom": "A1.10"
+         },
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0C14",
+            "classroom": "A1.04"
          }
       ],
       "2": [],
@@ -27,18 +38,7 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0A14",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0C14",
-            "classroom": "C0.110"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],

@@ -4,16 +4,16 @@
       "1": [],
       "2": [
          {
-            "classroom": "C0.110",
             "subject": "Calculus 2",
-            "string": "L0A106"
+            "string": "L0A106",
+            "classroom": "C0.110"
          }
       ],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Databases 2",
-            "string": "W0B36"
+            "string": "W0B36",
+            "classroom": "C0.110"
          }
       ]
    },
@@ -22,9 +22,9 @@
       "1": [],
       "2": [
          {
-            "classroom": "A1.08",
             "subject": "Programmeren in Java 2",
-            "string": "P0F15"
+            "string": "P0F15",
+            "classroom": "A1.08"
          }
       ],
       "3": []
@@ -39,27 +39,27 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.10",
             "subject": "Calculus 2",
-            "string": "W0C34"
+            "string": "W0C34",
+            "classroom": "A1.10"
          }
       ],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "classroom": "C0.110",
             "subject": "Databases 2",
-            "string": "L0A72"
+            "string": "L0A72",
+            "classroom": "C0.110"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
       "0": [],
       "1": [
          {
-            "classroom": "A1.10",
             "subject": "Analysemethoden en -technieken",
-            "string": "L0A49"
+            "string": "L0A49",
+            "classroom": "A1.10"
          }
       ],
       "2": [],

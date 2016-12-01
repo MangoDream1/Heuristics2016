@@ -10,9 +10,9 @@
       "1": [],
       "2": [
          {
-            "classroom": "C1.112",
             "subject": "Architectuur en computerorganisatie",
-            "string": "L0A21"
+            "string": "L0A21",
+            "classroom": "C1.112"
          }
       ],
       "3": []
@@ -32,9 +32,9 @@
    "4": {
       "0": [
          {
-            "classroom": "C1.112",
             "subject": "Architectuur en computerorganisatie",
-            "string": "L1A21"
+            "string": "L1A21",
+            "classroom": "C1.112"
          }
       ],
       "1": [],

@@ -1,13 +1,13 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "A1.06",
             "subject": "Collectieve Intelligentie",
-            "string": "P0C16"
+            "string": "P0C16",
+            "classroom": "A1.06"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -17,9 +17,9 @@
       "2": [],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L1A61"
+            "string": "L1A61",
+            "classroom": "C0.110"
          }
       ]
    },
@@ -28,16 +28,16 @@
       "1": [],
       "2": [
          {
-            "classroom": "A1.06",
             "subject": "Compilerbouw (practicum)",
-            "string": "P0C12"
+            "string": "P0C12",
+            "classroom": "A1.06"
          }
       ],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L0A61"
+            "string": "L0A61",
+            "classroom": "C0.110"
          }
       ]
    },
@@ -45,9 +45,9 @@
       "0": [],
       "1": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L2A61"
+            "string": "L2A61",
+            "classroom": "C0.110"
          }
       ],
       "2": [],
@@ -59,9 +59,9 @@
       "2": [],
       "3": [
          {
-            "classroom": "A1.10",
             "subject": "Collectieve Intelligentie",
-            "string": "W0C16"
+            "string": "W0C16",
+            "classroom": "A1.10"
          }
       ]
    }

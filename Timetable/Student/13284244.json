@@ -45,16 +45,16 @@
          }
       ],
       "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [
+      "3": [
          {
             "subject": "Project Numerical Recipes",
             "string": "P0A15",
-            "classroom": "A1.04"
+            "classroom": "A1.10"
          }
-      ],
+      ]
+   },
+   "4": {
+      "0": [],
       "1": [],
       "2": [],
       "3": []

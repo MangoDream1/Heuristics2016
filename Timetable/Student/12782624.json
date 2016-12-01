@@ -10,9 +10,9 @@
       "1": [],
       "2": [
          {
-            "classroom": "A1.08",
             "subject": "Programmeren in Java 2",
-            "string": "P0F15"
+            "string": "P0F15",
+            "classroom": "A1.08"
          }
       ],
       "3": []

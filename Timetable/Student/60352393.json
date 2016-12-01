@@ -7,7 +7,13 @@
             "classroom": "C1.112"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [],
       "3": [
          {
@@ -40,11 +46,6 @@
       ],
       "2": [
          {
-            "subject": "Databases 2",
-            "string": "W0A36",
-            "classroom": "B0.201"
-         },
-         {
             "subject": "Netwerken en systeembeveiliging",
             "string": "P0C16",
             "classroom": "C0.110"
@@ -55,18 +56,17 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Databases 2",
-            "string": "L0A72",
-            "classroom": "C0.110"
-         }
-      ],
+      "2": [],
       "3": [
          {
             "subject": "Advanced Heuristics",
             "string": "P0B10",
             "classroom": "A1.06"
+         },
+         {
+            "subject": "Databases 2",
+            "string": "L0A72",
+            "classroom": "C0.110"
          }
       ]
    },

@@ -4,14 +4,14 @@
       "1": [],
       "2": [
          {
-            "classroom": "B0.201",
             "subject": "Collectieve Intelligentie",
-            "string": "P0D13"
+            "string": "P0D13",
+            "classroom": "B0.201"
          },
          {
-            "classroom": "C1.112",
             "subject": "Technology for games",
-            "string": "L1A38"
+            "string": "L1A38",
+            "classroom": "C1.112"
          }
       ],
       "3": []
@@ -21,16 +21,16 @@
       "1": [],
       "2": [
          {
-            "classroom": "A1.08",
             "subject": "Programmeren in Java 2",
-            "string": "P0F15"
+            "string": "P0F15",
+            "classroom": "A1.08"
          }
       ],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L1A61"
+            "string": "L1A61",
+            "classroom": "C0.110"
          }
       ]
    },
@@ -40,14 +40,14 @@
       "2": [],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L0A61"
+            "string": "L0A61",
+            "classroom": "C0.110"
          },
          {
-            "classroom": "A1.08",
             "subject": "Technology for games",
-            "string": "W0B19"
+            "string": "W0B19",
+            "classroom": "A1.08"
          }
       ]
    },
@@ -55,9 +55,9 @@
       "0": [],
       "1": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L2A61"
+            "string": "L2A61",
+            "classroom": "C0.110"
          }
       ],
       "2": [],
@@ -67,16 +67,16 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.08",
             "subject": "Collectieve Intelligentie",
-            "string": "W0D13"
+            "string": "W0D13",
+            "classroom": "A1.08"
          }
       ],
       "2": [
          {
-            "classroom": "B0.201",
             "subject": "Technology for games",
-            "string": "L0A38"
+            "string": "L0A38",
+            "classroom": "B0.201"
          }
       ],
       "3": []

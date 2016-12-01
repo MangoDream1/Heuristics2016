@@ -21,11 +21,6 @@
       "1": [
          {
             "subject": "Moderne Databases",
-            "string": "W0A18",
-            "classroom": "A1.10"
-         },
-         {
-            "subject": "Moderne Databases",
             "string": "W0C18",
             "classroom": "B0.201"
          }
@@ -52,7 +47,13 @@
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Moderne Databases",
+            "string": "W0A18",
+            "classroom": "A1.04"
+         }
+      ],
       "1": [
          {
             "subject": "Moderne Databases",

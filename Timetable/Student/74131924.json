@@ -6,11 +6,6 @@
             "subject": "Autonomous Agents 2",
             "string": "L1A22",
             "classroom": "A1.04"
-         },
-         {
-            "subject": "Data Mining",
-            "string": "W0A9",
-            "classroom": "B0.201"
          }
       ],
       "2": [],
@@ -48,7 +43,13 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Data Mining",
+            "string": "W0A9",
+            "classroom": "B0.201"
+         }
+      ],
       "3": [
          {
             "subject": "Bioinformatica",

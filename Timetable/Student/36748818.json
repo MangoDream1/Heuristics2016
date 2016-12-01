@@ -18,22 +18,16 @@
       ]
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
          {
             "subject": "Informatie- en organisatieontwerp",
             "string": "P0A11",
-            "classroom": "A1.08"
+            "classroom": "A1.04"
          }
-      ],
-      "1": [
-         {
-            "subject": "Moderne Databases",
-            "string": "W0A18",
-            "classroom": "A1.10"
-         }
-      ],
-      "2": [],
-      "3": []
+      ]
    },
    "2": {
       "0": [
@@ -60,7 +54,13 @@
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Moderne Databases",
+            "string": "W0A18",
+            "classroom": "A1.04"
+         }
+      ],
       "1": [],
       "2": [],
       "3": [

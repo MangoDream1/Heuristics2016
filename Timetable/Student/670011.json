@@ -1,7 +1,13 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [],
       "3": [
          {
@@ -32,26 +38,19 @@
             "classroom": "A1.06"
          }
       ],
-      "2": [
-         {
-            "subject": "Databases 2",
-            "string": "W0A36",
-            "classroom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
             "subject": "Databases 2",
             "string": "L0A72",
             "classroom": "C0.110"
-         }
-      ],
-      "3": [
+         },
          {
             "subject": "Heuristieken 2",
             "string": "L0A32",

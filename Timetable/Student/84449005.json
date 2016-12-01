@@ -9,37 +9,37 @@
       "0": [],
       "1": [
          {
-            "classroom": "B0.201",
             "subject": "Moderne Databases",
-            "string": "W0C18"
+            "string": "W0C18",
+            "classroom": "B0.201"
          }
       ],
       "2": [
          {
-            "classroom": "C0.110",
             "subject": "Project Genetic Algorithms",
-            "string": "P0C12"
+            "string": "P0C12",
+            "classroom": "C0.110"
          }
       ],
       "3": [
          {
-            "classroom": "B0.201",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "W0C17"
+            "string": "W0C17",
+            "classroom": "B0.201"
          }
       ]
    },
    "2": {
       "0": [
          {
-            "classroom": "C1.112",
             "subject": "Moderne Databases",
-            "string": "L0A54"
+            "string": "L0A54",
+            "classroom": "C1.112"
          },
          {
-            "classroom": "A1.10",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51"
+            "string": "L0A51",
+            "classroom": "A1.10"
          }
       ],
       "1": [],
@@ -55,18 +55,18 @@
    "4": {
       "0": [
          {
-            "classroom": "C0.110",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51"
+            "string": "L1A51",
+            "classroom": "C0.110"
          }
       ],
       "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "A1.10",
             "subject": "Moderne Databases",
-            "string": "P0C18"
+            "string": "P0C18",
+            "classroom": "A1.10"
          }
       ]
    }

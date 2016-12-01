@@ -4,9 +4,9 @@
       "1": [],
       "2": [
          {
-            "classroom": "C0.110",
             "subject": "Calculus 2",
-            "string": "L0A106"
+            "string": "L0A106",
+            "classroom": "C0.110"
          }
       ],
       "3": []
@@ -27,9 +27,9 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.10",
             "subject": "Calculus 2",
-            "string": "W0C34"
+            "string": "W0C34",
+            "classroom": "A1.10"
          }
       ],
       "2": [],

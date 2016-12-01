@@ -7,13 +7,7 @@
             "classroom": "B0.201"
          }
       ],
-      "1": [
-         {
-            "subject": "Data Mining",
-            "string": "W0A9",
-            "classroom": "B0.201"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -44,7 +38,13 @@
             "classroom": "C0.110"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "subject": "Data Mining",
+            "string": "W0A9",
+            "classroom": "B0.201"
+         }
+      ],
       "3": []
    },
    "3": {

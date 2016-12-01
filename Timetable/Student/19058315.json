@@ -14,9 +14,9 @@
    "2": {
       "0": [
          {
-            "classroom": "A1.04",
             "subject": "Netwerken en systeembeveiliging",
-            "string": "P0D16"
+            "string": "P0D16",
+            "classroom": "A1.04"
          }
       ],
       "1": [],

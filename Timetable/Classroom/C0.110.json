@@ -2,155 +2,149 @@
    "0": {
       "0": [
          {
-            "classroom": "C0.110",
             "subject": "Compilerbouw",
-            "string": "L0A69"
+            "string": "L0A69",
+            "classroom": "C0.110"
          }
       ],
       "1": [
          {
-            "classroom": "C0.110",
             "subject": "Moderne Databases",
-            "string": "P0A18"
+            "string": "P0A18",
+            "classroom": "C0.110"
          }
       ],
       "2": [
          {
-            "classroom": "C0.110",
             "subject": "Calculus 2",
-            "string": "L0A106"
+            "string": "L0A106",
+            "classroom": "C0.110"
          }
       ],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Databases 2",
-            "string": "W0B36"
+            "string": "W0B36",
+            "classroom": "C0.110"
          }
       ]
    },
    "1": {
       "0": [
          {
-            "classroom": "C0.110",
             "subject": "Compilerbouw",
-            "string": "L1A69"
+            "string": "L1A69",
+            "classroom": "C0.110"
          }
       ],
       "1": [
          {
-            "classroom": "C0.110",
             "subject": "Kansrekenen 2",
-            "string": "L1A84"
+            "string": "L1A84",
+            "classroom": "C0.110"
          }
       ],
       "2": [
          {
-            "classroom": "C0.110",
             "subject": "Project Genetic Algorithms",
-            "string": "P0C12"
+            "string": "P0C12",
+            "classroom": "C0.110"
          }
       ],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L1A61"
+            "string": "L1A61",
+            "classroom": "C0.110"
          }
       ]
    },
    "2": {
       "0": [
          {
-            "classroom": "C0.110",
             "subject": "Programmeren in Java 2",
-            "string": "P0C19"
+            "string": "P0C19",
+            "classroom": "C0.110"
          }
       ],
       "1": [
          {
-            "classroom": "C0.110",
             "subject": "Software engineering",
-            "string": "L0A75"
+            "string": "L0A75",
+            "classroom": "C0.110"
          }
       ],
       "2": [
          {
-            "classroom": "C0.110",
             "subject": "Netwerken en systeembeveiliging",
-            "string": "P0C16"
+            "string": "P0C16",
+            "classroom": "C0.110"
          }
       ],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L0A61"
+            "string": "L0A61",
+            "classroom": "C0.110"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "classroom": "C0.110",
             "subject": "Webprogrammeren en databases",
-            "string": "L0A39"
+            "string": "L0A39",
+            "classroom": "C0.110"
          }
       ],
       "1": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L2A61"
+            "string": "L2A61",
+            "classroom": "C0.110"
          }
       ],
-      "2": [
-         {
-            "classroom": "C0.110",
-            "subject": "Databases 2",
-            "string": "L0A72"
-         }
-      ],
+      "2": [],
       "3": [
          {
-            "classroom": "C0.110",
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0C14"
+            "subject": "Databases 2",
+            "string": "L0A72",
+            "classroom": "C0.110"
          }
       ]
    },
    "4": {
       "0": [
          {
-            "classroom": "C0.110",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51"
+            "string": "L1A51",
+            "classroom": "C0.110"
          }
       ],
       "1": [
          {
-            "classroom": "C0.110",
             "subject": "Webprogrammeren en databases",
-            "string": "L1A39"
+            "string": "L1A39",
+            "classroom": "C0.110"
          }
       ],
       "2": [
          {
-            "classroom": "C0.110",
             "subject": "Kansrekenen 2",
-            "string": "L0A84"
+            "string": "L0A84",
+            "classroom": "C0.110"
          }
       ],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Bioinformatica",
-            "string": "W0B15"
+            "string": "W0B15",
+            "classroom": "C0.110"
          },
          {
-            "classroom": "C0.110",
             "subject": "Bioinformatica",
-            "string": "P0A15"
+            "string": "P0A15",
+            "classroom": "C0.110"
          }
       ]
    }

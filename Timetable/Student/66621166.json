@@ -13,13 +13,7 @@
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "subject": "Moderne Databases",
-            "string": "W0A18",
-            "classroom": "A1.10"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -42,7 +36,13 @@
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Moderne Databases",
+            "string": "W0A18",
+            "classroom": "A1.04"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

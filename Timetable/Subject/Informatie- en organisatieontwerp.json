@@ -15,18 +15,19 @@
       "0": [
          {
             "subject": "Informatie- en organisatieontwerp",
-            "string": "P0A11",
-            "classroom": "A1.08"
-         },
-         {
-            "subject": "Informatie- en organisatieontwerp",
             "string": "P0B10",
             "classroom": "B0.201"
          }
       ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "P0A11",
+            "classroom": "A1.04"
+         }
+      ]
    },
    "2": {
       "0": [],

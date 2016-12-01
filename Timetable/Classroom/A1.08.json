@@ -2,124 +2,118 @@
    "0": {
       "0": [
          {
-            "classroom": "A1.08",
             "subject": "Collectieve Intelligentie",
-            "string": "W0A16"
+            "string": "W0A16",
+            "classroom": "A1.08"
          }
       ],
       "1": [
          {
-            "classroom": "A1.08",
             "subject": "Moderne Databases",
-            "string": "W0B18"
+            "string": "W0B18",
+            "classroom": "A1.08"
          }
       ],
       "2": [
          {
-            "classroom": "A1.08",
             "subject": "Project Numerical Recipes",
-            "string": "P0B15"
+            "string": "P0B15",
+            "classroom": "A1.08"
          }
       ],
       "3": [
          {
-            "classroom": "A1.08",
             "subject": "Heuristieken 2",
-            "string": "W0A16"
+            "string": "W0A16",
+            "classroom": "A1.08"
          }
       ]
    },
    "1": {
-      "0": [
-         {
-            "classroom": "A1.08",
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "P0A11"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "classroom": "A1.08",
             "subject": "Data Mining",
-            "string": "W0C9"
+            "string": "W0C9",
+            "classroom": "A1.08"
          }
       ],
       "2": [
          {
-            "classroom": "A1.08",
             "subject": "Programmeren in Java 2",
-            "string": "P0F15"
+            "string": "P0F15",
+            "classroom": "A1.08"
          }
       ],
-      "3": [
-         {
-            "classroom": "A1.08",
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0B14"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [
          {
-            "classroom": "A1.08",
             "subject": "Compilerbouw (practicum)",
-            "string": "P0A14"
+            "string": "P0A14",
+            "classroom": "A1.08"
          }
       ],
       "1": [
          {
-            "classroom": "A1.08",
             "subject": "Data Mining",
-            "string": "P0B9"
+            "string": "P0B9",
+            "classroom": "A1.08"
          }
       ],
       "2": [],
       "3": [
          {
-            "classroom": "A1.08",
             "subject": "Technology for games",
-            "string": "W0B19"
+            "string": "W0B19",
+            "classroom": "A1.08"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "classroom": "A1.08",
             "subject": "Autonomous Agents 2",
-            "string": "W0A8"
+            "string": "W0A8",
+            "classroom": "A1.08"
          }
       ],
       "1": [
          {
-            "classroom": "A1.08",
             "subject": "Autonomous Agents 2",
-            "string": "P0B8"
+            "string": "P0B8",
+            "classroom": "A1.08"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "subject": "Compilerbouw (practicum)",
+            "string": "P0B14",
+            "classroom": "A1.08"
+         }
+      ],
       "3": [
          {
-            "classroom": "A1.08",
             "subject": "Informatie- en organisatieontwerp",
-            "string": "W0B10"
+            "string": "W0B10",
+            "classroom": "A1.08"
          }
       ]
    },
    "4": {
       "0": [
          {
-            "classroom": "A1.08",
             "subject": "Autonomous Agents 2",
-            "string": "W0B8"
+            "string": "W0B8",
+            "classroom": "A1.08"
          }
       ],
       "1": [
          {
-            "classroom": "A1.08",
             "subject": "Collectieve Intelligentie",
-            "string": "W0D13"
+            "string": "W0D13",
+            "classroom": "A1.08"
          }
       ],
       "2": [],

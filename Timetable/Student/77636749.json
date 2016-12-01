@@ -18,13 +18,7 @@
       ]
    },
    "1": {
-      "0": [
-         {
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "P0A11",
-            "classroom": "A1.08"
-         }
-      ],
+      "0": [],
       "1": [
          {
             "subject": "Kansrekenen 2",
@@ -33,7 +27,13 @@
          }
       ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "P0A11",
+            "classroom": "A1.04"
+         }
+      ]
    },
    "2": {
       "0": [],

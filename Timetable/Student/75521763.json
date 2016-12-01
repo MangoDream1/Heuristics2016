@@ -2,76 +2,76 @@
    "0": {
       "0": [
          {
-            "classroom": "A1.10",
             "subject": "Heuristieken 1",
-            "string": "L0A44"
+            "string": "L0A44",
+            "classroom": "A1.10"
          }
       ],
       "1": [],
       "2": [
          {
-            "classroom": "B0.201",
             "subject": "Collectieve Intelligentie",
-            "string": "P0D13"
+            "string": "P0D13",
+            "classroom": "B0.201"
          },
          {
-            "classroom": "C1.112",
             "subject": "Technology for games",
-            "string": "L1A38"
+            "string": "L1A38",
+            "classroom": "C1.112"
          }
       ],
       "3": [
          {
-            "classroom": "C1.112",
             "subject": "Informatie- en organisatieontwerp",
-            "string": "L0A21"
+            "string": "L0A21",
+            "classroom": "C1.112"
          }
       ]
    },
    "1": {
       "0": [
          {
-            "classroom": "B0.201",
             "subject": "Informatie- en organisatieontwerp",
-            "string": "P0B10"
+            "string": "P0B10",
+            "classroom": "B0.201"
          }
       ],
       "1": [
          {
-            "classroom": "B0.201",
             "subject": "Moderne Databases",
-            "string": "W0C18"
+            "string": "W0C18",
+            "classroom": "B0.201"
          }
       ],
       "2": [],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L1A61"
+            "string": "L1A61",
+            "classroom": "C0.110"
          }
       ]
    },
    "2": {
       "0": [
          {
-            "classroom": "C1.112",
             "subject": "Moderne Databases",
-            "string": "L0A54"
+            "string": "L0A54",
+            "classroom": "C1.112"
          }
       ],
       "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L0A61"
+            "string": "L0A61",
+            "classroom": "C0.110"
          },
          {
-            "classroom": "A1.08",
             "subject": "Technology for games",
-            "string": "W0B19"
+            "string": "W0B19",
+            "classroom": "A1.08"
          }
       ]
    },
@@ -79,23 +79,23 @@
       "0": [],
       "1": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L2A61"
+            "string": "L2A61",
+            "classroom": "C0.110"
          }
       ],
       "2": [
          {
-            "classroom": "A1.04",
             "subject": "Heuristieken 1",
-            "string": "W0B22"
+            "string": "W0B22",
+            "classroom": "A1.04"
          }
       ],
       "3": [
          {
-            "classroom": "A1.08",
             "subject": "Informatie- en organisatieontwerp",
-            "string": "W0B10"
+            "string": "W0B10",
+            "classroom": "A1.08"
          }
       ]
    },
@@ -103,28 +103,28 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.08",
             "subject": "Collectieve Intelligentie",
-            "string": "W0D13"
+            "string": "W0D13",
+            "classroom": "A1.08"
          }
       ],
       "2": [
          {
-            "classroom": "B0.201",
             "subject": "Technology for games",
-            "string": "L0A38"
+            "string": "L0A38",
+            "classroom": "B0.201"
          }
       ],
       "3": [
          {
-            "classroom": "A1.06",
             "subject": "Informatie- en organisatieontwerp",
-            "string": "L1A21"
+            "string": "L1A21",
+            "classroom": "A1.06"
          },
          {
-            "classroom": "A1.10",
             "subject": "Moderne Databases",
-            "string": "P0C18"
+            "string": "P0C18",
+            "classroom": "A1.10"
          }
       ]
    }

@@ -1,13 +1,7 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "subject": "Data Mining",
-            "string": "W0A9",
-            "classroom": "B0.201"
-         }
-      ],
+      "1": [],
       "2": [
          {
             "subject": "Reflectie op de digitale cultuur",
@@ -38,7 +32,13 @@
          }
       ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Data Mining",
+            "string": "W0A9",
+            "classroom": "B0.201"
+         }
+      ],
       "3": []
    },
    "3": {

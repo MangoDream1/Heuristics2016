@@ -4,9 +4,9 @@
       "1": [],
       "2": [
          {
-            "classroom": "C0.110",
             "subject": "Calculus 2",
-            "string": "L0A106"
+            "string": "L0A106",
+            "classroom": "C0.110"
          }
       ],
       "3": []
@@ -15,9 +15,9 @@
       "0": [],
       "1": [
          {
-            "classroom": "C0.110",
             "subject": "Kansrekenen 2",
-            "string": "L1A84"
+            "string": "L1A84",
+            "classroom": "C0.110"
          }
       ],
       "2": [],
@@ -33,9 +33,9 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.10",
             "subject": "Calculus 2",
-            "string": "W0C34"
+            "string": "W0C34",
+            "classroom": "A1.10"
          }
       ],
       "2": [],
@@ -46,9 +46,9 @@
       "1": [],
       "2": [
          {
-            "classroom": "C0.110",
             "subject": "Kansrekenen 2",
-            "string": "L0A84"
+            "string": "L0A84",
+            "classroom": "C0.110"
          }
       ],
       "3": []

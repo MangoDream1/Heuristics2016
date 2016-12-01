@@ -18,22 +18,16 @@
       ]
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [
          {
             "subject": "Webprogrammeren en databases",
             "string": "P0A20",
             "classroom": "A1.06"
          }
       ],
-      "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0B14",
-            "classroom": "A1.08"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
@@ -56,7 +50,13 @@
             "classroom": "C1.112"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "subject": "Compilerbouw (practicum)",
+            "string": "P0B14",
+            "classroom": "A1.08"
+         }
+      ],
       "3": []
    },
    "4": {

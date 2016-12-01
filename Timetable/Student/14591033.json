@@ -2,47 +2,47 @@
    "0": {
       "0": [
          {
-            "classroom": "A1.10",
             "subject": "Heuristieken 1",
-            "string": "L0A44"
+            "string": "L0A44",
+            "classroom": "A1.10"
          }
       ],
       "1": [],
       "2": [
          {
-            "classroom": "C0.110",
             "subject": "Calculus 2",
-            "string": "L0A106"
+            "string": "L0A106",
+            "classroom": "C0.110"
          }
       ],
       "3": [
          {
-            "classroom": "A1.10",
             "subject": "Bioinformatica",
-            "string": "L0A45"
+            "string": "L0A45",
+            "classroom": "A1.10"
          }
       ]
    },
    "1": {
       "0": [
          {
-            "classroom": "A1.10",
             "subject": "Lineaire Algebra",
-            "string": "L1A54"
+            "string": "L1A54",
+            "classroom": "A1.10"
          }
       ],
       "1": [
          {
-            "classroom": "C0.110",
             "subject": "Kansrekenen 2",
-            "string": "L1A84"
+            "string": "L1A84",
+            "classroom": "C0.110"
          }
       ],
       "2": [
          {
-            "classroom": "A1.10",
             "subject": "Bioinformatica",
-            "string": "L1A45"
+            "string": "L1A45",
+            "classroom": "A1.10"
          }
       ],
       "3": []
@@ -53,9 +53,9 @@
       "2": [],
       "3": [
          {
-            "classroom": "A1.10",
             "subject": "Bioinformatica",
-            "string": "L2A45"
+            "string": "L2A45",
+            "classroom": "A1.10"
          }
       ]
    },
@@ -63,21 +63,21 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.10",
             "subject": "Calculus 2",
-            "string": "W0C34"
+            "string": "W0C34",
+            "classroom": "A1.10"
          }
       ],
       "2": [
          {
-            "classroom": "C1.112",
             "subject": "Bioinformatica",
-            "string": "W0C15"
+            "string": "W0C15",
+            "classroom": "C1.112"
          },
          {
-            "classroom": "A1.04",
             "subject": "Heuristieken 1",
-            "string": "W0B22"
+            "string": "W0B22",
+            "classroom": "A1.04"
          }
       ],
       "3": []
@@ -87,21 +87,21 @@
       "1": [],
       "2": [
          {
-            "classroom": "A1.06",
             "subject": "Bioinformatica",
-            "string": "P0C15"
+            "string": "P0C15",
+            "classroom": "A1.06"
          },
          {
-            "classroom": "C0.110",
             "subject": "Kansrekenen 2",
-            "string": "L0A84"
+            "string": "L0A84",
+            "classroom": "C0.110"
          }
       ],
       "3": [
          {
-            "classroom": "C1.112",
             "subject": "Lineaire Algebra",
-            "string": "L0A54"
+            "string": "L0A54",
+            "classroom": "C1.112"
          }
       ]
    }

@@ -16,9 +16,9 @@
       "1": [],
       "2": [
          {
-            "classroom": "A1.06",
             "subject": "Compilerbouw (practicum)",
-            "string": "P0C12"
+            "string": "P0C12",
+            "classroom": "A1.06"
          }
       ],
       "3": []

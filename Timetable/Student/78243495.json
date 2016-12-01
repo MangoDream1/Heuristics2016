@@ -29,18 +29,12 @@
       ]
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [
          {
             "subject": "Webprogrammeren en databases",
             "string": "P0A20",
             "classroom": "A1.06"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Moderne Databases",
-            "string": "W0A18",
-            "classroom": "A1.10"
          }
       ],
       "2": [],
@@ -88,7 +82,13 @@
       ]
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Moderne Databases",
+            "string": "W0A18",
+            "classroom": "A1.04"
+         }
+      ],
       "1": [
          {
             "subject": "Webprogrammeren en databases",

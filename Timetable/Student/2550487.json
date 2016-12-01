@@ -10,16 +10,16 @@
       "1": [],
       "2": [
          {
-            "classroom": "A1.08",
             "subject": "Programmeren in Java 2",
-            "string": "P0F15"
+            "string": "P0F15",
+            "classroom": "A1.08"
          }
       ],
       "3": [
          {
-            "classroom": "A1.10",
             "subject": "Interactie-ontwerp",
-            "string": "L0A25"
+            "string": "L0A25",
+            "classroom": "A1.10"
          }
       ]
    },
@@ -34,9 +34,9 @@
       "1": [],
       "2": [
          {
-            "classroom": "A1.06",
             "subject": "Project Numerical Recipes",
-            "string": "P0C14"
+            "string": "P0C14",
+            "classroom": "A1.06"
          }
       ],
       "3": []
@@ -46,9 +46,9 @@
       "1": [],
       "2": [
          {
-            "classroom": "A1.04",
             "subject": "Interactie-ontwerp",
-            "string": "L1A25"
+            "string": "L1A25",
+            "classroom": "A1.04"
          }
       ],
       "3": []

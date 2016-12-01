@@ -2,9 +2,9 @@
    "0": {
       "0": [
          {
-            "classroom": "C0.110",
             "subject": "Compilerbouw",
-            "string": "L0A69"
+            "string": "L0A69",
+            "classroom": "C0.110"
          }
       ],
       "1": [],
@@ -14,17 +14,17 @@
    "1": {
       "0": [
          {
-            "classroom": "C0.110",
             "subject": "Compilerbouw",
-            "string": "L1A69"
+            "string": "L1A69",
+            "classroom": "C0.110"
          }
       ],
       "1": [],
       "2": [
          {
-            "classroom": "A1.08",
             "subject": "Programmeren in Java 2",
-            "string": "P0F15"
+            "string": "P0F15",
+            "classroom": "A1.08"
          }
       ],
       "3": []
@@ -38,17 +38,17 @@
    "3": {
       "0": [
          {
-            "classroom": "C1.112",
             "subject": "Compilerbouw",
-            "string": "W0B34"
+            "string": "W0B34",
+            "classroom": "C1.112"
          }
       ],
       "1": [],
       "2": [
          {
-            "classroom": "A1.06",
             "subject": "Project Numerical Recipes",
-            "string": "P0C14"
+            "string": "P0C14",
+            "classroom": "A1.06"
          }
       ],
       "3": []
@@ -56,9 +56,9 @@
    "4": {
       "0": [
          {
-            "classroom": "B0.201",
             "subject": "Compilerbouw",
-            "string": "P0B34"
+            "string": "P0B34",
+            "classroom": "B0.201"
          }
       ],
       "1": [],

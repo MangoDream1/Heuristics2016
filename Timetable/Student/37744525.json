@@ -1,11 +1,17 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Data Mining",
+            "string": "P0C9",
+            "classroom": "A1.04"
+         }
+      ],
       "1": [
          {
-            "classroom": "A1.10",
             "subject": "Software engineering",
-            "string": "W0B37"
+            "string": "W0B37",
+            "classroom": "A1.10"
          }
       ],
       "2": [],
@@ -14,16 +20,16 @@
    "1": {
       "0": [
          {
-            "classroom": "C1.112",
             "subject": "Machine Learning",
-            "string": "L0A22"
+            "string": "L0A22",
+            "classroom": "C1.112"
          }
       ],
       "1": [
          {
-            "classroom": "A1.08",
             "subject": "Data Mining",
-            "string": "W0C9"
+            "string": "W0C9",
+            "classroom": "A1.08"
          }
       ],
       "2": [],
@@ -32,28 +38,23 @@
    "2": {
       "0": [
          {
-            "classroom": "A1.04",
             "subject": "Netwerken en systeembeveiliging",
-            "string": "P0D16"
+            "string": "P0D16",
+            "classroom": "A1.04"
          }
       ],
       "1": [
          {
-            "classroom": "C0.110",
             "subject": "Software engineering",
-            "string": "L0A75"
+            "string": "L0A75",
+            "classroom": "C0.110"
          }
       ],
       "2": [
          {
-            "classroom": "C1.112",
-            "subject": "Data Mining",
-            "string": "P0C9"
-         },
-         {
-            "classroom": "A1.10",
             "subject": "Programmeren in Java 2",
-            "string": "P0E19"
+            "string": "P0E19",
+            "classroom": "A1.10"
          }
       ],
       "3": []
@@ -61,18 +62,18 @@
    "3": {
       "0": [
          {
-            "classroom": "B0.201",
             "subject": "Data Mining",
-            "string": "L0A27"
+            "string": "L0A27",
+            "classroom": "B0.201"
          }
       ],
       "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "B0.201",
             "subject": "Software engineering",
-            "string": "P0B37"
+            "string": "P0B37",
+            "classroom": "B0.201"
          }
       ]
    },
@@ -80,14 +81,14 @@
       "0": [],
       "1": [
          {
-            "classroom": "C1.112",
             "subject": "Data Mining",
-            "string": "L1A27"
+            "string": "L1A27",
+            "classroom": "C1.112"
          },
          {
-            "classroom": "B0.201",
             "subject": "Machine Learning",
-            "string": "L1A22"
+            "string": "L1A22",
+            "classroom": "B0.201"
          }
       ],
       "2": [],

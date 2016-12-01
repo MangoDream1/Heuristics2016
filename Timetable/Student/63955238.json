@@ -9,9 +9,9 @@
       "0": [],
       "1": [
          {
-            "classroom": "C0.110",
             "subject": "Kansrekenen 2",
-            "string": "L1A84"
+            "string": "L1A84",
+            "classroom": "C0.110"
          }
       ],
       "2": [],
@@ -19,7 +19,13 @@
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0C14",
+            "classroom": "A1.04"
+         }
+      ],
       "2": [],
       "3": []
    },
@@ -27,22 +33,16 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "C0.110",
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0C14"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],
       "1": [],
       "2": [
          {
-            "classroom": "C0.110",
             "subject": "Kansrekenen 2",
-            "string": "L0A84"
+            "string": "L0A84",
+            "classroom": "C0.110"
          }
       ],
       "3": []

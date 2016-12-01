@@ -1,25 +1,25 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "A1.06",
             "subject": "Collectieve Intelligentie",
-            "string": "P0C16"
+            "string": "P0C16",
+            "classroom": "A1.06"
          }
       ],
+      "1": [],
       "2": [
          {
-            "classroom": "A1.04",
             "subject": "Algoritmen en complexiteit",
-            "string": "W0B21"
+            "string": "W0B21",
+            "classroom": "A1.04"
          }
       ],
       "3": [
          {
-            "classroom": "A1.10",
             "subject": "Bioinformatica",
-            "string": "L0A45"
+            "string": "L0A45",
+            "classroom": "A1.10"
          }
       ]
    },
@@ -27,23 +27,23 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.04",
             "subject": "Data Mining",
-            "string": "W0B9"
+            "string": "W0B9",
+            "classroom": "A1.04"
          }
       ],
       "2": [
          {
-            "classroom": "A1.10",
             "subject": "Bioinformatica",
-            "string": "L1A45"
+            "string": "L1A45",
+            "classroom": "A1.10"
          }
       ],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L1A61"
+            "string": "L1A61",
+            "classroom": "C0.110"
          }
       ]
    },
@@ -51,56 +51,56 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.08",
             "subject": "Data Mining",
-            "string": "P0B9"
+            "string": "P0B9",
+            "classroom": "A1.08"
          }
       ],
       "2": [
          {
-            "classroom": "A1.10",
             "subject": "Programmeren in Java 2",
-            "string": "P0E19"
+            "string": "P0E19",
+            "classroom": "A1.10"
          }
       ],
       "3": [
          {
-            "classroom": "C1.112",
             "subject": "Algoritmen en complexiteit",
-            "string": "L0A43"
+            "string": "L0A43",
+            "classroom": "C1.112"
          },
          {
-            "classroom": "A1.10",
             "subject": "Bioinformatica",
-            "string": "L2A45"
+            "string": "L2A45",
+            "classroom": "A1.10"
          },
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L0A61"
+            "string": "L0A61",
+            "classroom": "C0.110"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "classroom": "B0.201",
             "subject": "Data Mining",
-            "string": "L0A27"
+            "string": "L0A27",
+            "classroom": "B0.201"
          }
       ],
       "1": [
          {
-            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L2A61"
+            "string": "L2A61",
+            "classroom": "C0.110"
          }
       ],
       "2": [
          {
-            "classroom": "C1.112",
             "subject": "Bioinformatica",
-            "string": "W0C15"
+            "string": "W0C15",
+            "classroom": "C1.112"
          }
       ],
       "3": []
@@ -108,30 +108,30 @@
    "4": {
       "0": [
          {
-            "classroom": "A1.10",
             "subject": "Algoritmen en complexiteit",
-            "string": "P0B21"
+            "string": "P0B21",
+            "classroom": "A1.10"
          }
       ],
       "1": [
          {
-            "classroom": "C1.112",
             "subject": "Data Mining",
-            "string": "L1A27"
+            "string": "L1A27",
+            "classroom": "C1.112"
          }
       ],
       "2": [
          {
-            "classroom": "A1.06",
             "subject": "Bioinformatica",
-            "string": "P0C15"
+            "string": "P0C15",
+            "classroom": "A1.06"
          }
       ],
       "3": [
          {
-            "classroom": "A1.10",
             "subject": "Collectieve Intelligentie",
-            "string": "W0C16"
+            "string": "W0C16",
+            "classroom": "A1.10"
          }
       ]
    }

@@ -5,9 +5,9 @@
       "2": [],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Databases 2",
-            "string": "W0B36"
+            "string": "W0B36",
+            "classroom": "C0.110"
          }
       ]
    },
@@ -20,9 +20,9 @@
    "2": {
       "0": [
          {
-            "classroom": "A1.04",
             "subject": "Netwerken en systeembeveiliging",
-            "string": "P0D16"
+            "string": "P0D16",
+            "classroom": "A1.04"
          }
       ],
       "1": [],
@@ -32,14 +32,14 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "classroom": "C0.110",
             "subject": "Databases 2",
-            "string": "L0A72"
+            "string": "L0A72",
+            "classroom": "C0.110"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
       "0": [],

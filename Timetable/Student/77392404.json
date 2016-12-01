@@ -1,12 +1,6 @@
 {
    "0": {
-      "0": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "W0B19",
-            "classroom": "A1.04"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": [
@@ -18,14 +12,14 @@
       ]
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
             "subject": "Webprogrammeren en databases",
             "string": "P0B19",
             "classroom": "A1.06"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -43,6 +37,11 @@
             "subject": "Netwerken en systeembeveiliging",
             "string": "P0C16",
             "classroom": "C0.110"
+         },
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "W0B19",
+            "classroom": "C1.112"
          }
       ],
       "3": []

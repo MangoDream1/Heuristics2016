@@ -5,9 +5,9 @@
       "2": [],
       "3": [
          {
-            "classroom": "C0.110",
             "subject": "Databases 2",
-            "string": "W0B36"
+            "string": "W0B36",
+            "classroom": "C0.110"
          }
       ]
    },
@@ -15,16 +15,16 @@
       "0": [],
       "1": [
          {
-            "classroom": "B0.201",
             "subject": "Moderne Databases",
-            "string": "W0C18"
+            "string": "W0C18",
+            "classroom": "B0.201"
          }
       ],
       "2": [
          {
-            "classroom": "C0.110",
             "subject": "Project Genetic Algorithms",
-            "string": "P0C12"
+            "string": "P0C12",
+            "classroom": "C0.110"
          }
       ],
       "3": []
@@ -32,9 +32,9 @@
    "2": {
       "0": [
          {
-            "classroom": "C1.112",
             "subject": "Moderne Databases",
-            "string": "L0A54"
+            "string": "L0A54",
+            "classroom": "C1.112"
          }
       ],
       "1": [],
@@ -44,30 +44,30 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "classroom": "C0.110",
             "subject": "Databases 2",
-            "string": "L0A72"
+            "string": "L0A72",
+            "classroom": "C0.110"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
       "0": [],
       "1": [
          {
-            "classroom": "A1.10",
             "subject": "Analysemethoden en -technieken",
-            "string": "L0A49"
+            "string": "L0A49",
+            "classroom": "A1.10"
          }
       ],
       "2": [],
       "3": [
          {
-            "classroom": "A1.10",
             "subject": "Moderne Databases",
-            "string": "P0C18"
+            "string": "P0C18",
+            "classroom": "A1.10"
          }
       ]
    }

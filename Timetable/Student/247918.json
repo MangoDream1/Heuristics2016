@@ -1,7 +1,13 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [],
       "3": [
          {
@@ -26,13 +32,7 @@
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Databases 2",
-            "string": "W0A36",
-            "classroom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": [
          {
             "subject": "Bioinformatica",
@@ -50,14 +50,14 @@
             "classroom": "A1.06"
          }
       ],
-      "2": [
+      "2": [],
+      "3": [
          {
             "subject": "Databases 2",
             "string": "L0A72",
             "classroom": "C0.110"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
       "0": [],

@@ -27,9 +27,9 @@
       "0": [],
       "1": [
          {
-            "classroom": "A1.10",
             "subject": "Analysemethoden en -technieken",
-            "string": "L0A49"
+            "string": "L0A49",
+            "classroom": "A1.10"
          }
       ],
       "2": [],

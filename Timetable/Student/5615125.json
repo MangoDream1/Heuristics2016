@@ -18,18 +18,17 @@
       ]
    },
    "1": {
-      "0": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "P0A20",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [
          {
             "subject": "Kansrekenen 2",
             "string": "L1A84",
             "classroom": "C0.110"
+         },
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "P0A20",
+            "classroom": "A1.06"
          }
       ],
       "2": [],

@@ -33,13 +33,7 @@
             "classroom": "A1.10"
          }
       ],
-      "3": [
-         {
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0B14",
-            "classroom": "A1.08"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
@@ -68,7 +62,13 @@
          }
       ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Compilerbouw (practicum)",
+            "string": "P0B14",
+            "classroom": "A1.08"
+         }
+      ],
       "3": [
          {
             "subject": "Software engineering",

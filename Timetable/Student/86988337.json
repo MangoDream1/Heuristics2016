@@ -7,7 +7,13 @@
             "classroom": "C0.110"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [
          {
             "subject": "Reflectie op de digitale cultuur",
@@ -55,11 +61,6 @@
             "subject": "Compilerbouw",
             "string": "P0A35",
             "classroom": "A1.04"
-         },
-         {
-            "subject": "Databases 2",
-            "string": "W0A36",
-            "classroom": "B0.201"
          }
       ],
       "3": [
@@ -79,14 +80,14 @@
             "classroom": "B0.201"
          }
       ],
-      "2": [
+      "2": [],
+      "3": [
          {
             "subject": "Databases 2",
             "string": "L0A72",
             "classroom": "C0.110"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
       "0": [

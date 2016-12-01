@@ -1,13 +1,13 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
             "subject": "Collectieve Intelligentie",
             "string": "P0C16",
             "classroom": "A1.06"
          }
       ],
+      "1": [],
       "2": [
          {
             "subject": "Algoritmen en complexiteit",
@@ -26,11 +26,6 @@
             "subject": "Collectieve Intelligentie",
             "string": "L1A61",
             "classroom": "C0.110"
-         },
-         {
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0B14",
-            "classroom": "A1.08"
          }
       ]
    },
@@ -60,7 +55,13 @@
             "classroom": "C0.110"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "subject": "Compilerbouw (practicum)",
+            "string": "P0B14",
+            "classroom": "A1.08"
+         }
+      ],
       "3": []
    },
    "4": {
