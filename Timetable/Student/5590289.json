@@ -12,14 +12,14 @@
       "3": []
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [
          {
             "subject": "Netwerken en systeembeveiliging",
-            "classroom": "C0.110",
-            "string": "P0A16"
+            "string": "P0A16",
+            "classroom": "B0.201"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },

@@ -111,4 +111,4 @@ def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
 
     return im.lecture_dct
 
-genetic_algorithm(iteration_manager, 1000, 1000, 0.05)
+genetic_algorithm(iteration_manager, 100, 1000, 0.05)

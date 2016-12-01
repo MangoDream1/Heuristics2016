@@ -3,29 +3,29 @@
       "0": [
          {
             "subject": "Heuristieken 1",
-            "classroom": "A1.10",
-            "string": "L0A44"
+            "string": "L0A44",
+            "classroom": "A1.10"
          }
       ],
-      "1": [],
-      "2": [
+      "1": [
          {
             "subject": "Software engineering",
-            "classroom": "A1.04",
-            "string": "P0B37"
+            "string": "W0B37",
+            "classroom": "A1.10"
          }
       ],
+      "2": [],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
             "subject": "Lineaire Algebra",
-            "classroom": "C0.110",
-            "string": "L1A54"
+            "string": "L1A54",
+            "classroom": "A1.10"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -34,8 +34,8 @@
       "1": [
          {
             "subject": "Software engineering",
-            "classroom": "C0.110",
-            "string": "L0A75"
+            "string": "L0A75",
+            "classroom": "C0.110"
          }
       ],
       "2": [],
@@ -44,31 +44,31 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
             "subject": "Heuristieken 1",
-            "classroom": "A1.06",
-            "string": "W0A22"
+            "string": "W0A22",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Software engineering",
+            "string": "P0B37",
+            "classroom": "B0.201"
          }
       ]
    },
    "4": {
-      "0": [
-         {
-            "subject": "Software engineering",
-            "classroom": "B0.201",
-            "string": "W0B37"
-         }
-      ],
-      "1": [
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
          {
             "subject": "Lineaire Algebra",
-            "classroom": "C0.110",
-            "string": "L0A54"
+            "string": "L0A54",
+            "classroom": "C1.112"
          }
-      ],
-      "2": [],
-      "3": []
+      ]
    }
 }

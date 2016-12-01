@@ -5,8 +5,8 @@
       "2": [
          {
             "subject": "Calculus 2",
-            "classroom": "C0.110",
-            "string": "W0A36"
+            "string": "L0A106",
+            "classroom": "C0.110"
          }
       ],
       "3": []
@@ -14,13 +14,7 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Calculus 2",
-            "classroom": "C0.110",
-            "string": "L0A106"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
@@ -30,19 +24,25 @@
       "3": []
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "subject": "Project Numerical Recipes",
-            "classroom": "A1.10",
-            "string": "P0A15"
+            "subject": "Calculus 2",
+            "string": "W0A36",
+            "classroom": "A1.10"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Project Numerical Recipes",
+            "string": "P0A15",
+            "classroom": "A1.04"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []

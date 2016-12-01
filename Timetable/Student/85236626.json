@@ -1,61 +1,61 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
             "subject": "Heuristieken 2",
-            "classroom": "A1.06",
-            "string": "W0B16"
+            "string": "W0B16",
+            "classroom": "A1.06"
          }
       ],
-      "3": [
-         {
-            "subject": "Machine Learning",
-            "classroom": "A1.06",
-            "string": "L0A22"
-         }
-      ]
+      "1": [],
+      "2": [],
+      "3": []
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.10",
-            "string": "P0C19"
+            "subject": "Machine Learning",
+            "string": "L0A22",
+            "classroom": "C1.112"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Programmeren in Java 2",
+            "string": "P0C19",
+            "classroom": "C0.110"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Machine Learning",
-            "classroom": "B0.201",
-            "string": "L1A22"
-         }
-      ],
-      "2": [
+      "1": [],
+      "2": [],
+      "3": [
          {
             "subject": "Heuristieken 2",
-            "classroom": "A1.10",
-            "string": "L0A32"
+            "string": "L0A32",
+            "classroom": "C1.112"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Machine Learning",
+            "string": "L1A22",
+            "classroom": "B0.201"
+         }
+      ],
       "2": [],
       "3": []
    }

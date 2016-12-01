@@ -3,8 +3,8 @@
       "0": [
          {
             "subject": "Heuristieken 1",
-            "classroom": "A1.10",
-            "string": "L0A44"
+            "string": "L0A44",
+            "classroom": "A1.10"
          }
       ],
       "1": [],
@@ -24,25 +24,25 @@
       "3": []
    },
    "3": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "subject": "Heuristieken 1",
+            "string": "W0A22",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": []
+   },
+   "4": {
       "0": [
          {
             "subject": "Project Numerical Recipes",
-            "classroom": "A1.10",
-            "string": "P0A15"
+            "string": "P0A15",
+            "classroom": "A1.04"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Heuristieken 1",
-            "classroom": "A1.06",
-            "string": "W0A22"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
       "1": [],
       "2": [],
       "3": []

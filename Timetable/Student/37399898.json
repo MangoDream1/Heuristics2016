@@ -2,85 +2,85 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
             "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.08",
-            "string": "W0B17"
+            "string": "W0B17",
+            "classroom": "A1.04"
+         }
+      ]
+   },
+   "1": {
+      "0": [
+         {
+            "subject": "Lineaire Algebra",
+            "string": "L1A54",
+            "classroom": "A1.10"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Programmeren in Java 2",
+            "string": "P0D19",
+            "classroom": "A1.06"
          }
       ],
       "3": [
          {
             "subject": "Interactie-ontwerp",
-            "classroom": "B0.201",
-            "string": "L0A25"
+            "string": "L0A25",
+            "classroom": "A1.10"
          }
       ]
    },
-   "1": {
-      "0": [],
+   "2": {
+      "0": [
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A51",
+            "classroom": "A1.10"
+         }
+      ],
       "1": [
          {
-            "subject": "Lineaire Algebra",
-            "classroom": "C0.110",
-            "string": "L1A54"
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0B14",
+            "classroom": "A1.10"
          }
       ],
       "2": [],
       "3": []
    },
-   "2": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "classroom": "A1.08",
-            "string": "P0B14"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.10",
-            "string": "L0A51"
-         }
-      ]
-   },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Interactie-ontwerp",
-            "classroom": "A1.04",
-            "string": "L1A25"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [
          {
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.08",
-            "string": "P0D19"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51",
+            "classroom": "C0.110"
          }
       ],
-      "1": [
-         {
-            "subject": "Lineaire Algebra",
-            "classroom": "C0.110",
-            "string": "L0A54"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.10",
-            "string": "L1A51"
+            "subject": "Interactie-ontwerp",
+            "string": "L1A25",
+            "classroom": "A1.04"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "subject": "Lineaire Algebra",
+            "string": "L0A54",
+            "classroom": "C1.112"
+         }
+      ]
    }
 }

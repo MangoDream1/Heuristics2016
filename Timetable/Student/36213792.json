@@ -2,14 +2,14 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
+            "classroom": "A1.04",
             "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.08",
             "string": "W0B17"
          }
-      ],
-      "3": []
+      ]
    },
    "1": {
       "0": [],
@@ -18,16 +18,16 @@
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "0": [
          {
-            "subject": "Reflectie op de digitale cultuur",
             "classroom": "A1.10",
+            "subject": "Reflectie op de digitale cultuur",
             "string": "L0A51"
          }
-      ]
+      ],
+      "1": [],
+      "2": [],
+      "3": []
    },
    "3": {
       "0": [],
@@ -36,15 +36,15 @@
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
+            "classroom": "C0.110",
             "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.10",
             "string": "L1A51"
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    }
 }

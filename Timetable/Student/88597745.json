@@ -2,7 +2,13 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Programmeren in Java 2",
+            "string": "P0B19",
+            "classroom": "A1.10"
+         }
+      ],
       "3": []
    },
    "1": {
@@ -24,8 +30,8 @@
       "3": [
          {
             "subject": "Zoeken, sturen en bewegen",
-            "classroom": "B0.201",
-            "string": "P0A14"
+            "string": "P0A14",
+            "classroom": "A1.10"
          }
       ]
    },
@@ -33,12 +39,6 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.06",
-            "string": "P0B19"
-         }
-      ]
+      "3": []
    }
 }

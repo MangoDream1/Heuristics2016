@@ -1,31 +1,25 @@
 {
    "0": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Technology for games",
-            "classroom": "A1.04",
-            "string": "W0A19"
-         }
-      ],
-      "2": [
+      "0": [
          {
             "subject": "Software engineering",
-            "classroom": "A1.10",
-            "string": "P0A38"
+            "string": "P0A38",
+            "classroom": "B0.201"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Technology for games",
+            "string": "L1A38",
+            "classroom": "C1.112"
          }
       ],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "subject": "Software engineering",
-            "classroom": "A1.04",
-            "string": "W0A38"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -34,13 +28,13 @@
       "1": [
          {
             "subject": "Software engineering",
-            "classroom": "C0.110",
-            "string": "L0A75"
+            "string": "L0A75",
+            "classroom": "C0.110"
          },
          {
             "subject": "Technology for games",
-            "classroom": "A1.04",
-            "string": "L1A38"
+            "string": "W0A19",
+            "classroom": "C1.112"
          }
       ],
       "2": [],
@@ -50,18 +44,24 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Software engineering",
+            "string": "W0A38",
+            "classroom": "A1.04"
+         }
+      ]
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
             "subject": "Technology for games",
-            "classroom": "A1.10",
-            "string": "L0A38"
+            "string": "L0A38",
+            "classroom": "B0.201"
          }
-      ]
+      ],
+      "3": []
    }
 }

@@ -2,30 +2,24 @@
    "0": {
       "0": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "C0.110",
-            "string": "L0A43"
+            "subject": "Software engineering",
+            "string": "P0A38",
+            "classroom": "B0.201"
          }
       ],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "subject": "Software engineering",
-            "classroom": "A1.10",
-            "string": "P0A38"
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0A22",
+            "classroom": "A1.06"
          }
-      ],
-      "3": []
+      ]
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "subject": "Software engineering",
-            "classroom": "A1.04",
-            "string": "W0A38"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -34,35 +28,41 @@
       "1": [
          {
             "subject": "Software engineering",
-            "classroom": "C0.110",
-            "string": "L0A75"
+            "string": "L0A75",
+            "classroom": "C0.110"
          }
       ],
-      "2": [
+      "2": [],
+      "3": [
          {
             "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.10",
-            "string": "P0A22"
+            "string": "L0A43",
+            "classroom": "C1.112"
          }
-      ],
-      "3": []
+      ]
    },
    "3": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Software engineering",
+            "string": "W0A38",
+            "classroom": "A1.04"
+         }
+      ]
    },
    "4": {
-      "0": [
-         {
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.04",
-            "string": "W0A22"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A22",
+            "classroom": "A1.04"
+         }
+      ]
    }
 }

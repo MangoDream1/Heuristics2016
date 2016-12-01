@@ -3,28 +3,28 @@
       "0": [
          {
             "subject": "Heuristieken 1",
-            "classroom": "A1.10",
-            "string": "L0A44"
+            "string": "L0A44",
+            "classroom": "A1.10"
          }
       ],
-      "1": [
-         {
-            "subject": "Kansrekenen 2",
-            "classroom": "C0.110",
-            "string": "L1A84"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Kansrekenen 2",
+            "string": "L1A84",
+            "classroom": "C0.110"
+         }
+      ],
       "2": [
          {
             "subject": "Architectuur en computerorganisatie",
-            "classroom": "A1.04",
-            "string": "L1A21"
+            "string": "L0A21",
+            "classroom": "C1.112"
          }
       ],
       "3": []
@@ -40,27 +40,27 @@
       "1": [],
       "2": [
          {
-            "subject": "Kansrekenen 2",
-            "classroom": "C0.110",
-            "string": "L0A84"
+            "subject": "Heuristieken 1",
+            "string": "W0B22",
+            "classroom": "A1.04"
          }
       ],
-      "3": [
-         {
-            "subject": "Heuristieken 1",
-            "classroom": "C1.112",
-            "string": "W0B22"
-         }
-      ]
+      "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L1A21",
+            "classroom": "C1.112"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "C1.112",
-            "string": "L0A21"
+            "subject": "Kansrekenen 2",
+            "string": "L0A84",
+            "classroom": "C0.110"
          }
       ],
       "3": []

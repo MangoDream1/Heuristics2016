@@ -2,24 +2,23 @@
    "0": {
       "0": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "C0.110",
-            "string": "L0A43"
+            "subject": "Compilerbouw",
+            "string": "L0A69",
+            "classroom": "C0.110"
          }
       ],
       "1": [],
-      "2": [
-         {
-            "subject": "Compilerbouw",
-            "classroom": "C1.112",
-            "string": "W0A35"
-         }
-      ],
+      "2": [],
       "3": [
          {
+            "subject": "Algoritmen en complexiteit",
+            "string": "W0A22",
+            "classroom": "A1.06"
+         },
+         {
             "subject": "Webprogrammeren en databases",
-            "classroom": "A1.08",
-            "string": "P0A20"
+            "string": "W0A20",
+            "classroom": "B0.201"
          }
       ]
    },
@@ -27,77 +26,77 @@
       "0": [
          {
             "subject": "Compilerbouw",
-            "classroom": "C0.110",
-            "string": "L0A69"
+            "string": "L1A69",
+            "classroom": "C0.110"
+         },
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "P0A20",
+            "classroom": "A1.06"
          }
       ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "classroom": "B0.201",
-            "string": "L0A39"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
       "1": [],
       "2": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.10",
-            "string": "P0A22"
+            "subject": "Compilerbouw",
+            "string": "P0A35",
+            "classroom": "A1.04"
          }
       ],
       "3": [
          {
-            "subject": "Compilerbouw",
-            "classroom": "C0.110",
-            "string": "L1A69"
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43",
+            "classroom": "C1.112"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "subject": "Project Numerical Recipes",
-            "classroom": "A1.10",
-            "string": "P0A15"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
             "subject": "Webprogrammeren en databases",
-            "classroom": "B0.201",
-            "string": "L1A39"
+            "string": "L0A39",
+            "classroom": "C0.110"
          }
       ],
-      "3": [
+      "1": [
          {
             "subject": "Compilerbouw",
-            "classroom": "A1.10",
-            "string": "P0A35"
+            "string": "W0A35",
+            "classroom": "B0.201"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "4": {
       "0": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "classroom": "A1.04",
-            "string": "W0A22"
-         },
-         {
-            "subject": "Webprogrammeren en databases",
-            "classroom": "A1.06",
-            "string": "W0A20"
+            "subject": "Project Numerical Recipes",
+            "string": "P0A15",
+            "classroom": "A1.04"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "subject": "Webprogrammeren en databases",
+            "string": "L1A39",
+            "classroom": "C0.110"
+         }
+      ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "subject": "Algoritmen en complexiteit",
+            "string": "P0A22",
+            "classroom": "A1.04"
+         }
+      ]
    }
 }

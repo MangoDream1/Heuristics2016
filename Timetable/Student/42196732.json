@@ -1,113 +1,111 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "subject": "Databases 2",
-            "classroom": "B0.201",
-            "string": "W0B36"
+            "classroom": "A1.06",
+            "subject": "Collectieve Intelligentie",
+            "string": "P0C16"
          }
       ],
+      "2": [],
       "3": [
          {
-            "subject": "Bioinformatica",
             "classroom": "A1.10",
-            "string": "L1A45"
+            "subject": "Bioinformatica",
+            "string": "L0A45"
          },
          {
-            "subject": "Collectieve Intelligentie",
             "classroom": "C0.110",
-            "string": "L1A61"
+            "subject": "Databases 2",
+            "string": "W0B36"
          }
       ]
    },
    "1": {
       "0": [
          {
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.04",
-            "string": "W0C16"
-         }
-      ],
-      "1": [
-         {
+            "classroom": "A1.10",
             "subject": "Lineaire Algebra",
-            "classroom": "C0.110",
             "string": "L1A54"
          }
       ],
-      "2": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "A1.10",
+            "subject": "Bioinformatica",
+            "string": "L1A45"
+         }
+      ],
       "3": [
          {
-            "subject": "Bioinformatica",
-            "classroom": "A1.08",
-            "string": "P0C15"
+            "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
+            "string": "L1A61"
          }
       ]
    },
    "2": {
       "0": [],
       "1": [],
+      "2": [],
+      "3": [
+         {
+            "classroom": "A1.10",
+            "subject": "Bioinformatica",
+            "string": "L2A45"
+         },
+         {
+            "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
+            "string": "L0A61"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
+            "string": "L2A61"
+         }
+      ],
       "2": [
          {
-            "subject": "Bioinformatica",
             "classroom": "C1.112",
-            "string": "L2A45"
+            "subject": "Bioinformatica",
+            "string": "W0C15"
+         },
+         {
+            "classroom": "C0.110",
+            "subject": "Databases 2",
+            "string": "L0A72"
          }
       ],
       "3": []
    },
-   "3": {
-      "0": [
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
          {
+            "classroom": "A1.06",
             "subject": "Bioinformatica",
-            "classroom": "A1.04",
-            "string": "W0C15"
+            "string": "P0C15"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "A1.10",
+            "subject": "Collectieve Intelligentie",
+            "string": "W0C16"
          },
          {
-            "subject": "Collectieve Intelligentie",
-            "classroom": "C0.110",
-            "string": "L0A61"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "classroom": "C0.110",
-            "string": "L2A61"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Databases 2",
-            "classroom": "C0.110",
-            "string": "L0A72"
-         }
-      ]
-   },
-   "4": {
-      "0": [
-         {
-            "subject": "Bioinformatica",
-            "classroom": "A1.10",
-            "string": "L0A45"
-         }
-      ],
-      "1": [
-         {
+            "classroom": "C1.112",
             "subject": "Lineaire Algebra",
-            "classroom": "C0.110",
             "string": "L0A54"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.08",
-            "string": "P0C16"
          }
       ]
    }

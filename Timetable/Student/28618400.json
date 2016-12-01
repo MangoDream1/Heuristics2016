@@ -2,8 +2,8 @@
    "0": {
       "0": [
          {
+            "classroom": "C1.112",
             "subject": "Advanced Heuristics",
-            "classroom": "A1.04",
             "string": "L0A20"
          }
       ],
@@ -13,24 +13,24 @@
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "subject": "Project Numerical Recipes",
-            "classroom": "A1.06",
-            "string": "P0C14"
-         }
-      ],
+      "1": [],
       "2": [
          {
+            "classroom": "C1.112",
             "subject": "Architectuur en computerorganisatie",
-            "classroom": "A1.04",
-            "string": "L1A21"
+            "string": "L0A21"
          }
       ],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.04",
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0D16"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -38,31 +38,31 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.06",
+            "subject": "Project Numerical Recipes",
+            "string": "P0C14"
+         }
+      ],
       "3": [
          {
+            "classroom": "A1.06",
             "subject": "Advanced Heuristics",
-            "classroom": "A1.04",
             "string": "P0B10"
          }
       ]
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "B0.201",
-            "string": "P0D16"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Architectuur en computerorganisatie",
             "classroom": "C1.112",
-            "string": "L0A21"
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L1A21"
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    }
 }

@@ -2,132 +2,144 @@
    "0": {
       "0": [
          {
-            "subject": "Compilerbouw",
             "classroom": "C1.112",
-            "string": "P0B34"
+            "subject": "Advanced Heuristics",
+            "string": "L0A20"
          }
       ],
       "1": [
          {
-            "subject": "Databases 2",
             "classroom": "C1.112",
-            "string": "W0A36"
+            "subject": "Collectieve Intelligentie",
+            "string": "P0B16"
          }
       ],
       "2": [
          {
-            "subject": "Compilerbouw",
             "classroom": "C1.112",
-            "string": "W0A35"
+            "subject": "Technology for games",
+            "string": "L1A38"
          }
       ],
       "3": [
          {
-            "subject": "Informatie- en organisatieontwerp",
             "classroom": "C1.112",
-            "string": "L1A21"
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "L0A21"
          }
       ]
    },
    "1": {
       "0": [
          {
-            "subject": "Data Mining",
             "classroom": "C1.112",
-            "string": "W0B9"
+            "subject": "Machine Learning",
+            "string": "L0A22"
          }
       ],
       "1": [
          {
-            "subject": "Informatie- en organisatieontwerp",
             "classroom": "C1.112",
-            "string": "L0A21"
+            "subject": "Project Genetic Algorithms",
+            "string": "P0B12"
          }
       ],
       "2": [
          {
-            "subject": "Reflectie op de digitale cultuur",
             "classroom": "C1.112",
-            "string": "W0A17"
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L0A21"
          }
       ],
       "3": [
          {
-            "subject": "Autonomous Agents 2",
             "classroom": "C1.112",
-            "string": "L1A22"
+            "subject": "Project Genetic Algorithms",
+            "string": "P0A12"
          }
       ]
    },
    "2": {
       "0": [
          {
-            "subject": "Compilerbouw (practicum)",
             "classroom": "C1.112",
-            "string": "P0C12"
+            "subject": "Moderne Databases",
+            "string": "L0A54"
          }
       ],
-      "1": [],
-      "2": [
-         {
-            "subject": "Bioinformatica",
-            "classroom": "C1.112",
-            "string": "L2A45"
-         }
-      ],
-      "3": []
-   },
-   "3": {
-      "0": [],
       "1": [
          {
-            "subject": "Autonomous Agents 2",
             "classroom": "C1.112",
-            "string": "W0A8"
+            "subject": "Technology for games",
+            "string": "W0A19"
          }
       ],
       "2": [
          {
-            "subject": "Compilerbouw",
             "classroom": "C1.112",
-            "string": "W0B34"
+            "subject": "Data Mining",
+            "string": "P0C9"
          }
       ],
       "3": [
          {
-            "subject": "Heuristieken 1",
             "classroom": "C1.112",
-            "string": "W0B22"
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "classroom": "C1.112",
+            "subject": "Compilerbouw",
+            "string": "W0B34"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "C1.112",
+            "subject": "Calculus 2",
+            "string": "W0B36"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "C1.112",
+            "subject": "Bioinformatica",
+            "string": "W0C15"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "C1.112",
+            "subject": "Heuristieken 2",
+            "string": "L0A32"
          }
       ]
    },
    "4": {
       "0": [
          {
-            "subject": "Autonomous Agents 2",
             "classroom": "C1.112",
-            "string": "W0C6"
+            "subject": "Architectuur en computerorganisatie",
+            "string": "L1A21"
          }
       ],
       "1": [
          {
-            "subject": "Informatie- en organisatieontwerp",
             "classroom": "C1.112",
-            "string": "W0B10"
+            "subject": "Data Mining",
+            "string": "L1A27"
          }
       ],
-      "2": [
-         {
-            "subject": "Architectuur en computerorganisatie",
-            "classroom": "C1.112",
-            "string": "L0A21"
-         }
-      ],
+      "2": [],
       "3": [
          {
-            "subject": "Data Mining",
             "classroom": "C1.112",
-            "string": "L1A27"
+            "subject": "Lineaire Algebra",
+            "string": "L0A54"
          }
       ]
    }

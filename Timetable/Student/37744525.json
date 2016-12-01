@@ -3,95 +3,94 @@
       "0": [],
       "1": [
          {
-            "subject": "Data Mining",
-            "classroom": "C0.110",
-            "string": "L0A27"
-         }
-      ],
-      "2": [
-         {
+            "classroom": "A1.10",
             "subject": "Software engineering",
-            "classroom": "A1.04",
-            "string": "P0B37"
+            "string": "W0B37"
          }
       ],
-      "3": [
-         {
-            "subject": "Machine Learning",
-            "classroom": "A1.06",
-            "string": "L0A22"
-         }
-      ]
+      "2": [],
+      "3": []
    },
    "1": {
       "0": [
          {
+            "classroom": "C1.112",
+            "subject": "Machine Learning",
+            "string": "L0A22"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "A1.08",
             "subject": "Data Mining",
-            "classroom": "A1.06",
             "string": "W0C9"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.06",
-            "string": "P0E19"
-         },
-         {
-            "subject": "Software engineering",
-            "classroom": "C0.110",
-            "string": "L0A75"
+            "classroom": "A1.04",
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0D16"
          }
       ],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [],
       "1": [
          {
-            "subject": "Machine Learning",
-            "classroom": "B0.201",
-            "string": "L1A22"
+            "classroom": "C0.110",
+            "subject": "Software engineering",
+            "string": "L0A75"
          }
       ],
       "2": [
          {
+            "classroom": "C1.112",
             "subject": "Data Mining",
-            "classroom": "A1.04",
             "string": "P0C9"
+         },
+         {
+            "classroom": "A1.10",
+            "subject": "Programmeren in Java 2",
+            "string": "P0E19"
          }
       ],
       "3": []
    },
-   "4": {
+   "3": {
       "0": [
          {
-            "subject": "Software engineering",
             "classroom": "B0.201",
-            "string": "W0B37"
+            "subject": "Data Mining",
+            "string": "L0A27"
          }
       ],
-      "1": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "B0.201",
-            "string": "P0D16"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Data Mining",
-            "classroom": "C1.112",
-            "string": "L1A27"
+            "classroom": "B0.201",
+            "subject": "Software engineering",
+            "string": "P0B37"
          }
       ]
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "C1.112",
+            "subject": "Data Mining",
+            "string": "L1A27"
+         },
+         {
+            "classroom": "B0.201",
+            "subject": "Machine Learning",
+            "string": "L1A22"
+         }
+      ],
+      "2": [],
+      "3": []
    }
 }

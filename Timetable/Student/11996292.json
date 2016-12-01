@@ -2,89 +2,89 @@
    "0": {
       "0": [
          {
-            "subject": "Heuristieken 1",
             "classroom": "A1.10",
+            "subject": "Heuristieken 1",
             "string": "L0A44"
          }
       ],
-      "1": [
-         {
-            "subject": "Moderne Databases",
-            "classroom": "A1.10",
-            "string": "P0C18"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Databases 2",
-            "classroom": "B0.201",
-            "string": "W0B36"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [],
       "1": [],
       "2": [
          {
+            "classroom": "C1.112",
             "subject": "Technology for games",
-            "classroom": "A1.08",
-            "string": "W0B19"
+            "string": "L1A38"
          }
       ],
+      "3": [
+         {
+            "classroom": "C0.110",
+            "subject": "Databases 2",
+            "string": "W0B36"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "B0.201",
+            "subject": "Moderne Databases",
+            "string": "W0C18"
+         }
+      ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [
          {
+            "classroom": "C1.112",
             "subject": "Moderne Databases",
-            "classroom": "A1.06",
-            "string": "W0C18"
+            "string": "L0A54"
          }
       ],
-      "1": [
-         {
-            "subject": "Technology for games",
-            "classroom": "A1.04",
-            "string": "L1A38"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Databases 2",
-            "classroom": "C0.110",
-            "string": "L0A72"
-         },
-         {
-            "subject": "Heuristieken 1",
-            "classroom": "C1.112",
-            "string": "W0B22"
+            "classroom": "A1.08",
+            "subject": "Technology for games",
+            "string": "W0B19"
          }
       ]
    },
-   "4": {
+   "3": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "subject": "Moderne Databases",
-            "classroom": "A1.10",
-            "string": "L0A54"
+            "classroom": "C0.110",
+            "subject": "Databases 2",
+            "string": "L0A72"
+         },
+         {
+            "classroom": "A1.04",
+            "subject": "Heuristieken 1",
+            "string": "W0B22"
          }
       ],
-      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "B0.201",
+            "subject": "Technology for games",
+            "string": "L0A38"
+         }
+      ],
       "3": [
          {
-            "subject": "Technology for games",
             "classroom": "A1.10",
-            "string": "L0A38"
+            "subject": "Moderne Databases",
+            "string": "P0C18"
          }
       ]
    }

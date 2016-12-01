@@ -3,123 +3,125 @@
       "0": [
          {
             "subject": "Heuristieken 1",
-            "classroom": "A1.10",
-            "string": "L0A44"
+            "string": "L0A44",
+            "classroom": "A1.10"
          }
       ],
       "1": [
          {
             "subject": "Autonomous Agents 2",
-            "classroom": "B0.201",
-            "string": "L0A22"
-         },
-         {
-            "subject": "Data Mining",
-            "classroom": "C0.110",
-            "string": "L0A27"
+            "string": "L1A22",
+            "classroom": "A1.04"
          }
       ],
-      "2": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.08",
-            "string": "W0B17"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "subject": "Data Mining",
-            "classroom": "C1.112",
-            "string": "W0B9"
-         }
-      ],
-      "1": [],
       "2": [
          {
             "subject": "Technology for games",
-            "classroom": "A1.08",
-            "string": "W0B19"
+            "string": "L1A38",
+            "classroom": "C1.112"
          }
       ],
       "3": [
          {
-            "subject": "Autonomous Agents 2",
-            "classroom": "C1.112",
-            "string": "L1A22"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0B17",
+            "classroom": "A1.04"
          }
       ]
    },
-   "2": {
+   "1": {
       "0": [],
       "1": [
          {
-            "subject": "Technology for games",
-            "classroom": "A1.04",
-            "string": "L1A38"
+            "subject": "Data Mining",
+            "string": "W0B9",
+            "classroom": "A1.04"
          }
       ],
       "2": [],
       "3": [
          {
+            "subject": "Autonomous Agents 2",
+            "string": "L0A22",
+            "classroom": "A1.06"
+         }
+      ]
+   },
+   "2": {
+      "0": [
+         {
             "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.10",
-            "string": "L0A51"
+            "string": "L0A51",
+            "classroom": "A1.10"
+         }
+      ],
+      "1": [
+         {
+            "subject": "Data Mining",
+            "string": "P0B9",
+            "classroom": "A1.08"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "subject": "Technology for games",
+            "string": "W0B19",
+            "classroom": "A1.08"
          }
       ]
    },
    "3": {
       "0": [
          {
+            "subject": "Data Mining",
+            "string": "L0A27",
+            "classroom": "B0.201"
+         }
+      ],
+      "1": [
+         {
             "subject": "Autonomous Agents 2",
-            "classroom": "A1.06",
-            "string": "P0B8"
+            "string": "P0B8",
+            "classroom": "A1.08"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Heuristieken 1",
+            "string": "W0A22",
+            "classroom": "B0.201"
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "subject": "Autonomous Agents 2",
+            "string": "W0B8",
+            "classroom": "A1.08"
+         },
+         {
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51",
+            "classroom": "C0.110"
          }
       ],
       "1": [
          {
             "subject": "Data Mining",
-            "classroom": "A1.08",
-            "string": "P0B9"
+            "string": "L1A27",
+            "classroom": "C1.112"
          }
       ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Heuristieken 1",
-            "classroom": "A1.06",
-            "string": "W0A22"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
-      "1": [],
       "2": [
          {
-            "subject": "Autonomous Agents 2",
-            "classroom": "A1.04",
-            "string": "W0B8"
-         },
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.10",
-            "string": "L1A51"
+            "subject": "Technology for games",
+            "string": "L0A38",
+            "classroom": "B0.201"
          }
       ],
-      "3": [
-         {
-            "subject": "Data Mining",
-            "classroom": "C1.112",
-            "string": "L1A27"
-         },
-         {
-            "subject": "Technology for games",
-            "classroom": "A1.10",
-            "string": "L0A38"
-         }
-      ]
+      "3": []
    }
 }

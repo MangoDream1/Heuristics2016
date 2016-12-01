@@ -4,23 +4,23 @@
       "1": [
          {
             "subject": "Autonomous Agents 2",
-            "classroom": "B0.201",
-            "string": "L0A22"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Databases 2",
-            "classroom": "B0.201",
-            "string": "W0B36"
+            "string": "L1A22",
+            "classroom": "A1.04"
          },
          {
             "subject": "Software engineering",
-            "classroom": "A1.04",
-            "string": "P0B37"
+            "string": "W0B37",
+            "classroom": "A1.10"
          }
       ],
-      "3": []
+      "2": [],
+      "3": [
+         {
+            "subject": "Databases 2",
+            "string": "W0B36",
+            "classroom": "C0.110"
+         }
+      ]
    },
    "1": {
       "0": [],
@@ -29,8 +29,8 @@
       "3": [
          {
             "subject": "Autonomous Agents 2",
-            "classroom": "C1.112",
-            "string": "L1A22"
+            "string": "L0A22",
+            "classroom": "A1.06"
          }
       ]
    },
@@ -39,47 +39,47 @@
       "1": [
          {
             "subject": "Software engineering",
-            "classroom": "C0.110",
-            "string": "L0A75"
+            "string": "L0A75",
+            "classroom": "C0.110"
          }
       ],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [
          {
             "subject": "Autonomous Agents 2",
-            "classroom": "A1.06",
-            "string": "P0B8"
+            "string": "P0B8",
+            "classroom": "A1.08"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
             "subject": "Databases 2",
-            "classroom": "C0.110",
-            "string": "L0A72"
+            "string": "L0A72",
+            "classroom": "C0.110"
+         }
+      ],
+      "3": [
+         {
+            "subject": "Software engineering",
+            "string": "P0B37",
+            "classroom": "B0.201"
          }
       ]
    },
    "4": {
       "0": [
          {
-            "subject": "Software engineering",
-            "classroom": "B0.201",
-            "string": "W0B37"
+            "subject": "Autonomous Agents 2",
+            "string": "W0B8",
+            "classroom": "A1.08"
          }
       ],
       "1": [],
-      "2": [
-         {
-            "subject": "Autonomous Agents 2",
-            "classroom": "A1.04",
-            "string": "W0B8"
-         }
-      ],
+      "2": [],
       "3": []
    }
 }

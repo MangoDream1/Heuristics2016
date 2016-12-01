@@ -2,8 +2,8 @@
    "0": {
       "0": [
          {
-            "subject": "Heuristieken 1",
             "classroom": "A1.10",
+            "subject": "Heuristieken 1",
             "string": "L0A44"
          }
       ],
@@ -14,32 +14,32 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [],
       "2": [
          {
+            "classroom": "A1.08",
             "subject": "Programmeren in Java 2",
-            "classroom": "C0.110",
             "string": "P0F15"
          }
       ],
       "3": []
    },
-   "3": {
+   "2": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [
          {
+            "classroom": "A1.04",
             "subject": "Heuristieken 1",
-            "classroom": "C1.112",
             "string": "W0B22"
          }
-      ]
+      ],
+      "3": []
    },
    "4": {
       "0": [],

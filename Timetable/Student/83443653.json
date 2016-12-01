@@ -3,8 +3,8 @@
       "0": [
          {
             "subject": "Heuristieken 1",
-            "classroom": "A1.10",
-            "string": "L0A44"
+            "string": "L0A44",
+            "classroom": "A1.10"
          }
       ],
       "1": [],
@@ -15,13 +15,7 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Analysemethoden en -technieken",
-            "classroom": "C0.110",
-            "string": "L0A49"
-         }
-      ]
+      "3": []
    },
    "2": {
       "0": [],
@@ -32,18 +26,24 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
             "subject": "Heuristieken 1",
-            "classroom": "C1.112",
-            "string": "W0B22"
+            "string": "W0B22",
+            "classroom": "A1.04"
          }
-      ]
+      ],
+      "3": []
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A49",
+            "classroom": "A1.10"
+         }
+      ],
       "2": [],
       "3": []
    }

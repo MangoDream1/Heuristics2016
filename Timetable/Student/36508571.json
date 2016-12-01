@@ -4,28 +4,28 @@
       "1": [
          {
             "subject": "Autonomous Agents 2",
-            "classroom": "B0.201",
-            "string": "L0A22"
+            "string": "L1A22",
+            "classroom": "A1.04"
          }
       ],
       "2": [],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
             "subject": "Lineaire Algebra",
-            "classroom": "C0.110",
-            "string": "L1A54"
+            "string": "L1A54",
+            "classroom": "A1.10"
          }
       ],
+      "1": [],
       "2": [],
       "3": [
          {
             "subject": "Autonomous Agents 2",
-            "classroom": "C1.112",
-            "string": "L1A22"
+            "string": "L0A22",
+            "classroom": "A1.06"
          }
       ]
    },
@@ -36,33 +36,33 @@
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
             "subject": "Autonomous Agents 2",
-            "classroom": "C1.112",
-            "string": "W0A8"
+            "string": "W0A8",
+            "classroom": "A1.08"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "subject": "Lineaire Algebra",
-            "classroom": "C0.110",
-            "string": "L0A54"
-         }
-      ],
+      "1": [],
       "2": [
          {
             "subject": "Autonomous Agents 2",
-            "classroom": "A1.08",
-            "string": "P0A8"
+            "string": "P0A8",
+            "classroom": "A1.10"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "subject": "Lineaire Algebra",
+            "string": "L0A54",
+            "classroom": "C1.112"
+         }
+      ]
    }
 }

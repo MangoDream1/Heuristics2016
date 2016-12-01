@@ -1,22 +1,22 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
             "subject": "Compilerbouw",
-            "classroom": "C1.112",
-            "string": "W0A35"
+            "string": "L0A69",
+            "classroom": "C0.110"
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [
          {
             "subject": "Compilerbouw",
-            "classroom": "C0.110",
-            "string": "L0A69"
+            "string": "L1A69",
+            "classroom": "C0.110"
          }
       ],
       "1": [],
@@ -24,43 +24,43 @@
       "3": []
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [
          {
             "subject": "Netwerken en systeembeveiliging",
-            "classroom": "C0.110",
-            "string": "P0A16"
+            "string": "P0A16",
+            "classroom": "B0.201"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
             "subject": "Compilerbouw",
-            "classroom": "C0.110",
-            "string": "L1A69"
+            "string": "P0A35",
+            "classroom": "A1.04"
          }
-      ]
+      ],
+      "3": []
    },
    "3": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Compilerbouw",
+            "string": "W0A35",
+            "classroom": "B0.201"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "4": {
       "0": [
          {
             "subject": "Project Numerical Recipes",
-            "classroom": "A1.10",
-            "string": "P0A15"
+            "string": "P0A15",
+            "classroom": "A1.04"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Compilerbouw",
-            "classroom": "A1.10",
-            "string": "P0A35"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
       "1": [],
       "2": [],
       "3": []

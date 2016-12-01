@@ -4,8 +4,7 @@ from random import randint, choice, random
 from operator import itemgetter
 from math import exp
 
-def swap_simulated_annealing(im, startRandom, Tmax=1000,
-                             Tmin = 1, ding=100):
+def swap_simulated_annealing(im, startRandom, Tmax=1000, Tmin = 1):
 
     print("Starting swap simulated annealing...")
 
@@ -65,11 +64,9 @@ def swap_simulated_annealing(im, startRandom, Tmax=1000,
 
             if nIteration % 1000 == 0:
                 print(im.iteration_dct[im.i]["score"])
-                print(nIteration / ding)
                 print(temp)
                 print(acception_rate)
                 im.createBase()
-
 
             r = random()
 
@@ -87,10 +84,6 @@ def swap_simulated_annealing(im, startRandom, Tmax=1000,
                 # Reset to previous state
                 im.applyChanges(im.compileChanges(im.i - 1))
                 nIteration += 1
-
-            if nIteration % 1 == 0:
-                print(str(acception_rate >= r) + " " + str(int(temp)) + " " + str(im.iteration_dct[im.i-1]["score"]))
-
 
         if temp <= Tmin or im.iteration_dct[im.i-1]["score"] >= 1440:
             break

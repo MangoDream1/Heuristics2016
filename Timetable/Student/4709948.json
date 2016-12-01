@@ -1,51 +1,56 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
             "subject": "Moderne Databases",
-            "classroom": "A1.06",
-            "string": "P0B18"
+            "string": "W0B18",
+            "classroom": "A1.08"
          }
       ],
-      "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
             "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.08",
-            "string": "W0B17"
+            "string": "W0B17",
+            "classroom": "A1.04"
          }
-      ],
-      "3": []
+      ]
    },
    "1": {
-      "0": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "classroom": "B0.201",
-            "string": "P0C16"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "2": {
       "0": [],
       "1": [],
       "2": [
          {
-            "subject": "Moderne Databases",
-            "classroom": "A1.04",
-            "string": "W0B18"
+            "subject": "Programmeren in Java 2",
+            "string": "P0D19",
+            "classroom": "A1.06"
          }
       ],
-      "3": [
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
+            "subject": "Moderne Databases",
+            "string": "L0A54",
+            "classroom": "C1.112"
+         },
          {
             "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.10",
-            "string": "L0A51"
+            "string": "L0A51",
+            "classroom": "A1.10"
          }
-      ]
+      ],
+      "1": [],
+      "2": [
+         {
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0C16",
+            "classroom": "C0.110"
+         }
+      ],
+      "3": []
    },
    "3": {
       "0": [],
@@ -56,25 +61,19 @@
    "4": {
       "0": [
          {
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.08",
-            "string": "P0D19"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51",
+            "classroom": "C0.110"
          }
       ],
       "1": [
          {
             "subject": "Moderne Databases",
-            "classroom": "A1.10",
-            "string": "L0A54"
+            "string": "P0B18",
+            "classroom": "B0.201"
          }
       ],
-      "2": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "classroom": "A1.10",
-            "string": "L1A51"
-         }
-      ],
+      "2": [],
       "3": []
    }
 }

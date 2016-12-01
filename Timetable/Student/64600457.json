@@ -1,97 +1,97 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "subject": "Moderne Databases",
-            "classroom": "A1.10",
-            "string": "P0C18"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Bioinformatica",
-            "classroom": "A1.10",
-            "string": "L1A45"
-         }
-      ]
-   },
-   "1": {
-      "0": [],
       "1": [],
       "2": [
          {
-            "subject": "Calculus 2",
             "classroom": "C0.110",
+            "subject": "Calculus 2",
             "string": "L0A106"
          }
       ],
       "3": [
          {
+            "classroom": "A1.10",
             "subject": "Bioinformatica",
-            "classroom": "A1.08",
-            "string": "P0C15"
+            "string": "L0A45"
          }
       ]
    },
-   "2": {
-      "0": [
-         {
-            "subject": "Moderne Databases",
-            "classroom": "A1.06",
-            "string": "W0C18"
-         }
-      ],
+   "1": {
+      "0": [],
       "1": [
          {
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.06",
-            "string": "P0E19"
+            "classroom": "B0.201",
+            "subject": "Moderne Databases",
+            "string": "W0C18"
          }
       ],
       "2": [
          {
+            "classroom": "A1.10",
             "subject": "Bioinformatica",
+            "string": "L1A45"
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [
+         {
             "classroom": "C1.112",
-            "string": "L2A45"
-         }
-      ],
-      "3": []
-   },
-   "3": {
-      "0": [
-         {
-            "subject": "Bioinformatica",
-            "classroom": "A1.04",
-            "string": "W0C15"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [
-         {
-            "subject": "Bioinformatica",
-            "classroom": "A1.10",
-            "string": "L0A45"
-         }
-      ],
-      "1": [
-         {
             "subject": "Moderne Databases",
-            "classroom": "A1.10",
             "string": "L0A54"
          }
       ],
-      "2": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "A1.10",
+            "subject": "Programmeren in Java 2",
+            "string": "P0E19"
+         }
+      ],
       "3": [
          {
+            "classroom": "A1.10",
+            "subject": "Bioinformatica",
+            "string": "L2A45"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "A1.10",
             "subject": "Calculus 2",
-            "classroom": "A1.04",
             "string": "W0C34"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "C1.112",
+            "subject": "Bioinformatica",
+            "string": "W0C15"
+         }
+      ],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "A1.06",
+            "subject": "Bioinformatica",
+            "string": "P0C15"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "A1.10",
+            "subject": "Moderne Databases",
+            "string": "P0C18"
          }
       ]
    }

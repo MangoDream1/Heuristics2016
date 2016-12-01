@@ -1,42 +1,37 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "subject": "Databases 2",
-            "classroom": "B0.201",
-            "string": "W0B36"
-         },
-         {
-            "subject": "Heuristieken 2",
             "classroom": "A1.06",
+            "subject": "Heuristieken 2",
             "string": "W0B16"
          }
       ],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "subject": "Collectieve Intelligentie",
+            "string": "P0C16"
+         }
+      ],
+      "2": [],
       "3": [
          {
-            "subject": "Collectieve Intelligentie",
             "classroom": "C0.110",
-            "string": "L1A61"
+            "subject": "Databases 2",
+            "string": "W0B36"
          }
       ]
    },
    "1": {
-      "0": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "classroom": "A1.04",
-            "string": "W0C16"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Analysemethoden en -technieken",
             "classroom": "C0.110",
-            "string": "L0A49"
+            "subject": "Collectieve Intelligentie",
+            "string": "L1A61"
          }
       ]
    },
@@ -44,47 +39,53 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [
+      "3": [
          {
-            "subject": "Collectieve Intelligentie",
             "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
             "string": "L0A61"
          }
-      ],
+      ]
+   },
+   "3": {
+      "0": [],
       "1": [
          {
-            "subject": "Collectieve Intelligentie",
             "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
             "string": "L2A61"
          }
       ],
       "2": [
          {
-            "subject": "Heuristieken 2",
-            "classroom": "A1.10",
-            "string": "L0A32"
+            "classroom": "C0.110",
+            "subject": "Databases 2",
+            "string": "L0A72"
          }
       ],
       "3": [
          {
-            "subject": "Databases 2",
-            "classroom": "C0.110",
-            "string": "L0A72"
+            "classroom": "C1.112",
+            "subject": "Heuristieken 2",
+            "string": "L0A32"
          }
       ]
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A49"
+         }
+      ],
       "2": [],
       "3": [
          {
+            "classroom": "A1.10",
             "subject": "Collectieve Intelligentie",
-            "classroom": "A1.08",
-            "string": "P0C16"
+            "string": "W0C16"
          }
       ]
    }

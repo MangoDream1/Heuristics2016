@@ -6,8 +6,8 @@
       "3": [
          {
             "subject": "Heuristieken 2",
-            "classroom": "A1.04",
-            "string": "W0A16"
+            "string": "W0A16",
+            "classroom": "A1.08"
          }
       ]
    },
@@ -26,14 +26,14 @@
    "3": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
             "subject": "Heuristieken 2",
-            "classroom": "A1.10",
-            "string": "L0A32"
+            "string": "L0A32",
+            "classroom": "C1.112"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
       "0": [],

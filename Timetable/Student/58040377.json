@@ -5,38 +5,32 @@
       "2": [
          {
             "subject": "Calculus 2",
-            "classroom": "C0.110",
-            "string": "W0A36"
+            "string": "L0A106",
+            "classroom": "C0.110"
          }
       ],
       "3": [
          {
             "subject": "Heuristieken 2",
-            "classroom": "A1.04",
-            "string": "W0A16"
+            "string": "W0A16",
+            "classroom": "A1.08"
          }
       ]
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.10",
-            "string": "P0C19"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Calculus 2",
-            "classroom": "C0.110",
-            "string": "L0A106"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "subject": "Programmeren in Java 2",
+            "string": "P0C19",
+            "classroom": "C0.110"
+         }
+      ],
       "1": [],
       "2": [],
       "3": []
@@ -46,12 +40,18 @@
       "1": [],
       "2": [
          {
-            "subject": "Heuristieken 2",
-            "classroom": "A1.10",
-            "string": "L0A32"
+            "subject": "Calculus 2",
+            "string": "W0A36",
+            "classroom": "A1.10"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "subject": "Heuristieken 2",
+            "string": "L0A32",
+            "classroom": "C1.112"
+         }
+      ]
    },
    "4": {
       "0": [],

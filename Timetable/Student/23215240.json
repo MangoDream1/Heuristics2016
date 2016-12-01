@@ -8,17 +8,23 @@
    "1": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [
+      "2": [
          {
-            "subject": "Compilerbouw (practicum)",
-            "classroom": "A1.10",
-            "string": "P0B14"
+            "subject": "Programmeren in Java 2",
+            "string": "P0D19",
+            "classroom": "A1.06"
          }
       ],
+      "3": [
+         {
+            "subject": "Compilerbouw (practicum)",
+            "string": "P0B14",
+            "classroom": "A1.08"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -30,13 +36,7 @@
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "subject": "Programmeren in Java 2",
-            "classroom": "A1.08",
-            "string": "P0D19"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []

@@ -1,31 +1,31 @@
 {
    "0": {
+      "0": [
+         {
+            "classroom": "A1.04",
+            "subject": "Webprogrammeren en databases",
+            "string": "W0B19"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
       "0": [],
       "1": [
          {
+            "classroom": "A1.06",
             "subject": "Webprogrammeren en databases",
-            "classroom": "A1.08",
-            "string": "W0B19"
+            "string": "P0B19"
          }
       ],
       "2": [],
       "3": [
          {
+            "classroom": "A1.10",
             "subject": "Interactie-ontwerp",
-            "classroom": "B0.201",
             "string": "L0A25"
-         }
-      ]
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "classroom": "B0.201",
-            "string": "L0A39"
          }
       ]
    },
@@ -36,33 +36,33 @@
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Interactie-ontwerp",
-            "classroom": "A1.04",
-            "string": "L1A25"
-         }
-      ],
-      "2": [
-         {
+            "classroom": "C0.110",
             "subject": "Webprogrammeren en databases",
-            "classroom": "B0.201",
-            "string": "L1A39"
+            "string": "L0A39"
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "4": {
       "0": [],
       "1": [
          {
+            "classroom": "C0.110",
             "subject": "Webprogrammeren en databases",
-            "classroom": "A1.06",
-            "string": "P0B19"
+            "string": "L1A39"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.04",
+            "subject": "Interactie-ontwerp",
+            "string": "L1A25"
+         }
+      ],
       "3": []
    }
 }

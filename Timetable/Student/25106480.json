@@ -1,31 +1,37 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
+            "classroom": "A1.10",
             "subject": "Software engineering",
-            "classroom": "A1.04",
-            "string": "P0B37"
+            "string": "W0B37"
          }
       ],
-      "3": [
+      "2": [
          {
+            "classroom": "B0.201",
             "subject": "Collectieve Intelligentie",
-            "classroom": "C0.110",
-            "string": "L1A61"
+            "string": "P0D13"
          }
-      ]
+      ],
+      "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "subject": "Project Genetic Algorithms",
+            "string": "P0C12"
+         }
+      ],
       "3": [
          {
+            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "classroom": "A1.04",
-            "string": "W0D13"
+            "string": "L1A61"
          }
       ]
    },
@@ -33,54 +39,48 @@
       "0": [],
       "1": [
          {
-            "subject": "Software engineering",
             "classroom": "C0.110",
+            "subject": "Software engineering",
             "string": "L0A75"
          }
       ],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "subject": "Project Genetic Algorithms",
-            "classroom": "A1.06",
-            "string": "P0C12"
-         }
-      ],
-      "3": []
-   },
-   "3": {
-      "0": [
-         {
-            "subject": "Collectieve Intelligentie",
             "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
             "string": "L0A61"
          }
-      ],
+      ]
+   },
+   "3": {
+      "0": [],
       "1": [
          {
-            "subject": "Collectieve Intelligentie",
             "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
             "string": "L2A61"
          }
       ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "B0.201",
+            "subject": "Software engineering",
+            "string": "P0B37"
+         }
+      ]
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Software engineering",
-            "classroom": "B0.201",
-            "string": "W0B37"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
+            "classroom": "A1.08",
             "subject": "Collectieve Intelligentie",
-            "classroom": "B0.201",
-            "string": "P0D13"
+            "string": "W0D13"
          }
       ],
+      "2": [],
       "3": []
    }
 }

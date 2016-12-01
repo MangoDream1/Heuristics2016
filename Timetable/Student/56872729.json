@@ -1,67 +1,67 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "subject": "Databases 2",
-            "classroom": "C1.112",
-            "string": "W0A36"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Lineaire Algebra",
-            "classroom": "C0.110",
-            "string": "L1A54"
-         }
-      ],
+      "1": [],
       "2": [
          {
             "subject": "Calculus 2",
-            "classroom": "C0.110",
-            "string": "L0A106"
+            "string": "L0A106",
+            "classroom": "C0.110"
          }
       ],
+      "3": []
+   },
+   "1": {
+      "0": [
+         {
+            "subject": "Lineaire Algebra",
+            "string": "L1A54",
+            "classroom": "A1.10"
+         }
+      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "subject": "Databases 2",
+            "string": "W0A36",
+            "classroom": "B0.201"
+         }
+      ],
       "3": []
    },
    "3": {
+      "0": [],
+      "1": [
+         {
+            "subject": "Calculus 2",
+            "string": "W0B36",
+            "classroom": "C1.112"
+         }
+      ],
+      "2": [
+         {
+            "subject": "Databases 2",
+            "string": "L0A72",
+            "classroom": "C0.110"
+         }
+      ],
+      "3": []
+   },
+   "4": {
       "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Databases 2",
-            "classroom": "C0.110",
-            "string": "L0A72"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
-      "1": [
-         {
             "subject": "Lineaire Algebra",
-            "classroom": "C0.110",
-            "string": "L0A54"
-         }
-      ],
-      "2": [],
-      "3": [
-         {
-            "subject": "Calculus 2",
-            "classroom": "B0.201",
-            "string": "W0B36"
+            "string": "L0A54",
+            "classroom": "C1.112"
          }
       ]
    }
