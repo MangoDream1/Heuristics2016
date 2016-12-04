@@ -160,7 +160,7 @@ class Subject(Timetable):
         return self.name
 
     def assignStudentsToLectures(self):
-        if len(self.lectures):
+        if self.lectures:
             newLectures = []
 
             for lecture in self.lectures:
@@ -173,14 +173,16 @@ class Subject(Timetable):
                         # For every work lecture, there are the same groups that need to be filled
                         # But these groups also need to be created
                         for groupNumber in range(nGroups):
-                            lecture = copy(lecture)
-                            lecture.group = groupNumber
+                            nLecture = copy(lecture)
+                            nLecture.group = groupNumber
 
-                            lecture.students = self.students[groupNumber*lectureSize:(groupNumber+1)*lectureSize]
+                            nLecture.students = self.students[groupNumber*\
+                                lectureSize:(groupNumber+1)*lectureSize]
 
-                            lecture.assignLectureToStudents()
-                            newLectures.append(lecture)
+                            nLecture.assignLectureToStudents()
+                            newLectures.append(nLecture)
 
+                            lecture.siblings.append(nLecture)
                     else:
                         # Only one group, thus every student in the same group
                         lecture.students = self.students
@@ -191,6 +193,21 @@ class Subject(Timetable):
                     lecture.students = self.students
                     lecture.assignLectureToStudents()
                     newLectures.append(lecture)
+
+            # Add connected lectures to sibling list
+            for lecture in newLectures:
+                for sibling in lecture.siblings:
+                    if lecture not in sibling.siblings:
+                        sibling.siblings.append(lecture)
+
+            # Remove self from sibling list
+            for lecture in newLectures:
+                # Copy needed because every above created sibling lists
+                # use same pointer thus removing from one removed from all
+                lecture.siblings = copy(lecture.siblings)
+
+                if lecture in lecture.siblings:
+                    lecture.siblings.remove(lecture)
 
             self.lectures = newLectures
 
