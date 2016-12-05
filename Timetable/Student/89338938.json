@@ -3,83 +3,84 @@
       "0": [],
       "1": [
          {
+            "classroom": "C0.110",
             "subject": "Software engineering",
-            "string": "W0B37",
-            "classroom": "A1.10"
+            "string": "L0A75"
          }
       ],
       "2": [
          {
+            "classroom": "A1.10",
             "subject": "Technology for games",
-            "string": "L1A38",
-            "classroom": "C1.112"
+            "string": "L0A38"
          }
       ],
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Kansrekenen 2",
-            "string": "L1A84",
-            "classroom": "C0.110"
+            "classroom": "C1.112",
+            "subject": "Project Numerical Recipes",
+            "string": "P0C14"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Software engineering",
-            "string": "L0A75",
-            "classroom": "C0.110"
+            "classroom": "C0.110",
+            "subject": "Technology for games",
+            "string": "W0B19"
          }
       ],
-      "2": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "subject": "Kansrekenen 2",
+            "string": "L1A84"
+         }
+      ],
       "3": [
          {
-            "subject": "Technology for games",
-            "string": "W0B19",
-            "classroom": "A1.08"
+            "classroom": "A1.04",
+            "subject": "Software engineering",
+            "string": "W0B37"
          }
       ]
    },
    "3": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "subject": "Project Numerical Recipes",
-            "string": "P0C14",
-            "classroom": "A1.06"
+            "classroom": "A1.04",
+            "subject": "Software engineering",
+            "string": "P0B37"
          }
       ],
-      "3": [
-         {
-            "subject": "Software engineering",
-            "string": "P0B37",
-            "classroom": "B0.201"
-         }
-      ]
+      "1": [],
+      "2": [],
+      "3": []
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
+            "classroom": "C0.110",
             "subject": "Kansrekenen 2",
-            "string": "L0A84",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Technology for games",
-            "string": "L0A38",
-            "classroom": "B0.201"
+            "string": "L0A84"
          }
       ],
-      "3": []
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "classroom": "C1.112",
+            "subject": "Technology for games",
+            "string": "L1A38"
+         }
+      ]
    }
 }

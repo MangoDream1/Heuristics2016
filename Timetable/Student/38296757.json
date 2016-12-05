@@ -4,40 +4,40 @@
       "1": [],
       "2": [
          {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "C0.110"
+            "classroom": "C1.112",
+            "subject": "Machine Learning",
+            "string": "L1A22"
          }
       ],
       "3": [
          {
+            "classroom": "A1.04",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "W0B17",
-            "classroom": "A1.04"
+            "string": "W0B16"
          }
       ]
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Machine Learning",
-            "string": "L0A22",
-            "classroom": "C1.112"
+            "classroom": "C1.112",
+            "subject": "Calculus 2",
+            "string": "W0B36"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [
+      "0": [],
+      "1": [
          {
+            "classroom": "C1.112",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51",
-            "classroom": "A1.10"
+            "string": "L1A51"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
@@ -45,27 +45,26 @@
       "0": [],
       "1": [
          {
-            "subject": "Calculus 2",
-            "string": "W0B36",
-            "classroom": "C1.112"
+            "classroom": "C1.112",
+            "subject": "Machine Learning",
+            "string": "L0A22"
          }
       ],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51",
-            "classroom": "C0.110"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "subject": "Machine Learning",
-            "string": "L1A22",
-            "classroom": "B0.201"
+            "classroom": "C0.110",
+            "subject": "Calculus 2",
+            "string": "L0A106"
+         },
+         {
+            "classroom": "C1.112",
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A51"
          }
       ],
       "2": [],

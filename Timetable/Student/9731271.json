@@ -2,67 +2,67 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "C0.110"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "subject": "Kansrekenen 2",
-            "string": "L1A84",
-            "classroom": "C0.110"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Programmeren in Java 2",
-            "string": "P0F15",
-            "classroom": "A1.08"
-         }
-      ],
-      "3": []
-   },
-   "2": {
-      "0": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0D16",
-            "classroom": "A1.04"
-         }
-      ],
       "1": [],
       "2": [],
+      "3": [
+         {
+            "classroom": "C1.112",
+            "subject": "Calculus 2",
+            "string": "W0C35"
+         }
+      ]
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "subject": "Kansrekenen 2",
+            "string": "L1A84"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
       "1": [
          {
-            "subject": "Calculus 2",
-            "string": "W0C34",
-            "classroom": "A1.10"
+            "classroom": "A1.06",
+            "subject": "Programmeren in Java 2",
+            "string": "P0F14"
          }
       ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.10",
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0D15"
+         }
+      ]
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
+            "classroom": "C0.110",
             "subject": "Kansrekenen 2",
-            "string": "L0A84",
-            "classroom": "C0.110"
+            "string": "L0A84"
          }
       ],
+      "1": [
+         {
+            "classroom": "C0.110",
+            "subject": "Calculus 2",
+            "string": "L0A106"
+         }
+      ],
+      "2": [],
       "3": []
    }
 }

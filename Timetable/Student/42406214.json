@@ -3,53 +3,53 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [],
       "3": [
          {
+            "classroom": "A1.08",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "W0C17",
-            "classroom": "B0.201"
+            "string": "W0C16"
          }
       ]
    },
-   "2": {
+   "1": {
       "0": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51",
-            "classroom": "A1.10"
+            "classroom": "C1.112",
+            "subject": "Project Numerical Recipes",
+            "string": "P0C14"
          }
       ],
       "1": [],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "C1.112",
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51"
+         }
+      ],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Project Numerical Recipes",
-            "string": "P0C14",
-            "classroom": "A1.06"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
+            "classroom": "C1.112",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51",
-            "classroom": "C0.110"
+            "string": "L0A51"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    }

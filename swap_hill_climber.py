@@ -85,8 +85,8 @@ def swap_hill_climber(im, noProgressCounterLimit, startRandom):
 startRandom = True
 if input("Do you want to start from a "
          "previously made timetable [Y/N]: ").lower() == 'y':
-         
+
     iteration_manager.importLectures(input("Timetable name: "))
     startRandom = False
 
-swap_hill_climber(iteration_manager, 1000, startRandom=startRandom)
+swap_hill_climber(iteration_manager, 10000, startRandom=startRandom)

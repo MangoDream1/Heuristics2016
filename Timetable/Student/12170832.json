@@ -12,13 +12,7 @@
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0D16",
-            "classroom": "A1.04"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -27,7 +21,13 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.10",
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0D15"
+         }
+      ]
    },
    "4": {
       "0": [],

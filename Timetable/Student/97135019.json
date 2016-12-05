@@ -1,37 +1,37 @@
 {
    "0": {
-      "0": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "W0A16",
-            "classroom": "A1.08"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "C0.110"
-         }
-      ],
-      "3": []
-   },
-   "1": {
       "0": [],
       "1": [
          {
+            "classroom": "A1.06",
             "subject": "Zoeken, sturen en bewegen",
-            "string": "P0A14",
-            "classroom": "A1.10"
+            "string": "P0A14"
          }
       ],
       "2": [],
       "3": [
          {
+            "classroom": "B0.201",
             "subject": "Collectieve Intelligentie",
-            "string": "L1A61",
-            "classroom": "C0.110"
+            "string": "W0A15"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "subject": "Calculus 2",
+            "string": "W0A35"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
+            "string": "L2A61"
          }
       ]
    },
@@ -39,34 +39,28 @@
       "0": [],
       "1": [
          {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0A16",
-            "classroom": "B0.201"
+            "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
+            "string": "L1A61"
          }
       ],
       "2": [],
       "3": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61",
-            "classroom": "C0.110"
+            "classroom": "A1.06",
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0A16"
          }
       ]
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A61",
-            "classroom": "C0.110"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "subject": "Calculus 2",
-            "string": "W0A36",
-            "classroom": "A1.10"
+            "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
+            "string": "L0A61"
          }
       ],
       "3": []
@@ -75,12 +69,18 @@
       "0": [],
       "1": [
          {
-            "subject": "Collectieve Intelligentie",
-            "string": "P0A16",
-            "classroom": "A1.04"
+            "classroom": "C0.110",
+            "subject": "Calculus 2",
+            "string": "L0A106"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.06",
+            "subject": "Collectieve Intelligentie",
+            "string": "P0A17"
+         }
+      ],
       "3": []
    }
 }

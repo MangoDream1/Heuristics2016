@@ -1,90 +1,91 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "C0.110",
+            "subject": "Moderne Databases",
+            "string": "L0A54"
+         }
+      ],
       "1": [],
       "2": [
          {
+            "classroom": "A1.06",
             "subject": "Algoritmen en complexiteit",
-            "string": "W0B21",
-            "classroom": "A1.04"
-         },
-         {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "C0.110"
+            "string": "W0B22"
          }
       ],
-      "3": [
-         {
-            "subject": "Databases 2",
-            "string": "W0B36",
-            "classroom": "C0.110"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
       "1": [
          {
-            "subject": "Moderne Databases",
-            "string": "W0C18",
-            "classroom": "B0.201"
+            "classroom": "C0.110",
+            "subject": "Databases 2",
+            "string": "W0B37"
          }
       ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "C1.112",
+            "subject": "Calculus 2",
+            "string": "W0C35"
+         }
+      ]
    },
    "2": {
       "0": [
          {
-            "subject": "Moderne Databases",
-            "string": "L0A54",
-            "classroom": "C1.112"
+            "classroom": "B0.201",
+            "subject": "Algoritmen en complexiteit",
+            "string": "L0A43"
          }
       ],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.08",
+            "subject": "Moderne Databases",
+            "string": "W0C18"
+         }
+      ],
       "3": [
          {
-            "subject": "Algoritmen en complexiteit",
-            "string": "L0A43",
-            "classroom": "C1.112"
+            "classroom": "A1.10",
+            "subject": "Moderne Databases",
+            "string": "P0A20"
          }
       ]
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0C34",
-            "classroom": "A1.10"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Databases 2",
-            "string": "L0A72",
-            "classroom": "C0.110"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [
          {
+            "classroom": "A1.04",
             "subject": "Algoritmen en complexiteit",
-            "string": "P0B21",
-            "classroom": "A1.10"
+            "string": "P0B24"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "classroom": "C0.110",
+            "subject": "Calculus 2",
+            "string": "L0A106"
+         }
+      ],
       "2": [],
       "3": [
          {
-            "subject": "Moderne Databases",
-            "string": "P0C18",
-            "classroom": "A1.10"
+            "classroom": "C0.110",
+            "subject": "Databases 2",
+            "string": "L0A72"
          }
       ]
    }

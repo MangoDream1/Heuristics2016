@@ -1,43 +1,43 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
+            "classroom": "A1.08",
+            "subject": "Project Genetic Algorithms",
+            "string": "P0C11"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "classroom": "C0.110",
             "subject": "Compilerbouw",
-            "string": "L0A69",
-            "classroom": "C0.110"
+            "string": "L0A69"
          }
-      ],
-      "1": [],
-      "2": [
-         {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "C0.110"
-         }
-      ],
-      "3": []
+      ]
    },
    "1": {
       "0": [
          {
-            "subject": "Compilerbouw",
-            "string": "L1A69",
-            "classroom": "C0.110"
+            "classroom": "C0.110",
+            "subject": "Interactie-ontwerp",
+            "string": "L0A25"
          }
       ],
       "1": [],
       "2": [
          {
-            "subject": "Project Genetic Algorithms",
-            "string": "P0C12",
-            "classroom": "C0.110"
+            "classroom": "B0.201",
+            "subject": "Compilerbouw",
+            "string": "P0B35"
          }
       ],
       "3": [
          {
-            "subject": "Interactie-ontwerp",
-            "string": "L0A25",
-            "classroom": "A1.10"
+            "classroom": "C1.112",
+            "subject": "Calculus 2",
+            "string": "W0C35"
          }
       ]
    },
@@ -48,37 +48,36 @@
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "subject": "Compilerbouw",
-            "string": "W0B34",
-            "classroom": "C1.112"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0C34",
-            "classroom": "A1.10"
-         }
-      ],
+      "0": [],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "B0.201",
+            "subject": "Compilerbouw",
+            "string": "W0B36"
+         }
+      ]
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Compilerbouw",
-            "string": "P0B34",
-            "classroom": "B0.201"
+            "classroom": "C0.110",
+            "subject": "Calculus 2",
+            "string": "L0A106"
+         },
+         {
+            "classroom": "A1.10",
+            "subject": "Interactie-ontwerp",
+            "string": "L1A25"
          }
       ],
-      "1": [],
       "2": [
          {
-            "subject": "Interactie-ontwerp",
-            "string": "L1A25",
-            "classroom": "A1.04"
+            "classroom": "C0.110",
+            "subject": "Compilerbouw",
+            "string": "L1A69"
          }
       ],
       "3": []

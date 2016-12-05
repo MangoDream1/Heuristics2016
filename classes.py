@@ -181,8 +181,6 @@ class Subject(Timetable):
 
                             nLecture.assignLectureToStudents()
                             newLectures.append(nLecture)
-
-                            lecture.siblings.append(nLecture)
                     else:
                         # Only one group, thus every student in the same group
                         lecture.students = self.students
@@ -194,22 +192,37 @@ class Subject(Timetable):
                     lecture.assignLectureToStudents()
                     newLectures.append(lecture)
 
-            # Add connected lectures to sibling list
-            for lecture in newLectures:
-                for sibling in lecture.siblings:
-                    if lecture not in sibling.siblings:
-                        sibling.siblings.append(lecture)
-
-            # Remove self from sibling list
-            for lecture in newLectures:
-                # Copy needed because every above created sibling lists
-                # use same pointer thus removing from one removed from all
-                lecture.siblings = copy(lecture.siblings)
-
-                if lecture in lecture.siblings:
-                    lecture.siblings.remove(lecture)
-
             self.lectures = newLectures
+            self.createSiblings()
+
+    def createSiblings(self):
+        def main(lecture_list):
+            lectureGroupsDct = {}
+
+            if lecture_list:
+                nUniqueLectures = max(x.lecture_number for x in lecture_list) + 1
+
+                if nUniqueLectures:
+                    for u in range(nUniqueLectures):
+                        lectureGroupsDct[u] = []
+
+                        for l in lecture_list:
+                            if l.lecture_number == u:
+                                lectureGroupsDct[u].append(l)
+
+                    for l in lecture_list:
+                        # Copy needed because every above created sibling lists
+                        # use same pointer thus removing from one removed from all
+                        l.siblings = copy(lectureGroupsDct[l.lecture_number])
+
+                    # Remove self from sibling list
+                    for l in lecture_list:
+                        if l in l.siblings:
+                            l.siblings.remove(l)
+
+
+        main(self.getWorkLectures())
+        main(self.getPracticas())
 
 class Student(Timetable):
     def __init__(self, surname, name, studentId, subject1, subject2,

@@ -2,61 +2,61 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.08",
+            "subject": "Webprogrammeren en databases",
+            "string": "W0B19"
+         }
+      ],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "P0B19",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "subject": "Programmeren in Java 2",
-            "string": "P0F15",
-            "classroom": "A1.08"
+            "classroom": "B0.201",
+            "subject": "Webprogrammeren en databases",
+            "string": "L1A39"
          }
-      ],
-      "3": []
+      ]
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "W0B19",
-            "classroom": "C1.112"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "subject": "Webprogrammeren en databases",
-            "string": "L0A39",
-            "classroom": "C0.110"
-         }
-      ],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "4": {
       "0": [],
       "1": [
          {
-            "subject": "Webprogrammeren en databases",
-            "string": "L1A39",
-            "classroom": "C0.110"
+            "classroom": "A1.06",
+            "subject": "Programmeren in Java 2",
+            "string": "P0F14"
          }
       ],
       "2": [],
+      "3": [
+         {
+            "classroom": "A1.04",
+            "subject": "Webprogrammeren en databases",
+            "string": "P0B19"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "C1.112",
+            "subject": "Webprogrammeren en databases",
+            "string": "L0A39"
+         }
+      ],
       "3": []
    }
 }

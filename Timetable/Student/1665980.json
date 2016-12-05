@@ -1,18 +1,18 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
+            "classroom": "A1.10",
             "subject": "Collectieve Intelligentie",
-            "string": "P0C16",
-            "classroom": "A1.06"
+            "string": "W0C17"
          }
       ],
-      "1": [],
       "2": [
          {
+            "classroom": "A1.06",
             "subject": "Algoritmen en complexiteit",
-            "string": "W0B21",
-            "classroom": "A1.04"
+            "string": "W0B22"
          }
       ],
       "3": []
@@ -23,63 +23,64 @@
       "2": [],
       "3": [
          {
+            "classroom": "C0.110",
             "subject": "Collectieve Intelligentie",
-            "string": "L1A61",
-            "classroom": "C0.110"
+            "string": "L2A61"
          }
       ]
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "0": [
          {
+            "classroom": "B0.201",
             "subject": "Algoritmen en complexiteit",
-            "string": "L0A43",
-            "classroom": "C1.112"
-         },
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61",
-            "classroom": "C0.110"
+            "string": "L0A43"
          }
-      ]
+      ],
+      "1": [
+         {
+            "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
+            "string": "L1A61"
+         }
+      ],
+      "2": [],
+      "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A61",
-            "classroom": "C0.110"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0B14",
-            "classroom": "A1.08"
+            "classroom": "C0.110",
+            "subject": "Collectieve Intelligentie",
+            "string": "L0A61"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "classroom": "C0.110",
+            "subject": "Compilerbouw (practicum)",
+            "string": "P0B13"
+         }
+      ]
    },
    "4": {
       "0": [
          {
+            "classroom": "A1.04",
             "subject": "Algoritmen en complexiteit",
-            "string": "P0B21",
-            "classroom": "A1.10"
+            "string": "P0B24"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
+            "classroom": "A1.08",
             "subject": "Collectieve Intelligentie",
-            "string": "W0C16",
-            "classroom": "A1.10"
+            "string": "P0C16"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    }
 }

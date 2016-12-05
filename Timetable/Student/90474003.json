@@ -5,64 +5,64 @@
       "2": [],
       "3": [
          {
-            "subject": "Databases 2",
-            "string": "W0B36",
-            "classroom": "C0.110"
+            "classroom": "A1.08",
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0C16"
          }
       ]
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "W0C17",
-            "classroom": "B0.201"
-         }
-      ]
-   },
-   "2": {
-      "0": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51",
-            "classroom": "A1.10"
-         }
-      ],
       "1": [
          {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0C14",
-            "classroom": "A1.04"
+            "classroom": "C0.110",
+            "subject": "Databases 2",
+            "string": "W0B37"
          }
       ],
       "2": [],
       "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "C1.112",
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "classroom": "C0.110",
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0C14"
+         }
+      ]
    },
    "3": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Databases 2",
-            "string": "L0A72",
-            "classroom": "C0.110"
-         }
-      ]
+      "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
+            "classroom": "C1.112",
             "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51",
-            "classroom": "C0.110"
+            "string": "L0A51"
          }
       ],
-      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "C0.110",
+            "subject": "Databases 2",
+            "string": "L0A72"
+         }
+      ]
    }
 }

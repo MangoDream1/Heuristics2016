@@ -38,9 +38,16 @@ class IterationManager:
             x.assignLecturetoAll()
 
 
-    def addChanges(self, changed_lectures):
-        self.iteration_dct[self.i] = {self.lecture_dct[x]:x.getChangingDataDict()
-                                        for x in changed_lectures}
+    def addChanges(self, changed_lectures, withStudents=False):
+        self.iteration_dct[self.i] = {self.lecture_dct[l]:l.getChangingDataDict()
+                                        for l in changed_lectures}
+
+        if withStudents:
+            for l in changed_lectures:
+                dct = self.iteration_dct[self.i][self.lecture_dct[l]]
+                dct["students"] = [s.getId() for s in l.students]
+
+
         self.iteration_dct[self.i]["base"] = False
 
         self.resetLectures()
@@ -79,6 +86,12 @@ class IterationManager:
                 self.lecture_dct[index].day = data["day"]
                 self.lecture_dct[index].timeslot = data["timeslot"]
                 self.lecture_dct[index].classroom = self.classroom_dct[data["classroom"]]
+
+                try:
+                    self.lecture_dct[index].students = [self.student_dct[s]
+                        for s in data["students"]]
+                except KeyError:
+                    pass
 
         self.resetLectures()
 
@@ -129,7 +142,8 @@ class IterationManager:
         lectures = []
 
         for dct in data_list:
-            l = Lecture(dct["name"], dct["lecture_number"], self.subject_dct[dct["subject"]], dct["maxStud"])
+            l = Lecture(dct["name"], dct["lecture_number"],
+                        self.subject_dct[dct["subject"]], dct["maxStud"])
 
             l.classroom = self.classroom_dct[dct["classroom"]]
             l.day = dct["day"]
@@ -145,8 +159,11 @@ class IterationManager:
 
         self.resetLectures()
 
+        for subject in self.subjects:
+            subject.createSiblings()
+
         # Adds the new lectures to changes, so that algorithms can work with the loaded data
-        self.addChanges(self.lectures)
+        self.addChanges(self.lectures, withStudents=True)
         self.i += 1
 
         return self.lectures

@@ -6,16 +6,22 @@
       "3": []
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "0": [
          {
+            "classroom": "C0.110",
             "subject": "Interactie-ontwerp",
-            "string": "L0A25",
-            "classroom": "A1.10"
+            "string": "L0A25"
          }
-      ]
+      ],
+      "1": [],
+      "2": [
+         {
+            "classroom": "A1.08",
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0B17"
+         }
+      ],
+      "3": []
    },
    "2": {
       "0": [],
@@ -30,21 +36,15 @@
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0B16",
-            "classroom": "A1.06"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
+            "classroom": "A1.10",
             "subject": "Interactie-ontwerp",
-            "string": "L1A25",
-            "classroom": "A1.04"
+            "string": "L1A25"
          }
       ],
+      "2": [],
       "3": []
    }
 }

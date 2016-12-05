@@ -1,20 +1,26 @@
 {
    "0": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0A14"
+         }
+      ],
       "2": [],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0A14",
-            "classroom": "A1.10"
+            "classroom": "A1.08",
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0B17"
          }
       ],
-      "2": [],
       "3": []
    },
    "2": {
@@ -30,13 +36,7 @@
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0B16",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []

@@ -3,9 +3,9 @@
       "0": [],
       "1": [
          {
-            "subject": "Databases 2",
-            "string": "W0A36",
-            "classroom": "B0.201"
+            "classroom": "A1.06",
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0A14"
          }
       ],
       "2": [],
@@ -13,14 +13,14 @@
    },
    "1": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0A14",
-            "classroom": "A1.10"
+            "classroom": "A1.04",
+            "subject": "Databases 2",
+            "string": "W0A35"
          }
       ],
-      "2": [],
       "3": []
    },
    "2": {
@@ -33,18 +33,18 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Databases 2",
-            "string": "L0A72",
-            "classroom": "C0.110"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "C0.110",
+            "subject": "Databases 2",
+            "string": "L0A72"
+         }
+      ]
    }
 }

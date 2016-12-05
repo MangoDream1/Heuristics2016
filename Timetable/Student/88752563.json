@@ -1,39 +1,45 @@
 {
    "0": {
-      "0": [
-         {
-            "subject": "Compilerbouw",
-            "string": "L0A69",
-            "classroom": "C0.110"
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "C0.110"
-         }
-      ],
+      "2": [],
       "3": [
          {
-            "subject": "Databases 2",
-            "string": "W0B36",
-            "classroom": "C0.110"
+            "classroom": "C0.110",
+            "subject": "Compilerbouw",
+            "string": "L0A69"
          }
       ]
    },
    "1": {
       "0": [
          {
-            "subject": "Compilerbouw",
-            "string": "L1A69",
-            "classroom": "C0.110"
+            "classroom": "C1.112",
+            "subject": "Project Numerical Recipes",
+            "string": "P0C14"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": []
+      "1": [
+         {
+            "classroom": "C0.110",
+            "subject": "Databases 2",
+            "string": "W0B37"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "B0.201",
+            "subject": "Compilerbouw",
+            "string": "P0B35"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "C1.112",
+            "subject": "Calculus 2",
+            "string": "W0C35"
+         }
+      ]
    },
    "2": {
       "0": [],
@@ -42,45 +48,39 @@
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "subject": "Compilerbouw",
-            "string": "W0B34",
-            "classroom": "C1.112"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0C34",
-            "classroom": "A1.10"
-         }
-      ],
-      "2": [
-         {
-            "subject": "Project Numerical Recipes",
-            "string": "P0C14",
-            "classroom": "A1.06"
-         }
-      ],
+      "0": [],
+      "1": [],
+      "2": [],
       "3": [
          {
-            "subject": "Databases 2",
-            "string": "L0A72",
-            "classroom": "C0.110"
+            "classroom": "B0.201",
+            "subject": "Compilerbouw",
+            "string": "W0B36"
          }
       ]
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "subject": "Compilerbouw",
-            "string": "P0B34",
-            "classroom": "B0.201"
+            "classroom": "C0.110",
+            "subject": "Calculus 2",
+            "string": "L0A106"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "classroom": "C0.110",
+            "subject": "Compilerbouw",
+            "string": "L1A69"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "C0.110",
+            "subject": "Databases 2",
+            "string": "L0A72"
+         }
+      ]
    }
 }

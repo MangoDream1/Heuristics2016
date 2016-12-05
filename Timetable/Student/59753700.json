@@ -1,77 +1,77 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "subject": "Data Mining",
-            "string": "P0C9",
-            "classroom": "A1.04"
+            "classroom": "B0.201",
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0A19"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.10",
+            "subject": "Data Mining",
+            "string": "L0A27"
+         }
+      ]
    },
    "1": {
       "0": [],
       "1": [
          {
+            "classroom": "B0.201",
             "subject": "Data Mining",
-            "string": "W0C9",
-            "classroom": "A1.08"
+            "string": "L1A27"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "C1.112",
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51"
          }
       ],
       "2": [],
       "3": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "W0C17",
-            "classroom": "B0.201"
+            "classroom": "C0.110",
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0C14"
          }
       ]
    },
-   "2": {
-      "0": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51",
-            "classroom": "A1.10"
-         }
-      ],
-      "1": [
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0C14",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
    "3": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
+            "classroom": "A1.08",
             "subject": "Data Mining",
-            "string": "L0A27",
-            "classroom": "B0.201"
+            "string": "W0C10"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    },
    "4": {
       "0": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51",
-            "classroom": "C0.110"
+            "classroom": "C1.112",
+            "subject": "Data Mining",
+            "string": "P0C9"
          }
       ],
       "1": [
          {
-            "subject": "Data Mining",
-            "string": "L1A27",
-            "classroom": "C1.112"
+            "classroom": "C1.112",
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A51"
          }
       ],
       "2": [],

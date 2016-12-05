@@ -4,17 +4,18 @@
       "1": [],
       "2": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "W0A17",
-            "classroom": "A1.06"
-         },
-         {
+            "classroom": "A1.10",
             "subject": "Technology for games",
-            "string": "L1A38",
-            "classroom": "C1.112"
+            "string": "L0A38"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.04",
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0B16"
+         }
+      ]
    },
    "1": {
       "0": [],
@@ -25,19 +26,25 @@
    "2": {
       "0": [
          {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51",
-            "classroom": "A1.10"
+            "classroom": "A1.10",
+            "subject": "Analysemethoden en -technieken",
+            "string": "L0A49"
          }
       ],
       "1": [
          {
-            "subject": "Technology for games",
-            "string": "W0A19",
-            "classroom": "C1.112"
+            "classroom": "C1.112",
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L1A51"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.10",
+            "subject": "Technology for games",
+            "string": "W0A19"
+         }
+      ],
       "3": []
    },
    "3": {
@@ -47,27 +54,21 @@
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51",
-            "classroom": "C0.110"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A49",
-            "classroom": "A1.10"
+            "classroom": "C1.112",
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "L0A51"
          }
       ],
-      "2": [
+      "2": [],
+      "3": [
          {
+            "classroom": "C1.112",
             "subject": "Technology for games",
-            "string": "L0A38",
-            "classroom": "B0.201"
+            "string": "L1A38"
          }
-      ],
-      "3": []
+      ]
    }
 }

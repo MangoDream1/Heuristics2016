@@ -1,73 +1,73 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "subject": "Databases 2",
-            "string": "W0A36",
-            "classroom": "B0.201"
+            "classroom": "B0.201",
+            "subject": "Bioinformatica",
+            "string": "L1A45"
          }
       ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "subject": "Bioinformatica",
-            "string": "L0A45",
-            "classroom": "A1.10"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
       "1": [],
       "2": [
          {
-            "subject": "Bioinformatica",
-            "string": "L1A45",
-            "classroom": "A1.10"
+            "classroom": "A1.04",
+            "subject": "Databases 2",
+            "string": "W0A35"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.08",
+            "subject": "Bioinformatica",
+            "string": "W0A15"
+         }
+      ]
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
+            "classroom": "B0.201",
             "subject": "Bioinformatica",
-            "string": "L2A45",
-            "classroom": "A1.10"
+            "string": "L2A45"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "3": {
       "0": [],
       "1": [
          {
+            "classroom": "B0.201",
             "subject": "Bioinformatica",
-            "string": "W0A15",
-            "classroom": "A1.06"
+            "string": "P0A17"
          }
       ],
       "2": [],
-      "3": [
-         {
-            "subject": "Databases 2",
-            "string": "L0A72",
-            "classroom": "C0.110"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "B0.201",
+            "subject": "Bioinformatica",
+            "string": "L0A45"
+         }
+      ],
       "3": [
          {
-            "subject": "Bioinformatica",
-            "string": "P0A15",
-            "classroom": "C0.110"
+            "classroom": "C0.110",
+            "subject": "Databases 2",
+            "string": "L0A72"
          }
       ]
    }

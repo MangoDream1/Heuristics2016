@@ -3,64 +3,64 @@
       "0": [],
       "1": [
          {
+            "classroom": "C0.110",
             "subject": "Software engineering",
-            "string": "W0B37",
-            "classroom": "A1.10"
+            "string": "L0A75"
          }
       ],
-      "2": [
-         {
-            "subject": "Calculus 2",
-            "string": "L0A106",
-            "classroom": "C0.110"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
       "2": [],
-      "3": []
-   },
-   "2": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Software engineering",
-            "string": "L0A75",
-            "classroom": "C0.110"
-         },
-         {
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0C14",
-            "classroom": "A1.04"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "3": {
-      "0": [],
-      "1": [
-         {
-            "subject": "Calculus 2",
-            "string": "W0C34",
-            "classroom": "A1.10"
-         }
-      ],
-      "2": [],
       "3": [
          {
-            "subject": "Software engineering",
-            "string": "P0B37",
-            "classroom": "B0.201"
+            "classroom": "C1.112",
+            "subject": "Calculus 2",
+            "string": "W0C35"
          }
       ]
    },
-   "4": {
+   "2": {
       "0": [],
       "1": [],
+      "2": [],
+      "3": [
+         {
+            "classroom": "A1.04",
+            "subject": "Software engineering",
+            "string": "W0B37"
+         },
+         {
+            "classroom": "C0.110",
+            "subject": "Zoeken, sturen en bewegen",
+            "string": "P0C14"
+         }
+      ]
+   },
+   "3": {
+      "0": [
+         {
+            "classroom": "A1.04",
+            "subject": "Software engineering",
+            "string": "P0B37"
+         }
+      ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "C0.110",
+            "subject": "Calculus 2",
+            "string": "L0A106"
+         }
+      ],
       "2": [],
       "3": []
    }

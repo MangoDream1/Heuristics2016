@@ -1,74 +1,74 @@
 {
    "0": {
-      "0": [
-         {
-            "subject": "Compilerbouw",
-            "string": "L0A69",
-            "classroom": "C0.110"
-         }
-      ],
+      "0": [],
       "1": [
          {
+            "classroom": "C0.110",
             "subject": "Software engineering",
-            "string": "W0B37",
-            "classroom": "A1.10"
+            "string": "L0A75"
          }
       ],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "C0.110",
+            "subject": "Compilerbouw",
+            "string": "L0A69"
+         }
+      ]
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
+            "classroom": "B0.201",
             "subject": "Compilerbouw",
-            "string": "L1A69",
-            "classroom": "C0.110"
+            "string": "P0B35"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [
-         {
-            "subject": "Software engineering",
-            "string": "L0A75",
-            "classroom": "C0.110"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.04",
+            "subject": "Software engineering",
+            "string": "W0B37"
+         }
+      ]
    },
    "3": {
       "0": [
          {
-            "subject": "Compilerbouw",
-            "string": "W0B34",
-            "classroom": "C1.112"
+            "classroom": "A1.04",
+            "subject": "Software engineering",
+            "string": "P0B37"
          }
       ],
       "1": [],
       "2": [],
       "3": [
          {
-            "subject": "Software engineering",
-            "string": "P0B37",
-            "classroom": "B0.201"
+            "classroom": "B0.201",
+            "subject": "Compilerbouw",
+            "string": "W0B36"
          }
       ]
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
+            "classroom": "C0.110",
             "subject": "Compilerbouw",
-            "string": "P0B34",
-            "classroom": "B0.201"
+            "string": "L1A69"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    }
 }

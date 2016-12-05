@@ -12,13 +12,7 @@
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0A14",
-            "classroom": "A1.08"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
@@ -31,7 +25,13 @@
    },
    "4": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "subject": "Compilerbouw (practicum)",
+            "string": "P0A14"
+         }
+      ],
       "2": [],
       "3": []
    }

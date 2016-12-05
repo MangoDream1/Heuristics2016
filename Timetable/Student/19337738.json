@@ -3,54 +3,54 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.10",
+            "subject": "Data Mining",
+            "string": "L0A27"
+         }
+      ]
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
+            "classroom": "B0.201",
             "subject": "Data Mining",
-            "string": "P0A9",
-            "classroom": "A1.04"
+            "string": "L1A27"
          }
       ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "subject": "Data Mining",
-            "string": "W0A9",
-            "classroom": "B0.201"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
-      "0": [
-         {
-            "subject": "Data Mining",
-            "string": "L0A27",
-            "classroom": "B0.201"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.08",
+            "subject": "Data Mining",
+            "string": "P0A9"
+         }
+      ]
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "subject": "Data Mining",
-            "string": "L1A27",
-            "classroom": "C1.112"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "B0.201",
+            "subject": "Data Mining",
+            "string": "W0A9"
+         }
+      ]
    }
 }
