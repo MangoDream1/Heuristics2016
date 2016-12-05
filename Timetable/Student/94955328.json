@@ -2,67 +2,67 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "classroom": "C0.110",
-            "subject": "Lineaire Algebra",
-            "string": "L1A54"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
       "2": [],
       "3": []
    },
-   "2": {
+   "1": {
       "0": [
          {
             "classroom": "A1.10",
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A49"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2",
-            "string": "L1A84"
-         }
-      ],
-      "3": []
-   },
-   "3": {
-      "0": [
-         {
-            "classroom": "A1.06",
-            "subject": "Programmeren in Java 2",
-            "string": "P0D20"
+            "string": "L1A54",
+            "subject": "Lineaire Algebra"
          }
       ],
       "1": [
          {
             "classroom": "C0.110",
-            "subject": "Lineaire Algebra",
-            "string": "L0A54"
+            "string": "L1A84",
+            "subject": "Kansrekenen 2"
          }
       ],
+      "2": [
+         {
+            "classroom": "A1.06",
+            "string": "P0D19",
+            "subject": "Programmeren in Java 2"
+         }
+      ],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2",
-            "string": "L0A84"
+            "classroom": "A1.10",
+            "string": "L0A49",
+            "subject": "Analysemethoden en -technieken"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": []
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "L0A84",
+            "subject": "Kansrekenen 2"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "C1.112",
+            "string": "L0A54",
+            "subject": "Lineaire Algebra"
+         }
+      ]
    }
 }

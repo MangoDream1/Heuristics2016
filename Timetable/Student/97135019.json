@@ -1,37 +1,31 @@
 {
    "0": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "A1.06",
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0A14"
+            "classroom": "A1.08",
+            "string": "W0A15",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "2": [],
-      "3": [
+      "1": [],
+      "2": [
          {
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie",
-            "string": "W0A15"
+            "classroom": "C0.110",
+            "string": "L0A106",
+            "subject": "Calculus 2"
          }
-      ]
+      ],
+      "3": []
    },
    "1": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.10",
-            "subject": "Calculus 2",
-            "string": "W0A35"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
             "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A61"
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie"
          }
       ]
    },
@@ -39,48 +33,54 @@
       "0": [],
       "1": [
          {
-            "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "string": "L1A61"
+            "classroom": "B0.201",
+            "string": "P0A17",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ],
       "2": [],
       "3": [
          {
-            "classroom": "A1.06",
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0A16"
+            "classroom": "C0.110",
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie"
          }
       ]
    },
    "3": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
             "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61"
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "3": []
+      "2": [
+         {
+            "classroom": "A1.10",
+            "string": "W0A33",
+            "subject": "Calculus 2"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "A1.10",
+            "string": "P0A15",
+            "subject": "Zoeken, sturen en bewegen"
+         }
+      ]
    },
    "4": {
       "0": [],
       "1": [
          {
-            "classroom": "C0.110",
-            "subject": "Calculus 2",
-            "string": "L0A106"
+            "classroom": "A1.04",
+            "string": "P0A14",
+            "subject": "Collectieve Intelligentie"
          }
       ],
-      "2": [
-         {
-            "classroom": "A1.06",
-            "subject": "Collectieve Intelligentie",
-            "string": "P0A17"
-         }
-      ],
+      "2": [],
       "3": []
    }
 }

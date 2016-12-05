@@ -1,34 +1,40 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "classroom": "C0.110",
-            "subject": "Moderne Databases",
-            "string": "L0A54"
+            "classroom": "A1.08",
+            "string": "W0B20",
+            "subject": "Moderne Databases"
          }
       ],
-      "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "L0A106",
+            "subject": "Calculus 2"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
-            "classroom": "C1.112",
-            "subject": "Calculus 2",
-            "string": "W0C35"
+            "classroom": "A1.06",
+            "string": "P0D19",
+            "subject": "Programmeren in Java 2"
          }
-      ]
+      ],
+      "3": []
    },
    "2": {
       "0": [
          {
             "classroom": "C1.112",
-            "subject": "Moderne Databases",
-            "string": "W0B18"
+            "string": "L0A54",
+            "subject": "Moderne Databases"
          }
       ],
       "1": [],
@@ -36,30 +42,24 @@
       "3": []
    },
    "3": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "classroom": "A1.06",
-            "subject": "Programmeren in Java 2",
-            "string": "P0D20"
+            "classroom": "A1.10",
+            "string": "W0C36",
+            "subject": "Calculus 2"
          }
       ],
-      "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [
-         {
-            "classroom": "A1.10",
-            "subject": "Moderne Databases",
-            "string": "P0B17"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "classroom": "C0.110",
-            "subject": "Calculus 2",
-            "string": "L0A106"
+            "classroom": "B0.201",
+            "string": "P0B18",
+            "subject": "Moderne Databases"
          }
       ],
       "2": [],

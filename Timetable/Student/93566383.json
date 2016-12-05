@@ -1,62 +1,62 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.04",
-            "subject": "Programmeren in Java 2",
-            "string": "P0A18"
-         }
-      ],
-      "2": [
-         {
-            "classroom": "C0.110",
-            "subject": "Lineaire Algebra",
-            "string": "L1A54"
-         }
-      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [
          {
-            "classroom": "C0.110",
-            "subject": "Interactie-ontwerp",
-            "string": "L0A25"
+            "classroom": "A1.10",
+            "string": "L1A54",
+            "subject": "Lineaire Algebra"
          }
       ],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.10",
+            "string": "L0A25",
+            "subject": "Interactie-ontwerp"
+         }
+      ]
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "string": "P0A18",
+            "subject": "Programmeren in Java 2"
+         }
+      ],
       "2": [],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "classroom": "C0.110",
-            "subject": "Lineaire Algebra",
-            "string": "L0A54"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "classroom": "A1.10",
-            "subject": "Interactie-ontwerp",
-            "string": "L1A25"
+            "classroom": "A1.04",
+            "string": "L1A25",
+            "subject": "Interactie-ontwerp"
          }
       ],
-      "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "C1.112",
+            "string": "L0A54",
+            "subject": "Lineaire Algebra"
+         }
+      ]
    }
 }

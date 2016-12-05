@@ -1,91 +1,109 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.06",
+            "string": "P0C16",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "1": [
          {
             "classroom": "A1.06",
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0A14"
+            "string": "W0B16",
+            "subject": "Heuristieken 2"
          }
       ],
       "2": [
          {
             "classroom": "A1.06",
-            "subject": "Algoritmen en complexiteit",
-            "string": "W0B22"
+            "string": "W0A20",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
       "3": [
          {
             "classroom": "A1.06",
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "P0A11"
+            "string": "W0A21",
+            "subject": "Algoritmen en complexiteit"
          }
       ]
    },
    "1": {
-      "0": [],
-      "1": [],
+      "0": [
+         {
+            "classroom": "A1.06",
+            "string": "P0A20",
+            "subject": "Webprogrammeren en databases"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "string": "P0B19",
+            "subject": "Webprogrammeren en databases"
+         }
+      ],
       "2": [
          {
             "classroom": "A1.06",
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L1A21"
+            "string": "P0D19",
+            "subject": "Programmeren in Java 2"
          }
       ],
       "3": [
          {
             "classroom": "A1.06",
-            "subject": "Autonomous Agents 2",
-            "string": "W0C6"
+            "string": "L0A22",
+            "subject": "Autonomous Agents 2"
          }
       ]
    },
    "2": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "string": "P0A18",
+            "subject": "Programmeren in Java 2"
+         }
+      ],
       "2": [
          {
             "classroom": "A1.06",
-            "subject": "Autonomous Agents 2",
-            "string": "P0C6"
+            "string": "P0C12",
+            "subject": "Compilerbouw (practicum)"
          }
       ],
-      "3": [
-         {
-            "classroom": "A1.06",
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0A16"
-         }
-      ]
+      "3": []
    },
    "3": {
       "0": [
          {
             "classroom": "A1.06",
-            "subject": "Programmeren in Java 2",
-            "string": "P0D20"
+            "string": "W0A11",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ],
       "1": [
          {
             "classroom": "A1.06",
-            "subject": "Programmeren in Java 2",
-            "string": "P0F14"
+            "string": "W0A14",
+            "subject": "Bioinformatica"
          }
       ],
       "2": [
          {
             "classroom": "A1.06",
-            "subject": "Project Genetic Algorithms",
-            "string": "P0A12"
+            "string": "P0C15",
+            "subject": "Project Numerical Recipes"
          }
       ],
       "3": [
          {
             "classroom": "A1.06",
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L0A21"
+            "string": "P0B10",
+            "subject": "Advanced Heuristics"
          }
       ]
    },
@@ -93,18 +111,30 @@
       "0": [
          {
             "classroom": "A1.06",
-            "subject": "Moderne Databases",
-            "string": "W0A18"
+            "string": "P0B16",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ],
-      "1": [],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "string": "W0B17",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "2": [
          {
             "classroom": "A1.06",
-            "subject": "Collectieve Intelligentie",
-            "string": "P0A17"
+            "string": "P0C15",
+            "subject": "Bioinformatica"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.06",
+            "string": "L1A21",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ]
    }
 }

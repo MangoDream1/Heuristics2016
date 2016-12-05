@@ -3,74 +3,74 @@
       "0": [
          {
             "classroom": "C0.110",
-            "subject": "Moderne Databases",
-            "string": "L0A54"
+            "string": "L0A69",
+            "subject": "Compilerbouw"
          }
       ],
       "1": [
          {
-            "classroom": "C0.110",
-            "subject": "Software engineering",
-            "string": "L0A75"
+            "classroom": "A1.10",
+            "string": "W0B37",
+            "subject": "Software engineering"
          }
       ],
       "2": [
          {
-            "classroom": "A1.10",
-            "subject": "Technology for games",
-            "string": "L0A38"
+            "classroom": "C1.112",
+            "string": "L1A38",
+            "subject": "Technology for games"
          }
       ],
-      "3": [
-         {
-            "classroom": "C0.110",
-            "subject": "Compilerbouw",
-            "string": "L0A69"
-         }
-      ]
+      "3": []
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "classroom": "B0.201",
-            "subject": "Compilerbouw",
-            "string": "P0B35"
+            "classroom": "C0.110",
+            "string": "L1A69",
+            "subject": "Compilerbouw"
          }
       ],
+      "1": [
+         {
+            "classroom": "B0.201",
+            "string": "W0C18",
+            "subject": "Moderne Databases"
+         }
+      ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [
          {
-            "classroom": "C0.110",
-            "subject": "Technology for games",
-            "string": "W0B19"
+            "classroom": "C1.112",
+            "string": "L0A54",
+            "subject": "Moderne Databases"
          }
       ],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "classroom": "A1.08",
-            "subject": "Moderne Databases",
-            "string": "W0C18"
+            "classroom": "C0.110",
+            "string": "L0A75",
+            "subject": "Software engineering"
          }
       ],
+      "2": [],
       "3": [
          {
-            "classroom": "A1.04",
-            "subject": "Software engineering",
-            "string": "W0B37"
+            "classroom": "A1.08",
+            "string": "W0B18",
+            "subject": "Technology for games"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "classroom": "A1.04",
-            "subject": "Software engineering",
-            "string": "P0B37"
+            "classroom": "C1.112",
+            "string": "W0B34",
+            "subject": "Compilerbouw"
          }
       ],
       "1": [],
@@ -78,32 +78,32 @@
       "3": [
          {
             "classroom": "B0.201",
-            "subject": "Compilerbouw",
-            "string": "W0B36"
+            "string": "P0B36",
+            "subject": "Software engineering"
          }
       ]
    },
    "4": {
       "0": [
          {
-            "classroom": "C0.110",
-            "subject": "Moderne Databases",
-            "string": "P0C17"
+            "classroom": "B0.201",
+            "string": "P0B40",
+            "subject": "Compilerbouw"
          }
       ],
       "1": [],
       "2": [
          {
-            "classroom": "C0.110",
-            "subject": "Compilerbouw",
-            "string": "L1A69"
+            "classroom": "B0.201",
+            "string": "L0A38",
+            "subject": "Technology for games"
          }
       ],
       "3": [
          {
-            "classroom": "C1.112",
-            "subject": "Technology for games",
-            "string": "L1A38"
+            "classroom": "A1.10",
+            "string": "P0C17",
+            "subject": "Moderne Databases"
          }
       ]
    }

@@ -1,21 +1,21 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "C0.110",
-            "subject": "Algoritmen en complexiteit",
-            "string": "W0A21"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [
          {
-            "classroom": "A1.06",
-            "subject": "Algoritmen en complexiteit",
-            "string": "W0B22"
+            "classroom": "A1.04",
+            "string": "W0B22",
+            "subject": "Algoritmen en complexiteit"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.06",
+            "string": "W0A21",
+            "subject": "Algoritmen en complexiteit"
+         }
+      ]
    },
    "1": {
       "0": [],
@@ -24,16 +24,16 @@
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "classroom": "B0.201",
-            "subject": "Algoritmen en complexiteit",
-            "string": "L0A43"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "C1.112",
+            "string": "L0A43",
+            "subject": "Algoritmen en complexiteit"
+         }
+      ]
    },
    "3": {
       "0": [],
@@ -44,9 +44,9 @@
    "4": {
       "0": [
          {
-            "classroom": "A1.04",
-            "subject": "Algoritmen en complexiteit",
-            "string": "P0B24"
+            "classroom": "A1.10",
+            "string": "P0B21",
+            "subject": "Algoritmen en complexiteit"
          }
       ],
       "1": [],
@@ -54,8 +54,8 @@
       "3": [
          {
             "classroom": "A1.04",
-            "subject": "Algoritmen en complexiteit",
-            "string": "P0A19"
+            "string": "P0A22",
+            "subject": "Algoritmen en complexiteit"
          }
       ]
    }

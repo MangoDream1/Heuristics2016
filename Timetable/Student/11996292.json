@@ -2,34 +2,34 @@
    "0": {
       "0": [
          {
-            "classroom": "C0.110",
-            "subject": "Moderne Databases",
-            "string": "L0A54"
+            "classroom": "A1.10",
+            "string": "L0A44",
+            "subject": "Heuristieken 1"
          }
       ],
       "1": [],
       "2": [
          {
-            "classroom": "A1.10",
-            "subject": "Technology for games",
-            "string": "L0A38"
+            "classroom": "C1.112",
+            "string": "L1A38",
+            "subject": "Technology for games"
          }
       ],
-      "3": []
-   },
-   "1": {
-      "0": [
-         {
-            "classroom": "B0.201",
-            "subject": "Heuristieken 1",
-            "string": "L0A44"
-         }
-      ],
-      "1": [
+      "3": [
          {
             "classroom": "C0.110",
-            "subject": "Databases 2",
-            "string": "W0B37"
+            "string": "W0B40",
+            "subject": "Databases 2"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "B0.201",
+            "string": "W0C18",
+            "subject": "Moderne Databases"
          }
       ],
       "2": [],
@@ -38,53 +38,53 @@
    "2": {
       "0": [
          {
-            "classroom": "C0.110",
-            "subject": "Technology for games",
-            "string": "W0B19"
+            "classroom": "C1.112",
+            "string": "L0A54",
+            "subject": "Moderne Databases"
          }
       ],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
             "classroom": "A1.08",
-            "subject": "Moderne Databases",
-            "string": "W0C18"
+            "string": "W0B18",
+            "subject": "Technology for games"
          }
-      ],
-      "3": []
+      ]
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "L0A72",
+            "subject": "Databases 2"
+         },
+         {
+            "classroom": "A1.04",
+            "string": "W0B22",
+            "subject": "Heuristieken 1"
+         }
+      ],
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
          {
-            "classroom": "C0.110",
-            "subject": "Moderne Databases",
-            "string": "P0C17"
+            "classroom": "B0.201",
+            "string": "L0A38",
+            "subject": "Technology for games"
          }
       ],
-      "1": [
-         {
-            "classroom": "A1.04",
-            "subject": "Heuristieken 1",
-            "string": "W0B24"
-         }
-      ],
-      "2": [],
       "3": [
          {
-            "classroom": "C0.110",
-            "subject": "Databases 2",
-            "string": "L0A72"
-         },
-         {
-            "classroom": "C1.112",
-            "subject": "Technology for games",
-            "string": "L1A38"
+            "classroom": "A1.10",
+            "string": "P0C17",
+            "subject": "Moderne Databases"
          }
       ]
    }

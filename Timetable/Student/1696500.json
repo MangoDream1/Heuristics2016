@@ -1,80 +1,80 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "classroom": "A1.04",
-            "subject": "Collectieve Intelligentie",
-            "string": "P0B15"
+            "classroom": "A1.10",
+            "string": "L0A44",
+            "subject": "Heuristieken 1"
          }
       ],
+      "1": [
+         {
+            "classroom": "C1.112",
+            "string": "P0B18",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "2": [],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "classroom": "B0.201",
-            "subject": "Heuristieken 1",
-            "string": "L0A44"
-         }
-      ],
+      "0": [],
       "1": [],
-      "2": [
-         {
-            "classroom": "A1.08",
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0B17"
-         }
-      ],
+      "2": [],
       "3": [
          {
             "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A61"
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie"
          }
       ]
    },
    "2": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [],
+      "3": [
          {
             "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "string": "L1A61"
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie"
          }
-      ],
-      "2": [],
-      "3": []
+      ]
    },
    "3": {
       "0": [],
       "1": [
          {
-            "classroom": "A1.08",
-            "subject": "Collectieve Intelligentie",
-            "string": "W0B15"
+            "classroom": "C0.110",
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "2": [
          {
-            "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61"
+            "classroom": "B0.201",
+            "string": "W0A22",
+            "subject": "Heuristieken 1"
          }
       ],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "0": [
          {
-            "classroom": "B0.201",
-            "subject": "Heuristieken 1",
-            "string": "W0A20"
+            "classroom": "A1.06",
+            "string": "P0B16",
+            "subject": "Netwerken en systeembeveiliging"
          }
-      ]
+      ],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "string": "W0B17",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
+      "2": [],
+      "3": []
    }
 }

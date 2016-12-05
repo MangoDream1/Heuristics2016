@@ -2,36 +2,36 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.08",
+            "string": "P0B14",
+            "subject": "Project Numerical Recipes"
+         }
+      ],
       "3": [
          {
             "classroom": "A1.04",
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "W0B16"
+            "string": "W0B20",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ]
    },
    "1": {
-      "0": [
-         {
-            "classroom": "A1.10",
-            "subject": "Project Numerical Recipes",
-            "string": "P0B15"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51"
+            "classroom": "A1.10",
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -42,14 +42,14 @@
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51"
+            "classroom": "C0.110",
+            "string": "L1A51",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    }

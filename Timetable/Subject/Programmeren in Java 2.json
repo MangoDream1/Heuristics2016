@@ -1,54 +1,60 @@
 {
    "0": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "classroom": "A1.04",
-            "subject": "Programmeren in Java 2",
-            "string": "P0A18"
-         },
-         {
-            "classroom": "C0.110",
-            "subject": "Programmeren in Java 2",
-            "string": "P0C19"
+            "classroom": "A1.10",
+            "string": "P0B18",
+            "subject": "Programmeren in Java 2"
          }
       ],
-      "2": [],
       "3": []
    },
    "1": {
-      "0": [
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "A1.06",
+            "string": "P0D19",
+            "subject": "Programmeren in Java 2"
+         },
          {
             "classroom": "A1.08",
-            "subject": "Programmeren in Java 2",
-            "string": "P0B20"
+            "string": "P0F17",
+            "subject": "Programmeren in Java 2"
          }
       ],
-      "1": [],
-      "2": [],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": []
-   },
-   "3": {
       "0": [
          {
-            "classroom": "A1.06",
-            "subject": "Programmeren in Java 2",
-            "string": "P0D20"
+            "classroom": "C0.110",
+            "string": "P0C18",
+            "subject": "Programmeren in Java 2"
          }
       ],
       "1": [
          {
             "classroom": "A1.06",
-            "subject": "Programmeren in Java 2",
-            "string": "P0F14"
+            "string": "P0A18",
+            "subject": "Programmeren in Java 2"
          }
       ],
+      "2": [
+         {
+            "classroom": "A1.10",
+            "string": "P0E20",
+            "subject": "Programmeren in Java 2"
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -56,12 +62,6 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "A1.08",
-            "subject": "Programmeren in Java 2",
-            "string": "P0E19"
-         }
-      ]
+      "3": []
    }
 }

@@ -1,80 +1,80 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "C0.110",
-            "subject": "Moderne Databases",
-            "string": "L0A54"
-         }
-      ],
+      "0": [],
       "1": [
          {
-            "classroom": "C0.110",
-            "subject": "Software engineering",
-            "string": "L0A75"
+            "classroom": "A1.10",
+            "string": "W0B37",
+            "subject": "Software engineering"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "L0A106",
+            "subject": "Calculus 2"
+         }
+      ],
       "3": []
    },
    "1": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "classroom": "C1.112",
-            "subject": "Calculus 2",
-            "string": "W0C35"
-         }
-      ]
-   },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "classroom": "A1.08",
-            "subject": "Moderne Databases",
-            "string": "W0C18"
+            "classroom": "B0.201",
+            "string": "W0C18",
+            "subject": "Moderne Databases"
          }
       ],
-      "3": [
-         {
-            "classroom": "A1.04",
-            "subject": "Software engineering",
-            "string": "W0B37"
-         }
-      ]
-   },
-   "3": {
-      "0": [
-         {
-            "classroom": "A1.04",
-            "subject": "Software engineering",
-            "string": "P0B37"
-         }
-      ],
-      "1": [],
       "2": [],
       "3": []
    },
-   "4": {
+   "2": {
       "0": [
          {
-            "classroom": "C0.110",
-            "subject": "Moderne Databases",
-            "string": "P0C17"
+            "classroom": "C1.112",
+            "string": "L0A54",
+            "subject": "Moderne Databases"
          }
       ],
       "1": [
          {
             "classroom": "C0.110",
-            "subject": "Calculus 2",
-            "string": "L0A106"
+            "string": "L0A75",
+            "subject": "Software engineering"
          }
       ],
       "2": [],
       "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "string": "W0C36",
+            "subject": "Calculus 2"
+         }
+      ],
+      "2": [],
+      "3": [
+         {
+            "classroom": "B0.201",
+            "string": "P0B36",
+            "subject": "Software engineering"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "classroom": "A1.10",
+            "string": "P0C17",
+            "subject": "Moderne Databases"
+         }
+      ]
    }
 }

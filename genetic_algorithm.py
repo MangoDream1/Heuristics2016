@@ -101,12 +101,12 @@ def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
                             key=itemgetter(1))
 
     print("Best iteration: %s, Score: %s" % (best_iteration[0],
-                                             best_iteration[1]))
+                                             round(best_iteration[1])))
 
     compiled_changes = im.compileChanges(best_iteration[0])
     im.applyChanges(compiled_changes)
 
-    im.exportLectures("GA%sp%sg%sm%s" % (best_iteration[1], nPopulation,
+    im.exportLectures("GA%sp%sg%sm%s" % (round(best_iteration[1]), nPopulation,
                                          nGenerations, mutation_rate))
 
     return im.lecture_dct

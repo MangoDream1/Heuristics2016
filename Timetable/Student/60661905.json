@@ -1,18 +1,12 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.04",
-            "subject": "Programmeren in Java 2",
-            "string": "P0A18"
-         }
-      ],
+      "1": [],
       "2": [
          {
-            "classroom": "B0.201",
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "W0A19"
+            "classroom": "A1.06",
+            "string": "W0A20",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
       "3": []
@@ -27,15 +21,15 @@
       "0": [
          {
             "classroom": "A1.10",
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A49"
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
       "1": [
          {
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51"
+            "classroom": "A1.06",
+            "string": "P0A18",
+            "subject": "Programmeren in Java 2"
          }
       ],
       "2": [],
@@ -48,12 +42,18 @@
       "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "C0.110",
+            "string": "L1A51",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
       "1": [
          {
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51"
+            "classroom": "A1.10",
+            "string": "L0A49",
+            "subject": "Analysemethoden en -technieken"
          }
       ],
       "2": [],

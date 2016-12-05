@@ -1,72 +1,72 @@
 {
    "0": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "1": [
          {
-            "classroom": "A1.10",
-            "subject": "Data Mining",
-            "string": "L0A27"
+            "classroom": "B0.201",
+            "string": "W0A8",
+            "subject": "Data Mining"
          }
-      ]
+      ],
+      "2": [],
+      "3": []
    },
    "1": {
       "0": [],
       "1": [
          {
-            "classroom": "B0.201",
-            "subject": "Data Mining",
-            "string": "L1A27"
+            "classroom": "C0.110",
+            "string": "L1A84",
+            "subject": "Kansrekenen 2"
          }
       ],
-      "2": [],
+      "2": [
+         {
+            "classroom": "A1.06",
+            "string": "P0D19",
+            "subject": "Programmeren in Java 2"
+         }
+      ],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2",
-            "string": "L1A84"
+            "classroom": "A1.08",
+            "string": "P0B9",
+            "subject": "Data Mining"
          }
       ],
+      "2": [],
       "3": []
    },
    "3": {
       "0": [
          {
-            "classroom": "A1.06",
-            "subject": "Programmeren in Java 2",
-            "string": "P0D20"
+            "classroom": "B0.201",
+            "string": "L0A27",
+            "subject": "Data Mining"
          }
       ],
-      "1": [
-         {
-            "classroom": "A1.10",
-            "subject": "Data Mining",
-            "string": "P0B9"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2",
-            "string": "L0A84"
+            "classroom": "C1.112",
+            "string": "L1A27",
+            "subject": "Data Mining"
          }
       ],
-      "1": [],
       "2": [
          {
-            "classroom": "A1.08",
-            "subject": "Data Mining",
-            "string": "W0B8"
+            "classroom": "C0.110",
+            "string": "L0A84",
+            "subject": "Kansrekenen 2"
          }
       ],
       "3": []

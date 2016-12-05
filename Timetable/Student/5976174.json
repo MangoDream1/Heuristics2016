@@ -2,91 +2,91 @@
    "0": {
       "0": [
          {
-            "classroom": "C0.110",
-            "subject": "Algoritmen en complexiteit",
-            "string": "W0A21"
+            "classroom": "B0.201",
+            "string": "P0A39",
+            "subject": "Software engineering"
          }
       ],
       "1": [
          {
-            "classroom": "C0.110",
-            "subject": "Software engineering",
-            "string": "L0A75"
+            "classroom": "A1.10",
+            "string": "W0B37",
+            "subject": "Software engineering"
          }
       ],
       "2": [
          {
-            "classroom": "C1.112",
-            "subject": "Machine Learning",
-            "string": "L1A22"
+            "classroom": "A1.04",
+            "string": "W0B22",
+            "subject": "Algoritmen en complexiteit"
          }
       ],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.08",
+            "string": "W0A16",
+            "subject": "Heuristieken 2"
+         }
+      ]
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "classroom": "C1.112",
-            "subject": "Heuristieken 2",
-            "string": "W0B16"
-         }
-      ],
-      "3": []
-   },
-   "2": {
       "0": [
          {
-            "classroom": "B0.201",
-            "subject": "Algoritmen en complexiteit",
-            "string": "L0A43"
+            "classroom": "C1.112",
+            "string": "L0A22",
+            "subject": "Machine Learning"
          }
       ],
       "1": [],
       "2": [],
+      "3": []
+   },
+   "2": {
+      "0": [],
+      "1": [
+         {
+            "classroom": "C0.110",
+            "string": "L0A75",
+            "subject": "Software engineering"
+         }
+      ],
+      "2": [],
       "3": [
          {
-            "classroom": "A1.04",
-            "subject": "Software engineering",
-            "string": "W0B37"
+            "classroom": "C1.112",
+            "string": "L0A43",
+            "subject": "Algoritmen en complexiteit"
          }
       ]
    },
    "3": {
-      "0": [
-         {
-            "classroom": "A1.04",
-            "subject": "Software engineering",
-            "string": "P0B37"
-         }
-      ],
-      "1": [
-         {
-            "classroom": "C1.112",
-            "subject": "Machine Learning",
-            "string": "L0A22"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "4": {
-      "0": [
-         {
-            "classroom": "A1.04",
-            "subject": "Algoritmen en complexiteit",
-            "string": "P0B24"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "A1.10",
-            "subject": "Heuristieken 2",
-            "string": "L0A32"
+            "classroom": "C1.112",
+            "string": "L0A32",
+            "subject": "Heuristieken 2"
          }
       ]
+   },
+   "4": {
+      "0": [
+         {
+            "classroom": "A1.10",
+            "string": "P0B21",
+            "subject": "Algoritmen en complexiteit"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "B0.201",
+            "string": "L1A22",
+            "subject": "Machine Learning"
+         }
+      ],
+      "2": [],
+      "3": []
    }
 }

@@ -3,77 +3,77 @@
       "0": [],
       "1": [
          {
-            "classroom": "C0.110",
-            "subject": "Software engineering",
-            "string": "L0A75"
+            "classroom": "A1.10",
+            "string": "W0B37",
+            "subject": "Software engineering"
          }
       ],
-      "2": [
-         {
-            "classroom": "C0.110",
-            "subject": "Lineaire Algebra",
-            "string": "L1A54"
-         }
-      ],
-      "3": []
-   },
-   "1": {
-      "0": [],
-      "1": [],
       "2": [],
       "3": []
    },
-   "2": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2",
-            "string": "L1A84"
-         }
-      ],
-      "3": [
-         {
-            "classroom": "A1.04",
-            "subject": "Software engineering",
-            "string": "W0B37"
-         }
-      ]
-   },
-   "3": {
+   "1": {
       "0": [
          {
-            "classroom": "A1.04",
-            "subject": "Software engineering",
-            "string": "P0B37"
+            "classroom": "A1.10",
+            "string": "L1A54",
+            "subject": "Lineaire Algebra"
          }
       ],
       "1": [
          {
             "classroom": "C0.110",
-            "subject": "Lineaire Algebra",
-            "string": "L0A54"
+            "string": "L1A84",
+            "subject": "Kansrekenen 2"
          }
       ],
       "2": [],
       "3": []
    },
-   "4": {
-      "0": [
+   "2": {
+      "0": [],
+      "1": [
          {
             "classroom": "C0.110",
-            "subject": "Kansrekenen 2",
-            "string": "L0A84"
+            "string": "L0A75",
+            "subject": "Software engineering"
          }
       ],
+      "2": [
+         {
+            "classroom": "A1.10",
+            "string": "P0E20",
+            "subject": "Programmeren in Java 2"
+         }
+      ],
+      "3": []
+   },
+   "3": {
+      "0": [],
       "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "A1.08",
-            "subject": "Programmeren in Java 2",
-            "string": "P0E19"
+            "classroom": "B0.201",
+            "string": "P0B36",
+            "subject": "Software engineering"
+         }
+      ]
+   },
+   "4": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "L0A84",
+            "subject": "Kansrekenen 2"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "C1.112",
+            "string": "L0A54",
+            "subject": "Lineaire Algebra"
          }
       ]
    }

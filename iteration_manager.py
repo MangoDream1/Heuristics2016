@@ -117,7 +117,8 @@ class IterationManager:
                      "totals":
                         {
                             "classroom": sum(x.score for x in self.classrooms),
-                            "subjects": sum(x.score for x in self.subjects),
+                            "subjects": round(sum(x.score
+                                for x in self.subjects)),
                             "students": sum(x.score for x in self.students)
                         }
                     }

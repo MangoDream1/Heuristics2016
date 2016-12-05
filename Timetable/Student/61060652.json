@@ -1,28 +1,28 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.10",
+            "string": "L0A44",
+            "subject": "Heuristieken 1"
+         }
+      ],
       "1": [
          {
-            "classroom": "C0.110",
-            "subject": "Software engineering",
-            "string": "L0A75"
+            "classroom": "A1.10",
+            "string": "W0B37",
+            "subject": "Software engineering"
          }
       ],
-      "2": [
-         {
-            "classroom": "C0.110",
-            "subject": "Lineaire Algebra",
-            "string": "L1A54"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "1": {
       "0": [
          {
-            "classroom": "B0.201",
-            "subject": "Heuristieken 1",
-            "string": "L0A44"
+            "classroom": "A1.10",
+            "string": "L1A54",
+            "subject": "Lineaire Algebra"
          }
       ],
       "1": [],
@@ -31,33 +31,33 @@
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [
-         {
-            "classroom": "A1.04",
-            "subject": "Software engineering",
-            "string": "W0B37"
-         }
-      ]
-   },
-   "3": {
-      "0": [
-         {
-            "classroom": "A1.04",
-            "subject": "Software engineering",
-            "string": "P0B37"
-         }
-      ],
       "1": [
          {
             "classroom": "C0.110",
-            "subject": "Lineaire Algebra",
-            "string": "L0A54"
+            "string": "L0A75",
+            "subject": "Software engineering"
          }
       ],
       "2": [],
       "3": []
+   },
+   "3": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "B0.201",
+            "string": "W0A22",
+            "subject": "Heuristieken 1"
+         }
+      ],
+      "3": [
+         {
+            "classroom": "B0.201",
+            "string": "P0B36",
+            "subject": "Software engineering"
+         }
+      ]
    },
    "4": {
       "0": [],
@@ -65,9 +65,9 @@
       "2": [],
       "3": [
          {
-            "classroom": "B0.201",
-            "subject": "Heuristieken 1",
-            "string": "W0A20"
+            "classroom": "C1.112",
+            "string": "L0A54",
+            "subject": "Lineaire Algebra"
          }
       ]
    }

@@ -1,41 +1,41 @@
 {
    "0": {
       "0": [],
-      "1": [
+      "1": [],
+      "2": [
          {
-            "classroom": "A1.08",
-            "subject": "Project Genetic Algorithms",
-            "string": "P0C11"
+            "classroom": "A1.06",
+            "string": "W0A20",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
-      "2": [],
-      "3": [
-         {
-            "classroom": "A1.08",
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "W0C16"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "P0C12",
+            "subject": "Project Genetic Algorithms"
+         }
+      ],
       "3": []
    },
    "2": {
       "0": [
          {
             "classroom": "A1.10",
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A49"
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
       "1": [
          {
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51"
+            "classroom": "B0.201",
+            "string": "P0A17",
+            "subject": "Netwerken en systeembeveiliging"
          }
       ],
       "2": [],
@@ -45,21 +45,21 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "A1.10",
-            "subject": "Netwerken en systeembeveiliging",
-            "string": "P0D15"
-         }
-      ]
+      "3": []
    },
    "4": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "C0.110",
+            "string": "L1A51",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
       "1": [
          {
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51"
+            "classroom": "A1.10",
+            "string": "L0A49",
+            "subject": "Analysemethoden en -technieken"
          }
       ],
       "2": [],

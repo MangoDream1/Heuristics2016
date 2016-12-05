@@ -9,16 +9,28 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.08",
+            "string": "P0B13",
+            "subject": "Compilerbouw (practicum)"
+         }
+      ]
    },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.08",
+            "string": "P0A15",
+            "subject": "Compilerbouw (practicum)"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "classroom": "C1.112",
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0C13"
+            "classroom": "A1.06",
+            "string": "P0C12",
+            "subject": "Compilerbouw (practicum)"
          }
       ],
       "3": []
@@ -27,23 +39,11 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "C0.110",
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0B13"
-         }
-      ]
+      "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.10",
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0A14"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    }

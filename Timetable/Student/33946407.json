@@ -1,13 +1,7 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.06",
-            "subject": "Zoeken, sturen en bewegen",
-            "string": "P0A14"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -27,7 +21,13 @@
       "0": [],
       "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "A1.10",
+            "string": "P0A15",
+            "subject": "Zoeken, sturen en bewegen"
+         }
+      ]
    },
    "4": {
       "0": [],

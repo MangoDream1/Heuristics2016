@@ -1,23 +1,29 @@
 {
    "0": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "classroom": "C0.110",
-            "subject": "Moderne Databases",
-            "string": "L0A54"
+            "classroom": "A1.08",
+            "string": "W0B20",
+            "subject": "Moderne Databases"
          }
       ],
-      "1": [],
       "2": [],
-      "3": []
+      "3": [
+         {
+            "classroom": "C0.110",
+            "string": "W0B40",
+            "subject": "Databases 2"
+         }
+      ]
    },
    "1": {
       "0": [],
       "1": [
          {
             "classroom": "C0.110",
-            "subject": "Databases 2",
-            "string": "W0B37"
+            "string": "L1A84",
+            "subject": "Kansrekenen 2"
          }
       ],
       "2": [],
@@ -27,47 +33,42 @@
       "0": [
          {
             "classroom": "C1.112",
-            "subject": "Moderne Databases",
-            "string": "W0B18"
+            "string": "L0A54",
+            "subject": "Moderne Databases"
          }
       ],
       "1": [],
-      "2": [
-         {
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2",
-            "string": "L1A84"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "L0A72",
+            "subject": "Databases 2"
+         }
+      ],
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "classroom": "C0.110",
-            "subject": "Kansrekenen 2",
-            "string": "L0A84"
-         },
-         {
-            "classroom": "A1.10",
-            "subject": "Moderne Databases",
-            "string": "P0B17"
+            "classroom": "B0.201",
+            "string": "P0B18",
+            "subject": "Moderne Databases"
          }
       ],
-      "1": [],
-      "2": [],
-      "3": [
+      "2": [
          {
             "classroom": "C0.110",
-            "subject": "Databases 2",
-            "string": "L0A72"
+            "string": "L0A84",
+            "subject": "Kansrekenen 2"
          }
-      ]
+      ],
+      "3": []
    }
 }

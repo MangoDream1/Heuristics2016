@@ -66,18 +66,18 @@ def simple_hill_climber(im, noProgressCounterLimit, classroomWeigth,
                             key=itemgetter(1))
 
     print("Best iteration: %s, Score: %s" % (best_iteration[0],
-                                             best_iteration[1]))
+                                             round(best_iteration[1])))
 
     im.applyChanges(im.compileChanges(best_iteration[0]))
 
     im.exportLectures("HC%snPl%sc%.1ft%.1fd%.1f" %
-                        (best_iteration[1], noProgressCounterLimit,
+                        (round(best_iteration[1]), noProgressCounterLimit,
                          classroomWeigth, timeslotWeigth, dayWeigth))
 
 startRandom = True
 if input("Do you want to start from a "
          "previously made timetable [Y/N]: ").lower() == 'y':
-         
+
     iteration_manager.importLectures(input("Timetable name: "))
     startRandom = False
 

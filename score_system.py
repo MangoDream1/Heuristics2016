@@ -76,75 +76,74 @@ class ScoreSystem:
 	def subject_score(self, subject_object):
 		subject_object.fillInTimetable()
 
-		def pointsCalculator(nUniqueLectures):
-			malus = 0
-
-			if nUniqueLectures == 2:
-				options = [[0, 3], [1, 4]]
-			elif nUniqueLectures == 3:
-				options = [[0, 2, 4]]
-			elif nUniqueLectures == 4:
-				options = [[0, 1, 3, 4]]
-			elif nUniqueLectures == 5:
-				options = [[0, 1, 2, 3, 4]]
-			else:
-				options = [[]]
-
-			nSpreadTimetables = [0 for x in range(len(options))]
-			nStudents = len(subject_object.students)
-
-			lecture_lst = []
-
-			for student in subject_object.students:
-				nFullDays = 0
-
-				lecture_lst.append([l for l in student.lectures
-									if l.subject == subject_object])
-
-			for student_lst in lecture_lst:
-				days_dct = {x: False for x in range(5)}
-
-				for lecture in student_lst:
-					days_dct[lecture.day] = True
-
-
-					for index, option in enumerate(options):
-						if lecture.day in option:
-							nSpreadTimetables[index] += 1
-
-				nFullDays = sum(days_dct.values())
-
-				if nUniqueLectures - 1 == nFullDays:
-					malus += 10 / nStudents
-				elif nUniqueLectures - 2 == nFullDays:
-					malus += 20 / nStudents
-				elif nUniqueLectures - 3 == nFullDays:
-					malus += 30 / nStudents
-
-			bonus = 0
-
-			if options[0]:
-				bonus = 20 / nStudents * max(nSpreadTimetables) / len(options[0])
-
-			return {"bonus": bonus, "malus": malus}
-
+		malus = 0
+		bonus = 0
 
 		if len(subject_object.getLectures()) > 0:
-			nLectures = max([lecture.group for lecture in subject_object.getLectures()])
+			nLectures = max([lecture.group for lecture in
+				subject_object.getLectures()])
 		else:
 			nLectures = 0
 
 		if len(subject_object.getWorkLectures()) > 0:
-			nWorkLectureGroups = max([lecture.group for lecture in subject_object.getWorkLectures()])
+			nWorkLectureGroups = max([lecture.group for lecture in
+				subject_object.getWorkLectures()])
 		else:
 			nWorkLectureGroups = 0
 
 		if len(subject_object.getPracticas()) > 0:
-			nPraticaGroups = max([lecture.group for lecture in subject_object.getPracticas()])
+			nPraticaGroups = max([lecture.group for lecture in
+				subject_object.getPracticas()])
 		else:
 			nPraticaGroups = 0
 
-		nUniqueLectures = len(subject_object.lectures) - nWorkLectureGroups - nPraticaGroups
 
-		points = pointsCalculator(nUniqueLectures)
-		subject_object.score = round(points["bonus"] - points["malus"])
+		nUniqueLectures = len(subject_object.lectures) - nWorkLectureGroups - \
+							nPraticaGroups
+
+		if nUniqueLectures == 2:
+			options = [[0, 3], [1, 4]]
+		elif nUniqueLectures == 3:
+			options = [[0, 2, 4]]
+		elif nUniqueLectures == 4:
+			options = [[0, 1, 3, 4]]
+		elif nUniqueLectures == 5:
+			options = [[0, 1, 2, 3, 4]]
+		else:
+			options = [[]]
+
+		nSpreadTimetables = [0 for x in range(len(options))]
+		nStudents = len(subject_object.students)
+
+		lecture_lst = []
+
+		for student in subject_object.students:
+			nFullDays = 0
+
+			lecture_lst.append([l for l in student.lectures
+								if l.subject == subject_object])
+
+		for student_lst in lecture_lst:
+			days_dct = {x: False for x in range(5)}
+
+			for lecture in student_lst:
+				days_dct[lecture.day] = True
+
+
+				for index, option in enumerate(options):
+					if lecture.day in option:
+						nSpreadTimetables[index] += 1
+
+			nFullDays = sum(days_dct.values())
+
+			if nUniqueLectures - 1 == nFullDays:
+				malus += 10 / nStudents
+			elif nUniqueLectures - 2 == nFullDays:
+				malus += 20 / nStudents
+			elif nUniqueLectures - 3 == nFullDays:
+				malus += 30 / nStudents
+
+		if options[0]:
+			bonus = 20 / nStudents * max(nSpreadTimetables) / len(options[0])
+
+		subject_object.score = bonus - malus

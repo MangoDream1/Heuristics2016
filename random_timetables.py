@@ -40,12 +40,13 @@ def random_timetables(im, nPlannedIterations):
                     for i in im.iteration_dct.keys()]) / nPlannedIterations
 
     print("Best iteration: %s, Score: %s, Average Score: %s" %
-                (best_iteration[0], best_iteration[1], average))
+                (best_iteration[0], round(best_iteration[1]), round(average)))
 
     compiled_changes = im.compileChanges(best_iteration[0])
     im.applyChanges(compiled_changes)
 
-    im.exportLectures("RT%si%s" % (best_iteration[1], nPlannedIterations))
+    im.exportLectures("RT%si%s" % (round(best_iteration[1]),
+        nPlannedIterations))
 
     return im.lecture_dct
 

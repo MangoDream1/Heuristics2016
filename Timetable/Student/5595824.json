@@ -1,62 +1,62 @@
 {
    "0": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "0": [
          {
             "classroom": "C0.110",
-            "subject": "Compilerbouw",
-            "string": "L0A69"
-         }
-      ]
-   },
-   "1": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "classroom": "B0.201",
-            "subject": "Compilerbouw",
-            "string": "P0B35"
+            "string": "L0A69",
+            "subject": "Compilerbouw"
          }
       ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "1": {
+      "0": [
+         {
+            "classroom": "C0.110",
+            "string": "L1A69",
+            "subject": "Compilerbouw"
+         }
+      ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "2": {
-      "0": [
-         {
-            "classroom": "A1.10",
-            "subject": "Analysemethoden en -technieken",
-            "string": "L0A49"
-         }
-      ],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
    },
    "3": {
-      "0": [],
-      "1": [],
-      "2": [],
-      "3": [
+      "0": [
          {
-            "classroom": "B0.201",
-            "subject": "Compilerbouw",
-            "string": "W0B36"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "classroom": "C0.110",
-            "subject": "Compilerbouw",
-            "string": "L1A69"
+            "classroom": "C1.112",
+            "string": "W0B34",
+            "subject": "Compilerbouw"
          }
       ],
+      "1": [],
+      "2": [],
+      "3": []
+   },
+   "4": {
+      "0": [
+         {
+            "classroom": "B0.201",
+            "string": "P0B40",
+            "subject": "Compilerbouw"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "A1.10",
+            "string": "L0A49",
+            "subject": "Analysemethoden en -technieken"
+         }
+      ],
+      "2": [],
       "3": []
    }
 }

@@ -7,20 +7,20 @@
    },
    "1": {
       "0": [],
-      "1": [],
+      "1": [
+         {
+            "classroom": "C1.112",
+            "string": "P0B12",
+            "subject": "Project Genetic Algorithms"
+         }
+      ],
       "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [
-         {
-            "classroom": "B0.201",
-            "subject": "Project Genetic Algorithms",
-            "string": "P0B13"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "3": {

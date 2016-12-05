@@ -1,15 +1,15 @@
 {
    "0": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "A1.08",
+            "string": "W0A15",
+            "subject": "Collectieve Intelligentie"
+         }
+      ],
       "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "B0.201",
-            "subject": "Collectieve Intelligentie",
-            "string": "W0A15"
-         }
-      ]
+      "3": []
    },
    "1": {
       "0": [],
@@ -18,45 +18,45 @@
       "3": [
          {
             "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "string": "L2A61"
+            "string": "L1A61",
+            "subject": "Collectieve Intelligentie"
          }
       ]
    },
    "2": {
       "0": [],
+      "1": [],
+      "2": [],
+      "3": [
+         {
+            "classroom": "C0.110",
+            "string": "L0A61",
+            "subject": "Collectieve Intelligentie"
+         }
+      ]
+   },
+   "3": {
+      "0": [],
       "1": [
          {
             "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "string": "L1A61"
+            "string": "L2A61",
+            "subject": "Collectieve Intelligentie"
          }
       ],
       "2": [],
       "3": []
    },
-   "3": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "classroom": "C0.110",
-            "subject": "Collectieve Intelligentie",
-            "string": "L0A61"
-         }
-      ],
-      "3": []
-   },
    "4": {
       "0": [],
-      "1": [],
-      "2": [
+      "1": [
          {
-            "classroom": "A1.06",
-            "subject": "Collectieve Intelligentie",
-            "string": "P0A17"
+            "classroom": "A1.04",
+            "string": "P0A14",
+            "subject": "Collectieve Intelligentie"
          }
       ],
+      "2": [],
       "3": []
    }
 }

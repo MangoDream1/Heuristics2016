@@ -1,67 +1,67 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "C0.110",
-            "subject": "Moderne Databases",
-            "string": "L0A54"
-         }
-      ],
-      "1": [],
-      "2": [
-         {
-            "classroom": "C1.112",
-            "subject": "Machine Learning",
-            "string": "L1A22"
-         }
-      ],
-      "3": []
-   },
-   "1": {
       "0": [],
       "1": [],
       "2": [],
       "3": []
    },
+   "1": {
+      "0": [
+         {
+            "classroom": "C1.112",
+            "string": "L0A22",
+            "subject": "Machine Learning"
+         }
+      ],
+      "1": [
+         {
+            "classroom": "B0.201",
+            "string": "W0C18",
+            "subject": "Moderne Databases"
+         }
+      ],
+      "2": [],
+      "3": []
+   },
    "2": {
-      "0": [],
+      "0": [
+         {
+            "classroom": "C1.112",
+            "string": "L0A54",
+            "subject": "Moderne Databases"
+         }
+      ],
       "1": [],
       "2": [
          {
-            "classroom": "A1.08",
-            "subject": "Moderne Databases",
-            "string": "W0C18"
+            "classroom": "A1.10",
+            "string": "P0E20",
+            "subject": "Programmeren in Java 2"
          }
       ],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [
-         {
-            "classroom": "C1.112",
-            "subject": "Machine Learning",
-            "string": "L0A22"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [
+      "0": [],
+      "1": [
          {
-            "classroom": "C0.110",
-            "subject": "Moderne Databases",
-            "string": "P0C17"
+            "classroom": "B0.201",
+            "string": "L1A22",
+            "subject": "Machine Learning"
          }
       ],
-      "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "A1.08",
-            "subject": "Programmeren in Java 2",
-            "string": "P0E19"
+            "classroom": "A1.10",
+            "string": "P0C17",
+            "subject": "Moderne Databases"
          }
       ]
    }

@@ -1,72 +1,73 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "classroom": "A1.04",
-            "subject": "Programmeren in Java 2",
-            "string": "P0A18"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
-            "classroom": "A1.06",
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "P0A11"
+            "classroom": "C1.112",
+            "string": "L0A21",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ]
    },
    "1": {
-      "0": [],
-      "1": [],
-      "2": [
+      "0": [
          {
-            "classroom": "A1.04",
-            "subject": "Databases 2",
-            "string": "W0A35"
-         },
-         {
-            "classroom": "A1.06",
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L1A21"
+            "classroom": "A1.08",
+            "string": "P0A11",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ],
+      "1": [],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "classroom": "A1.06",
+            "string": "P0A18",
+            "subject": "Programmeren in Java 2"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "B0.201",
+            "string": "W0A32",
+            "subject": "Databases 2"
+         }
+      ],
       "3": []
    },
    "3": {
+      "0": [
+         {
+            "classroom": "A1.06",
+            "string": "W0A11",
+            "subject": "Informatie- en organisatieontwerp"
+         }
+      ],
+      "1": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "L0A72",
+            "subject": "Databases 2"
+         }
+      ],
+      "3": []
+   },
+   "4": {
       "0": [],
       "1": [],
       "2": [],
       "3": [
          {
             "classroom": "A1.06",
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "L0A21"
-         }
-      ]
-   },
-   "4": {
-      "0": [],
-      "1": [],
-      "2": [
-         {
-            "classroom": "A1.04",
-            "subject": "Informatie- en organisatieontwerp",
-            "string": "W0A11"
-         }
-      ],
-      "3": [
-         {
-            "classroom": "C0.110",
-            "subject": "Databases 2",
-            "string": "L0A72"
+            "string": "L1A21",
+            "subject": "Informatie- en organisatieontwerp"
          }
       ]
    }

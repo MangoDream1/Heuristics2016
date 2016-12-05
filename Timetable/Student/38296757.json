@@ -4,40 +4,40 @@
       "1": [],
       "2": [
          {
-            "classroom": "C1.112",
-            "subject": "Machine Learning",
-            "string": "L1A22"
+            "classroom": "C0.110",
+            "string": "L0A106",
+            "subject": "Calculus 2"
          }
       ],
       "3": [
          {
             "classroom": "A1.04",
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "W0B16"
+            "string": "W0B20",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ]
    },
    "1": {
-      "0": [],
-      "1": [
+      "0": [
          {
             "classroom": "C1.112",
-            "subject": "Calculus 2",
-            "string": "W0B36"
+            "string": "L0A22",
+            "subject": "Machine Learning"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51"
+            "classroom": "A1.10",
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
+      "1": [],
       "2": [],
       "3": []
    },
@@ -46,25 +46,26 @@
       "1": [
          {
             "classroom": "C1.112",
-            "subject": "Machine Learning",
-            "string": "L0A22"
+            "string": "W0B37",
+            "subject": "Calculus 2"
          }
       ],
       "2": [],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [
+      "0": [
          {
             "classroom": "C0.110",
-            "subject": "Calculus 2",
-            "string": "L0A106"
-         },
+            "string": "L1A51",
+            "subject": "Reflectie op de digitale cultuur"
+         }
+      ],
+      "1": [
          {
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51"
+            "classroom": "B0.201",
+            "string": "L1A22",
+            "subject": "Machine Learning"
          }
       ],
       "2": [],

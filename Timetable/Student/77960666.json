@@ -1,19 +1,13 @@
 {
    "0": {
       "0": [],
-      "1": [
-         {
-            "classroom": "C0.110",
-            "subject": "Programmeren in Java 2",
-            "string": "P0C19"
-         }
-      ],
+      "1": [],
       "2": [],
       "3": [
          {
             "classroom": "A1.04",
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "W0B16"
+            "string": "W0B20",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ]
    },
@@ -22,47 +16,53 @@
       "1": [],
       "2": [
          {
-            "classroom": "A1.04",
-            "subject": "Databases 2",
-            "string": "W0A35"
+            "classroom": "A1.08",
+            "string": "P0F17",
+            "subject": "Programmeren in Java 2"
          }
       ],
       "3": []
    },
    "2": {
-      "0": [],
-      "1": [
+      "0": [
          {
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L1A51"
+            "classroom": "A1.10",
+            "string": "L0A51",
+            "subject": "Reflectie op de digitale cultuur"
          }
       ],
-      "2": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "B0.201",
+            "string": "W0A32",
+            "subject": "Databases 2"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "L0A72",
+            "subject": "Databases 2"
+         }
+      ],
       "3": []
    },
    "4": {
-      "0": [],
-      "1": [
-         {
-            "classroom": "C1.112",
-            "subject": "Reflectie op de digitale cultuur",
-            "string": "L0A51"
-         }
-      ],
-      "2": [],
-      "3": [
+      "0": [
          {
             "classroom": "C0.110",
-            "subject": "Databases 2",
-            "string": "L0A72"
+            "string": "L1A51",
+            "subject": "Reflectie op de digitale cultuur"
          }
-      ]
+      ],
+      "1": [],
+      "2": [],
+      "3": []
    }
 }

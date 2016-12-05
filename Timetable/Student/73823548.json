@@ -2,61 +2,61 @@
    "0": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "L0A106",
+            "subject": "Calculus 2"
+         }
+      ],
       "3": []
    },
    "1": {
-      "0": [
-         {
-            "classroom": "A1.10",
-            "subject": "Project Numerical Recipes",
-            "string": "P0B15"
-         }
-      ],
+      "0": [],
       "1": [
          {
             "classroom": "A1.10",
-            "subject": "Calculus 2",
-            "string": "W0A35"
+            "string": "P0A15",
+            "subject": "Project Numerical Recipes"
          }
       ],
-      "2": [
-         {
-            "classroom": "A1.04",
-            "subject": "Databases 2",
-            "string": "W0A35"
-         }
-      ],
+      "2": [],
       "3": []
    },
    "2": {
       "0": [],
       "1": [],
-      "2": [],
+      "2": [
+         {
+            "classroom": "B0.201",
+            "string": "W0A32",
+            "subject": "Databases 2"
+         }
+      ],
       "3": []
    },
    "3": {
       "0": [],
-      "1": [],
-      "2": [],
+      "1": [
+         {
+            "classroom": "C1.112",
+            "string": "W0B37",
+            "subject": "Calculus 2"
+         }
+      ],
+      "2": [
+         {
+            "classroom": "C0.110",
+            "string": "L0A72",
+            "subject": "Databases 2"
+         }
+      ],
       "3": []
    },
    "4": {
       "0": [],
-      "1": [
-         {
-            "classroom": "C0.110",
-            "subject": "Calculus 2",
-            "string": "L0A106"
-         }
-      ],
+      "1": [],
       "2": [],
-      "3": [
-         {
-            "classroom": "C0.110",
-            "subject": "Databases 2",
-            "string": "L0A72"
-         }
-      ]
+      "3": []
    }
 }

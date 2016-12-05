@@ -1,86 +1,86 @@
 {
    "0": {
-      "0": [
-         {
-            "classroom": "B0.201",
-            "subject": "Bioinformatica",
-            "string": "L1A45"
-         }
-      ],
-      "1": [
-         {
-            "classroom": "C0.110",
-            "subject": "Software engineering",
-            "string": "L0A75"
-         }
-      ],
-      "2": [],
-      "3": []
-   },
-   "1": {
       "0": [],
       "1": [
          {
-            "classroom": "B0.201",
-            "subject": "Bioinformatica",
-            "string": "P0B15"
+            "classroom": "A1.10",
+            "string": "W0B37",
+            "subject": "Software engineering"
          }
       ],
       "2": [],
+      "3": [
+         {
+            "classroom": "A1.10",
+            "string": "L0A45",
+            "subject": "Bioinformatica"
+         }
+      ]
+   },
+   "1": {
+      "0": [],
+      "1": [],
+      "2": [
+         {
+            "classroom": "A1.10",
+            "string": "L1A45",
+            "subject": "Bioinformatica"
+         }
+      ],
       "3": []
    },
    "2": {
       "0": [],
       "1": [
          {
-            "classroom": "B0.201",
-            "subject": "Bioinformatica",
-            "string": "L2A45"
+            "classroom": "C0.110",
+            "string": "L0A75",
+            "subject": "Software engineering"
          }
       ],
       "2": [
          {
-            "classroom": "C1.112",
-            "subject": "Compilerbouw (practicum)",
-            "string": "P0C13"
+            "classroom": "A1.06",
+            "string": "P0C12",
+            "subject": "Compilerbouw (practicum)"
          }
       ],
       "3": [
          {
-            "classroom": "A1.04",
-            "subject": "Software engineering",
-            "string": "W0B37"
+            "classroom": "A1.10",
+            "string": "L2A45",
+            "subject": "Bioinformatica"
          }
       ]
    },
    "3": {
       "0": [
          {
-            "classroom": "A1.04",
-            "subject": "Software engineering",
-            "string": "P0B37"
+            "classroom": "A1.10",
+            "string": "P0B15",
+            "subject": "Bioinformatica"
          }
       ],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "classroom": "A1.10",
-            "subject": "Bioinformatica",
-            "string": "W0B15"
+            "classroom": "B0.201",
+            "string": "P0B36",
+            "subject": "Software engineering"
          }
-      ],
-      "3": []
+      ]
    },
    "4": {
       "0": [],
       "1": [],
-      "2": [
+      "2": [],
+      "3": [
          {
-            "classroom": "B0.201",
-            "subject": "Bioinformatica",
-            "string": "L0A45"
+            "classroom": "C0.110",
+            "string": "W0B15",
+            "subject": "Bioinformatica"
          }
-      ],
-      "3": []
+      ]
    }
 }
