@@ -10,7 +10,7 @@ def update_progress(workdone, text='Progress:'):
     if workdone == 1:
         print('\n')
 
-def random_location_no_overlap(lecture, im):
+def random_location(lecture, im, no_overlap=False):
     overlap = True
 
     while overlap:
@@ -18,17 +18,20 @@ def random_location_no_overlap(lecture, im):
         lecture.timeslot = randint(0, 3)
         lecture.classroom = choice(im.classrooms)
 
-        slot = lecture.classroom.timetable[lecture.day][lecture.timeslot]
-        slot.append(lecture)
+        if no_overlap:
+            slot = lecture.classroom.timetable[lecture.day][lecture.timeslot]
+            slot.append(lecture)
 
-        overlap = lecture.classroomOverlap()
+            overlap = lecture.classroomOverlap()
 
-        if overlap:
-            slot.remove(lecture)
+            if overlap:
+                slot.remove(lecture)
+        else:
+            overlap=False
 
     return lecture
 
-def random_timetables(im, nPlannedIterations):
+def random_timetables(im, nPlannedIterations, no_overlap):
     print("Starting random timetables with %s iterations..."
             % nPlannedIterations)
 
@@ -36,7 +39,8 @@ def random_timetables(im, nPlannedIterations):
         changed_lectures = []
 
         for lecture in im.lectures:
-            changed_lectures.append(random_location_no_overlap(lecture, im))
+            changed_lectures.append(
+                random_location(lecture, im, no_overlap=no_overlap))
 
         im.addChanges(changed_lectures)
 
@@ -67,4 +71,4 @@ def random_timetables(im, nPlannedIterations):
 
     return im.lecture_dct
 
-random_timetables(iteration_manager, 1000)
+random_timetables(iteration_manager, 1000, True)
