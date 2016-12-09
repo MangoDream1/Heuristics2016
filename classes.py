@@ -96,6 +96,9 @@ class Timetable:
     def clearLectures(self):
         self.lectures = []
 
+    def clearTimetable(self):
+        self.timetable = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(5)}
+
     def getLectures(self):
         return [x for x in self.lectures if x.name == "Lecture"]
 

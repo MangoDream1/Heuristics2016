@@ -10,26 +10,26 @@ def update_progress(workdone, text='Progress:'):
     if workdone == 1:
         print('\n')
 
+
 def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
     print("Starting genetic algorithm...")
 
     nLectures = len(im.lectures)
 
-    # Start with random timetables
+    # Start with random timetables without overlap
     while im.i != nPopulation:
         changed_lectures = []
 
         for lecture in im.lectures:
-            lecture.day = randint(0, 4)
-            lecture.timeslot = randint(0, 3)
-            lecture.classroom = choice(classrooms)
-
-            changed_lectures.append(lecture)
+            changed_lectures.append(
+                im.random_location(lecture, no_overlap=True))
 
         im.addChanges(changed_lectures)
 
         # Makes all base since its all random anyways
         im.createBase()
+
+        im.resetTimetables()
 
         im.i += 1
         update_progress(im.i/nPopulation, text="Random timetables:")
@@ -89,6 +89,8 @@ def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
                                 enumerate(father_lectures + mother_lectures)}
 
             im.applyChanges(child_lectures)
+
+            im.remove_overlap()
 
             im.i = deleted_keys.pop()
             im.addChanges(im.lectures)
