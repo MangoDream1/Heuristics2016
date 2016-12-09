@@ -3,29 +3,29 @@
       "0": [
          {
             "classroom": "B0.201",
-            "string": "P0A39",
-            "subject": "Software engineering"
+            "subject": "Software engineering",
+            "string": "P0A39"
          }
       ],
       "1": [
          {
             "classroom": "B0.201",
-            "string": "W0A8",
-            "subject": "Data Mining"
+            "subject": "Data Mining",
+            "string": "W0A8"
          }
       ],
       "2": [
          {
             "classroom": "B0.201",
-            "string": "P0D13",
-            "subject": "Collectieve Intelligentie"
+            "subject": "Collectieve Intelligentie",
+            "string": "P0D13"
          }
       ],
       "3": [
          {
             "classroom": "B0.201",
-            "string": "W0A20",
-            "subject": "Webprogrammeren en databases"
+            "subject": "Webprogrammeren en databases",
+            "string": "W0A20"
          }
       ]
    },
@@ -33,23 +33,23 @@
       "0": [
          {
             "classroom": "B0.201",
-            "string": "P0B10",
-            "subject": "Informatie- en organisatieontwerp"
+            "subject": "Informatie- en organisatieontwerp",
+            "string": "P0B10"
          }
       ],
       "1": [
          {
             "classroom": "B0.201",
-            "string": "W0C18",
-            "subject": "Moderne Databases"
+            "subject": "Moderne Databases",
+            "string": "W0C17"
          }
       ],
       "2": [],
       "3": [
          {
             "classroom": "B0.201",
-            "string": "W0C11",
-            "subject": "Reflectie op de digitale cultuur"
+            "subject": "Reflectie op de digitale cultuur",
+            "string": "W0C11"
          }
       ]
    },
@@ -57,22 +57,22 @@
       "0": [
          {
             "classroom": "B0.201",
-            "string": "P0C6",
-            "subject": "Autonomous Agents 2"
+            "subject": "Autonomous Agents 2",
+            "string": "P0C6"
          }
       ],
       "1": [
          {
             "classroom": "B0.201",
-            "string": "P0A17",
-            "subject": "Netwerken en systeembeveiliging"
+            "subject": "Netwerken en systeembeveiliging",
+            "string": "P0A17"
          }
       ],
       "2": [
          {
             "classroom": "B0.201",
-            "string": "W0A32",
-            "subject": "Databases 2"
+            "subject": "Databases 2",
+            "string": "W0A32"
          }
       ],
       "3": []
@@ -81,29 +81,29 @@
       "0": [
          {
             "classroom": "B0.201",
-            "string": "L0A27",
-            "subject": "Data Mining"
+            "subject": "Data Mining",
+            "string": "L0A27"
          }
       ],
       "1": [
          {
             "classroom": "B0.201",
-            "string": "W0A35",
-            "subject": "Compilerbouw"
+            "subject": "Compilerbouw",
+            "string": "W0A35"
          }
       ],
       "2": [
          {
             "classroom": "B0.201",
-            "string": "W0A22",
-            "subject": "Heuristieken 1"
+            "subject": "Heuristieken 1",
+            "string": "W0A22"
          }
       ],
       "3": [
          {
             "classroom": "B0.201",
-            "string": "P0B36",
-            "subject": "Software engineering"
+            "subject": "Software engineering",
+            "string": "P0B36"
          }
       ]
    },
@@ -111,34 +111,34 @@
       "0": [
          {
             "classroom": "B0.201",
-            "string": "P0B40",
-            "subject": "Compilerbouw"
+            "subject": "Compilerbouw",
+            "string": "P0B40"
          }
       ],
       "1": [
          {
             "classroom": "B0.201",
-            "string": "L1A22",
-            "subject": "Machine Learning"
+            "subject": "Machine Learning",
+            "string": "L1A22"
          },
          {
             "classroom": "B0.201",
-            "string": "P0B18",
-            "subject": "Moderne Databases"
+            "subject": "Moderne Databases",
+            "string": "P0B18"
          }
       ],
       "2": [
          {
             "classroom": "B0.201",
-            "string": "L0A38",
-            "subject": "Technology for games"
+            "subject": "Technology for games",
+            "string": "L0A38"
          }
       ],
       "3": [
          {
             "classroom": "B0.201",
-            "string": "W0C7",
-            "subject": "Autonomous Agents 2"
+            "subject": "Autonomous Agents 2",
+            "string": "W0C7"
          }
       ]
    }

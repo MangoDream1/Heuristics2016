@@ -7,6 +7,8 @@ from operator import itemgetter
 def lecture_students_swap(im, noProgressCounterLimit):
     noProgressCounter = 0
 
+    problem_list = [s for s in im.students if s.score != 0]
+
     while noProgressCounter != noProgressCounterLimit:
         changed_lectures = []
 
@@ -16,8 +18,18 @@ def lecture_students_swap(im, noProgressCounterLimit):
         if not rLecture.siblings:
             continue
 
-        # Choice random student from lecture and remove from pool
-        rStudent = choice(rLecture.students)
+        if problem_list:
+            rLectureProblemStudents = [s for s in problem_list
+                                        if s in rLecture.students]
+
+            if rLectureProblemStudents:
+                rStudent = choice(rLectureProblemStudents)
+            else:
+                continue
+        else:
+            # Choice random student from lecture
+            rStudent = choice(rLecture.students)
+
         rLecture.students.remove(rStudent)
 
         # Choice new lecture location from siblings
@@ -38,8 +50,6 @@ def lecture_students_swap(im, noProgressCounterLimit):
 
         im.addChanges(changed_lectures, withStudents=True)
 
-
-
         if im.iteration_dct[im.i]["score"] > \
            im.iteration_dct[im.i - 1]["score"]:
 
@@ -50,6 +60,7 @@ def lecture_students_swap(im, noProgressCounterLimit):
 
             im.i += 1
             noProgressCounter = 0
+            problem_list = [s for s in im.students if s.score != 0]
 
         else:
             # Reset to previous state
@@ -74,4 +85,4 @@ iteration_manager.importLectures(input("Enter the timetable that "
 iteration_manager.exportTimetable()
 
 
-lecture_students_swap(iteration_manager, 1000)
+lecture_students_swap(iteration_manager, 10000)
