@@ -62,6 +62,12 @@ class Lecture:
         # This is the data of the lecture object that changes during algorithm iterations
         return {"day": self.day, "timeslot": self.timeslot, "classroom": self.classroom.getId()}
 
+    def classroomOverlap(self):
+        if len(self.classroom.timetable[self.day][self.timeslot]) > 1:
+            return True
+        else:
+            return False
+
     def toDict(self):
         return {"subject": self.subject.name, "classroom": self.classroom.__str__(),
                 "string": self.__str__()}
