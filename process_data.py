@@ -54,7 +54,7 @@ students = []
 
 import csv
 
-with open('studenten_roostering.csv', 'r') as csvfile:
+with open('studenten_roostering.csv', 'r', encoding="latin8") as csvfile:
     r = csv.reader(csvfile, delimiter=',', quotechar='|')
 
     # Skip title
