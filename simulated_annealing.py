@@ -89,16 +89,11 @@ def swap_simulated_annealing(im, startRandom, Tmax=1000, Tmin = 1):
             break
 
 
-    best_iteration = max([(i, im.iteration_dct[i]["score"])
-                            for i in im.iteration_dct.keys()],
-                            key=itemgetter(1))
+    best_iteration, score = im.compileBest()
 
-    print("Best iteration: %s, Score: %s" % (best_iteration[0],
-                                             round(best_iteration[1])))
+    print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
 
-    im.applyChanges(im.compileChanges(best_iteration[0]))
-
-    im.exportLectures("SSA%sTmax%s" % (round(best_iteration[1]), Tmax))
+    im.exportLectures("SSA%sTmax%s" % (round(score), Tmax))
 
 
 startRandom = True

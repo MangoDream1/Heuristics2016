@@ -67,16 +67,11 @@ def lecture_students_swap(im, noProgressCounterLimit):
             im.applyChanges(im.compileChanges(im.i - 1))
             noProgressCounter += 1
 
-    best_iteration = max([(i, im.iteration_dct[i]["score"])
-                            for i in im.iteration_dct.keys()],
-                            key=itemgetter(1))
+    best_iteration, score = im.compileBest()
 
-    print("Best iteration: %s, Score: %s" % (best_iteration[0],
-                                             round(best_iteration[1])))
+    print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
 
-    im.applyChanges(im.compileChanges(best_iteration[0]))
-
-    im.exportLectures("STUDENT_OPTIMIZED%snPl%s" % (round(best_iteration[1]),
+    im.exportLectures("STUDENT_OPTIMIZED%snPl%s" % (round(score),
         noProgressCounterLimit))
 
 

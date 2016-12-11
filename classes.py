@@ -50,13 +50,16 @@ class Lecture:
 
     def assignLectureToStudents(self):
         for student in self.students:
-            student.lectures.append(self)
+            if self not in student.lectures:
+                student.lectures.append(self)
 
     def assignLecturetoClassroom(self):
-        self.classroom.lectures.append(self)
+        if self not in self.classroom.lectures:
+            self.classroom.lectures.append(self)
 
     def assignLecturetoSubject(self):
-        self.subject.lectures.append(self)
+        if self not in self.subject.lectures:
+            self.subject.lectures.append(self)
 
     def getChangingDataDict(self):
         # This is the data of the lecture object that changes during algorithm iterations
@@ -130,7 +133,7 @@ class Timetable:
             json.dump(self.jsonDict, f, indent=3)
 
     def fillInTimetable(self):
-        self.timetable = {x: {y: [] for y in range(NUMBER_OF_SLOTS)} for x in range(5)}
+        self.clearTimetable()
 
         for lecture in self.lectures:
             self.timetable[lecture.day][lecture.timeslot].append(lecture)

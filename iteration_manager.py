@@ -1,5 +1,6 @@
 from score_system import *
 from random import randint, choice
+from operator import itemgetter
 
 class IterationManager:
     def __init__(self, classrooms, subjects, students):
@@ -21,8 +22,6 @@ class IterationManager:
         for subject in self.subjects:
             subject.assignStudentsToLectures()
 
-        self.score_system = ScoreSystem(self.subjects, self.students, self.classrooms)
-
         # Two way dictionary for finding lectures
         self.lectures = [lecture for subject in subjects for lecture in subject.lectures]
         self.lecture_dct = {index: lecture for index, lecture in enumerate(self.lectures)}
@@ -30,6 +29,7 @@ class IterationManager:
 
         self.i = 0
 
+        self.score_system = ScoreSystem(self)
 
     def resetLectures(self):
         for x in self.subjects + self.students + self.classrooms:
@@ -55,7 +55,6 @@ class IterationManager:
         self.iteration_dct[self.i]["base"] = False
 
         self.resetLectures()
-
         self.iteration_dct[self.i]["score"] = self.score_system.total_score()
 
         return self.iteration_dct
@@ -71,8 +70,7 @@ class IterationManager:
         compiled_result = {}
         for x in range(base, i+1):
             for key, data in self.iteration_dct[x].items():
-                if key != "base":
-                    compiled_result[key] = data
+                compiled_result[key] = data
 
         return compiled_result
 
@@ -101,7 +99,7 @@ class IterationManager:
 
         return self.lecture_dct
 
-    def random_location(self, lecture, no_overlap=False):
+    def randomLocation(self, lecture, no_overlap=False):
         overlap = True
 
         while overlap:
@@ -110,28 +108,45 @@ class IterationManager:
             lecture.classroom = choice(self.classrooms)
 
             if no_overlap:
-                slot = lecture.classroom.timetable[lecture.day][lecture.timeslot]
-                slot.append(lecture)
+                slot = lecture.classroom.timetable\
+                    [lecture.day][lecture.timeslot]
 
-                overlap = lecture.classroomOverlap()
-
-                if overlap:
-                    slot.remove(lecture)
-
+                # If slot is empty then lecture can be placed here
+                if not slot:
+                    slot.append(lecture)
+                    overlap=False
             else:
                 overlap=False
 
         return lecture
 
-    def remove_overlap(self):
-        overlap_lectures = [l for l in self.lectures if l.classroomOverlap]
+    def removeOverlap(self):
+        for x in self.classrooms:
+            x.fillInTimetable()
 
-        self.resetTimetables()
+        overlap_lectures = [l for l in self.lectures if l.classroomOverlap()]
 
         for l in overlap_lectures:
             l.classroom.lectures.remove(l)
+            l.classroom.timetable[l.day][l.timeslot] = []
 
-            self.random_location(l, no_overlap=True)
+        for l in overlap_lectures:
+            self.randomLocation(l, no_overlap=True)
+
+        self.resetLectures()
+
+        for x in self.classrooms + self.students + self.subjects:
+            x.fillInTimetable()
+
+    def compileBest(self):
+        best_iteration, score = max([(i, self.iteration_dct[i]["score"])
+                                for i in self.iteration_dct.keys()],
+                                key=itemgetter(1))
+
+        compiled_changes = self.compileChanges(best_iteration)
+        self.applyChanges(compiled_changes)
+
+        return best_iteration, score
 
     def exportLectures(self, file_name):
         export_dct = [x.toLongDict() for x in self.lectures]

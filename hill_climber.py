@@ -1,7 +1,6 @@
 from process_data import *
 from iteration_manager import *
 from random import randint, choice, random
-from operator import itemgetter
 
 def simple_hill_climber(im, noProgressCounterLimit, classroomWeigth,
                         timeslotWeigth, dayWeigth, startRandom=True):
@@ -61,17 +60,12 @@ def simple_hill_climber(im, noProgressCounterLimit, classroomWeigth,
                 im.applyChanges(im.compileChanges(im.i - 1))
                 noProgressCounter += 1
 
-    best_iteration = max([(i, im.iteration_dct[i]["score"])
-                            for i in im.iteration_dct.keys()],
-                            key=itemgetter(1))
+    best_iteration, score = im.compileBest()
 
-    print("Best iteration: %s, Score: %s" % (best_iteration[0],
-                                             round(best_iteration[1])))
-
-    im.applyChanges(im.compileChanges(best_iteration[0]))
+    print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
 
     im.exportLectures("HC%snPl%sc%.1ft%.1fd%.1f" %
-                        (round(best_iteration[1]), noProgressCounterLimit,
+                        (round(score), noProgressCounterLimit,
                          classroomWeigth, timeslotWeigth, dayWeigth))
 
 startRandom = True

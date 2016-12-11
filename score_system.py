@@ -1,10 +1,8 @@
 from classes import *
 
 class ScoreSystem:
-	def __init__(self, subject_lst, student_lst, classroom_lst):
-		self.subject_lst = subject_lst
-		self.student_lst = student_lst
-		self.classroom_lst = classroom_lst
+	def __init__(self, iteration_manager):
+		self.im = iteration_manager
 
 		self.score = self.total_score()
 
@@ -12,23 +10,25 @@ class ScoreSystem:
 		return "Score: %s" % self.score
 
 	def total_score(self):
+		# Fill in the timetables, so that the score can be calculated
+		for x in self.im.students + self.im.subjects + self.im.classrooms:
+			x.fillInTimetable()
 
 		# Map creates iterable, thats why list is used sinds it loops over the iter thus using the function
-		list(map(self.student_score, self.student_lst))
-		list(map(self.subject_score, self.subject_lst))
-		list(map(self.classroom_score, self.classroom_lst))
+		list(map(self.student_score, self.im.students))
+		list(map(self.subject_score, self.im.subjects))
+		list(map(self.classroom_score, self.im.classrooms))
 
-		total_student_score = sum([student.score for student in self.student_lst])
-		total_subject_score = sum([subject.score for subject in self.subject_lst])
-		total_classroom_score = sum([classroom.score for classroom in self.classroom_lst])
+		total_student_score = sum([student.score for student in self.im.students])
+		total_subject_score = sum([subject.score for subject in self.im.subjects])
+		total_classroom_score = sum([classroom.score for classroom in self.im.classrooms])
 
 		return total_subject_score + total_student_score + total_classroom_score + self.total_valid_score()
 
 	def total_valid_score(self):
 		valid = True
 
-		for subject in self.subject_lst:
-
+		for subject in self.im.subjects:
 			for lecture in subject.lectures:
 				if lecture.classroom == None or lecture.day == None or lecture.timeslot == None:
 					valid = False
@@ -44,8 +44,6 @@ class ScoreSystem:
 
 	def classroom_score(self, classroom_object):
 		classroom_score = 0
-
-		classroom_object.fillInTimetable()
 
 		for day, timeslot in classroom_object.timetable.items():
 			for key, lectures in timeslot.items():
@@ -63,8 +61,6 @@ class ScoreSystem:
 	def student_score(self, student_object):
 		student_score = 0
 
-		student_object.fillInTimetable()
-
 		for day, timeslot in student_object.timetable.items():
 			for key, lectures in timeslot.items():
 
@@ -74,8 +70,6 @@ class ScoreSystem:
 		student_object.score = student_score
 
 	def subject_score(self, subject_object):
-		subject_object.fillInTimetable()
-
 		malus = 0
 		bonus = 0
 

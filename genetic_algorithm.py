@@ -1,7 +1,5 @@
 from process_data import *
-from iteration_manager import *
 from random import randint, choice, random
-from operator import itemgetter
 
 def update_progress(workdone, text='Progress:'):
     print("\r{0} [{1:50s}] {2:.1f}%".format(text, '#' * int(workdone * 50),
@@ -22,7 +20,7 @@ def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
 
         for lecture in im.lectures:
             changed_lectures.append(
-                im.random_location(lecture, no_overlap=True))
+                im.randomLocation(lecture, no_overlap=True))
 
         im.addChanges(changed_lectures)
 
@@ -35,6 +33,11 @@ def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
         update_progress(im.i/nPopulation, text="Random timetables:")
 
     cGeneration = 0
+
+    best_score = max(item["score"] for item in im.iteration_dct.values())
+
+    im.exportLectures("GA%sp%sg%sm%s" % (round(best_score), nPopulation,
+        nGenerations, mutation_rate))
 
     while nGenerations != cGeneration:
         scores = sorted([(key, item["score"] / 1440)
@@ -90,27 +93,30 @@ def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
 
             im.applyChanges(child_lectures)
 
-            im.remove_overlap()
-
             im.i = deleted_keys.pop()
+
+            im.removeOverlap()
             im.addChanges(im.lectures)
+
+            score = im.iteration_dct[im.i]["score"]
+
+            if score > best_score:
+                old_name = "GA%sp%sg%sm%s" % (round(best_score), nPopulation,
+                    nGenerations, mutation_rate)
+
+                os.remove("Timetable/Lectures/" + old_name + ".json")
+                os.remove("Timetable/Scores/" + old_name + ".json")
+
+                best_score = score
+                im.exportLectures("GA%sp%sg%sm%s" % (round(score), nPopulation,
+                    nGenerations, mutation_rate))
+
 
         cGeneration += 1
         update_progress(cGeneration/nGenerations, text="Genetic Algorithm:")
 
-    best_iteration = max([(i, im.iteration_dct[i]["score"])
-                            for i in im.iteration_dct.keys()],
-                            key=itemgetter(1))
-
-    print("Best iteration: %s, Score: %s" % (best_iteration[0],
-                                             round(best_iteration[1])))
-
-    compiled_changes = im.compileChanges(best_iteration[0])
-    im.applyChanges(compiled_changes)
-
-    im.exportLectures("GA%sp%sg%sm%s" % (round(best_iteration[1]), nPopulation,
-                                         nGenerations, mutation_rate))
+    print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
 
     return im.lecture_dct
 
-genetic_algorithm(iteration_manager, 100, 1000, 0.05)
+genetic_algorithm(iteration_manager, 100, 10000, 0.05)
