@@ -115,8 +115,8 @@ def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
         cGeneration += 1
         update_progress(cGeneration/nGenerations, text="Genetic Algorithm:")
 
-    print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
+    print("Score: %s" % (round(best_score)))
 
     return im.lecture_dct
 
-genetic_algorithm(iteration_manager, 100, 10000, 0.05)
+genetic_algorithm(iteration_manager, 100, 100, 0.05)

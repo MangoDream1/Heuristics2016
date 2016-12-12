@@ -47,13 +47,20 @@ class ScoreSystem:
 
 		for day, timeslot in classroom_object.timetable.items():
 			for key, lectures in timeslot.items():
-				nTooManyStudents = sum([len(lecture.students) for lecture in lectures]) - classroom_object.capacity
+				# Count all the students in the room minus the capacity
+				nTooManyStudents = sum([len(lecture.students)
+					for lecture in lectures]) - classroom_object.capacity
 
+				# If over capacity then subtract the points
 				if nTooManyStudents > 0:
 					classroom_score -= nTooManyStudents
 
+				# Remove 100 points for every lecture if there are to many
+				if len(lectures) > 1:
+					classroom_score -= 100 * len(lectures)
+
 				# For every lecture after 17 hours minus points
-				if key >= 4 and len(lecture) > 0:
+				if key >= 4 and len(lectures) > 0:
 					classroom_score -= 50
 
 		classroom_object.score = classroom_score
