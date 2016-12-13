@@ -1,4 +1,6 @@
 from score_system import *
+from plot import *
+
 from random import randint, choice
 from operator import itemgetter
 
@@ -30,6 +32,7 @@ class IterationManager:
         self.i = 0
 
         self.score_system = ScoreSystem(self)
+        self.plot = Plot()
 
     def resetLectures(self):
         for x in self.subjects + self.students + self.classrooms:

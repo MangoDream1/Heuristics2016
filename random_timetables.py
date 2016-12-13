@@ -1,4 +1,5 @@
 from process_data import *
+
 from random import randint, choice
 
 def update_progress(workdone, text='Progress:'):
@@ -24,6 +25,8 @@ def random_timetables(im, nPlannedIterations, no_overlap):
         # Makes all base since its all random anyways
         im.createBase()
 
+        im.plot.addScore(im.iteration_dct[im.i]["score"])
+
         im.i += 1
         update_progress(im.i/nPlannedIterations)
 
@@ -39,6 +42,9 @@ def random_timetables(im, nPlannedIterations, no_overlap):
 
     im.exportLectures("RT%si%s" % (round(score),
         nPlannedIterations))
+
+    #im.plot.plotTime()
+    im.plot.plotHistogram()
 
     return im.lecture_dct
 

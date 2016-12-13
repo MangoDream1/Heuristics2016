@@ -1,7 +1,9 @@
 from process_data import *
 from iteration_manager import *
+
 from random import randint, choice, random
 from operator import itemgetter
+
 
 def swap_hill_climber(im, noProgressCounterLimit, startRandom):
     print("Starting swap hill climber...")
@@ -13,11 +15,8 @@ def swap_hill_climber(im, noProgressCounterLimit, startRandom):
 
         if im.i == 0 and startRandom:
             for lecture in im.lectures:
-                lecture.day = randint(0, 4)
-                lecture.timeslot = randint(0, 3)
-                lecture.classroom = choice(classrooms)
-
-                changed_lectures.append(lecture)
+                changed_lectures.append(
+                    im.randomLocation(lecture, no_overlap=True))
 
             im.addChanges(changed_lectures)
             im.i += 1
@@ -61,6 +60,8 @@ def swap_hill_climber(im, noProgressCounterLimit, startRandom):
 
                     im.createBase()
 
+                im.plot.addScore(im.iteration_dct[im.i]["score"])
+
                 im.i += 1
                 noProgressCounter = 0
 
@@ -69,11 +70,14 @@ def swap_hill_climber(im, noProgressCounterLimit, startRandom):
                 im.applyChanges(im.compileChanges(im.i - 1))
                 noProgressCounter += 1
 
+
+
     best_iteration, score = im.compileBest()
 
     print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
 
     im.exportLectures("SHC%snPl%s" % (round(score), noProgressCounterLimit))
+    im.plot.plotTime()
 
 
 startRandom = True

@@ -112,11 +112,18 @@ def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
                     nGenerations, mutation_rate))
 
 
+        average_score = sum(value["score"]
+            for value in im.iteration_dct.values()) / len(im.iteration_dct)
+
+        im.plot.addScore(average_score)
+
         cGeneration += 1
         update_progress(cGeneration/nGenerations, text="Genetic Algorithm:")
 
     print("Score: %s" % (round(best_score)))
 
+    im.plot.plotTime()
+
     return im.lecture_dct
 
-genetic_algorithm(iteration_manager, 100, 100, 0.05)
+genetic_algorithm(iteration_manager, 1000, 100, 0.05)

@@ -56,8 +56,8 @@ class ScoreSystem:
 					classroom_score -= nTooManyStudents
 
 				# Remove 100 points for every lecture if there are to many
-				if len(lectures) > 1:
-					classroom_score -= 100 * len(lectures)
+				if lectures:
+					classroom_score -= 100 * (len(lectures) - 1)
 
 				# For every lecture after 17 hours minus points
 				if key >= 4 and len(lectures) > 0:
