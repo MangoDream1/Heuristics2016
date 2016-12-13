@@ -16,9 +16,8 @@ def swap_simulated_annealing(im, startRandom, Tmax=1000, Tmin = 1):
 
         if im.i == 0 and startRandom:
             for lecture in im.lectures:
-                lecture.day = randint(0, 4)
-                lecture.timeslot = randint(0, 3)
-                lecture.classroom = choice(classrooms)
+            changed_lectures.append(
+                im.randomLocation(lecture, no_overlap=True))
 
                 changed_lectures.append(lecture)
 

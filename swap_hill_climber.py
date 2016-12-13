@@ -87,4 +87,4 @@ if input("Do you want to start from a "
     iteration_manager.importLectures(input("Timetable name: "))
     startRandom = False
 
-swap_hill_climber(iteration_manager, 10000, startRandom=startRandom)
+swap_hill_climber(iteration_manager, 1000, startRandom=startRandom)
