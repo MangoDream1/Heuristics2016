@@ -19,17 +19,20 @@ def random_timetables(im):
         else:
         	break
 
-    overlap_input = input("Can subjects be placed in the same timeslot? y/n: ")
-    
-    if overlap_input == "y":
-    	no_overlap = False
-    	print("Overlap allowed.")
-    elif overlap_input == "n":
-    	no_overlap = True
-    	print("No overlap allowed.")
-    else:
-    	no_overlap = True
-    	print("Invalid input. No overlap allowed by default.")
+    while True:
+        overlap_input = input("Can subjects be placed in the same timeslot? y/n: ")
+        
+        if overlap_input != "y" and overlap_input != "n":
+        	print("Invalid input")
+        	continue
+        elif overlap_input == "y":
+        	no_overlap = False
+        	print("Overlap allowed.")
+        	break
+        elif overlap_input == "n":
+   	    	no_overlap = True
+   	    	print("No overlap allowed.")
+   	    	break
 
     print("Starting random timetables with %s iterations..."
             % nPlannedIterations)
