@@ -9,9 +9,27 @@ def update_progress(workdone, text='Progress:'):
     if workdone == 1:
         print('\n')
 
-def random_timetables(im, no_overlap):
-    user_input = input("Please enter your desired amount of random lectures: ")
-    nPlannedIterations = int(user_input)
+def random_timetables(im):
+    while True:
+        user_input = input("Please enter your desired amount of random lectures: ")
+        nPlannedIterations = int(user_input)
+        if nPlannedIterations <= 0:
+            print("Pick a positive number for the amount of lectures...")
+            continue
+        else:
+        	break
+
+    overlap_input = input("Can subjects be placed in the same timeslot? y/n: ")
+    
+    if overlap_input == "y":
+    	no_overlap = False
+    	print("Overlap allowed.")
+    elif overlap_input == "n":
+    	no_overlap = True
+    	print("No overlap allowed.")
+    else:
+    	no_overlap = True
+    	print("Invalid input. No overlap allowed by default.")
 
     print("Starting random timetables with %s iterations..."
             % nPlannedIterations)
@@ -40,7 +58,7 @@ def random_timetables(im, no_overlap):
     average = sum([im.iteration_dct[i]["score"]
                     for i in im.iteration_dct.keys()]) / nPlannedIterations
 
-    print("Best iteration: %s, Score: %s, Average Score: %s" %
+    print("Best iteration: %s, Best score: %s, Average Score: %s" %
                 (best_iteration, round(score), round(average)))
 
     im.exportLectures("RT%si%sa%s" % (round(score),
@@ -48,4 +66,4 @@ def random_timetables(im, no_overlap):
 
     return im.lecture_dct
 
-random_timetables(iteration_manager, True)
+random_timetables(iteration_manager)

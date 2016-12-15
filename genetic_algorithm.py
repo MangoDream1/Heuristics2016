@@ -9,8 +9,43 @@ def update_progress(workdone, text='Progress:'):
         print('\n')
 
 
-def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
-    print("Starting genetic algorithm...")
+def genetic_algorithm(im):
+    while True:
+        user_input_pop = input("(Using numbers) Please enter the size of the population: ")
+        nPopulation = int(user_input_pop)
+        if nPopulation <= 0:
+            print("Pick a positive number for the population size...")
+            continue
+        else:
+            break
+
+    while True:
+        user_input_gen = input("(Using numbers) Please enter the number of generations: ")
+        nGenerations = int(user_input_gen)
+        if nGenerations <= 0:
+            print("Pick a positive number for the generation size...")
+            continue
+        else:
+            break
+
+    while True:
+        user_input_mut = input("(Using numbers) Please enter the mutation rate (type 'd' to use the default 0.05 rate): ")
+        
+        if user_input_mut == "d":
+            mutation_rate = 0.05
+            break
+        else:
+            mutation_rate = float(user_input_mut)
+
+            if mutation_rate < 0 or mutation_rate > 1:
+                print("Pick a mutation rate between 0 and 1 (0% to 100%)...")
+                continue
+            else:
+                break
+            break    
+
+    print("Starting genetic algorithm with a population of %s, %s generations and a mutation rate of %s..." 
+        % (nPopulation, nGenerations, mutation_rate))
 
     nLectures = len(im.lectures)
 
@@ -120,10 +155,8 @@ def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
         cGeneration += 1
         update_progress(cGeneration/nGenerations, text="Genetic Algorithm:")
 
-    print("Score: %s" % (round(best_score)))
-
-    im.plot.plotTime()
+    print("Best score: %s" % (round(best_score)))
 
     return im.lecture_dct
 
-genetic_algorithm(iteration_manager, 1000, 100, 0.05)
+genetic_algorithm(iteration_manager)
