@@ -9,7 +9,10 @@ def update_progress(workdone, text='Progress:'):
     if workdone == 1:
         print('\n')
 
-def random_timetables(im, nPlannedIterations, no_overlap):
+def random_timetables(im, no_overlap):
+    user_input = input("Please enter your desired amount of random lectures: ")
+    nPlannedIterations = int(user_input)
+
     print("Starting random timetables with %s iterations..."
             % nPlannedIterations)
 
@@ -45,4 +48,4 @@ def random_timetables(im, nPlannedIterations, no_overlap):
 
     return im.lecture_dct
 
-random_timetables(iteration_manager, 1000, True)
+random_timetables(iteration_manager, True)
