@@ -108,8 +108,6 @@ class ScoreSystem:
 			options = [[0, 2, 4]]
 		elif nUniqueLectures == 4:
 			options = [[0, 1, 3, 4]]
-		elif nUniqueLectures == 5:
-			options = [[0, 1, 2, 3, 4]]
 		else:
 			options = [[]]
 
