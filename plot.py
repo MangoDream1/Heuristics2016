@@ -1,11 +1,16 @@
 import matplotlib.pyplot as plt
-from datetime import datetime
+import matplotlib.dates as mdates
+
 import os
+import matplotlib
+
+import time
 
 class Plot:
     def __init__(self):
         self.score_lst = []
         self.time_lst = []
+        self.start = time.time()
 
         if not os.path.exists("Timetable/Plots/"):
             os.makedirs("Timetable/Plots/")
@@ -13,15 +18,13 @@ class Plot:
 
     def addScore(self, score):
         self.score_lst.append(score)
-        self.time_lst.append(datetime.now())
+        self.time_lst.append(time.time() - self.start)
 
     def plotTime(self, name):
-
-        self.convert_time()
-
         plt.plot(self.time_lst, self.score_lst)
+
         plt.ylabel("score")
-        plt.xlabel("time")
+        plt.xlabel("time (seconds)")
 
         plt.savefig("Timetable/Plots/" + name + ".png")
 
@@ -30,6 +33,3 @@ class Plot:
         plt.xlabel("score")
 
         plt.savefig("Timetable/Plots/" + name + ".png")
-
-    def convert_time(self):
-        self.score_lst = [mktime(datetime.strptime(i, "%Y-%m-%d %H:%M:%S.%f").timetuple()) for i in self.score_lst]

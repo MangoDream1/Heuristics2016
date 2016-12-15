@@ -50,10 +50,11 @@ def lecture_students_swap(im, noProgressCounterLimit):
 
         im.addChanges(changed_lectures, withStudents=True)
 
-        im.plot.addScore(im.iteration_dct[im.i]["score"])
 
         if im.iteration_dct[im.i]["score"] > \
            im.iteration_dct[im.i - 1]["score"]:
+
+            im.plot.addScore(im.iteration_dct[im.i]["score"])
 
             if im.i % 10 == 0:
                 print(im.iteration_dct[im.i]["score"])
@@ -82,4 +83,4 @@ iteration_manager.importLectures(input("Enter the timetable that "
 iteration_manager.exportTimetable()
 
 
-lecture_students_swap(iteration_manager, 10000)
+lecture_students_swap(iteration_manager, 1000)
