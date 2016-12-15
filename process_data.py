@@ -3,6 +3,7 @@
 
 from classes import *
 from iteration_manager import *
+import timing
 
 print("Getting data...")
 

@@ -19,9 +19,8 @@ def simple_hill_climber(im, noProgressCounterLimit, classroomWeigth,
 
         if im.i == 0 and startRandom:
             for lecture in im.lectures:
-                lecture.day = randint(0, 4)
-                lecture.timeslot = randint(0, 3)
-                lecture.classroom = choice(im.classrooms)
+                changed_lectures.append(
+                    im.randomLocation(lecture, no_overlap=True))
 
                 changed_lectures.append(lecture)
 
@@ -48,8 +47,12 @@ def simple_hill_climber(im, noProgressCounterLimit, classroomWeigth,
 
             if im.iteration_dct[im.i]["score"] > \
                im.iteration_dct[im.i - 1]["score"]:
+
+                im.plot.addScore(im.iteration_dct[im.i]["score"])
+
                 if im.i % 10 == 0:
                     print(im.iteration_dct[im.i]["score"])
+
 
                     im.createBase()
 

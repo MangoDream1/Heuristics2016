@@ -55,12 +55,13 @@ def swap_hill_climber(im, noProgressCounterLimit, startRandom):
             if im.iteration_dct[im.i]["score"] > \
                im.iteration_dct[im.i - 1]["score"]:
 
+                im.plot.addScore(im.iteration_dct[im.i]["score"])
+
                 if im.i % 10 == 0:
                     print(im.iteration_dct[im.i]["score"])
 
                     im.createBase()
 
-                im.plot.addScore(im.iteration_dct[im.i]["score"])
 
                 im.i += 1
                 noProgressCounter = 0
@@ -77,8 +78,6 @@ def swap_hill_climber(im, noProgressCounterLimit, startRandom):
     print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
 
     im.exportLectures("SHC%snPl%s" % (round(score), noProgressCounterLimit))
-    im.plot.plotTime()
-
 
 startRandom = True
 if input("Do you want to start from a "

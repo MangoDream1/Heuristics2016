@@ -50,6 +50,8 @@ def lecture_students_swap(im, noProgressCounterLimit):
 
         im.addChanges(changed_lectures, withStudents=True)
 
+        im.plot.addScore(im.iteration_dct[im.i]["score"])
+
         if im.iteration_dct[im.i]["score"] > \
            im.iteration_dct[im.i - 1]["score"]:
 

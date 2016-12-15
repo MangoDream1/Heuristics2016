@@ -16,8 +16,8 @@ def swap_simulated_annealing(im, startRandom, Tmax=1000, Tmin = 1):
 
         if im.i == 0 and startRandom:
             for lecture in im.lectures:
-            changed_lectures.append(
-                im.randomLocation(lecture, no_overlap=True))
+                changed_lectures.append(
+                    im.randomLocation(lecture, no_overlap=True))
 
                 changed_lectures.append(lecture)
 
@@ -54,6 +54,8 @@ def swap_simulated_annealing(im, startRandom, Tmax=1000, Tmin = 1):
             changed_lectures.append(rLecture)
 
             im.addChanges(changed_lectures)
+
+            im.plot.addScore(im.iteration_dct[im.i]["score"])
 
             # Simulated Annealing from here
             temp *= 0.9999

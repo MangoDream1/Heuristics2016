@@ -183,6 +183,9 @@ class IterationManager:
         with open("Timetable/Scores/%s.json" % file_name, 'w') as f:
             json.dump(score_dct, f, indent=3)
 
+
+        self.plot.plotTime(file_name)
+
     def exportTimetable(self):
         for x in self.subjects + self.students + self.classrooms:
             x.exportTimetable()

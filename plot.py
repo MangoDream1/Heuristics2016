@@ -1,22 +1,29 @@
 import matplotlib.pyplot as plt
 from datetime import datetime
+import os
 
 class Plot:
     def __init__(self):
         self.score_lst = []
         self.time_lst = []
 
+        if not os.path.exists("Timetable/Plots/"):
+            os.makedirs("Timetable/Plots/")
+
+
     def addScore(self, score):
         self.score_lst.append(score)
         self.time_lst.append(datetime.now())
 
-    def plotTime(self):
+    def plotTime(self, name):
         plt.plot(self.time_lst, self.score_lst)
         plt.ylabel("score")
         plt.xlabel("time")
-        plt.show()
 
-    def plotHistogram(self):
+        plt.savefig("Timetable/Plots/" + name + ".png")
+
+    def plotHistogram(self, name):
         plt.hist(self.score_lst)
         plt.xlabel("score")
-        plt.show()
+
+        plt.savefig("Timetable/Plots/" + name + ".png")
