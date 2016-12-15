@@ -16,6 +16,9 @@ class Plot:
         self.time_lst.append(datetime.now())
 
     def plotTime(self, name):
+
+        self.convert_time()
+
         plt.plot(self.time_lst, self.score_lst)
         plt.ylabel("score")
         plt.xlabel("time")
@@ -27,3 +30,6 @@ class Plot:
         plt.xlabel("score")
 
         plt.savefig("Timetable/Plots/" + name + ".png")
+
+    def convert_time(self):
+        self.score_lst = [mktime(datetime.strptime(i, "%Y-%m-%d %H:%M:%S.%f").timetuple()) for i in self.score_lst]
