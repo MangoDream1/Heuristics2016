@@ -164,7 +164,7 @@ class IterationManager:
             number = len([f for f in os.listdir("Timetable/Lectures")
                             if file_name in f])
 
-            file_name = file_name + str(number)
+            file_name = file_name + "n" + str(number)
 
         with open("Timetable/Lectures/%s.json" % file_name, 'w') as f:
             json.dump(export_dct, f, indent=3)
