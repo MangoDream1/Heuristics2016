@@ -3,14 +3,15 @@ from iteration_manager import *
 
 from random import randint, choice, random
 from operator import itemgetter
+from optparse import OptionParser
 
 
-def swap_hill_climber(im, noProgressCounterLimit, startRandom):
+def swap_hill_climber(im, noProgressLimit, startRandom):
     print("Starting swap hill climber...")
 
     noProgressCounter = 0
 
-    while noProgressCounter != noProgressCounterLimit:
+    while noProgressCounter != noProgressLimit:
         changed_lectures = []
 
         if im.i == 0 and startRandom:
@@ -77,13 +78,21 @@ def swap_hill_climber(im, noProgressCounterLimit, startRandom):
 
     print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
 
-    im.exportLectures("SHC%snPl%s" % (round(score), noProgressCounterLimit))
+    im.exportLectures("SHC%snPl%s" % (round(score), noProgressLimit))
 
-startRandom = True
-if input("Do you want to start from a "
-         "previously made timetable [Y/N]: ").lower() == 'y':
+parser = OptionParser()
 
+parser.add_option("-r", "--startRandom", dest="startRandom", default=True,
+    help="start at a random location, default True")
+
+parser.add_option("-n", "--noProgressLimit", dest="noProgressLimit",
+    default=1000, help="The number of times the algorithm cannot progress")
+
+(options, args) = parser.parse_args()
+
+if not bool(options.startRandom):
+    print("Algorithm will not start with random timetable")
     iteration_manager.importLectures(input("Timetable name: "))
-    startRandom = False
 
-swap_hill_climber(iteration_manager, 1000, startRandom=startRandom)
+swap_hill_climber(iteration_manager,
+    int(options.noProgressLimit), startRandom=bool(options.startRandom))

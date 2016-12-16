@@ -1,8 +1,10 @@
 from process_data import *
 from iteration_manager import *
-from random import randint, choice, random
 
-def simple_hill_climber(im, noProgressCounterLimit, classroomWeigth,
+from random import randint, choice, random
+from optparse import OptionParser
+
+def simple_hill_climber(im, noProgressLimit, classroomWeigth,
                         timeslotWeigth, dayWeigth, startRandom=True):
     print("Starting simple hill climber...")
 
@@ -14,7 +16,7 @@ def simple_hill_climber(im, noProgressCounterLimit, classroomWeigth,
 
     noProgressCounter = 0
 
-    while noProgressCounter != noProgressCounterLimit:
+    while noProgressCounter != noProgressLimit:
         changed_lectures = []
 
         if im.i == 0 and startRandom:
@@ -68,14 +70,35 @@ def simple_hill_climber(im, noProgressCounterLimit, classroomWeigth,
     print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
 
     im.exportLectures("HC%snPl%sc%.1ft%.1fd%.1f" %
-                        (round(score), noProgressCounterLimit,
+                        (round(score), noProgressLimit,
                          classroomWeigth, timeslotWeigth, dayWeigth))
 
-startRandom = True
-if input("Do you want to start from a "
-         "previously made timetable [Y/N]: ").lower() == 'y':
+parser = OptionParser()
 
+parser.add_option("-n", "--noProgressLimit", dest="noProgressLimit",
+default=1000, help="The number of times the algorithm cannot progress")
+
+parser.add_option("-r", "--startRandom", dest="startRandom", default=True,
+    help="start at a random location, default True")
+
+parser.add_option("-wc", "--classroomWeigth", dest="classroomWeigth",
+    default=1, help="The weight that is given to classrooms in random changes")
+
+parser.add_option("-wt", "--timeslotWeigth", dest="timeslotWeigth", default=1,
+    help="The weight that is given to timeslots in random changes")
+
+parser.add_option("-wd", "--dayWeigth", dest="dayWeigth", default=1,
+    help="The weight that is given to days in random changes")
+
+(options, args) = parser.parse_args()
+
+if not bool(options.startRandom):
+    print("Algorithm will not start with random timetable")
     iteration_manager.importLectures(input("Timetable name: "))
-    startRandom = False
 
-simple_hill_climber(iteration_manager, 100, 1, 1, 1, startRandom=startRandom)
+simple_hill_climber(iteration_manager,
+    int(options.noProgressLimit),
+    int(options.classroomWeigth),
+    int(options.timeslotWeigth),
+    int(options.dayWeigth),
+    startRandom=bool(options.startRandom))

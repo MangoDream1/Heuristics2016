@@ -19,10 +19,10 @@ def find_problem_lectures(lectures):
 
     return problem_lectures
 
-def lecture_students_swap(im, noProgressCounterLimit):
+def lecture_students_swap(im, noProgressLimit):
     noProgressCounter = 0
 
-    while noProgressCounter != noProgressCounterLimit:
+    while noProgressCounter != noProgressLimit:
         changed_lectures = []
 
         # Select random lecture from problem lectures
@@ -76,7 +76,7 @@ def lecture_students_swap(im, noProgressCounterLimit):
     print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
 
     im.exportLectures("STUDENT_OPTIMIZED%snPl%s" % (round(score),
-        noProgressCounterLimit))
+        noProgressLimit))
 
 
 iteration_manager.importLectures(input("Enter the timetable that "

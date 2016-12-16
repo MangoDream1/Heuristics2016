@@ -1,8 +1,11 @@
 from process_data import *
 from iteration_manager import *
+
 from random import randint, choice, random
 from operator import itemgetter
 from math import exp
+from optparse import OptionParser
+
 
 def swap_simulated_annealing(im, startRandom, Tmax=1000, Tmin = 1):
 
@@ -96,14 +99,14 @@ def swap_simulated_annealing(im, startRandom, Tmax=1000, Tmin = 1):
 
     im.exportLectures("SSA%sTmax%s" % (round(score), Tmax))
 
+parser = OptionParser()
+parser.add_option("-r", "--startRandom", dest="startRandom", default=True,
+    help="start at a random location, default True")
 
-startRandom = True
+(options, args) = parser.parse_args()
 
-if input("Do you want to start from a "
-         "previously made timetable [Y/N]: ").lower() == 'y':
-
+if not bool(options.startRandom):
+    print("Algorithm will not start with random timetable")
     iteration_manager.importLectures(input("Timetable name: "))
-    iteration_manager.exportTimetable()
-    startRandom = False
 
-swap_simulated_annealing(iteration_manager, startRandom=startRandom)
+swap_hill_climber(iteration_manager, startRandom=bool(options.startRandom))

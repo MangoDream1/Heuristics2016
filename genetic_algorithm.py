@@ -1,6 +1,9 @@
 from process_data import *
 from random import randint, choice, random
 
+from optparse import OptionParser
+
+
 def update_progress(workdone, text='Progress:'):
     print("\r{0} [{1:50s}] {2:.1f}%".format(text, '#' * int(workdone * 50),
     workdone*100), end="", flush=True)
@@ -106,6 +109,7 @@ def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
 
                 os.remove("Timetable/Lectures/" + old_name + ".json")
                 os.remove("Timetable/Scores/" + old_name + ".json")
+                os.remove("Timetable/Plots/" + old_name + ".png")
 
                 best_score = score
                 im.exportLectures("GA%sp%sg%sm%s" % (round(score), nPopulation,
@@ -122,8 +126,20 @@ def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
 
     print("Score: %s" % (round(best_score)))
 
-    im.plot.plotTime()
-
     return im.lecture_dct
 
-genetic_algorithm(iteration_manager, 1000, 100, 0.05)
+parser = OptionParser()
+
+parser.add_option("-p", "--nPopulation", dest="nPopulation",
+default=100, help="The total population, default is 100")
+
+parser.add_option("-g", "--nGenerations", dest="nGenerations",
+    default=100, help="The number of generations, default is 100")
+
+parser.add_option("-m", "--mutation_rate", dest="mutation_rate", default=0.05,
+    help="The mutation rate, between 0 and 1 default is 0.05")
+
+(options, args) = parser.parse_args()
+
+genetic_algorithm(iteration_manager, int(options.nPopulation),
+    int(options.nGenerations), float(options.mutation_rate))

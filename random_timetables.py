@@ -1,6 +1,8 @@
 from process_data import *
 
 from random import randint, choice
+from optparse import OptionParser
+
 
 def update_progress(workdone, text='Progress:'):
     print("\r{0} [{1:50s}] {2:.1f}%".format(text, '#' * int(workdone * 50),
@@ -45,4 +47,15 @@ def random_timetables(im, nPlannedIterations, no_overlap):
 
     return im.lecture_dct
 
-random_timetables(iteration_manager, 1000, True)
+parser = OptionParser()
+
+parser.add_option("-i", "--iterations", dest="nPlannedIterations",
+    default=1000, help="The number of timetables created")
+
+parser.add_option("-o", "--no_overlap", dest="no_overlap", default=True,
+    help="Removal of overlap for every random timetable. True of False")
+
+(options, args) = parser.parse_args()
+
+random_timetables(iteration_manager,
+    int(options.nPlannedIterations), bool(options.no_overlap))
