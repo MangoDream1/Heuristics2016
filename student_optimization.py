@@ -1,7 +1,10 @@
 from process_data import *
 from iteration_manager import *
+
 from random import choice, random
 from operator import itemgetter
+from optparse import OptionParser
+
 
 def find_problem_lectures(lectures):
     problem_lectures = []
