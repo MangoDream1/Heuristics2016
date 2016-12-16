@@ -1,6 +1,7 @@
 from swap_hill_climber import swap_hill_climber
 from process_data import *
 
+from optparse import OptionParser
 from multiprocessing import Process
 
 def run4_swap_hill_climber(nIterations, noProgressLimit=1000):
@@ -33,4 +34,5 @@ if __name__ == '__main__':
 
     (options, args) = parser.parse_args()
 
-    run4_swap_hill_climber(options.nIterations, options.noProgressLimit)
+    run4_swap_hill_climber(int(options.nIterations),
+        int(options.noProgressLimit))
