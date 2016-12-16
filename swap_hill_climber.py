@@ -73,7 +73,7 @@ def swap_hill_climber(im, noProgressLimit, startRandom):
                 noProgressCounter += 1
 
 
-
+    im.plot.addScore(im.iteration_dct[im.i]["score"])
     best_iteration, score = im.compileBest()
 
     print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
