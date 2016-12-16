@@ -99,14 +99,15 @@ def swap_simulated_annealing(im, startRandom, Tmax=1000, Tmin = 1):
 
     im.exportLectures("SSA%sTmax%s" % (round(score), Tmax))
 
-parser = OptionParser()
-parser.add_option("-r", "--startRandom", dest="startRandom", default=True,
-    help="start at a random location, default True")
+if __name__ == "__main__":
+    parser = OptionParser()
+    parser.add_option("-r", "--startRandom", dest="startRandom", default=True,
+        help="start at a random location, default True")
 
-(options, args) = parser.parse_args()
+    (options, args) = parser.parse_args()
 
-if not bool(options.startRandom):
-    print("Algorithm will not start with random timetable")
-    iteration_manager.importLectures(input("Timetable name: "))
+    if not bool(options.startRandom):
+        print("Algorithm will not start with random timetable")
+        iteration_manager.importLectures(input("Timetable name: "))
 
-swap_hill_climber(iteration_manager, startRandom=bool(options.startRandom))
+    swap_hill_climber(iteration_manager, startRandom=bool(options.startRandom))

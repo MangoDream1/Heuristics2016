@@ -128,18 +128,20 @@ def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
 
     return im.lecture_dct
 
-parser = OptionParser()
+if __name__ == "__main__":
+    parser = OptionParser()
 
-parser.add_option("-p", "--nPopulation", dest="nPopulation",
-default=100, help="The total population, default is 100")
+    parser.add_option("-p", "--nPopulation", dest="nPopulation",
+    default=100, help="The total population, default is 100")
 
-parser.add_option("-g", "--nGenerations", dest="nGenerations",
-    default=100, help="The number of generations, default is 100")
+    parser.add_option("-g", "--nGenerations", dest="nGenerations",
+        default=100, help="The number of generations, default is 100")
 
-parser.add_option("-m", "--mutation_rate", dest="mutation_rate", default=0.05,
-    help="The mutation rate, between 0 and 1 default is 0.05")
+    parser.add_option("-m", "--mutation_rate", dest="mutation_rate",
+        default=0.05,
+        help="The mutation rate, between 0 and 1 default is 0.05")
 
-(options, args) = parser.parse_args()
+    (options, args) = parser.parse_args()
 
-genetic_algorithm(iteration_manager, int(options.nPopulation),
-    int(options.nGenerations), float(options.mutation_rate))
+    genetic_algorithm(iteration_manager, int(options.nPopulation),
+        int(options.nGenerations), float(options.mutation_rate))

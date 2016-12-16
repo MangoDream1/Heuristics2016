@@ -78,10 +78,14 @@ def lecture_students_swap(im, noProgressLimit):
     im.exportLectures("STUDENT_OPTIMIZED%snPl%s" % (round(score),
         noProgressLimit))
 
+if __name__ == "__main__":
+    parser = OptionParser()
+    parser.add_option("-n", "--noProgressLimit", dest="noProgressLimit",
+        default=1000, help="The number of times the algorithm cannot progress")
 
-iteration_manager.importLectures(input("Enter the timetable that "
-                                       "needs optimization: "))
-iteration_manager.exportTimetable()
+    (options, args) = parser.parse_args()
 
+    iteration_manager.importLectures(input("Enter the timetable that "
+                                           "needs optimization: "))
 
-lecture_students_swap(iteration_manager, 1000)
+    lecture_students_swap(iteration_manager, options.noProgressLimit)
