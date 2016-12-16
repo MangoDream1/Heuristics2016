@@ -70,11 +70,15 @@ print("Transforming data...")
 # --------------
 # Transform data:
 
-classrooms = [Classroom(x[0], x[1]) for x in classrooms]
+def create_im(classrooms, subjects, students):
 
-subjects = [Subject(x[0], x[1], x[2], x[3], x[4], x[5]) for x in subjects]
+    classrooms = [Classroom(x[0], x[1]) for x in classrooms]
 
-students = [Student(x[0], x[1], x[2], x[3], x[4], x[5], x[6], x[7])
-            for x in students]
+    subjects = [Subject(x[0], x[1], x[2], x[3], x[4], x[5]) for x in subjects]
 
-iteration_manager = IterationManager(classrooms, subjects, students)
+    students = [Student(x[0], x[1], x[2], x[3], x[4], x[5], x[6], x[7])
+                for x in students]
+
+    return IterationManager(classrooms, subjects, students)
+
+iteration_manager = create_im(classrooms, subjects, students)
