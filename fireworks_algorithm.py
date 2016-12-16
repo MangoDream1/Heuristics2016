@@ -62,7 +62,7 @@ def fireworks_algorithm(im, nFireworks):
 	    im.i += 1
 
 	# put scores of Fireworks lectures in list??
-	scores = sorted([(key, item["score"] / 1440)
+	scores = sorted([(key, item["score"] / 1400)
 					    for key, item in im.iteration_dct.items()],
 					    key=itemgetter(1))
 

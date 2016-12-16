@@ -89,7 +89,7 @@ def swap_simulated_annealing(im, startRandom, Tmax=1000, Tmin = 1):
                 im.applyChanges(im.compileChanges(im.i - 1))
                 nIteration += 1
 
-        if temp <= Tmin or im.iteration_dct[im.i-1]["score"] >= 1440:
+        if temp <= Tmin or im.iteration_dct[im.i-1]["score"] >= 1400:
             break
 
 
