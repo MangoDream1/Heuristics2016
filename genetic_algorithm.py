@@ -43,7 +43,7 @@ def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
         nGenerations, mutation_rate))
 
     while nGenerations != cGeneration:
-        scores = sorted([(key, item["score"] / 1440)
+        scores = sorted([(key, item["score"] / 1400)
                             for key, item in im.iteration_dct.items()],
                             key=itemgetter(1))
 
