@@ -1,34 +1,35 @@
 from process_data import *
 from iteration_manager import *
-from random import choice
+from random import choice, random
 from operator import itemgetter
 
+def find_problem_lectures(lectures):
+    problem_lectures = []
+
+    # Only take the lectures that have siblings otherwise cannot change a thing
+    lectures = [l for l in lectures if l.siblings]
+
+    # Checks for every lectures if there is a student that has overlap because
+    # of that lecture
+    for l in lectures:
+        for s in l.students:
+            if s.score != 0 and len(s.timetable[l.day][l.timeslot]) > 1:
+                problem_lectures.append(l)
+                break
+
+    return problem_lectures
 
 def lecture_students_swap(im, noProgressCounterLimit):
     noProgressCounter = 0
 
-    problem_list = [s for s in im.students if s.score != 0]
-
     while noProgressCounter != noProgressCounterLimit:
         changed_lectures = []
 
-        rLecture = choice(im.lectures)
+        # Select random lecture from problem lectures
+        rLecture = choice(find_problem_lectures(im.lectures))
 
-        # If no siblings than no improvements can be made here
-        if not rLecture.siblings:
-            continue
-
-        if problem_list:
-            rLectureProblemStudents = [s for s in problem_list
-                                        if s in rLecture.students]
-
-            if rLectureProblemStudents:
-                rStudent = choice(rLectureProblemStudents)
-            else:
-                continue
-        else:
-            # Choice random student from lecture
-            rStudent = choice(rLecture.students)
+        # Choice random student from lecture
+        rStudent = choice(rLecture.students)
 
         rLecture.students.remove(rStudent)
 
