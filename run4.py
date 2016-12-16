@@ -1,6 +1,5 @@
 from swap_hill_climber import swap_hill_climber
 from student_optimization import lecture_students_swap
-
 from process_data import *
 
 from optparse import OptionParser
