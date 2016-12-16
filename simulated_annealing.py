@@ -102,12 +102,12 @@ def swap_simulated_annealing(im, startRandom, Tmax=1000, Tmin = 1):
 if __name__ == "__main__":
     parser = OptionParser()
     parser.add_option("-r", "--startRandom", dest="startRandom", default=True,
-        help="start at a random location, default 1")
+        help="start at a random location", action="set_false")
 
     (options, args) = parser.parse_args()
 
-    if not bool(int(options.startRandom)):
+    if not options.startRandom:
         print("Algorithm will not start with random timetable")
         iteration_manager.importLectures(input("Timetable name: "))
 
-    swap_hill_climber(iteration_manager, startRandom=bool(int(options.startRandom)))
+    swap_hill_climber(iteration_manager, startRandom=options.startRandom)
