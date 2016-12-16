@@ -157,6 +157,15 @@ class IterationManager:
         if not os.path.exists("Timetable/Lectures"):
             os.makedirs("Timetable/Lectures")
 
+        # Prevent same scores from being overwritten by sticking a number on
+        # the end if the same score has already been calculated by the same
+        # algorithm
+        if os.path.exists("Timetable/Lectures/%s.json" % file_name):
+            number = len([f for f in os.listdir("Timetable/Lectures")
+                            if file_name in f])
+
+            file_name = file_name + str(number)
+
         with open("Timetable/Lectures/%s.json" % file_name, 'w') as f:
             json.dump(export_dct, f, indent=3)
 
