@@ -84,16 +84,16 @@ if __name__ == "__main__":
     parser = OptionParser()
 
     parser.add_option("-r", "--startRandom", dest="startRandom", default=True,
-        help="start at a random location, default True")
+        help="start at a random location, default 1")
 
     parser.add_option("-n", "--noProgressLimit", dest="noProgressLimit",
         default=1000, help="The number of times the algorithm cannot progress")
 
     (options, args) = parser.parse_args()
 
-    if not bool(options.startRandom):
+    if not bool(int(options.startRandom)):
         print("Algorithm will not start with random timetable")
         iteration_manager.importLectures(input("Timetable name: "))
 
     swap_hill_climber(iteration_manager,
-        int(options.noProgressLimit), startRandom=bool(options.startRandom))
+        int(options.noProgressLimit), startRandom=bool(int(options.startRandom)))

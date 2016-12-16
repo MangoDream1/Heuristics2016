@@ -80,7 +80,7 @@ if __name__ == "__main__":
     default=1000, help="The number of times the algorithm cannot progress")
 
     parser.add_option("-r", "--startRandom", dest="startRandom", default=True,
-        help="start at a random location, default True")
+        help="start at a random location, default 1")
 
     parser.add_option("-wc", "--classroomWeigth", dest="classroomWeigth",
         default=1,
@@ -95,7 +95,7 @@ if __name__ == "__main__":
 
     (options, args) = parser.parse_args()
 
-    if not bool(options.startRandom):
+    if not bool(int(options.startRandom)):
         print("Algorithm will not start with random timetable")
         iteration_manager.importLectures(input("Timetable name: "))
 
@@ -104,4 +104,4 @@ if __name__ == "__main__":
         int(options.classroomWeigth),
         int(options.timeslotWeigth),
         int(options.dayWeigth),
-        startRandom=bool(options.startRandom))
+        startRandom=bool(int(options.startRandom)))
