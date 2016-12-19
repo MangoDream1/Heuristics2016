@@ -51,7 +51,7 @@ def run4_improve(nImproveTimetables, noProgressLimit,
     best_scores = sorted(timetables,
         key=itemgetter(0), reverse=True)[:nImproveTimetables]
 
-    best_timetables = list(map(lambda x: x[0], best_scores))
+    best_timetables = list(map(lambda x: x[1], best_scores))
 
     nImproveTimetables = round(len(best_timetables) / 4)
 
