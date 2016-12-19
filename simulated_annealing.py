@@ -101,8 +101,8 @@ def swap_simulated_annealing(dm, startRandom, Tmax=1000, Tmin = 1):
 
 if __name__ == "__main__":
     parser = OptionParser()
-    parser.add_option("-r", "--startFromOld", dest="startRandom", default=True,
-        help="start from old timetable", action="set_false")
+    parser.add_option("-l", "--loadFromOld", dest="startRandom", default=True,
+        help="start from old timetable", action="store_false")
 
     (options, args) = parser.parse_args()
 

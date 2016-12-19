@@ -79,8 +79,8 @@ if __name__ == "__main__":
     parser.add_option("-n", "--noProgressLimit", dest="noProgressLimit",
     default=1000, help="The number of times the algorithm cannot progress")
 
-    parser.add_option("-r", "--startFromOld", dest="startRandom", default=True,
-        help="start from old timetable", action="set_false")
+    parser.add_option("-l", "--loadFromOld", dest="startRandom", default=True,
+        help="start from old timetable", action="store_false")
 
     parser.add_option("-c", "--classroomWeigth", dest="classroomWeigth",
         default=1,
