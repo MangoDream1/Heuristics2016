@@ -151,7 +151,7 @@ class DataManager:
 
         return best_iteration, score
 
-    def exportLectures(self, file_name):
+    def exportLectures(self, file_name, plot=True):
         export_dct = [x.toLongDict() for x in self.lectures]
 
         if not os.path.exists("Timetable/Lectures"):
@@ -192,8 +192,8 @@ class DataManager:
         with open("Timetable/Scores/%s.json" % file_name, 'w') as f:
             json.dump(score_dct, f, indent=3)
 
-
-        self.plot.plotTime(file_name)
+        if plot:
+            self.plot.plotTime(file_name)
 
     def exportTimetable(self):
         for x in self.subjects + self.students + self.classrooms:

@@ -43,6 +43,9 @@ def random_timetables(dm, nPlannedIterations, no_overlap):
                 (best_iteration, round(score), round(average)))
 
     dm.exportLectures("RT%si%sa%s" % (round(score),
+        nPlannedIterations, round(average)), plot=False)
+
+    dm.plot.plotHistogram("RT%si%sa%s" % (round(score),
         nPlannedIterations, round(average)))
 
     return dm.lecture_dct
