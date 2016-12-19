@@ -57,7 +57,7 @@ if __name__ == "__main__":
         default=1000, help="The number of timetables created")
 
     parser.add_option("-o", "--no_overlap", dest="no_overlap", default=True,
-        help="Removal of overlap for every random timetable. True of False")
+        help="Removal of overlap for every random timetable.")
 
     (options, args) = parser.parse_args()
 
