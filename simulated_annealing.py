@@ -7,7 +7,7 @@ from math import exp
 from optparse import OptionParser
 
 
-def swap_simulated_annealing(dm, startRandom, Tmax=1000, Tmin = 1):
+def swap_simulated_annealing(dm, startRandom, Tmax=1000, Tmin=1):
 
     print("Starting swap simulated annealing...")
 
@@ -104,10 +104,14 @@ if __name__ == "__main__":
     parser.add_option("-l", "--loadFromOld", dest="startRandom", default=True,
         help="start from old timetable", action="store_false")
 
+    parser.add_option("-t", "--startTemp", dest="temp", default=1000,
+        help="define the default temp")
+
     (options, args) = parser.parse_args()
 
     if not options.startRandom:
         print("Algorithm will not start with random timetable")
         data_manager.importLectures(input("Timetable name: "))
 
-    swap_hill_climber(data_manager, startRandom=options.startRandom)
+    swap_hill_climber(data_manager, startRandom=options.startRandom
+        Tmax=options.startTemp)
