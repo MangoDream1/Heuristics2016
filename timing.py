@@ -5,6 +5,8 @@ from functools import reduce
 # Code adapted to Python3 from:
 # http://stackoverflow.com/questions/1557571/how-to-get-time-of-a-python-program-execution/1557906#1557906
 
+# Takes start clock time and end clock time and outputs the difference
+
 def secondsToStr(t):
     return "%d:%02d:%02d.%03d" % \
         reduce(lambda ll,b : divmod(ll[0],b) + ll[1:],
