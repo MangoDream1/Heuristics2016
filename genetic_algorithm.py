@@ -2,6 +2,7 @@ from process_data import *
 from random import randint, choice, random
 
 from optparse import OptionParser
+import re
 
 
 def update_progress(workdone, text='Progress:'):
@@ -12,35 +13,63 @@ def update_progress(workdone, text='Progress:'):
         print('\n')
 
 
-def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
+def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate,
+        load_best=False, remove_overlap=True):
+
     print("Starting genetic algorithm...")
 
     nLectures = len(im.lectures)
 
-    # Start with random timetables without overlap
-    while im.i != nPopulation:
-        changed_lectures = []
+    if load_best:
+        # Dict with file name as key and ints as value
+        ints = {x: list(map(int, re.findall(r"\d+", x)))
+                    for x in os.listdir("Timetable/Lectures")}
 
-        for lecture in im.lectures:
-            changed_lectures.append(
-                im.randomLocation(lecture, no_overlap=True))
+        # Tuple (score, timetable file name) if not same noProgressLimit
+        # to prevent same timetables from being improved
+        timetables = [(ints[x][0], x)
+            for x in os.listdir("Timetable/Lectures")]
 
-        im.addChanges(changed_lectures)
+        best_scores = sorted(timetables,
+            key=itemgetter(0), reverse=True)[:nPopulation]
 
-        # Makes all base since its all random anyways
-        im.createBase()
+        best_timetables = list(map(lambda x: x[1], best_scores))
 
-        im.resetTimetables()
+        if len(best_timetables) < nPopulation:
+            print("Not enough timetables in folder thus cannot continue")
+            return False
 
-        im.i += 1
-        update_progress(im.i/nPopulation, text="Random timetables:")
+    # Create as many timetables until population is filled (count starts at 0)
+    while im.i != (nPopulation - 1):
+        # Start with random timetables without overlap
+        if not load_best:
+            changed_lectures = []
+
+            for lecture in im.lectures:
+                changed_lectures.append(
+                    im.randomLocation(lecture, no_overlap=True))
+
+            im.addChanges(changed_lectures)
+
+            # Makes all base since its all random
+            im.createBase()
+
+            im.resetTimetables()
+
+            im.i += 1
+            update_progress(im.i/nPopulation, text="Random timetables:")
+
+        else:
+            # Import best lecture
+            im.importLectures(best_timetables.pop())
+            update_progress(im.i/nPopulation, text="Loading best:")
 
     cGeneration = 0
 
     best_score = max(item["score"] for item in im.iteration_dct.values())
 
-    im.exportLectures("GA%sp%sg%sm%s" % (round(best_score), nPopulation,
-        nGenerations, mutation_rate))
+    im.exportLectures("GA%sp%sg%sm%sb%s" % (round(best_score), nPopulation,
+        nGenerations, mutation_rate, load_best))
 
     while nGenerations != cGeneration:
         scores = sorted([(key, item["score"] / 1400)
@@ -98,22 +127,24 @@ def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
 
             im.i = deleted_keys.pop()
 
-            im.removeOverlap()
+            if remove_overlap:
+                im.removeOverlap()
+
             im.addChanges(im.lectures)
 
             score = im.iteration_dct[im.i]["score"]
 
             if score > best_score:
-                old_name = "GA%sp%sg%sm%s" % (round(best_score), nPopulation,
-                    nGenerations, mutation_rate)
+                old_name = "GA%sp%sg%sm%sb%s" % (round(best_score),
+                    nPopulation, nGenerations, mutation_rate, load_best)
 
                 os.remove("Timetable/Lectures/" + old_name + ".json")
                 os.remove("Timetable/Scores/" + old_name + ".json")
                 os.remove("Timetable/Plots/" + old_name + ".png")
 
                 best_score = score
-                im.exportLectures("GA%sp%sg%sm%s" % (round(score), nPopulation,
-                    nGenerations, mutation_rate))
+                im.exportLectures("GA%sp%sg%sm%sb%s" % (round(best_score),
+                    nPopulation, nGenerations, mutation_rate, load_best))
 
 
         average_score = sum(value["score"]
@@ -123,6 +154,9 @@ def genetic_algorithm(im, nPopulation, nGenerations, mutation_rate):
 
         cGeneration += 1
         update_progress(cGeneration/nGenerations, text="Genetic Algorithm:")
+
+    im.plot.plotTime("GA%sp%sg%sm%sb%s" % (round(best_score),
+        nPopulation, nGenerations, mutation_rate, load_best))
 
     print("Score: %s" % (round(best_score)))
 
@@ -141,7 +175,16 @@ if __name__ == "__main__":
         default=0.05,
         help="The mutation rate, between 0 and 1 default is 0.05")
 
+    parser.add_option("-b", "--load_best", dest="load_best",
+        default=False, action="store_true",
+        help="Load in the best timetables instead of starting random")
+
+    parser.add_option("-o", "--remove_overlap", dest="overlap",
+        default=True, action="store_false",
+        help="Remove overlap in the created children, default is True")
+
     (options, args) = parser.parse_args()
 
     genetic_algorithm(iteration_manager, int(options.nPopulation),
-        int(options.nGenerations), float(options.mutation_rate))
+        int(options.nGenerations), float(options.mutation_rate),
+        load_best=options.load_best, remove_overlap=options.overlap)
