@@ -7,6 +7,8 @@ import matplotlib
 import time
 
 class Plot:
+    ''' Plot class handles all the plotting of the different algorithms '''
+
     def __init__(self):
         self.score_lst = []
         self.time_lst = []
@@ -17,6 +19,7 @@ class Plot:
 
 
     def addScore(self, score):
+        # Add score and the timestamp since start
         self.score_lst.append(score)
         self.time_lst.append(time.time() - self.start)
 
