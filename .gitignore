@@ -1,3 +1,4 @@
 Timetable/Classroom/*.json
 Timetable/Student/*.json
 Timetable/Subject/*.json
+__pycache__/*
