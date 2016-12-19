@@ -34,7 +34,7 @@ n{number}; number being the number of results with the same score.
 
 #### Documentation:
 
-###### Random timetables:
+##### Random timetables:
 
 ```python3 random_timetables.py```
 
@@ -55,7 +55,7 @@ Random timetables are named as follows:
 
 ---
 
-###### Hill climber:
+##### Hill climber:
 
 ```python3 hill_climber.py```
 
@@ -84,7 +84,7 @@ Hill climber are named as follows:
 
 ---
 
-###### Swap Hill climber:
+##### Swap Hill climber:
 
 ```python3 swap_hill_climber.py```
 
@@ -96,7 +96,7 @@ Options:
                         The number of times the algorithm is allowed not to progress
 ```
 
-For example: ```python3 swap_hill_climber.py -n 10```: swap_hill_climber that
+For example: ```python3 swap_hill_climber.py -n 10``` = swap_hill_climber that
 stops when it has not progressed 10 times
 
 Swap hill climber are named as follows:
@@ -104,7 +104,7 @@ Swap hill climber are named as follows:
 
 ---
 
-###### Simulated annealing:
+##### Simulated annealing:
 
 ```python3 simulated_annealing.py```
 
@@ -116,7 +116,7 @@ Options:
                       define the default temp
 ```
 
-For example: ```python3 simulated_annealing.py -t 10000```: simulated_annealing
+For example: ```python3 simulated_annealing.py -t 10000``` = simulated_annealing
 with start temp of 10000
 
 Simulated Annealing is named as follows:
@@ -124,7 +124,7 @@ Simulated Annealing is named as follows:
 
 ---
 
-###### Genetic Algorithm:
+##### Genetic Algorithm:
 
 ```python3 genetic_algorithm.py```
 
@@ -142,7 +142,7 @@ Options:
                         True
 ```
 
-For example: ```python3 genetic_algorithm.py -b```: genetic_algorithm with
+For example: ```python3 genetic_algorithm.py -b``` =  genetic_algorithm with
 the best 100 from the Timetable/Lectures folder for 100 generations
 
 Genetic Algorithm is named as follows:
@@ -162,7 +162,7 @@ Options:
                         progress
 ```
 
-For example: ```python3 student_optimization.py -n 10000```: student_optimization
+For example: ```python3 student_optimization.py -n 10000``` = student_optimization
 that will keep going until it does not progress for 10000 iterations
 
 ---
@@ -186,7 +186,7 @@ Options:
                         instead of swap_hill_climber
 
 ```
-For example: ```python3 run4.py -p -s -i 10000 -n 1000```: will improve 10000 previously created lecture packages using student_optimization with an no progress limit of 1000  
+For example: ```python3 run4.py -p -s -i 10000 -n 1000``` = will improve 10000 previously created lecture packages using student_optimization with an no progress limit of 1000  
 
 Run4 does not use a special name but the name for swap_hill_climber if swap_hill_climber is used otherwise will use student_optimization name
 
@@ -198,6 +198,6 @@ Webview screenshot:
 
 In this screenshot the timetable of classroom A1.04 is pictured. Beneath the timetable all the information of the classroom is pictured. Inside each cell in the timetable there is a lecture. Shown is the name of the subject, the classroom and the lecture string. The first letter in the lecture string represents the type of lecture (Lecture, WorkLecture or Practica). The following number represents the what lecture it is, for example a subject can have 2 work lectures then the first would have a 0 here and the second a 1. The next letter is the group and the last numbers represent the amount of students in this lecture.
 
-Not shown here when there is overlap, meaning multiple lectures in the same slot, then the slot would be red with a big number representing the amount of lectures in the slot. Also below in the information these lectures would be colored red.
+Not shown here when there is overlap, meaning multiple lectures in the same slot, then the slot would be red with a big number representing the amount of lectures in the slot. Also below in the information tab these lectures would be colored red.
 
 ![](https://raw.githubusercontent.com/MangoDream1/Heuristics2016/master/screenshots/webview_example.png "screenshot webview")
