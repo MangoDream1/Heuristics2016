@@ -179,9 +179,9 @@ if __name__ == "__main__":
         default=False, action="store_true",
         help="Load in the best timetables instead of starting random")
 
-    parser.add_option("-o", "--remove_overlap", dest="overlap",
+    parser.add_option("-o", "--keep_overlap", dest="overlap",
         default=True, action="store_false",
-        help="Remove overlap in the created children, default is True")
+        help="Keep overlap in the created children, default is False")
 
     (options, args) = parser.parse_args()
 
