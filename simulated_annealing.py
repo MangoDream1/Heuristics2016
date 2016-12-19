@@ -113,5 +113,5 @@ if __name__ == "__main__":
         print("Algorithm will not start with random timetable")
         data_manager.importLectures(input("Timetable name: "))
 
-    swap_hill_climber(data_manager, startRandom=options.startRandom
+    swap_hill_climber(data_manager, startRandom=options.startRandom,
         Tmax=options.startTemp)
