@@ -1,5 +1,5 @@
 from process_data import *
-from iteration_manager import *
+from data_manager import *
 from random import randint, choice, random
 from operator import itemgetter
 
@@ -38,32 +38,32 @@ def calculate_sparks_amplitude_direction(firework_score, lowest_score,
 	return limitSparks, amplitude
 
 
-def fireworks_algorithm(im, nFireworks):
+def fireworks_algorithm(dm, nFireworks):
     print("Starting firebase algorithm...")
 
 
-    dimensenion = len(im.lectures) * (len(im.lectures) - 1)
+    dimensenion = len(dm.lectures) * (len(dm.lectures) - 1)
 
 	# get nFireworks lectures
-	while im.i != nFireworks:
+	while dm.i != nFireworks:
 	    changed_lectures = []
 
-	    for lecture in im.lectures:
+	    for lecture in dm.lectures:
             changed_lectures.append(
-                im.randomLocation(lecture, no_overlap=no_overlap))
+                dm.randomLocation(lecture, no_overlap=no_overlap))
 
 	        changed_lectures.append(lecture)
 
-	    im.addChanges(changed_lectures)
+	    dm.addChanges(changed_lectures)
 
 	    # Makes all base since its all random anyways
-	    im.createBase()
+	    dm.createBase()
 
-	    im.i += 1
+	    dm.i += 1
 
 	# put scores of Fireworks lectures in list??
 	scores = sorted([(key, item["score"] / 1400)
-					    for key, item in im.iteration_dct.items()],
+					    for key, item in dm.iteration_dct.items()],
 					    key=itemgetter(1))
 
 
@@ -92,7 +92,7 @@ def fireworks_algorithm(im, nFireworks):
 		nSparks = lSparksAmp[0]
 		explosionAmp = lSparksAmp[1]
 
-		subjects = len(im)
+		subjects = len(dm)
 		dimensions = 0
 
 		for spark in range(0, nSparks):

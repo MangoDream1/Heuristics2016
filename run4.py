@@ -60,18 +60,18 @@ def run4_improve(nImproveTimetables, noProgressLimit,
 
         for x in range(4):
             if best_timetables:
-                im = create_im(classrooms, subjects, students)
+                dm = create_im(classrooms, subjects, students)
 
                 # Import one of the best lectures
-                im.importLectures(best_timetables.pop())
+                dm.importLectures(best_timetables.pop())
 
                 if not student_optimization:
                     plist.append(Process(target=swap_hill_climber,
-                        args=(im, noProgressLimit, False)))
+                        args=(dm, noProgressLimit, False)))
 
                 else:
                     plist.append(Process(target=lecture_students_swap,
-                        args=(im, noProgressLimit)))
+                        args=(dm, noProgressLimit)))
 
         for p in plist:
             p.start()

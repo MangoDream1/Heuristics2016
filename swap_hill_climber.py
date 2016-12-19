@@ -1,12 +1,12 @@
 from process_data import *
-from iteration_manager import *
+from data_manager import *
 
 from random import randint, choice, random
 from operator import itemgetter
 from optparse import OptionParser
 
 
-def swap_hill_climber(im, noProgressLimit, startRandom):
+def swap_hill_climber(dm, noProgressLimit, startRandom):
     print("Starting swap hill climber...")
 
     noProgressCounter = 0
@@ -14,17 +14,17 @@ def swap_hill_climber(im, noProgressLimit, startRandom):
     while noProgressCounter != noProgressLimit:
         changed_lectures = []
 
-        if im.i == 0 and startRandom:
-            for lecture in im.lectures:
+        if dm.i == 0 and startRandom:
+            for lecture in dm.lectures:
                 changed_lectures.append(
-                    im.randomLocation(lecture, no_overlap=True))
+                    dm.randomLocation(lecture, no_overlap=True))
 
-            im.addChanges(changed_lectures)
-            im.i += 1
+            dm.addChanges(changed_lectures)
+            dm.i += 1
 
         else:
-            rLecture = choice(im.lectures)
-            rClassroom = choice(im.classrooms)
+            rLecture = choice(dm.lectures)
+            rClassroom = choice(dm.classrooms)
             rDay = randint(0, 4)
             rTimeslot = randint(0, 3)
 
@@ -51,34 +51,34 @@ def swap_hill_climber(im, noProgressLimit, startRandom):
 
             changed_lectures.append(rLecture)
 
-            im.addChanges(changed_lectures)
+            dm.addChanges(changed_lectures)
 
-            if im.iteration_dct[im.i]["score"] > \
-               im.iteration_dct[im.i - 1]["score"]:
+            if dm.iteration_dct[dm.i]["score"] > \
+               dm.iteration_dct[dm.i - 1]["score"]:
 
-                im.plot.addScore(im.iteration_dct[im.i]["score"])
+                dm.plot.addScore(dm.iteration_dct[dm.i]["score"])
 
-                if im.i % 10 == 0:
-                    print(im.iteration_dct[im.i]["score"])
+                if dm.i % 10 == 0:
+                    print(dm.iteration_dct[dm.i]["score"])
 
-                    im.createBase()
+                    dm.createBase()
 
 
-                im.i += 1
+                dm.i += 1
                 noProgressCounter = 0
 
             else:
                 # Reset to previous state
-                im.applyChanges(im.compileChanges(im.i - 1))
+                dm.applyChanges(dm.compileChanges(dm.i - 1))
                 noProgressCounter += 1
 
 
-    im.plot.addScore(im.iteration_dct[im.i]["score"])
-    best_iteration, score = im.compileBest()
+    dm.plot.addScore(dm.iteration_dct[dm.i]["score"])
+    best_iteration, score = dm.compileBest()
 
     print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
 
-    im.exportLectures("SHC%snPl%s" % (round(score), noProgressLimit))
+    dm.exportLectures("SHC%snPl%s" % (round(score), noProgressLimit))
 
 if __name__ == "__main__":
     parser = OptionParser()
@@ -93,7 +93,7 @@ if __name__ == "__main__":
 
     if not options.startRandom:
         print("Algorithm will not start with random timetable")
-        iteration_manager.importLectures(input("Timetable name: "))
+        data_manager.importLectures(input("Timetable name: "))
 
-    swap_hill_climber(iteration_manager,
+    swap_hill_climber(data_manager,
         int(options.noProgressLimit), startRandom=options.startRandom)

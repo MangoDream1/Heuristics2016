@@ -11,41 +11,41 @@ def update_progress(workdone, text='Progress:'):
     if workdone == 1:
         print('\n')
 
-def random_timetables(im, nPlannedIterations, no_overlap):
+def random_timetables(dm, nPlannedIterations, no_overlap):
     print("Starting random timetables with %s iterations..."
             % nPlannedIterations)
 
-    while im.i != nPlannedIterations:
+    while dm.i != nPlannedIterations:
         changed_lectures = []
 
-        for lecture in im.lectures:
+        for lecture in dm.lectures:
             changed_lectures.append(
-                im.randomLocation(lecture, no_overlap=no_overlap))
+                dm.randomLocation(lecture, no_overlap=no_overlap))
 
-        im.addChanges(changed_lectures)
+        dm.addChanges(changed_lectures)
 
         # Makes all base since its all random anyways
-        im.createBase()
+        dm.createBase()
 
-        im.plot.addScore(im.iteration_dct[im.i]["score"])
+        dm.plot.addScore(dm.iteration_dct[dm.i]["score"])
 
-        im.i += 1
-        update_progress(im.i/nPlannedIterations)
+        dm.i += 1
+        update_progress(dm.i/nPlannedIterations)
 
-        im.resetTimetables()
+        dm.resetTimetables()
 
-    best_iteration, score = im.compileBest()
+    best_iteration, score = dm.compileBest()
 
-    average = sum([im.iteration_dct[i]["score"]
-                    for i in im.iteration_dct.keys()]) / nPlannedIterations
+    average = sum([dm.iteration_dct[i]["score"]
+                    for i in dm.iteration_dct.keys()]) / nPlannedIterations
 
     print("Best iteration: %s, Score: %s, Average Score: %s" %
                 (best_iteration, round(score), round(average)))
 
-    im.exportLectures("RT%si%sa%s" % (round(score),
+    dm.exportLectures("RT%si%sa%s" % (round(score),
         nPlannedIterations, round(average)))
 
-    return im.lecture_dct
+    return dm.lecture_dct
 
 if __name__ == "__main__":
     parser = OptionParser()
@@ -58,5 +58,5 @@ if __name__ == "__main__":
 
     (options, args) = parser.parse_args()
 
-    random_timetables(iteration_manager,
+    random_timetables(data_manager,
         int(options.nPlannedIterations), bool(options.no_overlap))

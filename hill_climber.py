@@ -1,10 +1,10 @@
 from process_data import *
-from iteration_manager import *
+from data_manager import *
 
 from random import randint, choice, random
 from optparse import OptionParser
 
-def simple_hill_climber(im, noProgressLimit, classroomWeigth,
+def simple_hill_climber(dm, noProgressLimit, classroomWeigth,
                         timeslotWeigth, dayWeigth, startRandom=True):
     print("Starting simple hill climber...")
 
@@ -19,23 +19,23 @@ def simple_hill_climber(im, noProgressLimit, classroomWeigth,
     while noProgressCounter != noProgressLimit:
         changed_lectures = []
 
-        if im.i == 0 and startRandom:
-            for lecture in im.lectures:
+        if dm.i == 0 and startRandom:
+            for lecture in dm.lectures:
                 changed_lectures.append(
-                    im.randomLocation(lecture, no_overlap=True))
+                    dm.randomLocation(lecture, no_overlap=True))
 
                 changed_lectures.append(lecture)
 
-            im.addChanges(changed_lectures)
-            im.i += 1
+            dm.addChanges(changed_lectures)
+            dm.i += 1
 
         else:
-            lecture = choice(im.lectures)
+            lecture = choice(dm.lectures)
             r = random()
 
             if r < classroomWeigth:
                 # Classroom
-                lecture.classroom = choice(im.classrooms)
+                lecture.classroom = choice(dm.classrooms)
             elif r > classroomWeigth and r < (timeslotWeigth + classroomWeigth):
                 # Timeslot
                 lecture.timeslot = randint(0, 3)
@@ -45,31 +45,31 @@ def simple_hill_climber(im, noProgressLimit, classroomWeigth,
                 # Day
                 lecture.day = randint(0, 4)
 
-            im.addChanges(changed_lectures)
+            dm.addChanges(changed_lectures)
 
-            if im.iteration_dct[im.i]["score"] > \
-               im.iteration_dct[im.i - 1]["score"]:
+            if dm.iteration_dct[dm.i]["score"] > \
+               dm.iteration_dct[dm.i - 1]["score"]:
 
-                im.plot.addScore(im.iteration_dct[im.i]["score"])
+                dm.plot.addScore(dm.iteration_dct[dm.i]["score"])
 
-                if im.i % 10 == 0:
-                    print(im.iteration_dct[im.i]["score"])
+                if dm.i % 10 == 0:
+                    print(dm.iteration_dct[dm.i]["score"])
 
 
-                    im.createBase()
+                    dm.createBase()
 
-                im.i += 1
+                dm.i += 1
                 noProgressCounter = 0
 
             else:
-                im.applyChanges(im.compileChanges(im.i - 1))
+                dm.applyChanges(dm.compileChanges(dm.i - 1))
                 noProgressCounter += 1
 
-    best_iteration, score = im.compileBest()
+    best_iteration, score = dm.compileBest()
 
     print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
 
-    im.exportLectures("HC%snPl%sc%.1ft%.1fd%.1f" %
+    dm.exportLectures("HC%snPl%sc%.1ft%.1fd%.1f" %
                         (round(score), noProgressLimit,
                          classroomWeigth, timeslotWeigth, dayWeigth))
 
@@ -97,9 +97,9 @@ if __name__ == "__main__":
 
     if not options.startRandom:
         print("Algorithm will not start with random timetable")
-        iteration_manager.importLectures(input("Timetable name: "))
+        data_manager.importLectures(input("Timetable name: "))
 
-    simple_hill_climber(iteration_manager,
+    simple_hill_climber(data_manager,
         int(options.noProgressLimit),
         int(options.classroomWeigth),
         int(options.timeslotWeigth),

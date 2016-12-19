@@ -2,7 +2,7 @@
 # Get Data:
 
 from classes import *
-from iteration_manager import *
+from data_manager import *
 import timing
 
 print("Getting data...")
@@ -79,6 +79,6 @@ def create_im(classrooms, subjects, students):
     students = [Student(x[0], x[1], x[2], x[3], x[4], x[5], x[6], x[7])
                 for x in students]
 
-    return IterationManager(classrooms, subjects, students)
+    return DataManager(classrooms, subjects, students)
 
-iteration_manager = create_im(classrooms, subjects, students)
+data_manager = create_im(classrooms, subjects, students)

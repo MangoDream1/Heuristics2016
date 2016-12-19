@@ -16,17 +16,17 @@ def main():
 
     _object = findObject(_id)
 
-    available_items = {"classrooms": iteration_manager.classrooms,
-                       "students": iteration_manager.students,
-                       "subjects": iteration_manager.subjects,
+    available_items = {"classrooms": data_manager.classrooms,
+                       "students": data_manager.students,
+                       "subjects": data_manager.subjects,
                        "lectures": [x.strip(".json") for x in listdir("Timetable/Lectures")]}
 
     timetable_id = request.args.get("t", None)
 
     if timetable_id:
-        iteration_manager.importLectures(timetable_id)
+        data_manager.importLectures(timetable_id)
 
-        iteration_manager.exportTimetable()
+        data_manager.exportTimetable()
 
     return render_template("index.html", object=_object, available_items=available_items)
 
@@ -56,15 +56,15 @@ def findObject(_id):
     _object = None
     if _id:
         try:
-            _object = iteration_manager.classroom_dct[_id]
+            _object = data_manager.classroom_dct[_id]
         except:
             pass
         try:
-            _object = iteration_manager.subject_dct[_id]
+            _object = data_manager.subject_dct[_id]
         except:
             pass
         try:
-            _object = iteration_manager.student_dct[_id]
+            _object = data_manager.student_dct[_id]
         except:
             pass
 

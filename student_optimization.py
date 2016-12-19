@@ -1,5 +1,5 @@
 from process_data import *
-from iteration_manager import *
+from data_manager import *
 
 from random import choice, random
 from operator import itemgetter
@@ -22,14 +22,14 @@ def find_problem_lectures(lectures):
 
     return problem_lectures
 
-def lecture_students_swap(im, noProgressLimit):
+def lecture_students_swap(dm, noProgressLimit):
     noProgressCounter = 0
 
     while noProgressCounter != noProgressLimit:
         changed_lectures = []
 
         # Select random lecture from problem lectures
-        rLecture = choice(find_problem_lectures(im.lectures))
+        rLecture = choice(find_problem_lectures(dm.lectures))
 
         # Choice random student from lecture
         rStudent = choice(rLecture.students)
@@ -52,33 +52,33 @@ def lecture_students_swap(im, noProgressLimit):
         changed_lectures.append(rLecture)
         changed_lectures.append(nLecture)
 
-        im.addChanges(changed_lectures, withStudents=True)
+        dm.addChanges(changed_lectures, withStudents=True)
 
 
-        if im.iteration_dct[im.i]["score"] > \
-           im.iteration_dct[im.i - 1]["score"]:
+        if dm.iteration_dct[dm.i]["score"] > \
+           dm.iteration_dct[dm.i - 1]["score"]:
 
-            im.plot.addScore(im.iteration_dct[im.i]["score"])
+            dm.plot.addScore(dm.iteration_dct[dm.i]["score"])
 
-            if im.i % 10 == 0:
-                print(im.iteration_dct[im.i]["score"])
+            if dm.i % 10 == 0:
+                print(dm.iteration_dct[dm.i]["score"])
 
-                im.createBase()
+                dm.createBase()
 
-            im.i += 1
+            dm.i += 1
             noProgressCounter = 0
-            problem_list = [s for s in im.students if s.score != 0]
+            problem_list = [s for s in dm.students if s.score != 0]
 
         else:
             # Reset to previous state
-            im.applyChanges(im.compileChanges(im.i - 1))
+            dm.applyChanges(dm.compileChanges(dm.i - 1))
             noProgressCounter += 1
 
-    best_iteration, score = im.compileBest()
+    best_iteration, score = dm.compileBest()
 
     print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
 
-    im.exportLectures("STUDENT_OPTIMIZED%snPl%s" % (round(score),
+    dm.exportLectures("STUDENT_OPTIMIZED%snPl%s" % (round(score),
         noProgressLimit))
 
 if __name__ == "__main__":
@@ -88,7 +88,7 @@ if __name__ == "__main__":
 
     (options, args) = parser.parse_args()
 
-    iteration_manager.importLectures(input("Enter the timetable that "
+    data_manager.importLectures(input("Enter the timetable that "
                                            "needs optimization: "))
 
-    lecture_students_swap(iteration_manager, options.noProgressLimit)
+    lecture_students_swap(data_manager, options.noProgressLimit)

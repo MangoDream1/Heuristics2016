@@ -1,8 +1,8 @@
 from classes import *
 
 class ScoreSystem:
-	def __init__(self, iteration_manager):
-		self.im = iteration_manager
+	def __init__(self, data_manager):
+		self.dm = data_manager
 
 		self.score = self.total_score()
 
@@ -11,24 +11,24 @@ class ScoreSystem:
 
 	def total_score(self):
 		# Fill in the timetables, so that the score can be calculated
-		for x in self.im.students + self.im.subjects + self.im.classrooms:
+		for x in self.dm.students + self.dm.subjects + self.dm.classrooms:
 			x.fillInTimetable()
 
 		# Map creates iterable, thats why list is used sinds it loops over the iter thus using the function
-		list(map(self.student_score, self.im.students))
-		list(map(self.subject_score, self.im.subjects))
-		list(map(self.classroom_score, self.im.classrooms))
+		list(map(self.student_score, self.dm.students))
+		list(map(self.subject_score, self.dm.subjects))
+		list(map(self.classroom_score, self.dm.classrooms))
 
-		total_student_score = sum([student.score for student in self.im.students])
-		total_subject_score = sum([subject.score for subject in self.im.subjects])
-		total_classroom_score = sum([classroom.score for classroom in self.im.classrooms])
+		total_student_score = sum([student.score for student in self.dm.students])
+		total_subject_score = sum([subject.score for subject in self.dm.subjects])
+		total_classroom_score = sum([classroom.score for classroom in self.dm.classrooms])
 
 		return total_subject_score + total_student_score + total_classroom_score + self.total_valid_score()
 
 	def total_valid_score(self):
 		valid = True
 
-		for subject in self.im.subjects:
+		for subject in self.dm.subjects:
 			for lecture in subject.lectures:
 				if lecture.classroom == None or lecture.day == None or lecture.timeslot == None:
 					valid = False
