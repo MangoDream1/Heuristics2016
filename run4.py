@@ -28,40 +28,42 @@ def run4_swap_hill_climber(nIterations, noProgressLimit):
 def run4_improve(nImproveTimetables, noProgressLimit,
                     student_optimization=False):
 
+    # Dict with file name as key and ints as value
     ints = {x: list(map(int, re.findall(r"\d+", x)))
                 for x in os.listdir("Timetable/Lectures")}
 
-    # Dct with score as key and timetable as value if not same noProgressLimit
-    # as function to prevent same timetables from being improved
-    timetables = {ints[x][0]: x for x in os.listdir("Timetable/Lectures")
-                    if x[1] != noProgressLimit}
+    # Tuple (score, timetable file name) if not same noProgressLimit
+    # to prevent same timetables from being improved
+    timetables = [(ints[x][0], x) for x in os.listdir("Timetable/Lectures")
+                    if x[1] != noProgressLimit]
 
 
     # Delete already student optimized timetables
     if student_optimization:
         deletion_lst = []
-        for key, value in timetables.items():
-            if "STUDENT_OPTIMIZED" in value:
-                deletion_lst.append(key)
+        for score, file_name in timetables:
+            if "STUDENT_OPTIMIZED" in file_name:
+                deletion_lst.append((score, file_name))
 
-        for key in deletion_lst:
-            del timetables[key]
+        for t in deletion_lst:
+            timetables.remove(t)
 
+    best_scores = sorted(timetables,
+        key=itemgetter(0), reverse=True)[:nImproveTimetables]
 
-    # Get the best timetables
-    best_scores = sorted(timetables.keys(), reverse=True)[:nImproveTimetables]
+    best_timetables = list(map(lambda x: x[0], best_scores))
 
-    nImproveTimetables = round(len(best_scores) / 4)
+    nImproveTimetables = round(len(best_timetables) / 4)
 
     while nImproveTimetables != 0:
         plist = []
 
         for x in range(4):
-            if best_scores:
+            if best_timetables:
                 im = create_im(classrooms, subjects, students)
 
                 # Import one of the best lectures
-                im.importLectures(timetables[best_scores.pop()])
+                im.importLectures(best_timetables.pop())
 
                 if not student_optimization:
                     plist.append(Process(target=swap_hill_climber,
