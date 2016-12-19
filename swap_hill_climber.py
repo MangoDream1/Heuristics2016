@@ -87,7 +87,7 @@ if __name__ == "__main__":
         help="start from old timetable", action="store_false")
 
     parser.add_option("-n", "--noProgressLimit", dest="noProgressLimit",
-        default=1000, help="The number of times the algorithm cannot progress")
+        default=1000, help="The number of times the algorithm is allowed not to progress")
 
     (options, args) = parser.parse_args()
 

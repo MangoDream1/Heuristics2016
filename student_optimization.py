@@ -84,7 +84,7 @@ def lecture_students_swap(dm, noProgressLimit):
 if __name__ == "__main__":
     parser = OptionParser()
     parser.add_option("-n", "--noProgressLimit", dest="noProgressLimit",
-        default=1000, help="The number of times the algorithm cannot progress")
+        default=1000, help="The number of times the algorithm is allowed not to progress")
 
     (options, args) = parser.parse_args()
 
