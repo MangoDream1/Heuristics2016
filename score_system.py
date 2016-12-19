@@ -4,7 +4,7 @@ class ScoreSystem:
 	def __init__(self, data_manager):
 		self.dm = data_manager
 
-		self.score = self.total_score()
+		self.score = 0
 
 	def __str__(self):
 		return "Score: %s" % self.score
@@ -14,23 +14,33 @@ class ScoreSystem:
 		for x in self.dm.students + self.dm.subjects + self.dm.classrooms:
 			x.fillInTimetable()
 
-		# Map creates iterable, thats why list is used sinds it loops over the iter thus using the function
+		# Map creates iterable, thats why list is used sinds it
+		# loops over the iter thus using the function
 		list(map(self.student_score, self.dm.students))
 		list(map(self.subject_score, self.dm.subjects))
 		list(map(self.classroom_score, self.dm.classrooms))
 
+		# Sum score
 		total_student_score = sum([student.score for student in self.dm.students])
 		total_subject_score = sum([subject.score for subject in self.dm.subjects])
 		total_classroom_score = sum([classroom.score for classroom in self.dm.classrooms])
 
-		return total_subject_score + total_student_score + total_classroom_score + self.total_valid_score()
+		# Return the sum of all scores
+		return total_subject_score + total_student_score + \
+			   total_classroom_score + self.total_valid_score()
 
 	def total_valid_score(self):
+		# Checks if all lectures have a day, timeslot and classroom
+		# if true 1000 points else 0
+
 		valid = True
 
 		for subject in self.dm.subjects:
 			for lecture in subject.lectures:
-				if lecture.classroom == None or lecture.day == None or lecture.timeslot == None:
+				if lecture.classroom == None or \
+				   lecture.day == None or \
+				   lecture.timeslot == None:
+
 					valid = False
 					break
 
@@ -68,10 +78,12 @@ class ScoreSystem:
 	def student_score(self, student_object):
 		student_score = 0
 
+		# If a student has more than one lecture in the same timeslot subtract
+		# one point per excess lecture
 		for day, timeslot in student_object.timetable.items():
 			for key, lectures in timeslot.items():
 
-				if len(lectures) > 1:
+				if lectures:
 					student_score -= (len(lectures) - 1)
 
 		student_object.score = student_score
@@ -80,28 +92,28 @@ class ScoreSystem:
 		malus = 0
 		bonus = 0
 
-		if len(subject_object.getLectures()) > 0:
-			nLectures = max([lecture.group for lecture in
-				subject_object.getLectures()])
-		else:
-			nLectures = 0
+		workLectures = subject_object.getWorkLectures()
 
-		if len(subject_object.getWorkLectures()) > 0:
-			nWorkLectureGroups = max([lecture.group for lecture in
-				subject_object.getWorkLectures()])
+		# Find the number of workgroups
+		if workLectures:
+			nWorkLectureGroups = max([lecture.group for lecture in workLectures])
 		else:
 			nWorkLectureGroups = 0
 
-		if len(subject_object.getPracticas()) > 0:
-			nPraticaGroups = max([lecture.group for lecture in
-				subject_object.getPracticas()])
+		practicas = subject_object.getPracticas()
+
+		# Find the number of practica groups
+		if practicas:
+			nPraticaGroups = max([lecture.group for lecture in practicas])
 		else:
 			nPraticaGroups = 0
 
-
+		# The number of unique lectures are the amount of lectures minus
+		# the groups
 		nUniqueLectures = len(subject_object.lectures) - nWorkLectureGroups - \
 							nPraticaGroups
 
+		# The spread options differ for the nUniqueLectures
 		if nUniqueLectures == 2:
 			options = [[0, 3], [1, 4]]
 		elif nUniqueLectures == 3:
@@ -114,8 +126,9 @@ class ScoreSystem:
 		nSpreadTimetables = [0 for x in range(len(options))]
 		nStudents = len(subject_object.students)
 
+		# For every student append the list of lectures
+		# that have matching subject
 		lecture_lst = []
-
 		for student in subject_object.students:
 			nFullDays = 0
 
@@ -123,18 +136,22 @@ class ScoreSystem:
 								if l.subject == subject_object])
 
 		for student_lst in lecture_lst:
-			days_dct = {x: False for x in range(5)}
+			days_dct = {x: False for x in range(NUMBER_OF_DAYS)}
 
 			for lecture in student_lst:
+				# Set day in day dct to True if day is used
 				days_dct[lecture.day] = True
 
-
+				# If day in one of the options add 1 to the correct counter
 				for index, option in enumerate(options):
 					if lecture.day in option:
 						nSpreadTimetables[index] += 1
 
+			# True == 1 and False == 0 thus able to sum
 			nFullDays = sum(days_dct.values())
 
+			# Set malus to the correct number of points depending on nFullDays,
+			# per student
 			if nUniqueLectures - 1 == nFullDays:
 				malus += 10 / nStudents
 			elif nUniqueLectures - 2 == nFullDays:
@@ -142,7 +159,10 @@ class ScoreSystem:
 			elif nUniqueLectures - 3 == nFullDays:
 				malus += 30 / nStudents
 
+		# If there is an options set bonus to the highest counter (best spread)
+		# And divide by the length
 		if options[0]:
 			bonus = 20 / nStudents * max(nSpreadTimetables) / len(options[0])
 
+		# Subtract malus from bonus to get the subject score
 		subject_object.score = bonus - malus
