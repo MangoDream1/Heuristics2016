@@ -79,18 +79,18 @@ if __name__ == "__main__":
     parser.add_option("-n", "--noProgressLimit", dest="noProgressLimit",
     default=1000, help="The number of times the algorithm cannot progress")
 
-    parser.add_option("-r", "--startRandom", dest="startRandom", default=True,
-        help="start at a random location", action="store_false")
+    parser.add_option("-r", "--startFromOld", dest="startRandom", default=True,
+        help="start from old timetable", action="set_false")
 
-    parser.add_option("-wc", "--classroomWeigth", dest="classroomWeigth",
+    parser.add_option("-c", "--classroomWeigth", dest="classroomWeigth",
         default=1,
         help="The weight that is given to classrooms in random changes")
 
-    parser.add_option("-wt", "--timeslotWeigth", dest="timeslotWeigth",
+    parser.add_option("-t", "--timeslotWeigth", dest="timeslotWeigth",
         default=1,
         help="The weight that is given to timeslots in random changes")
 
-    parser.add_option("-wd", "--dayWeigth", dest="dayWeigth", default=1,
+    parser.add_option("-d", "--dayWeigth", dest="dayWeigth", default=1,
         help="The weight that is given to days in random changes")
 
     (options, args) = parser.parse_args()
