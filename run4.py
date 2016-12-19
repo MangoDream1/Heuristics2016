@@ -13,7 +13,7 @@ def run4_swap_hill_climber(nIterations, noProgressLimit):
     while nIterations != 0:
         # Create the 4 processes of swap_hill_climber
         plist = [Process(target=swap_hill_climber,
-                         args=(create_im(classrooms, subjects, students),
+                         args=(create_dm(classrooms, subjects, students),
                                 noProgressLimit, True))
                     for x in range(4)]
 
@@ -60,7 +60,7 @@ def run4_improve(nImproveTimetables, noProgressLimit,
 
         for x in range(4):
             if best_timetables:
-                dm = create_im(classrooms, subjects, students)
+                dm = create_dm(classrooms, subjects, students)
 
                 # Import one of the best lectures
                 dm.importLectures(best_timetables.pop())
