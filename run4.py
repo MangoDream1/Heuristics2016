@@ -93,12 +93,12 @@ if __name__ == '__main__':
 
     parser.add_option("-p", "--improve", dest="improve",
         default=False,
-        help="Create new timetables then False, want to improve existing True",
+        help="Improves timetables instead of creating new ones",
         action="store_true")
 
     parser.add_option("-s", "--student_optimization",
         dest="student_optimization", default=False,
-        help="Use student_optimization if improve is also used",
+        help="Use student_optimization if improve is also used instead of swap_hill_climber",
         action="store_true")
 
     (options, args) = parser.parse_args()
