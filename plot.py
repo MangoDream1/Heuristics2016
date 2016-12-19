@@ -23,6 +23,7 @@ class Plot:
     def plotTime(self, name):
         plt.plot(self.time_lst, self.score_lst)
 
+        plt.title(name)
         plt.ylabel("score")
         plt.xlabel("time (seconds)")
 
@@ -30,6 +31,8 @@ class Plot:
 
     def plotHistogram(self, name):
         plt.hist(self.score_lst)
+
+        plt.title(name)
         plt.xlabel("score")
 
         plt.savefig("Timetable/Plots/" + name + ".png")
