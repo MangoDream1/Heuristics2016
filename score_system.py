@@ -132,22 +132,27 @@ class ScoreSystem:
 		# that have matching subject
 		lecture_lst = []
 		for student in subject_object.students:
-			nFullDays = 0
-
 			lecture_lst.append([l for l in student.lectures
 								if l.subject == subject_object])
 
 		for student_lst in lecture_lst:
 			days_dct = {x: False for x in range(NUMBER_OF_DAYS)}
 
+
 			for lecture in student_lst:
 				# Set day in day dct to True if day is used
 				days_dct[lecture.day] = True
 
-				# If day in one of the options add 1 to the correct counter
-				for index, option in enumerate(options):
-					if lecture.day in option:
-						nSpreadTimetables[index] += 1
+				# # If day in one of the options add 1 to the correct counter
+				# for index, option in enumerate(options):
+				# 	if lecture.day in option:
+				#  		nSpreadTimetables[index] += 1
+
+			t = sorted([x.day for x in student_lst])
+
+			for x in options:
+				if t == sorted(x):
+					nSpreadTimetables[0] += 1
 
 			# True == 1 and False == 0 thus able to sum
 			nFullDays = sum(days_dct.values())
@@ -164,7 +169,8 @@ class ScoreSystem:
 		# If there is an options set bonus to the highest counter (best spread)
 		# And divide by the length
 		if options[0]:
-			bonus = 20 / nStudents * max(nSpreadTimetables) / len(options[0])
+			#bonus = 20 / nStudents * max(nSpreadTimetables) / len(options[0])
+			bonus = 20 / nStudents * max(nSpreadTimetables)
 
 		# Subtract malus from bonus to get the subject score
 		subject_object.score = bonus - malus
