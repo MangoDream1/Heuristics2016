@@ -148,10 +148,8 @@ class ScoreSystem:
 				# 	if lecture.day in option:
 				#  		nSpreadTimetables[index] += 1
 
-			t = sorted([x.day for x in student_lst])
-
-			for x in options:
-				if t == sorted(x):
+			for option in options:
+				if sorted([option.day for x in student_lst]) == sorted(option):
 					nSpreadTimetables[0] += 1
 
 			# True == 1 and False == 0 thus able to sum
