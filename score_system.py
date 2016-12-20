@@ -4,7 +4,7 @@ class ScoreSystem:
 	def __init__(self, data_manager):
 		self.dm = data_manager
 
-		self.score = 0
+		self.score = None
 
 	def __str__(self):
 		return "Score: %s" % self.score
@@ -25,9 +25,11 @@ class ScoreSystem:
 		total_subject_score = sum([subject.score for subject in self.dm.subjects])
 		total_classroom_score = sum([classroom.score for classroom in self.dm.classrooms])
 
-		# Return the sum of all scores
-		return total_subject_score + total_student_score + \
-			   total_classroom_score + self.total_valid_score()
+		# sum all scores
+		self.score = total_subject_score + total_student_score + \
+			   		 total_classroom_score + self.total_valid_score()
+
+		return self.score
 
 	def total_valid_score(self):
 		# Checks if all lectures have a day, timeslot and classroom
