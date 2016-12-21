@@ -12,6 +12,12 @@ app.config['DEBUG'] = True
 def main():
     app.logger.debug('Loading %s' % (url_for('main')))
 
+    timetable_id = request.args.get("t", None)
+
+    if timetable_id:
+        data_manager.importLectures(timetable_id)
+        data_manager.exportTimetable()
+
     _id = request.args.get("id", None)
 
     _object = findObject(_id)
@@ -21,12 +27,6 @@ def main():
                        "subjects": data_manager.subjects,
                        "lectures": [x.strip(".json") for x in listdir("Timetable/Lectures")]}
 
-    timetable_id = request.args.get("t", None)
-
-    if timetable_id:
-        data_manager.importLectures(timetable_id)
-
-        data_manager.exportTimetable()
 
     return render_template("index.html", object=_object, available_items=available_items)
 
