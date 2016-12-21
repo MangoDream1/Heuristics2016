@@ -136,25 +136,12 @@ class ScoreSystem:
 								if l.subject == subject_object])
 
 		for student_lst in lecture_lst:
-			days_dct = {x: False for x in range(NUMBER_OF_DAYS)}
-
-
-			for lecture in student_lst:
-				# Set day in day dct to True if day is used
-				days_dct[lecture.day] = True
-
-				# # If day in one of the options add 1 to the correct counter
-				# for index, option in enumerate(options):
-				# 	if lecture.day in option:
-				#  		nSpreadTimetables[index] += 1
-
 			# If the lectures of the student match the options than add a point
 			for option in options:
 				if sorted([x.day for x in student_lst]) == option:
 					nSpreadTimetables[0] += 1
 
-			# True == 1 and False == 0 thus able to sum
-			nFullDays = sum(days_dct.values())
+			nFullDays = len(set([x.day for x in student_lst]))
 
 			# Set malus to the correct number of points depending on nFullDays,
 			# per student
