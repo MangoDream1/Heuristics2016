@@ -157,7 +157,7 @@ class ScoreSystem:
 				malus += 10 / nStudents
 			elif nUniqueLectures - 2 == nFullDays:
 				malus += 20 / nStudents
-			elif nUniqueLectures - 3 == nFullDays:
+			elif nUniqueLectures - 3 >= nFullDays:
 				malus += 30 / nStudents
 
 		# If there is an options set bonus to the highest counter (best spread)
