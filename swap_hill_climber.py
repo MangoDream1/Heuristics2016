@@ -7,6 +7,10 @@ from optparse import OptionParser
 
 
 def swap_hill_climber(dm, noProgressLimit, startRandom):
+    """
+
+    """
+
     print("Starting swap hill climber...")
 
     noProgressCounter = 0
