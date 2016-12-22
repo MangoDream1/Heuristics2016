@@ -25,7 +25,7 @@ def random_timetables(dm, nPlannedIterations, no_overlap):
         # For every lecture find a random location
         for lecture in dm.lectures:
             dm.randomLocation(lecture, no_overlap=no_overlap)
-
+            
         # Every thing changes thus add all
         dm.addChanges(dm.lectures)
 
