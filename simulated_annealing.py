@@ -7,14 +7,18 @@ from math import exp
 from optparse import OptionParser
 
 
-def swap_simulated_annealing(dm, startRandom, Tmax=1000, Tmin=1):
+def swap_simulated_annealing(dm, startRandom, Tmax=1000, Tmin=1,
+    linear=False, exponential=True, sigmoidal=False):
 
     print("Starting swap simulated annealing...")
 
     temp = Tmax
     nIteration = 0
 
-    while True:
+    # Temp plotting
+    temp_plot = Plot()
+    
+    while True:    
         changed_lectures = []
 
         if dm.i == 0 and startRandom:
@@ -60,9 +64,20 @@ def swap_simulated_annealing(dm, startRandom, Tmax=1000, Tmin=1):
 
             dm.plot.addScore(dm.iteration_dct[dm.i]["score"])
 
+            # Add temp (isnt a score but works the same way)
+            temp_plot.addScore(temp)
+            
             # Simulated Annealing from here
-            temp *= 0.9999
+            if linear:
+                temp -= 0.1
+            elif exponential:
+                temp *= 0.9999
+            elif sigmoidal:
+                temp = Tmax / (1 + exp(0.05 * (dm.i-Tmax/10)))
+                
+            print("TEMP", temp)
 
+                 
             acception_rate = exp((dm.iteration_dct[dm.i]["score"] - \
                                    dm.iteration_dct[dm.i - 1]["score"]) / temp)
 
@@ -91,27 +106,42 @@ def swap_simulated_annealing(dm, startRandom, Tmax=1000, Tmin=1):
 
         if temp <= Tmin or dm.iteration_dct[dm.i-1]["score"] >= 1400:
             break
-
-
+            
     best_iteration, score = dm.compileBest()
 
     print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
 
-    dm.exportLectures("SSA%sTmax%s" % (round(score), Tmax))
+    temp_plot.plotTime("SSA%sTmax%sTEMP" % (round(score), Tmax), ylabel="temp")
+    
+    dm.exportLectures("SSA%sTmax%sl%se%ss%s" % (round(score), Tmax, linear, exponential, sigmoidal))
 
 if __name__ == "__main__":
     parser = OptionParser()
-    parser.add_option("-l", "--loadFromOld", dest="startRandom", default=True,
+    parser.add_option("-o", "--loadFromOld", dest="startRandom", default=True,
         help="start from old timetable", action="store_false")
 
     parser.add_option("-t", "--startTemp", dest="temp", default=1000,
         help="define the default temp")
+        
+    parser.add_option("-l", "--linear", dest="linear", default=False,
+        help="Activate linear cooling function", action="store_true")
+        
+    parser.add_option("-e", "--exponential", dest="exponential", default=True,
+        help="Activate exponential cooling function", action="store_true")
+        
+    parser.add_option("-s", "--sigmoidal", dest="sigmoidal", default=False,
+        help="Activate sigmoidal cooling function", action="store_true")
 
     (options, args) = parser.parse_args()
+    
+    if sum([options.linear, options.exponential, options.sigmoidal]) > 1:
+        print("Too many cooling schemes selected, try again")
+    
+    else:
+        if not options.startRandom:
+            print("Algorithm will not start with random timetable")
+            data_manager.importLectures(input("Timetable name: "))
 
-    if not options.startRandom:
-        print("Algorithm will not start with random timetable")
-        data_manager.importLectures(input("Timetable name: "))
-
-    swap_hill_climber(data_manager, startRandom=options.startRandom,
-        Tmax=options.startTemp)
+        swap_simulated_annealing(data_manager, startRandom=options.startRandom,
+            Tmax=int(options.temp), linear=options.linear, 
+            exponential=options.exponential, sigmoidal=options.sigmoidal)

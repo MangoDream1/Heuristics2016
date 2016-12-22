@@ -23,19 +23,20 @@ class Plot:
         self.score_lst.append(score)
         self.time_lst.append(time.time() - self.start)
 
-    def plotTime(self, name):
+    def plotTime(self, name, ylabel="score", 
+                             xlabel="time (seconds)"):
         plt.plot(self.time_lst, self.score_lst)
 
         plt.title(name)
-        plt.ylabel("score")
-        plt.xlabel("time (seconds)")
+        plt.ylabel(ylabel)
+        plt.xlabel(xlabel)
 
         plt.savefig("Timetable/Plots/" + name + ".png")
 
-    def plotHistogram(self, name):
+    def plotHistogram(self, name, xlabel="score"):
         plt.hist(self.score_lst)
 
         plt.title(name)
-        plt.xlabel("score")
+        plt.xlabel(xlabel)
 
         plt.savefig("Timetable/Plots/" + name + ".png")
