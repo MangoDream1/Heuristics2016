@@ -53,9 +53,6 @@ def simple_hill_climber(dm, noProgressLimit, classroomWeigth,
                 dm.plot.addScore(dm.iteration_dct[dm.i]["score"])
 
                 if dm.i % 10 == 0:
-                    print(dm.iteration_dct[dm.i]["score"])
-
-
                     dm.createBase()
 
                 dm.i += 1
@@ -66,7 +63,7 @@ def simple_hill_climber(dm, noProgressLimit, classroomWeigth,
                 noProgressCounter += 1
 
     dm.plot.addScore(dm.iteration_dct[dm.i]["score"])
-    
+
     best_iteration, score = dm.compileBest()
 
     print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))

@@ -59,8 +59,6 @@ def swap_hill_climber(dm, noProgressLimit, startRandom):
                 dm.plot.addScore(dm.iteration_dct[dm.i]["score"])
 
                 if dm.i % 10 == 0:
-                    print(dm.iteration_dct[dm.i]["score"])
-
                     dm.createBase()
 
 
