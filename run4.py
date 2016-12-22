@@ -8,6 +8,8 @@ import re
 
 
 def run4_swap_hill_climber(nIterations, noProgressLimit):
+    """ Starts 4 swap hill climbers on 4 different cores """
+
     nIterations = round(nIterations / 4)
 
     while nIterations != 0:
@@ -27,6 +29,9 @@ def run4_swap_hill_climber(nIterations, noProgressLimit):
 
 def run4_improve(nImproveTimetables, noProgressLimit,
                     student_optimization=False):
+    """ Starts 4 improve swap hill climbers or student_optimization and
+    uses the best nImproveTimetables out of the availible timetables
+    """
 
     # Dict with file name as key and ints as value
     ints = {x: list(map(int, re.findall(r"\d+", x)))

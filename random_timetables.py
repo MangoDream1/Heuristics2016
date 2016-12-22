@@ -5,6 +5,8 @@ from optparse import OptionParser
 
 
 def update_progress(workdone, text='Progress:'):
+    """ Print the progress bar """
+
     print("\r{0} [{1:50s}] {2:.1f}%".format(text, '#' * int(workdone * 50),
     workdone*100), end="", flush=True)
 
@@ -12,17 +14,20 @@ def update_progress(workdone, text='Progress:'):
         print('\n')
 
 def random_timetables(dm, nPlannedIterations, no_overlap):
+    """ Create nPlannedIterations of random timetables and then output the
+        best one. If no_overlap is True it will not create any overlap
+    """
+
     print("Starting random timetables with %s iterations..."
             % nPlannedIterations)
 
     while dm.i != nPlannedIterations:
-        changed_lectures = []
-
+        # For every lecture find a random location
         for lecture in dm.lectures:
-            changed_lectures.append(
-                dm.randomLocation(lecture, no_overlap=no_overlap))
+            dm.randomLocation(lecture, no_overlap=no_overlap)
 
-        dm.addChanges(changed_lectures)
+        # Every thing changes thus add all
+        dm.addChanges(dm.lectures)
 
         # Makes all base since its all random anyways
         dm.createBase()

@@ -9,6 +9,13 @@ from optparse import OptionParser
 
 def swap_simulated_annealing(dm, startRandom, Tmax=1000, Tmin=1,
     linear=False, exponential=True, sigmoidal=False):
+    """ Simulated annealing using swap as in swap_hill_climber. Start with
+        a max temp that changes based on the chosen cooling system. If the
+        temp is high the acception_rate is also high thus scores that are
+        lower than the previous score are also accepted. When the temp is
+        low the acception_rate drops meaning that lower scores are rarely
+        accepted
+    """
 
     print("Starting swap simulated annealing...")
 

@@ -7,22 +7,39 @@ from optparse import OptionParser
 
 
 def find_problem_lectures(lectures):
+    """ Find the lectures that have a student that has overlap because of it.
+        This will speedup the process. Otherwise perfectly fine lectures will
+        also be chosen where no improvements can be made anyway.
+    """
+
     problem_lectures = []
 
     # Only take the lectures that have siblings otherwise cannot change a thing
     lectures = [l for l in lectures if l.siblings]
 
-    # Checks for every lectures if there is a student that has overlap because
-    # of that lecture
     for l in lectures:
+        # Checks for every lectures if there is a student that has overlap because
+        # of that lecture
         for s in l.students:
             if s.score != 0 and len(s.timetable[l.day][l.timeslot]) > 1:
                 problem_lectures.append(l)
                 break
 
+        # If not 20 then subject score is not perfectly distributed, might be
+        # increased here
+        if int(l.subject.score) != 20:
+            print(l.subject, l.subject.score)
+            problem_lectures.append(l)
+
     return problem_lectures
 
 def lecture_students_swap(dm, noProgressLimit):
+    """ Hill climber with swap just as in swap_hill_climber. Now will find
+        students in lectures and will swap with other students in sibling
+        lectures to find best spread of students. Will continue searching until
+        noProgressCounter reached noProgressLimit.
+    """
+
     noProgressCounter = 0
 
     while noProgressCounter != noProgressLimit:
@@ -49,12 +66,13 @@ def lecture_students_swap(dm, noProgressLimit):
             nLecture.students.append(rStudent)
             rLecture.students.append(swapStudent)
 
+        # Save new and old lectures
         changed_lectures.append(rLecture)
         changed_lectures.append(nLecture)
 
         dm.addChanges(changed_lectures, withStudents=True)
 
-
+        # If higher then save otherwise discard
         if dm.iteration_dct[dm.i]["score"] > \
            dm.iteration_dct[dm.i - 1]["score"]:
 
@@ -67,7 +85,6 @@ def lecture_students_swap(dm, noProgressLimit):
 
             dm.i += 1
             noProgressCounter = 0
-            problem_list = [s for s in dm.students if s.score != 0]
 
         else:
             # Reset to previous state
