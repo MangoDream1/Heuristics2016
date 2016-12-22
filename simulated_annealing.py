@@ -131,6 +131,9 @@ if __name__ == "__main__":
 
     (options, args) = parser.parse_args()
 
+    if options.linear or options.sigmoidal:
+        options.exponential = False
+
     if sum([options.linear, options.exponential, options.sigmoidal]) > 1:
         print("Too many cooling schemes selected, try again")
 
