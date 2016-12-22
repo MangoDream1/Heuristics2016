@@ -175,9 +175,6 @@ Run4 uses the same name as swap_hill_climber if swap_hill_climber is used. Other
 
 ---
 
-
-
-
 Webview screenshot:
 
 In this screenshot the timetable of classroom A1.04 is pictured. Beneath the timetable all the information of the classroom is pictured. Each cell of the Timetable contains a lecture activity. Shown is the name of the subject, the classroom and the lecture string. The first letter in the lecture string represents the type of lecture (Lecture, WorkLecture or Practica). The following number represents which lecture it is. For example, if a lecture has two work lectures, then the first would have a 0 here and the second would have an 1. The next letter is the group (some worklectures and practica need to be be devided into multiple groups) and the last numbers represent the amount of students in this lecture.
