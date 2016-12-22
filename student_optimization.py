@@ -28,7 +28,6 @@ def find_problem_lectures(lectures):
         # If not 20 then subject score is not perfectly distributed, might be
         # increased here
         if int(l.subject.score) != 20:
-            print(l.subject, l.subject.score)
             problem_lectures.append(l)
 
     return problem_lectures
