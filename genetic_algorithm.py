@@ -6,8 +6,10 @@ import re
 
 
 def update_progress(workdone, text='Progress:'):
+    """ Print the progress bar """
+
     print("\r{0} [{1:50s}] {2:.1f}%".format(text, '#' * int(workdone * 50),
-    workdone*100), end="", flush=True)
+        workdone*100), end="", flush=True)
 
     if workdone == 1:
         print('\n')
@@ -15,6 +17,13 @@ def update_progress(workdone, text='Progress:'):
 
 def genetic_algorithm(dm, nPopulation, nGenerations, mutation_rate,
         load_best=False, remove_overlap=True):
+    """ Create nPopulation random timetables or that many of the best lecuture
+        packages. Then delete the lowest 20% and select 40% number of parents.
+        Selection is based on the fitness (score in comparison with max score).
+        Let these parents procreate with a mutation_rate that changes a lecture
+        in the parents. Then continue this process until the nGenerations is
+        reached
+    """
 
     print("Starting genetic algorithm...")
 
@@ -41,8 +50,8 @@ def genetic_algorithm(dm, nPopulation, nGenerations, mutation_rate,
 
     # Create as many timetables until population is filled (count starts at 0)
     while dm.i != (nPopulation - 1):
-        # Start with random timetables without overlap
         if not load_best:
+            # Start with random timetables without overlap
             changed_lectures = []
 
             for lecture in dm.lectures:
@@ -57,7 +66,7 @@ def genetic_algorithm(dm, nPopulation, nGenerations, mutation_rate,
             dm.resetTimetables()
 
             dm.i += 1
-            update_progress(dm.i/nPopulation, text="Random timetables:")
+            update_progress(dm.i/(nPopulation-1), text="Random timetables:")
 
         else:
             # Import best lecture
@@ -68,6 +77,7 @@ def genetic_algorithm(dm, nPopulation, nGenerations, mutation_rate,
 
     best_score = max(item["score"] for item in dm.iteration_dct.values())
 
+    # Export current best score, will be overwritten by better ones
     dm.exportLectures("GA%sp%sg%sm%sb%s" % (round(best_score), nPopulation,
         nGenerations, mutation_rate, load_best))
 
@@ -111,29 +121,37 @@ def genetic_algorithm(dm, nPopulation, nGenerations, mutation_rate,
             father = parents.pop()
             mother = parents.pop()
 
-            intersect = int(random() * nLectures)
+            # The dividing point until where fathers DNA will be used,
+            # from there its all mama
+            divide = int(random() * nLectures)
 
             father_lectures = [dm.iteration_dct[father][x]
-                                for x in range(0, intersect)]
+                                for x in range(0, divide)]
 
             mother_lectures = [dm.iteration_dct[mother][x]
-                                for x in range(intersect, nLectures)]
+                                for x in range(divide, nLectures)]
 
             # Has to be numbered dict so that data_manager can read it
             child_lectures = {i: x for i, x in
                                 enumerate(father_lectures + mother_lectures)}
 
+            # Apply the changes
             dm.applyChanges(child_lectures)
 
+            # Set i to an previous used spot to overwrite
             dm.i = deleted_keys.pop()
 
+            # Remove overlap in child if used
             if remove_overlap:
                 dm.removeOverlap()
 
+            # Add the changes
             dm.addChanges(dm.lectures)
 
             score = dm.iteration_dct[dm.i]["score"]
 
+            # If score is better then old delete old files and write new
+            # ones
             if score > best_score:
                 old_name = "GA%sp%sg%sm%sb%s" % (round(best_score),
                     nPopulation, nGenerations, mutation_rate, load_best)
@@ -150,6 +168,7 @@ def genetic_algorithm(dm, nPopulation, nGenerations, mutation_rate,
         average_score = sum(value["score"]
             for value in dm.iteration_dct.values()) / len(dm.iteration_dct)
 
+        # Plot average score since best might stay the same for long
         dm.plot.addScore(average_score)
 
         cGeneration += 1
