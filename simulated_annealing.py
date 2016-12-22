@@ -15,9 +15,6 @@ def swap_simulated_annealing(dm, startRandom, Tmax=1000, Tmin=1,
     temp = Tmax
     nIteration = 0
 
-    # Temp plotting
-    temp_plot = Plot()
-
     while True:
         changed_lectures = []
 
@@ -64,9 +61,6 @@ def swap_simulated_annealing(dm, startRandom, Tmax=1000, Tmin=1,
 
             dm.plot.addScore(dm.iteration_dct[dm.i]["score"])
 
-            # Add temp (isnt a score but works the same way)
-            temp_plot.addScore(temp)
-
             # Simulated Annealing from here
             if linear:
                 temp -= 0.1
@@ -107,8 +101,6 @@ def swap_simulated_annealing(dm, startRandom, Tmax=1000, Tmin=1,
     best_iteration, score = dm.compileBest()
 
     print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
-
-    temp_plot.plotTime("SSA%sTmax%sTEMP" % (round(score), Tmax), ylabel="temp")
 
     dm.exportLectures("SSA%sTmax%sl%se%ss%s" % (round(score), Tmax, linear, exponential, sigmoidal))
 
