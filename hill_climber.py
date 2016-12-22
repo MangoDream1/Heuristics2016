@@ -6,6 +6,12 @@ from optparse import OptionParser
 
 def simple_hill_climber(dm, noProgressLimit, classroomWeigth,
                         timeslotWeigth, dayWeigth, startRandom=True):
+    """ Choice a random lecture and based on the weights choice an attribute.
+        Randomly change this attribute to another value and then check score.
+        If score is better continue else throw away and try again. Try as many
+        times as noProgressLimit allows.
+    """
+    
     print("Starting simple hill climber...")
 
     # Find the weight of all between 0 and 1
