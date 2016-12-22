@@ -10,6 +10,8 @@ class ScoreSystem:
 		return "Score: %s" % self.score
 
 	def total_score(self):
+		""" Calculate the total score of the timetables """
+
 		# Fill in the timetables, so that the score can be calculated
 		for x in self.dm.students + self.dm.subjects + self.dm.classrooms:
 			x.fillInTimetable()
@@ -32,8 +34,8 @@ class ScoreSystem:
 		return self.score
 
 	def total_valid_score(self):
-		# Checks if all lectures have a day, timeslot and classroom
-		# if true 1000 points else 0
+		""" Checks if all lectures have a day, timeslot and classroom
+			if true 1000 points else 0 """
 
 		valid = True
 
@@ -55,6 +57,8 @@ class ScoreSystem:
 			return 0
 
 	def classroom_score(self, classroom_object):
+		""" Calculates the score of a classroom """
+
 		classroom_score = 0
 
 		for day, timeslot in classroom_object.timetable.items():
@@ -78,6 +82,8 @@ class ScoreSystem:
 		classroom_object.score = classroom_score
 
 	def student_score(self, student_object):
+		""" Calculates the score of a student """
+
 		student_score = 0
 
 		# If a student has more than one lecture in the same timeslot subtract
@@ -91,6 +97,8 @@ class ScoreSystem:
 		student_object.score = student_score
 
 	def subject_score(self, subject_object):
+		""" Calculates the score of a subject """
+
 		malus = 0
 		bonus = 0
 
