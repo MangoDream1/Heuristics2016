@@ -8,6 +8,7 @@ def simple_hill_climber(dm, noProgressLimit, classroomWeigth,
                         timeslotWeigth, dayWeigth, startRandom=True):
     print("Starting simple hill climber...")
 
+    # Find the weight of all between 0 and 1
     weight = 1 / (classroomWeigth + timeslotWeigth + dayWeigth)
 
     classroomWeigth = classroomWeigth * weight
@@ -19,6 +20,7 @@ def simple_hill_climber(dm, noProgressLimit, classroomWeigth,
     while noProgressCounter != noProgressLimit:
         changed_lectures = []
 
+        # For the first create random timetables with no overlap
         if dm.i == 0 and startRandom:
             for lecture in dm.lectures:
                 changed_lectures.append(
@@ -30,44 +32,57 @@ def simple_hill_climber(dm, noProgressLimit, classroomWeigth,
             dm.i += 1
 
         else:
+            # Choice a random lecture
             lecture = choice(dm.lectures)
-            r = random()
 
+            # Create random value between 0 and 1 and select between classrooms,
+            # timeslot and days and make random change in the selected lecture
+            r = random()
             if r < classroomWeigth:
                 # Classroom
                 lecture.classroom = choice(dm.classrooms)
             elif r > classroomWeigth and r < (timeslotWeigth + classroomWeigth):
                 # Timeslot
-                lecture.timeslot = randint(0, 3)
+                lecture.timeslot = randint(0, NUMBER_OF_SLOTS - 1)
             elif r > (timeslotWeigth + classroomWeigth) and \
                  r < (timeslotWeigth + classroomWeigth + dayWeigth):
 
                 # Day
-                lecture.day = randint(0, 4)
+                lecture.day = randint(0, NUMBER_OF_DAYS - 1)
 
+            # Add changes to dct and calculate score
             dm.addChanges(changed_lectures)
 
+            # If higher than last one, save score and reset noProgressCounter
             if dm.iteration_dct[dm.i]["score"] > \
                dm.iteration_dct[dm.i - 1]["score"]:
 
                 dm.plot.addScore(dm.iteration_dct[dm.i]["score"])
 
+                # Create a base for every 10
                 if dm.i % 10 == 0:
                     dm.createBase()
 
                 dm.i += 1
                 noProgressCounter = 0
 
+            # If lower than last score go back to previous state and add one
+            # to noProgressCounter. Also since dm.i isn't increased these
+            # changes will be overwritten next iteration
             else:
                 dm.applyChanges(dm.compileChanges(dm.i - 1))
                 noProgressCounter += 1
 
+    # Add last obtained score so that the plot shows how long was searched for
+    # a beter score
     dm.plot.addScore(dm.iteration_dct[dm.i]["score"])
 
+    # Compile the best out of the dict
     best_iteration, score = dm.compileBest()
 
     print("Best iteration: %s, Score: %s" % (best_iteration, round(score)))
 
+    # Export the lecture package
     dm.exportLectures("HC%snPl%sc%.1ft%.1fd%.1f" %
                         (round(score), noProgressLimit,
                          classroomWeigth, timeslotWeigth, dayWeigth))
@@ -98,6 +113,7 @@ if __name__ == "__main__":
         print("Algorithm will not start with random timetable")
         data_manager.importLectures(input("Timetable name: "))
 
+    # Start the algorithm with correct values
     simple_hill_climber(data_manager,
         int(options.noProgressLimit),
         int(options.classroomWeigth),
