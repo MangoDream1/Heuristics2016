@@ -1,22 +1,19 @@
 # Heuristics2016: Lectures & Lesroosters
 
-The algorithms will try to find the best possible timetable for the given data.
-The following algorithms are included: *random_timetables, hill_climber,
-swap_hill_climber, simulated_annealing* and *genetic_algorithm*. An optimization
-algorithm has also been written called *student_optimization*.
+The algorithms will try to find the best possible timetable for the given data. The following algorithms are included: *random_timetables, hill_climber, swap_hill_climber, simulated_annealing* and *genetic_algorithm*. An optimization algorithm has also been written called *student_optimization*. The Python code runs on Python v3+.
 
 A script has been written called ```run4.py``` that uses multiprocessing to run multiple swap_hill_climber or student_optimization instances. This code has been tested on UNIX where it works, thats why we recommend using UNIX. The Python multiprocessing module works different on Windows and UNIX, and so we cannot guarantee it also works on Windows (it probably will). It is a major speedup since Python normally only uses 1 processor core, but now 4 thus 4x speedup. How to operate it can also be found in the Documentation below. The script ```timing.py``` is also loaded into every algorithm and will measure the time spent on each algorithm.
 
 The score system calculates to score of the timetable. The score system is build on the specifications
 of the brief (http://heuristieken.nl/wiki/index.php?title=Lectures_%26_Lesroosters). However, since we found it odd that activities are allowed to take place in the same room at the same time, we've added an extra minus 100 point for every extra activity in timetable cell.
-The minimum score is -11.991 according to our tweaked score system (originally -4811) and the maximum score is 1400. We have a reached a score of **1331**
-by using multiple **swap hill climbers** with **student optimization** at the end. The bash script called *find_best.sh* was used to find this score. It runs the right algorithms in the right order, and also saves the time. The used order of algorithms was (with the time it took on a Intel® Core™ i7-4500U CPU @ 1.80GHz × 4):
+The minimum score is -11.991 according to our tweaked score system (originally -19321) and the maximum score is 1400. We have a reached a score of **1331**
+by using multiple **swap hill climbers** with **student optimization** at the end. The bash script called *find_best.sh* was used to find this score. It runs the right algorithms in the right order, and also saves the time after each stage. The used order of algorithms was (with the time it took on a Intel® Core™ i7-4500U CPU @ 1.80GHz × 4):
 
-- 500 swap hill climbers (no progress limit 100) (2 hours 18 minutes)
-- improve best 100 with swap hill climbers (no progress limit 1000) (2 hours 20 minutes)
-- improve best 24 with swap hill climbers (no progress limit 10.000) (2 hours 2 minutes)
-- improve best 8 with swap hill climbers (no progress limit 100.000) (2 hours 53 minutes)
-- improve best 4 with student optimization (no progress limit 10.000) (10 minutes)
+1. 500 swap hill climbers (no progress limit 100) (2 hours 18 minutes)
+2. improve best 100 with swap hill climbers (no progress limit 1000) (2 hours 20 minutes)
+3. improve best 24 with swap hill climbers (no progress limit 10.000) (2 hours 2 minutes)
+4. improve best 8 with swap hill climbers (no progress limit 100.000) (2 hours 53 minutes)
+5. improve best 4 with student optimization (no progress limit 10.000) (10 minutes)
 
 Every algorithm will create a Lecture json file, a Score json file and a plot image. The lecture json contains all the data of the timetable and is a lecture package, the score json contains the scores for every object in the timetable and the plot show the progression of the score versus the time (except for random timetables, where a histogram is shown). These files can be found in the timetable folder under Lectures, Scores and Plots.
 
