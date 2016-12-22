@@ -1,0 +1,12 @@
+Start stage 1:
+wo 21 dec 2016 18:30:16 CET
+Start stage 2:
+wo 21 dec 2016 20:49:07 CET
+Start stage 3:
+wo 21 dec 2016 23:09:44 CET
+Start stage 4:
+do 22 dec 2016  1:12:33 CET
+Start stage 5:
+do 22 dec 2016  4:05:28 CET
+End time:
+do 22 dec 2016  4:15:34 CET
