@@ -5,9 +5,10 @@ from random import randint, choice
 from operator import itemgetter
 
 class DataManager:
-    ''' The DataManager class contains all the data needed for the algorithms.
-        Also contains several helpfull functions that are used by the
-        algorithms'''
+    """
+    The DataManager class contains all the data needed for the algorithms.
+    Also contains several helpfull functions that are used by the algorithms
+    """
 
     def __init__(self, classrooms, subjects, students):
         # Saves changes of all previous iterations. Doesnt save whole timetables
@@ -44,6 +45,7 @@ class DataManager:
 
 
     def resetLectures(self):
+        """ Reset all lectures """
         # Clear all lectures from subjects, students and classrooms
         for x in self.subjects + self.students + self.classrooms:
             x.clearLectures()
@@ -54,12 +56,14 @@ class DataManager:
 
 
     def resetTimetables(self):
-        # Clear timetable for all
+        """ Clear timetable for all """
         for x in self.subjects + self.students + self.classrooms:
             x.clearTimetable()
 
 
     def addChanges(self, changed_lectures, withStudents=False):
+        """ Add the changes to the iteration_dct """
+
         #Add dictionary of lectures index as key and changingDataDict as value
         self.iteration_dct[self.i] = {self.lecture_dct[l]:l.getChangingDataDict()
                                         for l in changed_lectures}
@@ -81,6 +85,9 @@ class DataManager:
 
 
     def compileChanges(self, i):
+        """ Compile the changes in the iteration_dct by taking all the
+            changes until a base (which has saved everything).
+        """
         # Find nearest base
         base = 0
         for x in reversed(range(i)):
@@ -99,14 +106,15 @@ class DataManager:
 
 
     def createBase(self):
-        # Create a base by compiling all to this point
+        """ Create a base by compiling all to this point """
         self.iteration_dct[self.i] = self.compileChanges(self.i)
         self.iteration_dct[self.i]["base"] = True
 
 
     def applyChanges(self, compiled_changes):
-        # Change the values of the current lecture object so that it matches
-        # the compiled changes
+        """ Change the values of the current lecture object so that it matches
+            the compiled changes
+        """
         for index, data in compiled_changes.items():
             if index not in ["base", "score"]:
                 lecture = self.lecture_dct[index]
@@ -127,10 +135,10 @@ class DataManager:
 
 
     def randomLocation(self, lecture, no_overlap=False):
-        # Find a random location for a lecture. If no_overlap is True
-        # keep looking until a space has been found where no other lectures
-        # are.
-
+        """ Find a random location for a lecture. If no_overlap is True
+            keep looking until a space has been found where no other lectures
+            are.
+        """
         overlap = True
         while overlap:
             lecture.day = randint(0, 4)
@@ -152,7 +160,7 @@ class DataManager:
 
 
     def removeOverlap(self):
-        # Go through the timetables to find overlap and remove it randomly
+        """ Go through the timetables to find overlap and remove it randomly"""
 
         for x in self.classrooms:
             x.fillInTimetable()
@@ -173,7 +181,7 @@ class DataManager:
 
 
     def compileBest(self):
-        # Find the best score in iteration_dct and compile it
+        """ Find the best score in iteration_dct and compile it """
 
         best_iteration, score = max([(i, self.iteration_dct[i]["score"])
                                 for i in self.iteration_dct.keys()],
@@ -186,8 +194,9 @@ class DataManager:
 
 
     def exportLectures(self, file_name, plot=True):
-        # Export the current timetable to file_name. Exports timetable, score
-        # distribution and a plot if plot=True
+        """ Export the current timetable to file_name. Exports timetable, score
+            distribution and a plot if plot=True
+        """
 
         export_dct = [x.toLongDict() for x in self.lectures]
 
@@ -237,13 +246,15 @@ class DataManager:
 
 
     def exportTimetable(self):
-        # Export all the objects with timetables so it can be read by webview
+        """ Export all the objects with timetables so it can
+            be read by webview javascript
+        """
         for x in self.subjects + self.students + self.classrooms:
             x.exportTimetable()
 
 
     def importLectures(self, file_name):
-        # Import lecture file and apply contents
+        """ Import lecture file and apply contents """
 
         file_name = file_name.replace(".json", "")
         path = "Timetable/Lectures/%s.json" % file_name
