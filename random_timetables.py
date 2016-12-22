@@ -56,7 +56,7 @@ if __name__ == "__main__":
     parser.add_option("-i", "--iterations", dest="nPlannedIterations",
         default=1000, help="The number of timetables created")
 
-    parser.add_option("-o", "--no_overlap", dest="no_overlap", default=True,
+    parser.add_option("-o", "--keep_overlap", dest="keep_overlap", default=True,
         help="Removal of overlap for every random timetable.",
         action="store_false")
 
