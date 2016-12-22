@@ -5,6 +5,14 @@ import os
 
 print("Creating classes...")
 
+# Global variables
+
+NUMBER_OF_SLOTS = 4
+NUMBER_OF_DAYS = 5
+TIMESLOTS = {0: "9-11", 1: "11-13", 2: "13-15", 3: "15-17", 4: "17-19"}
+DAYS = {0: "Monday", 1: "Tuesday", 2: "Wednesday", 3: "Thursday",
+        4: "Friday", 5: "Saturday", 6: "Sunday"}
+
 # --------------
 # Classes:
 
