@@ -63,4 +63,4 @@ if __name__ == "__main__":
     (options, args) = parser.parse_args()
 
     random_timetables(data_manager,
-        int(options.nPlannedIterations), options.no_overlap)
+        int(options.nPlannedIterations), options.keep_overlap)
