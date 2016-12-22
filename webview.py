@@ -39,9 +39,10 @@ def main():
     return render_template("index.html", object=_object,
         available_items=available_items)
 
-# From this function the javascript will get the json files using GET
 @app.route("/json", methods=["GET"])
 def json():
+    """From this function the javascript will get the json files using GET"""
+
     app.logger.debug("You have arrived at " + url_for("json"))
     _id = request.args.get("id", None)
 
@@ -59,6 +60,8 @@ def json():
         return jsonify({'result': 'Error'})
 
 def findObject(_id):
+    """ Find the object in all the dicts """ 
+
     if _id:
         _id = _id.replace('+', ' ')
 
