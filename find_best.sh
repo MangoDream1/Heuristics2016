@@ -29,5 +29,3 @@ python3 run4.py -i 4 -p -s -n 10000 # Improve with student optimizatioon with nP
 # Save end time
 echo "End time:" >> find_best_time.txt
 date >> find_best_time.txt
-
-sudo shutdown -h 20
